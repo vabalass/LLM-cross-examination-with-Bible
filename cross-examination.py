@@ -1,13 +1,26 @@
 from pathlib import Path
 from litellm import completion
 import os
+import json
+import re
 
 # returns a bible question with 4 choice answers (a, b, c, d)
 def get_bible_question_from_llm(model = "gemini/gemini-2.5-flash", bible_text = ""):
     if model is not None and bible_text != "":
-        message_content = "Sukurk vieną klausimą su keturiais a, b, c ir d atsakymų variantais " \
-        "iš mano duoto Biblijos skyriaus. Tik vienas atsakymus turi būti teisingas. " + bible_text
+        message_content = (
+            "Sukurk vieną klausimą su keturiais atsakymų variantais (a, b, c, d) iš pateikto Biblijos teksto. " +
+            "Tik vienas atsakymas turi būti teisingas. " +
+            "Grąžink aiškiai sužymėtus elementus tokia struktūra:\n" +
+            "Klausimas: ...\n" +
+            "a) ...\n" +
+            "b) ...\n" +
+            "c) ...\n" +
+            "d) ...\n" +
+            "Teisingas atsakymas: (nurodyk raidę)" +
+            "\n\n" + bible_text
+        )
         message = [{ "content": message_content,"role": "user"}]
+        print("Waiting for LMM response...")
         response = completion(model=model, messages=message)
 
         if response.choices:
@@ -16,6 +29,21 @@ def get_bible_question_from_llm(model = "gemini/gemini-2.5-flash", bible_text = 
             print("Error: No choices found in the response.")
     else:
         raise ValueError("Model and bible_text must be provided")
+
+def parse_question(raw_text):
+    q_match = re.search(r"Klausimas[:\--]\s*(.+)", raw_text)
+    options = dict(re.findall(r"([a-d])\)\s*(.+)", raw_text))
+    correct_match = re.search(r"Teisingas(?: atsakymas)?:?\s*([a-dA-D])", raw_text)
+
+    return {
+        "question": q_match.group(1).strip() if q_match else None,
+        "options": options,
+        "correct": correct_match.group(1).lower() if correct_match else None,
+    }
+
+def save_question_jsonl(question_obj, filepath="bible_questions.jsonl"):
+    with open(filepath, "a", encoding="utf-8") as f:
+        f.write(json.dumps(question_obj, ensure_ascii=False) + "\n")
 
 def read_and_save_API_keys(api_keys_path):
     if api_keys_path := Path(api_keys_path):
@@ -27,10 +55,18 @@ def read_and_save_API_keys(api_keys_path):
 
 def main():
     read_and_save_API_keys("API_keys.txt")
-
     bible_pr1 = "".join((Path(__file__).parent / "Bible" / "Pr1.txt").read_text(encoding="utf-8"))
+    model_name = "gemini/gemini-2.5-flash"
+    raw_question = get_bible_question_from_llm(model=model_name, bible_text=bible_pr1)
+    parsed = parse_question(raw_question)
 
-    print(get_bible_question_from_llm(model="gemini/gemini-2.5-flash", bible_text=bible_pr1))
+    parsed.update({
+        "model": model_name,
+        "chapter": "Pradžios 1"
+    })
+
+    save_question_jsonl(parsed)
+    print("✅ Išsaugota:", parsed)
 
 if __name__ == "__main__":
     main()
