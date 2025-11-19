@@ -55,18 +55,25 @@ def read_and_save_API_keys(api_keys_path):
 
 def main():
     read_and_save_API_keys("API_keys.txt")
-    bible_pr1 = "".join((Path(__file__).parent / "Bible" / "Pr1.txt").read_text(encoding="utf-8"))
-    model_name = "gemini/gemini-2.5-flash"
-    raw_question = get_bible_question_from_llm(model=model_name, bible_text=bible_pr1)
-    parsed = parse_question(raw_question)
+    bible_path = Path(__file__).parent / "Bible" / "Pr1.txt"
+    bible_chapter = "".join((bible_path).read_text(encoding="utf-8"))
 
-    parsed.update({
-        "model": model_name,
-        "chapter": "Pradžios 1"
-    })
+    models = [
+        "gemini/gemini-2.5-flash",
+        "groq/llama-3.1-8b-instant",
+        "openai/gpt-5-nano"
+    ]
 
-    save_question_jsonl(parsed)
-    print("✅ Išsaugota:", parsed)
+    for model in models:
+        print(f"Main: Generuojamas klausimas naudojant modelį {model}...")
+        raw_question = get_bible_question_from_llm(model=model, bible_text=bible_chapter)
+        parsed = parse_question(raw_question)
+        parsed.update({
+        "model": model,
+        "chapter": os.path.basename(bible_path).replace(".txt", "")
+        })
+        save_question_jsonl(parsed)
+        print(f"Main: Klausimas išsaugotas.")
 
 if __name__ == "__main__":
     main()
