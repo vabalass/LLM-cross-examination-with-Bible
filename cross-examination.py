@@ -1,12 +1,10 @@
 from pathlib import Path
-import random
-import time
 from litellm import completion
 import os
 import json
 import re
 
-# returns a 3 bible questions with 4 choice answers (a, b, c, d)
+# returns a 3 Bible questions with 4 choice answers (a, b, c, d)
 def get_bible_question_from_llm(model, bible_text):
     try:
         if model is not None and bible_text != "":
@@ -34,16 +32,16 @@ def get_bible_question_from_llm(model, bible_text):
             if response.choices:
                 return response.choices[0].message["content"]
             else:
-                print("Error: No choices found in the response.")
+                print("Klaida: Atsakymo variantų nerasta.")
                 return None
         return None
     except Exception as e:
-        print(f"Klaida! Generuojant klausimą. {e}")
+        print(f"Klaida: {e}")
         return None
 
 def parse_question(raw_text):
     if raw_text is None:
-        print("Klaida! Tuščias tekstas.")
+        print("Klaida: tuščias tekstas.")
         return []
 
     try:
@@ -63,14 +61,10 @@ def parse_question(raw_text):
                     })
             return parsed_questions
 
-        print("Klaida! JSON formatas neatitinka laukiamos struktūros ('questions' sąrašo).")
-        return []
-
-    except json.JSONDecodeError as e:
-        print(f"Klaida! Nepavyko analizuoti JSON teksto: {e}")
+        print("Klaida: JSON formatas neatitinka struktūros.")
         return []
     except Exception as e:
-        print(f"Klaida! Analizuojant JSON: {e}")
+        print(f"Klaida: {e}")
         return []
 
 def save_question_jsonl(question_obj, filepath):
@@ -85,23 +79,19 @@ def read_and_save_API_keys(api_keys_path):
                     key, value = line.strip().split("=", 1)
                     os.environ[key.strip()] = value.strip()
 
-def generate_evaluation_prompt(question_data, bible_text):
-    grades_description = [
-        "0 - Nekorektiškas klausimas (Ydingas, neaiškus, neatitinka konteksto).",
-        "1 - Akivaizdžiai Neteisingas atsakymas (Nurodyta raidė prieštarauja teksto faktams).",
-        "2 - Iš dalies teisingas/Klaidinantis (Susijęs, bet per daug abstraktus ar nereikšmingas).",
-        "3 - Tiesiogiai Netikslus (Faktas teisingas, bet netiksliai cituoja detales/eilės tvarką).",
-        "4 - Teisingas, su Formuluotės Trūkumais (Faktas teisingas, bet formuluotė neaiški/per ilga).",
-        "5 - Idealiai Teisingas ir Aiški Formuluotė (Nepriekaištingas atsakymas ir elegantiška formuluotė)."
-    ]
-        
+def generate_evaluation_prompt(question_data, bible_text):        
     prompt = f"""
     BIBLIJOS IŠTRAUKA:
     {bible_text}
 
     Tu esi Šv. Rašo ekspertas.
-    Atlikti tikslų klausimo teisingumo įvertinimą pagal šioje skalėje:
-    {'\n'.join(grades_description)}
+    Atlikti klausimo teisingumo įvertinimą (grade) pagal šią skalę:
+        0 - Nekorektiškas klausimas (Ydingas, neaiškus, neatitinka konteksto).
+        1 - Akivaizdžiai Neteisingas atsakymas (Nurodyta raidė prieštarauja teksto faktams).
+        2 - Iš dalies teisingas/Klaidinantis (Susijęs, bet per daug abstraktus ar nereikšmingas).
+        3 - Tiesiogiai Netikslus (Faktas teisingas, bet netiksliai cituoja detales/eilės tvarką).
+        4 - Teisingas, su Formuluotės Trūkumais (Faktas teisingas, bet formuluotė neaiški/per ilga).
+        5 - Idealiai Teisingas ir Aiški Formuluotė (Nepriekaištingas atsakymas ir elegantiška formuluotė).
 
     KLAUSIMAS: {question_data['question']}
 
@@ -114,7 +104,7 @@ def generate_evaluation_prompt(question_data, bible_text):
 
     Pateikite savo įvertinimą TIK šiuo JSON formatu:
     {{
-    "grade": [skaičius nuo 0 iki 5],
+    "grade":,
     "comment": "[1-2 sakinių ilgio paaiškinimas dėl suteikto įvertinimo]"
     }}
 
@@ -130,11 +120,11 @@ def evaluate_question_with_llm(model, prompt):
         if response and response.choices:
             return response.choices[0].message["content"]
         else:
-            print("Klaida! Nerasta atsakymo variantų atsakyme (response.choices).")
+            print("Klaida: nerasta atsakymo variantų atsakyme.")
             return None
             
     except Exception as e:
-        print(f"Klaida! Generuojant įvertinimą su modeliu {model}: {e}")
+        print(f"Klaida generuojant įvertinimą: {e}")
         return None
 
 def extract_json_from_text(text):
@@ -160,13 +150,13 @@ def generate_questions(models, bible_text, chapter_name, question_file):
         raw_questions = get_bible_question_from_llm(model=model, bible_text=bible_text)
         
         if raw_questions is None:
-            print("Klaida! Tuščias tekstas.")
+            print("Klaida: tuščias tekstas.")
             continue
         
         parsed_questions = parse_question(raw_questions)
         
         if not parsed_questions:
-             print(f"Klaida! Nepavyko išanalizuoti nė vieno klausimo iš modelio atsakymo ({model}).")
+             print(f"Klaida: nepavyko išanalizuoti nė vieno klausimo iš modelio atsakymo.")
              continue
 
         for parsed in parsed_questions:
@@ -175,20 +165,20 @@ def generate_questions(models, bible_text, chapter_name, question_file):
                 "chapter": chapter_name
             })
             save_question_jsonl(parsed, question_file)
-            print(f"INFO: Klausimas išsaugotas ({model}).")
+            print(f"INFO: Klausimas išsaugotas.")
 
 def load_questions(question_file):
     try:
         with open(question_file, "r", encoding="utf-8") as f:
             return [json.loads(line) for line in f]
     except FileNotFoundError:
-        print(f"Klaida! Įvesties failas '{question_file}' nerastas. Prašome sugeneruoti klausimus.")
+        print(f"Klaida: įvesties failas '{question_file}' nerastas. Prašome sugeneruoti klausimus.")
         return []
 
 def evaluate_questions(questions, models, bible_text, evaluations_file):
     grouped = []
     for i, question in enumerate(questions):
-        print(f"INFO: vertinamas klausimas {i+1}.")
+        print(f"INFO: vertinamas klausimas {i+1}...")
         entry = {
             "question_index": i,
             "question": question.get("question"),
@@ -221,7 +211,7 @@ def evaluate_questions(questions, models, bible_text, evaluations_file):
                         except Exception:
                             pass
                 if grade is None:
-                    print(f"Klaida! Nepavyko išparsinti JSON įvertinimo.")
+                    print(f"Klaida: nepavyko išparsinti JSON įvertinimo.")
 
             eval_item = {
                 "evaluator_model": model,
@@ -229,7 +219,7 @@ def evaluate_questions(questions, models, bible_text, evaluations_file):
                 "comment": comment,
             }
             entry["evaluations"].append(eval_item)
-            print(f"INFO: Įvertinimas iš {model} gautas (grade={grade}).")
+            print(f"INFO: Įvertinimas gautas (grade={grade}).")
 
         grouped.append(entry)
 
@@ -238,7 +228,7 @@ def evaluate_questions(questions, models, bible_text, evaluations_file):
             json.dump(grouped, ef, ensure_ascii=False, indent=2)
         print(f"INFO: Visi įvertinimai įrašyti į '{evaluations_file}'.")
     except Exception as e:
-        print(f"[KLAIDA] Nepavyko išsaugoti '{evaluations_file}': {e}")
+        print(f"Klaida: nepavyko išsaugoti '{evaluations_file}': {e}")
 
 def main():
     read_and_save_API_keys("API_keys.txt")
