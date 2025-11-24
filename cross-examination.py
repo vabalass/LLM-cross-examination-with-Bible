@@ -121,25 +121,21 @@ def generate_evaluation_prompt(question_data, bible_text):
     """
     return prompt
 
-def evaluate_question_with_llm(model, prompt, max_retries=3, base_delay=1.5):
+def evaluate_question_with_llm(model, prompt):
     message = [{ "content": prompt, "role": "user"}]
-    for attempt in range(1, max_retries + 1):
-        try:
-            response = completion(model=model, messages=message)
-            if response.choices:
-                return response.choices[0].message["content"]
-            else:
-                print("Klaida! nerasta atsakymo variantų.")
-                return None
-        except Exception as e:
-            if attempt < max_retries:
-                sleep_time = (base_delay ** attempt) + random.uniform(0, 1)
-                print(f"Rate limit detected from model {model}: {e}. Retrying in {sleep_time:.1f}s (attempt {attempt}/{max_retries})...")
-                time.sleep(sleep_time)
-                continue
-            else:
-                raise
-    return None
+    
+    try:
+        response = completion(model=model, messages=message)
+        
+        if response and response.choices:
+            return response.choices[0].message["content"]
+        else:
+            print("Klaida! Nerasta atsakymo variantų atsakyme (response.choices).")
+            return None
+            
+    except Exception as e:
+        print(f"Klaida! Generuojant įvertinimą su modeliu {model}: {e}")
+        return None
 
 def extract_json_from_text(text):
     if not text:
@@ -197,6 +193,7 @@ def evaluate_questions(questions, models, bible_text, evaluations_file):
             "question_index": i,
             "question": question.get("question"),
             "options": question.get("options"),
+            "correct_answer": question.get("correct"),
             "question_creator_model": question.get("model"),
             "evaluations": []
         }
@@ -257,13 +254,13 @@ def main():
     ]
 
     chapter_name = os.path.basename(bible_path).replace(".txt", "")
-    generate_questions(models, bible_chapter, chapter_name, question_file)
+    #generate_questions(models, bible_chapter, chapter_name, question_file)
 
     questions = load_questions(question_file)
     if not questions:
         return
 
-    #evaluate_questions(questions, models, bible_chapter, evaluations_file)
+    evaluate_questions(questions, models, bible_chapter, evaluations_file)
 
 if __name__ == "__main__":
     main()
