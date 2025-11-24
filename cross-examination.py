@@ -1,4 +1,6 @@
 from pathlib import Path
+import random
+import time
 from litellm import completion
 import os
 import json
@@ -89,14 +91,25 @@ def generate_evaluation_prompt(question_data, bible_text):
     """
     return prompt
 
-def evaluate_question_with_llm(model, prompt):
-    message = [{ "content": prompt,"role": "user"}]
-    print("Waiting for LMM response...")
-    response = completion(model=model, messages=message)
-    if response.choices:
-        return response.choices[0].message["content"]
-    else:
-        print("Error: No choices found in the response.")
+def evaluate_question_with_llm(model, prompt, max_retries=3, base_delay=1.5):
+    message = [{ "content": prompt, "role": "user"}]
+    for attempt in range(1, max_retries + 1):
+        try:
+            response = completion(model=model, messages=message)
+            if response.choices:
+                return response.choices[0].message["content"]
+            else:
+                print("Klaida! nerasta atsakymo variantų.")
+                return None
+        except Exception as e:
+            if attempt < max_retries:
+                sleep_time = (base_delay ** attempt) + random.uniform(0, 1)
+                print(f"Rate limit detected from model {model}: {e}. Retrying in {sleep_time:.1f}s (attempt {attempt}/{max_retries})...")
+                time.sleep(sleep_time)
+                continue
+            else:
+                raise
+    return None
 
 def extract_json_from_text(text):
     if not text:
@@ -115,42 +128,30 @@ def extract_json_from_text(text):
 
     return None
 
-def main():
-    read_and_save_API_keys("API_keys.txt")
-    bible_path = Path(__file__).parent / "Bible" / "Pr1.txt"
-    bible_chapter = "".join((bible_path).read_text(encoding="utf-8"))
-    question_file = "bible_questions.jsonl"
-    evaluations_file = "evaluations.json"
-
-    models = [
-        "gemini/gemini-2.5-flash",
-        "groq/llama-3.1-8b-instant",
-        "openai/gpt-5-nano"
-    ]
-
+def generate_questions(models, bible_text, chapter_name, question_file):
     for model in models:
-        print(f"Main: Generuojamas klausimas naudojant modelį {model}.")
-        raw_question = get_bible_question_from_llm(model=model, bible_text=bible_chapter)
+        print(f"INFO: Generuojamas klausimas naudojant modelį {model}.")
+        raw_question = get_bible_question_from_llm(model=model, bible_text=bible_text)
         parsed = parse_question(raw_question)
         parsed.update({
-        "model": model,
-        "chapter": os.path.basename(bible_path).replace(".txt", "")
+            "model": model,
+            "chapter": chapter_name
         })
         save_question_jsonl(parsed, question_file)
-        print(f"Main: Klausimas išsaugotas.")
+        print(f"INFO: Klausimas išsaugotas ({model}).")
 
+def load_questions(question_file):
     try:
         with open(question_file, "r", encoding="utf-8") as f:
-            questions = [json.loads(line) for line in f]
+            return [json.loads(line) for line in f]
     except FileNotFoundError:
-        print(f"[KLAIDA] Įvesties failas '{question_file}' nerastas. Prašome sugeneruoti klausimus.")
-        return
-    
-    evaluations = []
+        print(f"Klaida! Įvesties failas '{question_file}' nerastas. Prašome sugeneruoti klausimus.")
+        return []
 
+def evaluate_questions(questions, models, bible_text, evaluations_file):
+    grouped = []
     for i, question in enumerate(questions):
-        print(f"\nVertinamas klausimas {i+1}.")
-
+        print(f"INFO: vertinamas klausimas {i+1}.")
         entry = {
             "question_index": i,
             "question": question.get("question"),
@@ -161,10 +162,10 @@ def main():
 
         for model in models:
             if model == question['model']:
-                print(f"Main: Modelis {model} praleidžiamas (sukūrė šį klausimą).")
+                print(f"INFO: Modelis {model} praleidžiamas (sukūrė šį klausimą).")
                 continue
 
-            prompt = generate_evaluation_prompt(question, bible_chapter)
+            prompt = generate_evaluation_prompt(question, bible_text)
             evaluation_result = evaluate_question_with_llm(model, prompt)
 
             parsed_eval = extract_json_from_text(evaluation_result)
@@ -174,22 +175,54 @@ def main():
             else:
                 grade = None
                 comment = None
+                if evaluation_result:
+                    m = re.search(r"\b([0-5])\b", evaluation_result)
+                    if m:
+                        try:
+                            grade = int(m.group(1))
+                        except Exception:
+                            pass
+                if grade is None:
+                    print(f"Klaida! Nepavyko išparsinti JSON įvertinimo.")
 
             eval_item = {
                 "evaluator_model": model,
                 "grade": grade,
                 "comment": comment,
-                "raw_evaluation": evaluation_result
             }
-
             entry["evaluations"].append(eval_item)
-            print(f"Main: Įvertinimas iš {model} gautas.")
+            print(f"INFO: Įvertinimas iš {model} gautas (grade={grade}).")
 
-        evaluations.append(entry)
+        grouped.append(entry)
 
+    try:
         with open(evaluations_file, "w", encoding="utf-8") as ef:
-            json.dump(evaluations, ef, ensure_ascii=False, indent=2)
-            print("Main: Įvertinimai įrašyti į failą.")
+            json.dump(grouped, ef, ensure_ascii=False, indent=2)
+        print(f"INFO: Visi įvertinimai įrašyti į '{evaluations_file}'.")
+    except Exception as e:
+        print(f"[KLAIDA] Nepavyko išsaugoti '{evaluations_file}': {e}")
+
+def main():
+    read_and_save_API_keys("API_keys.txt")
+    bible_path = Path(__file__).parent / "Bible" / "1Sam17.txt"
+    bible_chapter = "".join((bible_path).read_text(encoding="utf-8"))
+    question_file = "bible_questions.jsonl"
+    evaluations_file = "evaluations.json"
+
+    models = [
+        "gemini/gemini-2.5-flash",
+        "groq/llama-3.1-8b-instant",
+        "openai/gpt-5-nano"
+    ]
+
+    chapter_name = os.path.basename(bible_path).replace(".txt", "")
+    #generate_questions(models, bible_chapter, chapter_name, question_file)
+
+    questions = load_questions(question_file)
+    if not questions:
+        return
+
+    evaluate_questions(questions, models, bible_chapter, evaluations_file)
 
 if __name__ == "__main__":
     main()
