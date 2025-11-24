@@ -6,42 +6,72 @@ import os
 import json
 import re
 
-# returns a bible question with 4 choice answers (a, b, c, d)
+# returns a 3 bible questions with 4 choice answers (a, b, c, d)
 def get_bible_question_from_llm(model, bible_text):
-    if model is not None and bible_text != "":
-        message_content = (
-            "Sukurk vieną klausimą su keturiais atsakymų variantais (a, b, c, d) iš pateikto Biblijos teksto. " +
-            "Tik vienas atsakymas turi būti teisingas. " +
-            "Grąžink aiškiai sužymėtus elementus tokia struktūra:\n" +
-            "Klausimas: ...\n" +
-            "a) ...\n" +
-            "b) ...\n" +
-            "c) ...\n" +
-            "d) ...\n" +
-            "Teisingas atsakymas: (nurodyk raidę)" +
-            "\n\n" + bible_text
-        )
-        message = [{ "content": message_content,"role": "user"}]
-        print("Waiting for LMM response...")
-        response = completion(model=model, messages=message)
-
-        if response.choices:
-            return response.choices[0].message["content"]
-        else:
-            print("Error: No choices found in the response.")
-    else:
-        raise ValueError("Model and bible_text must be provided")
+    try:
+        if model is not None and bible_text != "":
+            message_content = (
+                "Sukurk tris klausimus su keturiais atsakymų variantais (a, b, c, d) iš pateikto Biblijos teksto. " +
+                "Tik vienas atsakymas turi būti teisingas. " +
+                "Grąžink atsakymą IŠSKIRTINAI JSON formatu. JSON struktūra turi būti tokia:\n" +
+                "{\n" +
+                '  "questions": [\n' +
+                "    {\n" +
+                '      "question_text": "...",\n' +
+                '      "options": {"a": "...", "b": "...", "c": "...", "d": "..."},' +
+                '      "correct_answer": "a"\n' +
+                "    },\n" +
+                "    {... (antras klausimas) ...},\n" +
+                "    {... (trečias klausimas) ...}\n" +
+                "  ]\n" +
+                "}\n" +
+                "Neįtraukite jokių paaiškinimų ar papildomo teksto, tik JSON.\n\n" +
+                bible_text
+            )
+            message = [{ "content": message_content,"role": "user"}]
+            response = completion(model=model, messages=message)
+            print("Atsakymas gautas.")
+            if response.choices:
+                return response.choices[0].message["content"]
+            else:
+                print("Error: No choices found in the response.")
+                return None
+        return None
+    except Exception as e:
+        print(f"Klaida! Generuojant klausimą. {e}")
+        return None
 
 def parse_question(raw_text):
-    q_match = re.search(r"Klausimas[:\--]\s*(.+)", raw_text)
-    options = dict(re.findall(r"([a-d])\)\s*(.+)", raw_text))
-    correct_match = re.search(r"Teisingas(?: atsakymas)?:?\s*([a-dA-D])", raw_text)
+    if raw_text is None:
+        print("Klaida! Tuščias tekstas.")
+        return []
 
-    return {
-        "question": q_match.group(1).strip() if q_match else None,
-        "options": options,
-        "correct": correct_match.group(1).lower() if correct_match else None,
-    }
+    try:
+        cleaned_text = re.sub(r'^\s*```json\s*|\s*```\s*$', '', raw_text, flags=re.DOTALL)
+        
+        data = json.loads(cleaned_text)
+        
+        if "questions" in data and isinstance(data["questions"], list):
+            
+            parsed_questions = []
+            for item in data["questions"]:
+                if all(key in item for key in ["question_text", "options", "correct_answer"]):
+                    parsed_questions.append({
+                        "question": item["question_text"],
+                        "options": item["options"],
+                        "correct": item["correct_answer"].lower(),
+                    })
+            return parsed_questions
+
+        print("Klaida! JSON formatas neatitinka laukiamos struktūros ('questions' sąrašo).")
+        return []
+
+    except json.JSONDecodeError as e:
+        print(f"Klaida! Nepavyko analizuoti JSON teksto: {e}")
+        return []
+    except Exception as e:
+        print(f"Klaida! Analizuojant JSON: {e}")
+        return []
 
 def save_question_jsonl(question_obj, filepath):
     with open(filepath, "a", encoding="utf-8") as f:
@@ -130,15 +160,26 @@ def extract_json_from_text(text):
 
 def generate_questions(models, bible_text, chapter_name, question_file):
     for model in models:
-        print(f"INFO: Generuojamas klausimas naudojant modelį {model}.")
-        raw_question = get_bible_question_from_llm(model=model, bible_text=bible_text)
-        parsed = parse_question(raw_question)
-        parsed.update({
-            "model": model,
-            "chapter": chapter_name
-        })
-        save_question_jsonl(parsed, question_file)
-        print(f"INFO: Klausimas išsaugotas ({model}).")
+        print(f"INFO: Generuojami klausimai naudojant modelį {model}...")
+        raw_questions = get_bible_question_from_llm(model=model, bible_text=bible_text)
+        
+        if raw_questions is None:
+            print("Klaida! Tuščias tekstas.")
+            continue
+        
+        parsed_questions = parse_question(raw_questions)
+        
+        if not parsed_questions:
+             print(f"Klaida! Nepavyko išanalizuoti nė vieno klausimo iš modelio atsakymo ({model}).")
+             continue
+
+        for parsed in parsed_questions:
+            parsed.update({
+                "model": model,
+                "chapter": chapter_name
+            })
+            save_question_jsonl(parsed, question_file)
+            print(f"INFO: Klausimas išsaugotas ({model}).")
 
 def load_questions(question_file):
     try:
@@ -211,18 +252,18 @@ def main():
 
     models = [
         "gemini/gemini-2.5-flash",
-        "groq/llama-3.1-8b-instant",
-        "openai/gpt-5-nano"
+        "groq/llama-3.3-70b-versatile",
+        "openai/gpt-5"
     ]
 
     chapter_name = os.path.basename(bible_path).replace(".txt", "")
-    #generate_questions(models, bible_chapter, chapter_name, question_file)
+    generate_questions(models, bible_chapter, chapter_name, question_file)
 
     questions = load_questions(question_file)
     if not questions:
         return
 
-    evaluate_questions(questions, models, bible_chapter, evaluations_file)
+    #evaluate_questions(questions, models, bible_chapter, evaluations_file)
 
 if __name__ == "__main__":
     main()
