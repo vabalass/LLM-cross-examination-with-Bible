@@ -1,5 +1,6 @@
 from pathlib import Path
 from litellm import completion
+import pandas as pd
 import os
 import json
 import re
@@ -192,19 +193,25 @@ def load_questions(question_file):
 
 def evaluate_questions(questions, models, bible_text, evaluations_file):
     grouped = []
+    
     for i, question in enumerate(questions):
         print(f"INFO: vertinamas klausimas {i+1}...")
+        
+        chapter = question.get("chapter")
+        question_id = f"{chapter}_{i+1:03d}"
+        
         entry = {
-            "question_index": i,
+            "question_id": question_id,
+            "chapter": chapter,
+            "question_creator_model": question.get("model"),
             "question": question.get("question"),
             "options": question.get("options"),
-            "correct_answer": question.get("correct"),
-            "question_creator_model": question.get("model"),
+            "correct_answer_key": question.get("correct"),
             "evaluations": []
         }
 
         for model in models:
-            if model == question['model']:
+            if model == question.get('model'):
                 print(f"INFO: Modelis {model} praleidžiamas (sukūrė šį klausimą).")
                 continue
 
@@ -245,6 +252,63 @@ def evaluate_questions(questions, models, bible_text, evaluations_file):
     except Exception as e:
         print(f"Klaida: nepavyko išsaugoti '{evaluations_file}': {e}")
 
+def json_to_csv(input_json_path: str, output_csv_path: str):
+    print(f"INFO: pradedamas konvertavimas į csv...")
+    
+    try:
+        with open(input_json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        print(f"Klaida: failas '{input_json_path}' nerastas.")
+        return
+    except json.JSONDecodeError:
+        print(f"Klaida: Nepavyko dekoduoti JSON failo '{input_json_path}'.")
+        return
+
+    records = []
+    for question in data:
+        common_data = {
+            'Klausimo ID': question.get('question_id'),
+            'Skyrius': question.get('chapter'),
+            'Autorius': question.get('question_creator_model'),
+            'Klausimas': question.get('question'),
+            'Teisingas': question.get('correct_answer_key'),
+        }
+
+        options_str = ""
+        options = question.get('options', {})
+        for key, value in options.items():
+            options_str += f"{key}: {value}; "
+        common_data['Variantai'] = options_str.strip()
+
+        evaluations = question.get('evaluations', [])
+        
+        if not evaluations:
+            records.append(common_data)
+            continue
+
+        for evaluation in evaluations:
+            record = common_data.copy()
+            record.update({
+                'Vertintojas': evaluation.get('evaluator_model'),
+                'Įvertinimas': evaluation.get('grade'),
+                'Komentaras': evaluation.get('comment')
+            })
+            records.append(record)
+
+    if not records:
+        print("Ispėjimas: nėra jokių įrašų.")
+        return
+        
+    df = pd.DataFrame(records)
+    
+    try:
+        os.makedirs(os.path.dirname(output_csv_path) or '.', exist_ok=True)
+        df.to_csv(output_csv_path, index=False, encoding='utf-8')
+        print(f"INFO: failas {output_csv_path} sėkmingai išsaugotas.")
+    except Exception as e:
+        print(f"Klaida: {e}")
+
 def main():
     read_and_save_API_keys("API_keys.txt")
     bible_path = Path(__file__).parent / "Bible" / "1Sam17.txt"
@@ -259,13 +323,15 @@ def main():
     ]
 
     chapter_name = os.path.basename(bible_path).replace(".txt", "")
-    generate_questions(models, bible_chapter, chapter_name, question_file)
+    #generate_questions(models, bible_chapter, chapter_name, question_file)
 
     questions = load_questions(question_file)
     if not questions:
         return
 
-    evaluate_questions(questions, models, bible_chapter, evaluations_file)
+    #evaluate_questions(questions, models, bible_chapter, evaluations_file)
+    csv_path = "evaluations.csv"
+    json_to_csv(evaluations_file, csv_path)
 
 if __name__ == "__main__":
     main()
