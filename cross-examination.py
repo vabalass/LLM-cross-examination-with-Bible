@@ -67,7 +67,7 @@ def parse_question(raw_text):
         print(f"Klaida: {e}")
         return []
 
-def save_question_jsonl(question_obj, filepath):
+def save_question_json(question_obj, filepath):
     with open(filepath, "a", encoding="utf-8") as f:
         f.write(json.dumps(question_obj, ensure_ascii=False) + "\n")
 
@@ -113,7 +113,6 @@ def generate_evaluation_prompt(question_data, bible_text):
 
 def evaluate_question_with_llm(model, prompt):
     message = [{ "content": prompt, "role": "user"}]
-    
     try:
         response = completion(model=model, messages=message)
         
@@ -145,34 +144,50 @@ def extract_json_from_text(text):
     return None
 
 def generate_questions(models, bible_text, chapter_name, question_file):
+    all_questions = []
+    
     for model in models:
         print(f"INFO: Generuojami klausimai naudojant modelį {model}...")
-        raw_questions = get_bible_question_from_llm(model=model, bible_text=bible_text)
+        raw_question = get_bible_question_from_llm(model=model, bible_text=bible_text)
         
-        if raw_questions is None:
-            print("Klaida: tuščias tekstas.")
+        if raw_question is None:
+            print("Klaida: tuščias tekstas iš modelio.")
             continue
         
-        parsed_questions = parse_question(raw_questions)
+        parsed_list = parse_question(raw_question)
         
-        if not parsed_questions:
-             print(f"Klaida: nepavyko išanalizuoti nė vieno klausimo iš modelio atsakymo.")
-             continue
-
-        for parsed in parsed_questions:
+        for parsed in parsed_list:
+            if not parsed.get('question') or not parsed.get('options'):
+                print(f"Klaida: praleistas nevalidus klausimas iš modelio {model}.")
+                continue
+            
             parsed.update({
                 "model": model,
                 "chapter": chapter_name
             })
-            save_question_jsonl(parsed, question_file)
-            print(f"INFO: Klausimas išsaugotas.")
+            all_questions.append(parsed)
+            print(f"INFO: Klausimas išsaugotas iš modelio {model}.")
+    
+    try:
+        with open(question_file, "w", encoding="utf-8") as f:
+            json.dump(all_questions, f, ensure_ascii=False, indent=2)
+        print(f"INFO: {len(all_questions)} klausimų įrašyta į '{question_file}'.")
+    except Exception as e:
+        print(f"Klaida: nepavyko išsaugoti: {e}")
 
 def load_questions(question_file):
     try:
         with open(question_file, "r", encoding="utf-8") as f:
-            return [json.loads(line) for line in f]
+            content = f.read().strip()
+            if content.startswith('['):
+                return json.loads(content)
+            else:
+                return [json.loads(line) for line in content.split('\n') if line.strip()]
     except FileNotFoundError:
         print(f"Klaida: įvesties failas '{question_file}' nerastas. Prašome sugeneruoti klausimus.")
+        return []
+    except json.JSONDecodeError as e:
+        print(f"Klaida: nepavyko išparsinti '{question_file}': {e}")
         return []
 
 def evaluate_questions(questions, models, bible_text, evaluations_file):
@@ -234,17 +249,17 @@ def main():
     read_and_save_API_keys("API_keys.txt")
     bible_path = Path(__file__).parent / "Bible" / "1Sam17.txt"
     bible_chapter = "".join((bible_path).read_text(encoding="utf-8"))
-    question_file = "bible_questions.jsonl"
+    question_file = "bible_questions.json"
     evaluations_file = "evaluations.json"
 
     models = [
         "gemini/gemini-2.5-flash",
         "groq/llama-3.3-70b-versatile",
-        "openai/gpt-5"
+        #"openai/gpt-5"
     ]
 
     chapter_name = os.path.basename(bible_path).replace(".txt", "")
-    #generate_questions(models, bible_chapter, chapter_name, question_file)
+    generate_questions(models, bible_chapter, chapter_name, question_file)
 
     questions = load_questions(question_file)
     if not questions:
