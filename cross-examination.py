@@ -4,41 +4,51 @@ import pandas as pd
 import os
 import json
 import re
+import time
 
 # returns a 3 Bible questions with 4 choice answers (a, b, c, d)
-def get_bible_question_from_llm(model, bible_text):
-    try:
-        if model is not None and bible_text != "":
-            message_content = (
-                "Sukurk tris klausimus su keturiais atsakymų variantais (a, b, c, d) iš pateikto Biblijos teksto. " +
-                "Tik vienas atsakymas turi būti teisingas. " +
-                "Grąžink atsakymą IŠSKIRTINAI JSON formatu. JSON struktūra turi būti tokia:\n" +
-                "{\n" +
-                '  "questions": [\n' +
-                "    {\n" +
-                '      "question_text": "...",\n' +
-                '      "options": {"a": "...", "b": "...", "c": "...", "d": "..."},' +
-                '      "correct_answer": "a"\n' +
-                "    },\n" +
-                "    {... (antras klausimas) ...},\n" +
-                "    {... (trečias klausimas) ...}\n" +
-                "  ]\n" +
-                "}\n" +
-                "Neįtraukite jokių paaiškinimų ar papildomo teksto, tik JSON.\n\n" +
-                bible_text
-            )
-            message = [{ "content": message_content,"role": "user"}]
-            response = completion(model=model, messages=message)
-            print("Atsakymas gautas.")
-            if response.choices:
-                return response.choices[0].message["content"]
-            else:
-                print("Klaida: Atsakymo variantų nerasta.")
-                return None
-        return None
-    except Exception as e:
-        print(f"Klaida: {e}")
-        return None
+def get_bible_question_from_llm(model, bible_text, max_retries=1):
+    for attempt in range(1, max_retries + 1):
+        try:
+            if model is not None and bible_text != "":
+                message_content = (
+                    "Sukurk tris klausimus su keturiais atsakymų variantais (a, b, c, d) iš pateikto Biblijos teksto. " +
+                    "Tik vienas atsakymas turi būti teisingas. " +
+                    "Grąžink atsakymą IŠSKIRTINAI JSON formatu. JSON struktūra turi būti tokia:\n" +
+                    "{\n" +
+                    '  "questions": [\n' +
+                    "    {\n" +
+                    '      "question_text": "...",\n' +
+                    '      "options": {"a": "...", "b": "...", "c": "...", "d": "..."},' +
+                    '      "correct_answer": "a"\n' +
+                    "    },\n" +
+                    "    {... (antras klausimas) ...},\n" +
+                    "    {... (trečias klausimas) ...}\n" +
+                    "  ]\n" +
+                    "}\n" +
+                    "Neįtraukite jokių paaiškinimų ar papildamo teksto, tik JSON.\n\n" +
+                    bible_text
+                )
+                message = [{ "content": message_content,"role": "user"}]
+                response = completion(model=model, messages=message)
+                print("Atsakymas gautas.")
+                if response.choices:
+                    return response.choices[0].message["content"]
+                else:
+                    print("Klaida: Atsakymo variantų nerasta.")
+                    if attempt < max_retries:
+                        print(f"Bandymas {attempt}/{max_retries-1}. Laukiu 5 sekundžių prieš pakartojimu...")
+                        time.sleep(5)
+                        continue
+                    return None
+            return None
+        except Exception as e:
+            print(f"Klaida: {e}")
+            if attempt < max_retries:
+                print(f"Bandymas {attempt}/{max_retries-1}...")
+                time.sleep(5)
+                continue
+            return None
 
 def parse_question(raw_text):
     if raw_text is None:
@@ -112,20 +122,29 @@ def generate_evaluation_prompt(question_data, bible_text):
     """
     return prompt
 
-def evaluate_question_with_llm(model, prompt):
-    message = [{ "content": prompt, "role": "user"}]
-    try:
-        response = completion(model=model, messages=message)
-        
-        if response and response.choices:
-            return response.choices[0].message["content"]
-        else:
-            print("Klaida: nerasta atsakymo variantų atsakyme.")
-            return None
+def evaluate_question_with_llm(model, prompt, max_retries=1):
+    for attempt in range(1, max_retries + 1):
+        try:
+            message = [{ "content": prompt, "role": "user"}]
+            response = completion(model=model, messages=message)
             
-    except Exception as e:
-        print(f"Klaida generuojant įvertinimą: {e}")
-        return None
+            if response and response.choices:
+                return response.choices[0].message["content"]
+            else:
+                print("Klaida: nerasta atsakymo variantų atsakyme.")
+                if attempt < max_retries:
+                    print(f"Bandymas {attempt}/{max_retries-1}. Laukiu 5 sekundžių prieš pakartojimu...")
+                    time.sleep(5)
+                    continue
+                return None
+                
+        except Exception as e:
+            print(f"Klaida generuojant įvertinimą: {e}")
+            if attempt < max_retries:
+                print(f"Bandymas {attempt}/{max_retries-1}. Laukiu 5 sekundžių prieš pakartojimu...")
+                time.sleep(5)
+                continue
+            return None
 
 def extract_json_from_text(text):
     if not text:
