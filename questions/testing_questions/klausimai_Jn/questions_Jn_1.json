@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Jn_1_001",
+    "question": "Kas buvo pradžioje, pasak Jono evangelijos 1 skyriaus?",
+    "options": {
+      "a": "Pasaulis",
+      "b": "Žodis",
+      "c": "Šviesa",
+      "d": "Gyvybė"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_002",
+    "question": "Kas atsirado per Žodį?",
+    "options": {
+      "a": "Tik žmonės",
+      "b": "Tik gyvybė",
+      "c": "Visa",
+      "d": "Tik šviesa"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_003",
+    "question": "Kas buvo žmonių šviesa?",
+    "options": {
+      "a": "Jonas",
+      "b": "Žodis",
+      "c": "Gyvybė",
+      "d": "Tamsa"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_004",
+    "question": "Koks buvo Dievo siųsto žmogaus, vardu Jonas, atėjimo tikslas?",
+    "options": {
+      "a": "Pašalinti tamsą",
+      "b": "Būti šviesa pasauliui",
+      "c": "Liudyti šviesą ir kad visi per jį įtikėtų",
+      "d": "Įkurti naują religiją"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_005",
+    "question": "Kaip pasaulis reagavo į Žodį, kuris buvo pasaulyje ir per kurį atsirado pasaulis?",
+    "options": {
+      "a": "Pasaulis jį priėmė",
+      "b": "Pasaulis jo nepažino",
+      "c": "Pasaulis jį garbino",
+      "d": "Pasaulis jį suprato"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_006",
+    "question": "Ką davė Žodis tiems, kurie jį priėmė ir tiki jo vardą?",
+    "options": {
+      "a": "Turtus ir šlovę",
+      "b": "Ilgą gyvenimą",
+      "c": "Galią tapti Dievo vaikais",
+      "d": "Slaptas žinias"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_007",
+    "question": "Kuo tapo Žodis ir gyveno tarp mūsų?",
+    "options": {
+      "a": "Dvasia",
+      "b": "Kūnu",
+      "c": "Angelu",
+      "d": "Ugnimi"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_008",
+    "question": "Per ką atėjo Įstatymas, ir per ką atėjo tiesa ir malonė?",
+    "options": {
+      "a": "Per Abraomą ir per Jokūbą",
+      "b": "Per Izaiją ir per Jeremiją",
+      "c": "Per Mozę ir per Jėzų Kristų",
+      "d": "Per Joną ir per Petrą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_009",
+    "question": "Ką Jonas prisipažino nesąs, kai žydai iš Jeruzalės atsiuntė kunigų ir levitų paklausti „Kas tu esi?“?",
+    "options": {
+      "a": "Mokytoju",
+      "b": "Romos piliečiu",
+      "c": "Mesiju, Eliju, ar pranašu",
+      "d": "Karaliumi"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_010",
+    "question": "Kuo Jonas save pavadino, cituodamas pranašą Izaiją?",
+    "options": {
+      "a": "Tyruose šaukiančiojo balsu: „Taisykite Viešpačiui kelią!“",
+      "b": "Žvaigžde, vedančia į tiesą",
+      "c": "Pasaulio šviesa",
+      "d": "Dievo tarno ranka"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_011",
+    "question": "Ką Jonas pasakė apie tą, kuris ateis po jo, kuriam jis nevertas atrišti kurpių dirželio?",
+    "options": {
+      "a": "Jis bus tik geras mokytojas",
+      "b": "Jis bus išgalvotas asmuo",
+      "c": "O tarp jūsų stovi tas, kurio jūs nepažįstate",
+      "d": "Jis bus žemės karalius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_012",
+    "question": "Ką Jonas prabilo matydamas ateinantį Jėzų?",
+    "options": {
+      "a": "„Štai naujas pranašas!“",
+      "b": "„Štai Dievo Avinėlis, kuris naikina pasaulio nuodėmę!“",
+      "c": "„Štai tas, kuris pastatys šventyklą!“",
+      "d": "„Štai Izraelio karalius!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_013",
+    "question": "Kokiu pavidalu Jonas matė Dvasią nusileidžiančią iš dangaus ir pasiliekančią virš Jėzaus?",
+    "options": {
+      "a": "Lyg liepsna",
+      "b": "Lyg vėjas",
+      "c": "Lyg balandis",
+      "d": "Lyg audra"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_014",
+    "question": "Vienas iš dviejų mokinių, kurie nuėjo paskui Jėzų po Jono liudijimo, buvo Simono Petro brolis. Koks jo vardas?",
+    "options": {
+      "a": "Jokūbas",
+      "b": "Jonas",
+      "c": "Pilypas",
+      "d": "Andriejus"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_015",
+    "question": "Ką reiškia „Kefas“, kuriuo Jėzus pavadino Simoną?",
+    "options": {
+      "a": "Mokytojas",
+      "b": "Žmogus",
+      "c": "Uola",
+      "d": "Tiesa"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_016",
+    "question": "Iš kurio miesto buvo kilęs Pilypas, kurį Jėzus sutiko ir pakvietė sekti paskui jį?",
+    "options": {
+      "a": "Nazareto",
+      "b": "Galilėjos",
+      "c": "Betsaidos",
+      "d": "Jeruzalės"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_017",
+    "question": "Kur Jėzus matė Natanaelį, prieš jam pakviečiant jį Pilypui?",
+    "options": {
+      "a": "Prie Jordano upės",
+      "b": "Po figmedžiu",
+      "c": "Šventykloje",
+      "d": "Ant kalno"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_1"
+  }
+]

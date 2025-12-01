@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Jn_18_001",
+    "question": "Kur Jėzus su savo mokiniais nuėjo baigęs kalbėti?",
+    "options": {
+      "a": "Anapus Kedrono upelio, į sodą.",
+      "b": "Į šventyklą Jeruzalėje.",
+      "c": "Pas savo gimines į Galilėją.",
+      "d": "Į Petrijos miestą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_002",
+    "question": "Kodėl Jėzaus išdavėjas Judas gerai žinojo sodą, į kurį jie nuėjo?",
+    "options": {
+      "a": "Jis pats buvo to sodo savininkas.",
+      "b": "Jėzus dažnai ten susieidavo su savo mokiniais.",
+      "c": "Ten buvo paslėpti lobiai.",
+      "d": "Jis ten gyveno netoliese."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_003",
+    "question": "Kas lydėjo Judą, kai jis atėjo suimti Jėzaus?",
+    "options": {
+      "a": "Tik keli Jėzaus mokiniai.",
+      "b": "Kareivių būrys ir aukštųjų kunigų bei fariziejų tarnai.",
+      "c": "Romos valdytojas Pilotas.",
+      "d": "Minios su palmėmis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_004",
+    "question": "Kas nutiko, kai Jėzus pirmą kartą pasakė „Tai aš“ tiems, kurie jo ieškojo?",
+    "options": {
+      "a": "Jie atsiklaupė ir meldėsi.",
+      "b": "Jie džiaugsmingai jį pasveikino.",
+      "c": "Jie atšoko atgal ir parpuolė ant žemės.",
+      "d": "Jie iškart surišo Jėzų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_005",
+    "question": "Kokiems Jėzaus žodžiams turėjo išsipildyti, kai jis paprašė, kad būtų leista mokiniams pasišalinti?",
+    "options": {
+      "a": "„Aš esu prisikėlimas ir gyvenimas.“",
+      "b": "„Iš tavo man pavestųjų nepražudžiau nė vieno.“",
+      "c": "„Mano karalystė ne iš šio pasaulio.“",
+      "d": "„Geriau tegu vienas žmogus numiršta už tautą.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_006",
+    "question": "Ką Simonas Petras padarė vyriausiojo kunigo tarnui?",
+    "options": {
+      "a": "Jį sužeidė, bet nenužudė.",
+      "b": "Nukirto jam dešinę ausį.",
+      "c": "Jį sulaikė ir surišo.",
+      "d": "Jį pastūmė ir parvertė ant žemės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_007",
+    "question": "Koks buvo vyriausiojo kunigo tarno, kuriam Petras nukirto ausį, vardas?",
+    "options": {
+      "a": "Kajafas",
+      "b": "Malkus",
+      "c": "Anas",
+      "d": "Judas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_008",
+    "question": "Ką Jėzus pasakė Petrui, kai šis išsitraukė kalaviją?",
+    "options": {
+      "a": "„Gerai padirbėta, Petrai!“",
+      "b": "„Kišk savo kalaviją į makštį! Nejaugi aš negersiu tos taurės, kurią Tėvas man yra davęs?!“",
+      "c": "„Nužudyk juos visus!“",
+      "d": "„Pasislėpk, kad tavęs nesurastų.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_009",
+    "question": "Pas ką pirmiausia buvo nuvestas surištas Jėzus po suėmimo?",
+    "options": {
+      "a": "Pas Pontijų Pilotą.",
+      "b": "Pas vyriausiąjį kunigą Kajafą.",
+      "c": "Pas Aną.",
+      "d": "Pas Erodą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_010",
+    "question": "Koks buvo vyriausiojo kunigo Kajafo ryšys su Anu?",
+    "options": {
+      "a": "Anas buvo Kajafo brolis.",
+      "b": "Anas buvo Kajafo tėvas.",
+      "c": "Anas buvo Kajafo uošvis.",
+      "d": "Anas buvo Kajafo sūnus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_011",
+    "question": "Kiek kartų Simonas Petras išsigynė Jėzaus, kol pragydo gaidys?",
+    "options": {
+      "a": "Vieną kartą.",
+      "b": "Du kartus.",
+      "c": "Tris kartus.",
+      "d": "Keturis kartus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_012",
+    "question": "Kur Jėzus sakė, kad viešai mokė?",
+    "options": {
+      "a": "Tik privačiuose namuose.",
+      "b": "Slapčia, tik išrinktiesiems.",
+      "c": "Sinagogose ir šventykloje.",
+      "d": "Prie ežero kranto."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_013",
+    "question": "Kodėl žydai, atvedę Jėzų, patys nėjo vidun į pretorijų?",
+    "options": {
+      "a": "Jie bijojo romėnų kareivių.",
+      "b": "Jie nenorėjo susitepti ir norėjo valgyti Velykų avinėlį.",
+      "c": "Jiems nebuvo leista įeiti.",
+      "d": "Jie laukė Piloto kvietimo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_18"
+  }
+]

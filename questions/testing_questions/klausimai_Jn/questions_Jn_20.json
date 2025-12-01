@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Jn_20_001",
+    "question": "Kurią savaitės dieną Marija Magdalietė atėjo pas kapą?",
+    "options": {
+      "a": "Antrąją",
+      "b": "Pirmąją",
+      "c": "Trečiąją",
+      "d": "Šeštąją"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_002",
+    "question": "Ką Marija Magdalietė pamatė, kai pirmą kartą atėjo pas kapą?",
+    "options": {
+      "a": "Jėzaus kūną",
+      "b": "Du angelus",
+      "c": "Akmenį nuverstą nuo rūsio angos",
+      "d": "Simonas Petras jau buvo ten"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_003",
+    "question": "Kam Marija Magdalietė pranešė apie tuščią kapą?",
+    "options": {
+      "a": "Tik Simonui Petrui",
+      "b": "Tik kitam mokiniui, kurį Jėzus mylėjo",
+      "c": "Simonas Petrui ir kitam mokiniui, kurį Jėzus mylėjo",
+      "d": "Visiems mokiniams"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_004",
+    "question": "Kurio mokinio Jėzus paklausė 'Moterie, ko verki? Ko ieškai?' kai Marija Magdalietė jį supainiojo su sodininku?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Tomas",
+      "d": "Pats Jėzus"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_005",
+    "question": "Ką Marija Magdalietė sušuko hebrajiškai, atpažinusi Jėzų?",
+    "options": {
+      "a": "Aleliuja!",
+      "b": "Mokytojau!",
+      "c": "Rabuni!",
+      "d": "Viešpatie!"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_006",
+    "question": "Ką Jėzus padarė, pasakęs mokiniams 'Kaip mane siuntė Tėvas, taip ir aš jus siunčiu'?",
+    "options": {
+      "a": "Parodė jiems dangų",
+      "b": "Pavalgydino juos duona",
+      "c": "Kvėpė į juos ir tarė: 'Imkite Šventąją Dvasią'",
+      "d": "Paliko kambarį"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_007",
+    "question": "Kuris iš dvylikos mokinių nebuvo su kitais, kai Jėzus pirmą kartą pasirodė jiems užrakintame kambaryje?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Jonas",
+      "c": "Tomas",
+      "d": "Andriejus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_008",
+    "question": "Ką Tomas reikalavo, kad patikėtų Jėzaus prisikėlimu?",
+    "options": {
+      "a": "Pamatyti jį valgantį",
+      "b": "Išklausyti Jėzaus mokymus",
+      "c": "Pamatyti jo rankose vinių dūrio ir paliesti jo šoną",
+      "d": "Kad Jėzus atliktų dar vieną stebuklą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_009",
+    "question": "Kuo Tomas sušuko, pamatęs ir palietęs Jėzaus žaizdas?",
+    "options": {
+      "a": "Tikrai esi Dievo Sūnus!",
+      "b": "Mano Viešpats ir mano Dievas!",
+      "c": "Tu prisikėlei!",
+      "d": "Atleisk man, Viešpatie!"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_010",
+    "question": "Koks yra šioje knygoje surašytų ženklų tikslas?",
+    "options": {
+      "a": "Kad tikėtumėte, jog Jėzus yra Mesijas, Dievo Sūnus, ir tikėdami turėtumėte gyvenimą per jo vardą",
+      "b": "Kad žinotumėte visus Jėzaus stebuklus",
+      "c": "Kad prisimintumėte Jėzaus gyvenimo įvykius",
+      "d": "Kad suprastumėte, kodėl Jėzus buvo nukryžiuotas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_20"
+  }
+]

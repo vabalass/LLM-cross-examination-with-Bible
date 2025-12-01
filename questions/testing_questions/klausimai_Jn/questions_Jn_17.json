@@ -1,0 +1,105 @@
+[
+  {
+    "id": "Jn_17_001",
+    "question": "Kas, pasak Jėzaus, yra amžinasis gyvenimas?",
+    "options": {
+      "a": "Pažinti vienintelį tikrąjį Dievą ir Jėzų – Mesiją.",
+      "b": "Gyventi be nuodėmės ir tarnauti Dievui.",
+      "c": "Tikėti Jėzumi kaip Dievo Sūnumi ir jo prisikėlimu.",
+      "d": "Atlikti gerus darbus ir sekti Dievo įsakymais."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_002",
+    "question": "Kokios šlovės Jėzus prašo iš Tėvo 5-ame verete?",
+    "options": {
+      "a": "Šlovės, kurią jis įgijo per savo tarnystę žemėje.",
+      "b": "Šlovės, kurią turėjo pas Tėvą dar prieš atsirandant pasauliui.",
+      "c": "Šlovės, kurią jam suteiks žmonės po jo prisikėlimo.",
+      "d": "Šlovės, kuri atskleis jo dieviškumą visiems pasaulyje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_003",
+    "question": "Ką suprato žmonės, kuriems Jėzus perdavė Tėvo žodžius?",
+    "options": {
+      "a": "Kad Jėzus yra galingas pranašas ir mokytojas.",
+      "b": "Kad Jėzus atėjo pašlovinti save ir savo vardą.",
+      "c": "Kad Jėzus yra iš Tėvo išėjęs ir Tėvas jį siuntęs.",
+      "d": "Kad jie turi sekti Jėzumi visur ir visada."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_004",
+    "question": "Už ką Jėzus sako besimeldžiantis 9-ame verete?",
+    "options": {
+      "a": "Už visą pasaulį, kad jis atsigręžtų į Dievą.",
+      "b": "Tik už savo apaštalus, kurie bus jo įpėdiniai.",
+      "c": "Už tuos, kuriuos Tėvas jam pavėdė.",
+      "d": "Už Izraelio tautą, kad ji atpažintų Mesiją."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_005",
+    "question": "Kas, pasak Jėzaus, nepražuvo iš Tėvo jam pavestųjų, išskyrus vieną?",
+    "options": {
+      "a": "Visi be išimties, kuriems jis perdavė Tėvo žodį.",
+      "b": "Niekas, išskyrus tuos, kurie atsitraukė nuo jo.",
+      "c": "Nė vienas, išskyrus pražūties sūnų.",
+      "d": "Tik tie, kurie tikėjo iki galo ir neatmetė jo mokymo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_006",
+    "question": "Kodėl, pasak Jėzaus, pasaulis nekentė jo mokinių?",
+    "options": {
+      "a": "Nes mokiniai buvo silpni ir bailūs, ir nesugebėjo apginti Jėzaus.",
+      "b": "Nes mokiniai buvo išpažįstami kaip nusikaltėliai ir prieštaravo Romos valdžiai.",
+      "d": "Nes mokiniai atsisakė sekti pasaulio taisyklėmis ir papročiais."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_007",
+    "question": "Kas, pasak Jėzaus, yra tiesa (17-as veretas)?",
+    "options": {
+      "a": "Jėzus pats, nes jis yra Kelias, Tiesa ir Gyvenimas.",
+      "b": "Tėvo žodis.",
+      "c": "Šventoji Dvasia, kuri moko visos tiesos.",
+      "d": "Apaštalų mokymas, kurį jie gavo iš Jėzaus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_008",
+    "question": "Kokia yra Jėzaus maldos už būsimus tikinčiuosius esmė (20-21 veretai)?",
+    "options": {
+      "a": "Kad jie būtų apsaugoti nuo visų blogybių ir sunkumų pasaulyje.",
+      "b": "Kad jie skleistų evangeliją visame pasaulyje ir atverstų kuo daugiau žmonių.",
+      "c": "Kad visi būtų viena, kaip Jėzus ir Tėvas yra viena.",
+      "d": "Kad jie turėtų pilnatvę Šventojoje Dvasioje ir patirtų džiaugsmą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_17"
+  }
+]

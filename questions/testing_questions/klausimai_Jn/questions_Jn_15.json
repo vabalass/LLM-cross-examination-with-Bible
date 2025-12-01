@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Jn_15_001",
+    "question": "Kas yra „tikrasis vynmedis“ pagal šį tekstą?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Tėvas",
+      "c": "Mokiniai",
+      "d": "Šventoji Dvasia"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_002",
+    "question": "Ką vynininkas (Tėvas) daro su kiekviena vaisinga šakele?",
+    "options": {
+      "a": "Ją išpjauna",
+      "b": "Įmeta į ugnį",
+      "c": "Ją apvalo, kad duotų dar daugiau vaisių",
+      "d": "Ją persodina"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_003",
+    "question": "Dėl ko mokiniai jau yra švarūs?",
+    "options": {
+      "a": "Dėl jų gerų darbų",
+      "b": "Dėl žodžio, kurį Jėzus jiems kalbėjo",
+      "c": "Dėl savo tikėjimo",
+      "d": "Dėl Jėzaus tarnystės"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_004",
+    "question": "Ką negali nuveikti tie, kurie atsiskyrę nuo vynmedžio (Jėzaus)?",
+    "options": {
+      "a": "Gali nuveikti nedaug",
+      "b": "Gali nuveikti daug",
+      "c": "Negali nieko nuveikti",
+      "d": "Gali nuveikti viską patys"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_005",
+    "question": "Kas atsitinka šakelei, kuri nepasiliks manyje (Jėzuje)?",
+    "options": {
+      "a": "Bus persodinta į kitą vynmedį",
+      "b": "Bus išmesta laukan, sudžius ir sudegs",
+      "c": "Pradės duoti vaisius savaime",
+      "d": "Taps didesniu medžiu"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_006",
+    "question": "Kuo bus pašlovintas Tėvas?",
+    "options": {
+      "a": "Kad mokiniai vykdys įstatymus",
+      "b": "Kad mokiniai duos gausių vaisių",
+      "c": "Kad mokiniai nebus persekiojami",
+      "d": "Kad mokiniai visada melsis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_007",
+    "question": "Koks yra pagrindinis Jėzaus įsakymas mokiniams, minimas šiame skyriuje?",
+    "options": {
+      "a": "Mylėti Dievą visa širdimi",
+      "b": "Skelbti Evangeliją visame pasaulyje",
+      "c": "Vienas kitą mylėti, kaip Jis juos mylėjo",
+      "d": "Atleisti savo priešams"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_008",
+    "question": "Kodėl Jėzus savo mokinius vadina draugais, o ne tarnais?",
+    "options": {
+      "a": "Nes jie patys Jį išsirinko",
+      "b": "Nes tarnas žino, ką veikia jo šeimininkas",
+      "c": "Nes Jis jiems viską paskelbė, ką buvo iš Tėvo girdėjęs",
+      "d": "Nes jie yra didesni už šeimininką"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_009",
+    "question": "Kas yra Globėjas, kurį Jėzus atsiųs nuo Tėvo, kad liudytų apie Jį?",
+    "options": {
+      "a": "Petras",
+      "b": "Angelo Dvasia",
+      "c": "Tiesos Dvasia",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_15"
+  }
+]

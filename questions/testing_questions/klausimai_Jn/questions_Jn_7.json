@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Jn_7_001",
+    "question": "Kodėl Jėzus nenorėjo eiti į Judėją?",
+    "options": {
+      "a": "Nes jis norėjo pasilikti Galilėjoje ilgiau.",
+      "b": "Nes žydai jo tykojo nužudyti.",
+      "c": "Nes ten nebuvo jo mokinių.",
+      "d": "Nes jis laukė Palapinių šventės pabaigos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_002",
+    "question": "Kokia žydų šventė artėjo?",
+    "options": {
+      "a": "Pascha.",
+      "b": "Žydų Palapinių šventė.",
+      "c": "Šabo diena.",
+      "d": "Neraugintos duonos šventė."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_003",
+    "question": "Ką Jėzaus broliai jam siūlė daryti Palapinių šventės metu?",
+    "options": {
+      "a": "Pailsėti Galilėjoje.",
+      "b": "Keliauti į Judėją, kad mokiniai pamatytų jo darbus.",
+      "c": "Slapta keliauti į Jeruzalę.",
+      "d": "Viešai pasirodyti Galilėjoje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_004",
+    "question": "Kokia buvo Jėzaus brolių nuostata jo atžvilgiu tuo metu?",
+    "options": {
+      "a": "Jie juo nuoširdžiai tikėjo.",
+      "b": "Jie nekentė jo.",
+      "c": "Jie juo netikėjo.",
+      "d": "Jie abejojo jo galybe."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_005",
+    "question": "Kaip Jėzus galiausiai iškeliavo į šventę Jeruzalėje?",
+    "options": {
+      "a": "Viešai, lydimas minios.",
+      "b": "Slapčiomis, po to, kai jo broliai išvyko.",
+      "c": "Su mokiniais per visą Galilėją.",
+      "d": "Jis visai neiškeliavo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_006",
+    "question": "Kaip žydai šventės metu reagavo į Jėzaus mokymą šventykloje?",
+    "options": {
+      "a": "Jie jį iškart priėmė kaip Mesiją.",
+      "b": "Jie stebėjosi, iš kur jis išmano Raštą, nesimokęs.",
+      "c": "Jie jam paprieštaravo ir išvarė iš šventyklos.",
+      "d": "Jie reikalavo, kad jis sustotų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_007",
+    "question": "Ką Jėzus atsakė, kai žydai stebėjosi jo mokslu?",
+    "options": {
+      "a": "Kad jo mokslas yra iš jo paties.",
+      "b": "Kad jis mokėsi pas garsius rabinus.",
+      "c": "Kad jo mokslas yra ne jo, bet to, kuris jį siuntęs.",
+      "d": "Kad tai yra Dievo apreiškimas jam asmeniškai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_008",
+    "question": "Dėl kokio Jėzaus veiksmo žydai jam priekaištavo?",
+    "options": {
+      "a": "Kad jis nesilaiko Mozės Įstatymo.",
+      "b": "Kad jis klaidina žmones savo mokymu.",
+      "c": "Kad jis pagydė žmogų šabo dieną.",
+      "d": "Kad jis neatskleidžia savo kilmės."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_009",
+    "question": "Kaip Jėzus paaiškino gydymą šabo dieną?",
+    "options": {
+      "a": "Kad apipjaustymas šabo dieną leidžiamas, tad ir pagydyti visą žmogų galima.",
+      "b": "Kad šabo diena skirta tik poilsiui, ne gydymui.",
+      "c": "Kad jis turi teisę laužyti Įstatymą.",
+      "d": "Kad jis gydė ne šabo dieną, o dieną prieš."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_010",
+    "question": "Koks argumentas buvo naudojamas abejojant Jėzaus mesijiškumu Jeruzalės gyventojų?",
+    "options": {
+      "a": "Jo mokymo paprastumas.",
+      "b": "Jo kilmė iš Galilėjos, o ne iš nežinomos vietos.",
+      "c": "Jo kilmė iš Galilėjos, o ne iš Dovydo palikuonių ar Betliejaus.",
+      "d": "Tai, kad jis kalbėjo viešai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_011",
+    "question": "Kodėl Jėzaus nepavyko suimti, nors to norėta?",
+    "options": {
+      "a": "Jis pasislėpė minioje.",
+      "b": "Žmonės jį apgynė.",
+      "c": "Dar nebuvo atėjusi jo valanda.",
+      "d": "Sargybiniai bijojo jo galios."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_012",
+    "question": "Ką daugelis iš minios padarė, matydami Jėzaus darbus ir klausydami jo mokymo?",
+    "options": {
+      "a": "Jie ėmė jam prieštarauti.",
+      "b": "Jie įtikėjo jį.",
+      "c": "Jie pranešė fariziejams.",
+      "d": "Jie išsivaikščiojo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_013",
+    "question": "Kas pasiuntė sargybinius suimti Jėzaus?",
+    "options": {
+      "a": "Romos valdytojas.",
+      "b": "Jo broliai.",
+      "c": "Aukštieji kunigai ir fariziejai.",
+      "d": "Jeruzalės gyventojai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_014",
+    "question": "Ką Jėzus prabilo, žinodamas, kad jo ieškoma?",
+    "options": {
+      "a": "Kad jis pasislėps.",
+      "b": "Kad dar trumpą laiką bus su jais, o paskui iškeliaus pas siuntusįjį.",
+      "c": "Kad jis kovos su tais, kurie nori jį suimti.",
+      "d": "Kad jis išeis į kitą miestą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_015",
+    "question": "Ką Jėzus šaukė paskutinę, iškilmingiausią šventės dieną?",
+    "options": {
+      "a": "Kad ateina Mesijas.",
+      "b": "Kad kas trokšta, teateina pas jį ir tegu geria gyvojo vandens sroves.",
+      "c": "Kad jis išeis pas graikus.",
+      "d": "Kad jis yra Dovydo sūnus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_016",
+    "question": "Kodėl sargybiniai neatvedė Jėzaus aukštiesiems kunigams ir fariziejams?",
+    "options": {
+      "a": "Jėzus jiems pasipriešino.",
+      "b": "Niekados žmogus nėra taip kalbėjęs, ir jie negalėjo jo suimti.",
+      "c": "Jiems buvo liepta palaukti.",
+      "d": "Jie jo nerado."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_017",
+    "question": "Koks fariziejus stojo ginti Jėzaus, klausdamas apie teisingumą?",
+    "options": {
+      "a": "Mozė.",
+      "b": "Zacharijas.",
+      "c": "Nikodemas.",
+      "d": "Saliamonas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_7"
+  }
+]

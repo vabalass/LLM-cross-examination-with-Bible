@@ -1,0 +1,301 @@
+[
+  {
+    "id": "Jn_6_001",
+    "question": "Kur Jėzus nuvyko padauginti duonos?",
+    "options": {
+      "a": "Anapus Galilėjos, arba Tiberiados, ežero",
+      "b": "Į Jeruzalę",
+      "c": "Prie Jordano upės",
+      "d": "Į Kafarnaumą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_002",
+    "question": "Kodėl didelė minia lydėjo Jėzų?",
+    "options": {
+      "a": "Norėjo jį pamatyti",
+      "b": "Matė stebuklus, kuriuos jis darė ligoniams",
+      "c": "Ieškojo nemokamo maisto",
+      "d": "Norėjo išgirsti jo mokymus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_003",
+    "question": "Kokia žydų šventė artėjo tuo metu?",
+    "options": {
+      "a": "Palapinių šventė",
+      "b": "Pascha",
+      "c": "Velykos",
+      "d": "Sekminės"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_004",
+    "question": "Kurį mokinį Jėzus paklausė apie duonos pirkimą?",
+    "options": {
+      "a": "Petrą",
+      "b": "Andriejų",
+      "c": "Pilypą",
+      "d": "Joną"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_005",
+    "question": "Kiek denarų Pilypas manė, kad neužteks duonai visiems pavalgydinti?",
+    "options": {
+      "a": "Šimto",
+      "b": "Dviejų šimtų",
+      "c": "Trys šimtų",
+      "d": "Penkių šimtų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_006",
+    "question": "Kiek miežinės duonos kepaliukų ir žuvų turėjo berniukas?",
+    "options": {
+      "a": "Trys kepaliukai ir viena žuvis",
+      "b": "Penki kepaliukai ir dvi žuvys",
+      "c": "Septyni kepaliukai ir trys žuvys",
+      "d": "Keturi kepaliukai ir dvi žuvys"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_007",
+    "question": "Kiek vyrų susėdo pavalgyti?",
+    "options": {
+      "a": "Apie tris tūkstančius",
+      "b": "Apie keturis tūkstančius",
+      "c": "Apie penkis tūkstančius",
+      "d": "Apie šešis tūkstančius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_008",
+    "question": "Kiek pintinių likusių kąsnelių mokiniai surinko po valgio?",
+    "options": {
+      "a": "Dešimt",
+      "b": "Dvylika",
+      "c": "Penkiolika",
+      "d": "Aštuoniolika"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_009",
+    "question": "Ką žmonės sakė apie Jėzų pamatę duonos padauginimo ženklą?",
+    "options": {
+      "a": "Jis yra karalius",
+      "b": "Jis tikrai yra tas pranašas, kuris turi ateiti į pasaulį",
+      "c": "Jis yra Dievo Sūnus",
+      "d": "Jis yra didis mokytojas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_010",
+    "question": "Ką Jėzus suprato apie minios ketinimus po duonos padauginimo?",
+    "options": {
+      "a": "Kad jie nori jį pagarbinti",
+      "b": "Kad jie ruošiasi pasigriebti jį ir paskelbti karaliumi",
+      "c": "Kad jie nori daugiau maisto",
+      "d": "Kad jie nori sekti jį į kitą krantą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_011",
+    "question": "Kur mokiniai plaukė valtimi vakarėjant?",
+    "options": {
+      "a": "Į Betanieją",
+      "b": "Į Kafarnaumą",
+      "c": "Į Nazarethą",
+      "d": "Į Jeruzalę"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_012",
+    "question": "Kaip toli mokiniai nusiyrė nuo kranto, kai pamatė Jėzų einantį vandeniu?",
+    "options": {
+      "a": "Dešimt-penkiolika stadijų",
+      "b": "Penkiolika-dvidešimt stadijų",
+      "c": "Dvidešimt penkias-trisdešimt stadijų",
+      "d": "Trisdešimt-keturiasdešimt stadijų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_013",
+    "question": "Ką Jėzus pasakė išsigandusiems mokiniams, eidamas vandeniu?",
+    "options": {
+      "a": "„Aš ateinu pas jus!“",
+      "b": "„Tai aš. Nebijokite!“",
+      "c": "„Pasikvieskite mane į valtį!“",
+      "d": "„Turėkite tikėjimo!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_014",
+    "question": "Kodėl Jėzus pasakė, kad žmonės jo ieškojo?",
+    "options": {
+      "a": "Nes matė ženklų",
+      "b": "Nes prisivalgė duonos lig soties",
+      "c": "Nes norėjo išgirsti jo mokymus",
+      "d": "Nes norėjo išgijimo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_015",
+    "question": "Dėl kokio maisto Jėzus mokė žmones plusėti?",
+    "options": {
+      "a": "Dėl žūvančio maisto",
+      "b": "Dėl to, ką duoda Dievas",
+      "c": "Dėl išliekančio amžinajam gyvenimui",
+      "d": "Dėl mannos iš dangaus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_016",
+    "question": "Kas yra Dievo darbas, pasak Jėzaus?",
+    "options": {
+      "a": "Laikytis įsakymų",
+      "b": "Tikėti tą, kurį jis siuntė",
+      "c": "Daryti gerus darbus",
+      "d": "Mylėti savo artimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_017",
+    "question": "Ką Jėzus pavadino tikrąja duona iš dangaus?",
+    "options": {
+      "a": "Maną",
+      "b": "Penkis miežinės duonos kepaliukus",
+      "c": "Dievo duoną, kuri nužengia ir duoda pasauliui gyvybę",
+      "d": "Savo kūną"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_018",
+    "question": "Kaip Jėzus save apibūdino duonos kontekste?",
+    "options": {
+      "a": "Gyvybės duona",
+      "b": "Dangaus duona",
+      "c": "Duona, kuri gydo",
+      "d": "Išliekanti duona"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_019",
+    "question": "Ką Jėzaus Tėvo valia reikalauja?",
+    "options": {
+      "a": "Kad Jėzus nužudytų nė vieno",
+      "b": "Kad Jėzus išgydytų visus ligonius",
+      "c": "Kad Jėzus nepražudytų nė vieno, kuriuos Tėvas jam pavedė, bet prikeltų juos paskutiniąją dieną",
+      "d": "Kad visi taptų jo mokiniais"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_020",
+    "question": "Kuo žydai murmėjo, kai Jėzus pasakė esąs duona, nužengusi iš dangaus?",
+    "options": {
+      "a": "Jie klausė, kodėl jis kalba apie duoną",
+      "b": "Jie abejojo, ar jis tikrai Juozapo sūnus",
+      "c": "Jie abejojo, kaip jis gali sakyti: 'Aš esu nužengęs iš dangaus'",
+      "d": "Jie manė, kad jis įžeidė Mozę"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_021",
+    "question": "Kas teikia gyvybę, pasak Jėzaus?",
+    "options": {
+      "a": "Kūnas",
+      "b": "Dvasia",
+      "c": "Žodis",
+      "d": "Vanduo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_022",
+    "question": "Ką Petras atsakė Jėzui, kai šis paklausė, ar ir jie nori pasitraukti?",
+    "options": {
+      "a": "„Mes tavęs niekada nepaliksime!“",
+      "b": "„Viešpatie, pas ką mes eisime?! Tu turi amžinojo gyvenimo žodžius.“",
+      "c": "„Duok mums daugiau duonos ir mes pasiliksime.“",
+      "d": "„Mes eisime pas tavo Tėvą.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_023",
+    "question": "Kuris iš Dvylikos turėjo išduoti Jėzų?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Judas, Simono Iskarijoto sūnus",
+      "d": "Jokūbas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_6"
+  }
+]

@@ -179,6 +179,7 @@ def calculate_questions_number(bible_text):
 
 def generate_questions(models, bible_text, chapter_name, question_file):
     all_questions = []
+    question_counter = 1
     
     for model in models:
         print(f"INFO: Generuojami klausimai naudojant modelį {model}...")
@@ -196,12 +197,18 @@ def generate_questions(models, bible_text, chapter_name, question_file):
                 print(f"Klaida: praleistas nevalidus klausimas iš modelio {model}.")
                 continue
             
-            parsed.update({
+            question_id = f"{chapter_name}_{question_counter:03d}"
+            question_counter += 1
+            
+            question_obj = {
+                "id": question_id,
+                "question": parsed.get('question'),
+                "options": parsed.get('options'),
+                "correct": parsed.get('correct'),
                 "model": model,
                 "chapter": chapter_name
-            })
-            all_questions.append(parsed)
-            print(f"INFO: Klausimas išsaugotas iš modelio {model}.")
+            }
+            all_questions.append(question_obj)
     
     try:
         with open(question_file, "w", encoding="utf-8") as f:
@@ -345,32 +352,57 @@ def json_to_csv(input_json_path: str, output_csv_path: str):
 
 def main():
     read_and_save_API_keys("API_keys.txt")
-    chapter="1sam17"
-    bible_path = Path(__file__).parent / "Bible" / f"{chapter}.txt"
-    bible_chapter = "".join((bible_path).read_text(encoding="utf-8"))
-    question_file = f"bible_questions_{chapter}_01.json"
-    evaluations_file = f"evaluations_{chapter}.json"
-
+    
+    book_path = Path(__file__).parent / "Bible" / "jono_evangelija"
+    
     models = [
         "gemini/gemini-2.5-flash",
-        "gemini/gemini-2.5-pro",
-        "groq/llama-3.3-70b-versatile",
-        "groq/llama-3.1-8b-instant",
+        #"gemini/gemini-2.5-pro",
+        #"groq/llama-3.3-70b-versatile",
+        #"groq/llama-3.1-8b-instant",
         #"openai/gpt-5"
     ]
+    
+    if not book_path.exists():
+        print(f"Klaida: aplankalas '{book_path}' nerastas.")
+        return
 
-
-
-    chapter_name = os.path.basename(bible_path).replace(".txt", "")
-    generate_questions(models, bible_chapter, chapter_name, question_file)
-
-    #questions = load_questions(question_file)
-    #if not questions:
-    #    return
-
-    #evaluate_questions(questions, models, bible_chapter, evaluations_file)
-    csv_path = f"evaluations_{chapter}.csv"
-    json_to_csv(evaluations_file, csv_path)
+    bible_files = sorted(book_path.glob("*.txt"))
+    
+    if not bible_files:
+        print(f"Klaida: jokių .txt failų nerasta '{book_path}'.")
+        return
+    
+    print(f"INFO: Rasta {len(bible_files)} failų. Pradedamas apdorojimas...")
+    
+    for bible_path in bible_files:
+        try:
+            print(f"\n{'='*60}")
+            print(f"Apdorojamas failas: {bible_path.name}")
+            print(f"{'='*60}")
+            
+            # Read chapter text
+            bible_chapter = bible_path.read_text(encoding="utf-8")
+            chapter_name = bible_path.stem 
+            
+            # Define output files
+            question_file = f"questions_{chapter_name}.json"
+            evaluations_file = f"evaluations_{chapter_name}.json"
+            
+            # Generate questions
+            generate_questions(models, bible_chapter, chapter_name, question_file)
+            
+            # Evaluate questions (commented out for now)
+            #questions = load_questions(question_file)
+            #if questions:
+            #    evaluate_questions(questions, models, bible_chapter, evaluations_file)
+            #    csv_path = f"evaluations_{chapter_name}.csv"
+            #    json_to_csv(evaluations_file, csv_path)
+            
+            print(f"✓ Failas {chapter_name} apdorotas sėkmingai.")
+            
+        except Exception as e:
+            print(f"✗ Klaida apdorojant {bible_path.name}: {e}")
 
 if __name__ == "__main__":
     main()

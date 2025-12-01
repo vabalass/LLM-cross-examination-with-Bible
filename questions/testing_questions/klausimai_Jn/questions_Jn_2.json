@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_2_001",
+    "question": "Kas pasakė tarnams Kanoje: „Darykite, ką tik jis jums lieps“?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Jėzaus motina",
+      "c": "Stalo prievaizdas",
+      "d": "Jaunikis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_002",
+    "question": "Kiek akmeninių indų, skirtų žydų apsiplovimams, buvo vestuvėse Kanoje?",
+    "options": {
+      "a": "Keturi",
+      "b": "Penki",
+      "c": "Šeši",
+      "d": "Septyni"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_003",
+    "question": "Ką stalo prievaizdas pasakė jaunikui, paragavęs vynu paversto vandens?",
+    "options": {
+      "a": "„Visi pirmiau stato geresnį vyną, o tu laikei jį iki šiolei.“",
+      "b": "„Šis vynas yra prastesnis už ankstesnįjį.“",
+      "c": "„Iš kur gavote tokio puikaus vyno?“",
+      "d": "„Kodėl jūs neturėjote daugiau vyno?“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_004",
+    "question": "Kur Jėzus nukeliavo po vestuvių Kanoje?",
+    "options": {
+      "a": "Į Nazaretą",
+      "b": "Į Jeruzalę",
+      "c": "Į Kafarnaumą",
+      "d": "Pasiliko Kanoje"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_005",
+    "question": "Ką Jėzus rado Šventykloje, atėjęs į Jeruzalę prieš Velykas?",
+    "options": {
+      "a": "Maldininkus ir kunigus",
+      "b": "Prekiaujančius jaučiais, avimis, balandžiais ir pinigų keitėjus",
+      "c": "Mokytojus, diskutuojančius apie Raštus",
+      "d": "Tuščią, apleistą vietą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_006",
+    "question": "Kokį ženklą žydai prašė Jėzaus, kad įrodytų savo teisę taip elgtis Šventykloje?",
+    "options": {
+      "a": "Išgydyti ligonį",
+      "b": "Padauginti duonos",
+      "c": "Sugriauti šventovę ir atstatyti per tris dienas",
+      "d": "Priversti akmenį kalbėti"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_007",
+    "question": "Apie kokią šventovę Jėzus kalbėjo, kai pasakė: „Sugriaukite šitą šventovę, o aš per tris dienas ją atstatysiu!“?",
+    "options": {
+      "a": "Apie Saliamono šventyklą",
+      "b": "Apie Herodono statytą šventyklą",
+      "c": "Apie savo kūno šventovę",
+      "d": "Apie sinagogą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_008",
+    "question": "Kodėl Jėzus nepasitikėjo daugelio žmonių, kurie įtikėjo jo vardą per Velykų šventes Jeruzalėje?",
+    "options": {
+      "a": "Jie nepakankamai greitai įtikėjo.",
+      "b": "Jie atsisakė sekti jį.",
+      "c": "Jis žinojo, kas yra žmogaus viduje ir jam nereikėjo paliudijimų.",
+      "d": "Jis žinojo, kad jie meluoja."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_2"
+  }
+]

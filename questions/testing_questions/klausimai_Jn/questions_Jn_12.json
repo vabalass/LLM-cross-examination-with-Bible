@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Jn_12_001",
+    "question": "Kiek dienų likus iki Velykų Jėzus atėjo į Betaniją?",
+    "options": {
+      "a": "Septynioms",
+      "b": "Šešioms",
+      "c": "Penkioms",
+      "d": "Keturioms"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_002",
+    "question": "Ką Marija padarė Jėzui Betanijoje?",
+    "options": {
+      "a": "Padavė jam maisto",
+      "b": "Nuplovė jam kojas vandeniu",
+      "c": "Patepė jam kojas brangiais tepalais ir nušluostė savo plaukais",
+      "d": "Padovanojo jam pinigų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_003",
+    "question": "Kas tarnavo per vaišes Betanijoje?",
+    "options": {
+      "a": "Marija",
+      "b": "Lozorius",
+      "c": "Morta",
+      "d": "Judas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_004",
+    "question": "Kas supyko dėl Marijos veiksmo patepant Jėzų?",
+    "options": {
+      "a": "Pilypas",
+      "b": "Morta",
+      "c": "Judas Iskarijotas",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_005",
+    "question": "Už kokią sumą buvo galima parduoti Marijos panaudotus tepalus?",
+    "options": {
+      "a": "Šimtą denarų",
+      "b": "Du šimtus denarų",
+      "c": "Tris šimtus denarų",
+      "d": "Penkis šimtus denarų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_006",
+    "question": "Jėzus pasakė, kad vargšų visuomet turėsime su savimi. O kas ne visuomet bus?",
+    "options": {
+      "a": "Jo mokiniai",
+      "b": "Jo Tėvas",
+      "c": "Jis pats",
+      "d": "Izraelio karalius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_007",
+    "question": "Dėl ko aukštieji kunigai nusprendė nužudyti Lozorių?",
+    "options": {
+      "a": "Nes jis buvo pavogęs iš šventyklos",
+      "b": "Nes per jį daugybė žydų atsitraukė nuo kunigų ir įtikėjo Jėzų",
+      "c": "Nes jis sukėlė neramumus mieste",
+      "d": "Nes jis buvo pavydus Jėzaus populiarumo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_008",
+    "question": "Su kuo žmonės išėjo pasitikti Jėzaus, kai jis artėjo prie Jeruzalės?",
+    "options": {
+      "a": "Su alyvmedžio šakomis",
+      "b": "Su rožių vainikais",
+      "c": "Su palmių šakomis",
+      "d": "Su gėlių puokštėmis"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_009",
+    "question": "Ant kokio gyvūno Jėzus jojo į Jeruzalę?",
+    "options": {
+      "a": "Ant arklio",
+      "b": "Ant kupranugario",
+      "c": "Ant asiliuko",
+      "d": "Ant avies"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_010",
+    "question": "Ką šaukė minia, pasitikdama Jėzų?",
+    "options": {
+      "a": "„Šlovė Karaliui!“",
+      "b": "„Hosana! Garbė tam, kuris ateina Viešpaties vardu – Izraelio Karaliui!“",
+      "c": "„Te gyvuoja Mesijas!“",
+      "d": "„Ateik, Viešpatie!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_011",
+    "question": "Kokie žmonės atėjo pas Pilypą, norėdami pamatyti Jėzų?",
+    "options": {
+      "a": "Romėnai",
+      "b": "Samariečiai",
+      "c": "Graikai",
+      "d": "Egipto pirkliai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_012",
+    "question": "Ką Jėzus pasakė apie kviečių grūdą, kuris turi apmirti, kad duotų gausių vaisių?",
+    "options": {
+      "a": "Jis pasiliks vienas, jei neapmirs",
+      "b": "Jis negalės išdygti, jei apmirs",
+      "c": "Jis taps duona be apmirties",
+      "d": "Jis duos gausių vaisių net neapmirdamas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_013",
+    "question": "Išgirdusi balsą iš dangaus, minia manė, kad tai buvo kas?",
+    "options": {
+      "a": "Angeliškas giesmės",
+      "b": "Pranašo balsas",
+      "c": "Griaustinis arba angelas jam kalbėjo",
+      "d": "Demono balsas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_014",
+    "question": "Kaip Jėzus atsakė, kai žmonės paklausė, kodėl jis sako, kad Žmogaus Sūnus turės būti iškeltas aukštyn, jei Mesijas pasiliks per amžius?",
+    "options": {
+      "a": "„Aš esu šviesa pasaulyje“",
+      "b": "„Jau nebeilgai šviesa bus tarp jūsų. Vaikščiokite, kol turite šviesą“",
+      "c": "„Aš esu Mesijas, o ne Žmogaus Sūnus“",
+      "d": "„Tai paslaptis, kuri bus atskleista vėliau“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_015",
+    "question": "Kas, anot pranašo Izaijo, buvo padaryta žmonėms, kad jie negalėtų tikėti?",
+    "options": {
+      "a": "Buvo apakintos jų akys ir sukietinta širdis",
+      "b": "Jie buvo išvaryti iš sinagogų",
+      "c": "Jiems buvo uždrausta klausytis Jėzaus",
+      "d": "Jų protas buvo aptemdytas mokinant klaidingus mokymus"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_016",
+    "question": "Ką Jėzus sako atėjęs padaryti pasaulyje?",
+    "options": {
+      "a": "Teisti pasaulio",
+      "b": "Pagerbti fariziejus",
+      "c": "Gelbėti pasaulio",
+      "d": "Valdyti žemės karalius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_12"
+  }
+]

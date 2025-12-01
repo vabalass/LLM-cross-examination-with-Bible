@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Jn_4_001",
+    "question": "Kodėl Jėzus paliko Judėją ir išėjo į Galilėją?",
+    "options": {
+      "a": "Nes fariziejai išgirdo, kad jis krikštija daugiau mokinių už Joną.",
+      "b": "Norėjo aplankyti savo tėviškę Galilėją.",
+      "c": "Norėjo susitikti su samariečiais.",
+      "d": "Bėgo nuo romėnų valdžios."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_002",
+    "question": "Per kurią sritį Jėzui reikėjo eiti, keliaujant iš Judėjos į Galilėją?",
+    "options": {
+      "a": "Dekapolį",
+      "b": "Samariją",
+      "c": "Idumėją",
+      "d": "Pereją"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_003",
+    "question": "Koks buvo Samarijos miesto, kuriame Jėzus sustojo, pavadinimas?",
+    "options": {
+      "a": "Kana",
+      "b": "Betliejus",
+      "c": "Sicharas",
+      "d": "Nazaretas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_004",
+    "question": "Kieno šulinys buvo prie Sicharo miesto, kur Jėzus prisėdo?",
+    "options": {
+      "a": "Mozės",
+      "b": "Abraomo",
+      "c": "Juozapo",
+      "d": "Jokūbo"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_005",
+    "question": "Kodėl Jėzaus mokiniai nebuvo su juo prie šulinio?",
+    "options": {
+      "a": "Buvo nuėję į Jeruzalę melstis.",
+      "b": "Buvo nuėję į miestą nusipirkti maisto.",
+      "c": "Miegojo netoliese.",
+      "d": "Padėjo Jėzui krikštyti žmones."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_006",
+    "question": "Kodėl samarietė moteris stebėjosi, kad Jėzus, būdamas žydas, prašo jos atsigerti?",
+    "options": {
+      "a": "Žydai nemėgo samariečių vandens.",
+      "b": "Žydai nebendrauja su samariečiais.",
+      "c": "Žydams nebuvo leidžiama kalbėtis su moterimis viešai.",
+      "d": "Ji turėjo tik nešvarų vandenį."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_007",
+    "question": "Kokį vandenį Jėzus pažadėjo duoti moteriai, nuo kurio ji nebetrokš per amžius?",
+    "options": {
+      "a": "Šulinio vandenį.",
+      "b": "Gyvąjį vandenį.",
+      "c": "Šviežią šaltinio vandenį.",
+      "d": "Vandenį iš Jordano upės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_008",
+    "question": "Kiek vyrų buvo turėjusi samarietė moteris, kaip Jėzus atskleidė?",
+    "options": {
+      "a": "Du",
+      "b": "Trys",
+      "c": "Penkis",
+      "d": "Nė vieno"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_009",
+    "question": "Ką moteris suprato apie Jėzų, kai jis atskleidė jos gyvenimo detales?",
+    "options": {
+      "a": "Kad jis yra apsišaukėlis.",
+      "b": "Kad jis yra pranašas.",
+      "c": "Kad jis yra Jeruzalės gyventojas.",
+      "d": "Kad jis yra išminčius."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_010",
+    "question": "Kaip, anot Jėzaus, tikrieji garbintojai šlovins Tėvą?",
+    "options": {
+      "a": "Ant kalno.",
+      "b": "Jeruzalėje.",
+      "c": "Dvasia ir tiesa.",
+      "d": "Šventykloje su aukomis."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_011",
+    "question": "Kas, pasak moters, atėjęs viską paskelbs?",
+    "options": {
+      "a": "Elijas",
+      "b": "Mozė",
+      "c": "Mesijas",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_012",
+    "question": "Ką Jėzus atsakė moteriai, kai ji paminėjo Mesiją?",
+    "options": {
+      "a": "„Aš esu tas, kuris su tavimi kalba!“",
+      "b": "„Palauk, jis netrukus ateis.“",
+      "c": "„Aš nežinau, kada jis ateis.“",
+      "d": "„Tu klysti dėl jo atėjimo.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_013",
+    "question": "Ką padarė samarietė moteris, išgirdusi Jėzaus žodžius?",
+    "options": {
+      "a": "Atsisveikino ir nuėjo namo.",
+      "b": "Paliko ąsotį ir nubėgo į miestą pasakyti žmonėms.",
+      "c": "Paprašė Jėzų ateiti į jos namus.",
+      "d": "Iškart įtikėjo ir daugiau niekam nepasakojo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_014",
+    "question": "Kas, anot Jėzaus, buvo jo maistas?",
+    "options": {
+      "a": "Duona ir vanduo.",
+      "b": "Vykdyti valią to, kuris jį siuntė, ir baigti jo darbą.",
+      "c": "Žuvys ir vynas.",
+      "d": "Alyvuogės ir figos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_015",
+    "question": "Kiek dienų Jėzus pasiliko pas samariečius, jiems paprašius?",
+    "options": {
+      "a": "Vieną dieną.",
+      "b": "Dvi dienas.",
+      "c": "Tris dienas.",
+      "d": "Savaitę."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_016",
+    "question": "Kaip galilėjiečiai priėmė Jėzų, jam sugrįžus iš Judėjos?",
+    "options": {
+      "a": "Su abejingumu.",
+      "b": "Su nepasitikėjimu.",
+      "c": "Pagarbiai, nes buvo matę jo darbus per šventes Jeruzalėje.",
+      "d": "Su priešiškumu, nes jis negerbiamas tėviškėje."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_017",
+    "question": "Ką Jėzus buvo padaręs Galilėjos Kanoje prieš grįždamas į Kafarnaumą?",
+    "options": {
+      "a": "Išgydė akląjį.",
+      "b": "Pamokslavo miniai.",
+      "c": "Pavertė vandenį vynu.",
+      "d": "Išvarė piktąsias dvasias."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_018",
+    "question": "Kokiu ženklu buvo karaliaus valdininko sūnaus pagydymas, Jėzui sugrįžus iš Judėjos į Galilėją?",
+    "options": {
+      "a": "Pirmasis ženklas.",
+      "b": "Antrasis ženklas.",
+      "c": "Trečiasis ženklas.",
+      "d": "Tai nebuvo priskirta ženklams."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_4"
+  }
+]

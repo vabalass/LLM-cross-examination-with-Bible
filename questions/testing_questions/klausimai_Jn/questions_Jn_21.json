@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_21_001",
+    "question": "Pagal Jn 21 pradžią, prie kurio ežero Jėzus vėl pasirodė mokiniams?",
+    "options": {
+      "a": "Tiberiados ežero",
+      "b": "Negyvosios jūros",
+      "c": "Galilėjos jūros",
+      "d": "Jordano upės"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_002",
+    "question": "Kuris iš šių asmenų nebuvo minimas tarp mokinių, buvusių su Petru prie ežero, kai jie nuėjo žvejoti?",
+    "options": {
+      "a": "Tomas, vadinamas Dvyniu",
+      "b": "Natanaelis iš Galilėjos Kanos",
+      "c": "Jokūbas",
+      "d": "Zebediejaus sūnūs"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_003",
+    "question": "Kas nutiko mokiniams, kai jie nuėjo žvejoti tą naktį, dar nepasirodžius Jėzui?",
+    "options": {
+      "a": "Sugavo daug mažų žuvų",
+      "b": "Sugavo kelias dideles žuvis",
+      "c": "Nieko nesugavo",
+      "d": "Tinklas suplyšo nuo gausybės žuvų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_004",
+    "question": "Kur Jėzus liepė mokiniams užmesti tinklą, kad pagautų žuvų?",
+    "options": {
+      "a": "Į kairę nuo valties",
+      "b": "Už valties",
+      "c": "Į dešinę nuo valties",
+      "d": "Prie pat kranto"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_005",
+    "question": "Kiek didelių žuvų Petras išvilko į krantą, kai Jėzus liepė jiems užmesti tinklą?",
+    "options": {
+      "a": "Šimtą penkiasdešimt",
+      "b": "Šimtą penkiasdešimt dvi",
+      "c": "Šimtą penkiasdešimt tris",
+      "d": "Du šimtus tris"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_006",
+    "question": "Kiek kartų Jėzus buvo pasirodęs mokiniams, prisikėlęs iš numirusiųjų, iki šio įvykio prie ežero?",
+    "options": {
+      "a": "Pirmą kartą",
+      "b": "Antrą kartą",
+      "c": "Trečią kartą",
+      "d": "Ketvirtą kartą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_007",
+    "question": "Kokia Simono Petro reakcija buvo į trečiąjį Jėzaus klausimą: „Simonai, Jono sūnau, ar myli mane?“",
+    "options": {
+      "a": "Jis džiaugėsi",
+      "b": "Jis nuliūdo",
+      "c": "Jis supyko",
+      "d": "Jis nustebo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_008",
+    "question": "Ką Jėzus pasakė, nurodydamas, kokia mirtimi Petras pašlovinsiąs Dievą?",
+    "options": {
+      "a": "Kad jis mirs ramia senatve savo namuose",
+      "b": "Kad jį nužudys svetimi žmonės kitoje šalyje",
+      "c": "Kad jis pats pasirinks savo mirties būdą",
+      "d": "Kad pasenęs jis išties rankas, kitas jį perjuos ir ves, kur nenori"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_21"
+  }
+]

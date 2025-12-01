@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_10_001",
+    "question": "Kas, pagal Jėzų, yra vagis ir plėšikas?",
+    "options": {
+      "a": "Tas, kuris ateina pro vartus į avių gardą.",
+      "b": "Tas, kuris įkopia į avių gardą pro kur kitur.",
+      "c": "Tas, kurio balsą avys pažįsta.",
+      "d": "Tas, kuriam sargas atkelia vartus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_002",
+    "question": "Ką avys daro, kai ganytojas jas išsiveda?",
+    "options": {
+      "a": "Jos bėga nuo jo.",
+      "b": "Jos nepažįsta jo balso.",
+      "c": "Jos seka paskui jį.",
+      "d": "Jos slepiasi nuo jo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_003",
+    "question": "Ką Jėzus pasakė esąs, aiškindamas palyginimą apie avių gardą?",
+    "options": {
+      "a": "Avių sargas.",
+      "b": "Avių vartai.",
+      "c": "Avių samdinys.",
+      "d": "Avių vilkas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_004",
+    "question": "Koks yra vagies, ateinančio į avių gardą, tikslas?",
+    "options": {
+      "a": "Vesti avis į ganyklas.",
+      "b": "Ginti avis nuo vilkų.",
+      "c": "Vogti, žudyti, naikinti.",
+      "d": "Pažinti avis vardais."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_005",
+    "question": "Ką gerasis ganytojas daro už avis?",
+    "options": {
+      "a": "Samdo samdinius joms prižiūrėti.",
+      "b": "Guldo gyvybę už jas.",
+      "c": "Paslepia jas nuo vilkų.",
+      "d": "Įeina ir išeina pro vartus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_006",
+    "question": "Kuo skiriasi samdinys nuo gerojo ganytojo, pamatęs sėlinantį vilką?",
+    "options": {
+      "a": "Samdinys pasilieka ir gina avis.",
+      "b": "Samdinys puola vilką.",
+      "c": "Samdinys palieka avis ir pabėga.",
+      "d": "Samdinys šaukia kitus ganytojus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_007",
+    "question": "Kaip Jėzus apibūdina savo ir Tėvo tarpusavio pažinimą, lygindamas jį su ganytojo ir avių pažinimu?",
+    "options": {
+      "a": "Tėvas pažįsta Jėzų, bet Jėzus nepažįsta Tėvo.",
+      "b": "Jėzus pažįsta savąsias avis, kaip jį pažįsta Tėvas ir jis pažįsta Tėvą.",
+      "c": "Avys pažįsta Tėvą, bet ne Jėzų.",
+      "d": "Tik Tėvas pažįsta visas avis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_008",
+    "question": "Kodėl Tėvas myli Jėzų?",
+    "options": {
+      "a": "Nes Jėzus daro stebuklus.",
+      "b": "Nes Jėzus guldys savo gyvybę, kad ir vėl ją pasiimtų.",
+      "c": "Nes Jėzus moko Įstatymo.",
+      "d": "Nes Jėzus turi daug avių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_009",
+    "question": "Kaip Jėzus atiduoda savo gyvybę?",
+    "options": {
+      "a": "Niekas neatima jos iš jo, bet jis pats ją laisvai atiduoda.",
+      "b": "Ją atima žydai.",
+      "c": "Ją atima romėnai.",
+      "d": "Ją atima vilkas."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_010",
+    "question": "Kokia šventė buvo Jeruzalėje, kai Jėzus vaikščiojo Saliamono stogine?",
+    "options": {
+      "a": "Paschos iškilmės.",
+      "b": "Palapinių iškilmės.",
+      "c": "Šventyklos pašventinimo iškilmė.",
+      "d": "Derliaus šventė."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_011",
+    "question": "Ką Jėzus duoda savo avims, kurios klauso jo balso ir seka paskui jį?",
+    "options": {
+      "a": "Žemiškąją karalystę.",
+      "b": "Daug ganyklų.",
+      "c": "Amžinąjį gyvenimą.",
+      "d": "Apsaugą nuo samdinių."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_012",
+    "question": "Ką Jėzus pareiškė apie save ir Tėvą, dėl ko žydai vėl stvėrėsi akmenų?",
+    "options": {
+      "a": "Aš esu Mesijas.",
+      "b": "Aš ir Tėvas esame viena.",
+      "c": "Aš esu ganytojas.",
+      "d": "Aš atėjau atverti neregiams akis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_013",
+    "question": "Už kokį veiksmą žydai norėjo užmušti Jėzų, anot jų pačių?",
+    "options": {
+      "a": "Už gerų darbų darymą.",
+      "b": "Už piktžodžiavimą, nes jis, būdamas žmogus, dedasi Dievu.",
+      "c": "Už tai, kad jis kalba palyginimais.",
+      "d": "Už tai, kad jis vaikšto po Saliamono stoginę."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_014",
+    "question": "Ką žmonės kalbėjo apie Joną Krikštytoją ir Jėzų, kai Jėzus pasitraukė anapus Jordano?",
+    "options": {
+      "a": "Jonas padarė daug ženklų, o Jėzus – ne.",
+      "b": "Jonas nepadarė nė vieno ženklo, bet ką jis pasakė apie Jėzų, buvo teisybė.",
+      "c": "Jonas ir Jėzus abu padarė daug ženklų.",
+      "d": "Jonas buvo didesnis pranašas už Jėzų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_10"
+  }
+]

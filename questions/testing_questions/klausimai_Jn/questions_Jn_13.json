@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Jn_13_001",
+    "question": "Kada įvyko įvykiai, aprašyti Jono evangelijos 13 skyriuje?",
+    "options": {
+      "a": "Prieš Velykų šventes.",
+      "b": "Po Velykų švenčių.",
+      "c": "Per Pirmosios Komunijos šventę.",
+      "d": "Per atminimo šventę."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_002",
+    "question": "Ką Jėzus žinojo prieš plaudamas mokiniams kojas?",
+    "options": {
+      "a": "Kad atėjo valanda jam keliauti pas Tėvą.",
+      "b": "Kad jam reikės eiti į kalnus melstis.",
+      "c": "Kad mokiniams reikia maisto.",
+      "d": "Kad bus saulėlydis."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_003",
+    "question": "Kas įkvėpė Simono Iskarijoto sūnaus Judo širdin sumanymą išduoti Jėzų?",
+    "options": {
+      "a": "Velnias.",
+      "b": "Kiti mokiniai.",
+      "c": "Romos kareiviai.",
+      "d": "Jo paties sąžinė."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_004",
+    "question": "Ką Jėzus padarė prieš pradėdamas plauti mokiniams kojas?",
+    "options": {
+      "a": "Atsisėdo ir pradėjo kalbėti.",
+      "b": "Pakilo nuo stalo, nusivilko viršutinius drabužius ir persijuosė rankšluosčiu.",
+      "c": "Išėjo iš namų ieškoti vandens.",
+      "d": "Liepė Petrui paruošti praustuvą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_005",
+    "question": "Kaip Simonas Petras reagavo, kai Jėzus priėjo plauti jam kojų?",
+    "options": {
+      "a": "Iškart sutiko ir padėkojo.",
+      "b": "Paklausė: „Viešpatie, nejau tu mazgosi man kojas!“",
+      "c": "Paprašė, kad Jėzus pradėtų nuo jo.",
+      "d": "Pasakė, kad jau pats nusiprausė."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_006",
+    "question": "Ką Jėzus pasakė Petrui, kai šis atsisakė leistis jam plauti kojas?",
+    "options": {
+      "a": "„Gerai, bet aš neplausiu niekam kitam.“",
+      "b": "„Jei tavęs nenumazgosiu, neturėsi dalies su manimi.“",
+      "c": "„Tada tau teks pačiam nusimazgoti.“",
+      "d": "„Tada aš eisiu pas kitus.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_007",
+    "question": "Ką Simonas Petras sušuko, supratęs Jėzaus žodžius apie dalį su juo?",
+    "options": {
+      "a": "„Viešpatie, aš darysiu, ką tik liepsi!“",
+      "b": "„Viešpatie, ne tik mano kojas, bet ir rankas, ir galvą!“",
+      "c": "„Viešpatie, aš dabar suprantu!“",
+      "d": "„Viešpatie, prašau atleisk man!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_008",
+    "question": "Kokį pavyzdį Jėzus davė plovimu kojų?",
+    "options": {
+      "a": "Kad mokytų juos švaros.",
+      "b": "Kad ir jie darytų, kaip jis jiems darė.",
+      "c": "Kad parodytų savo galią.",
+      "d": "Kad nusižemintų prieš Dievą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_009",
+    "question": "Koks naujas įsakymas buvo duotas mokiniams?",
+    "options": {
+      "a": "Meldžiamasi kasdien.",
+      "b": "Dalintis visa, ką turi.",
+      "c": "Vienas kitą mylėti.",
+      "d": "Apsivalyti prieš kiekvieną valgį."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_010",
+    "question": "Kaip kiti pažins, kad esate Jėzaus mokiniai, pagal jo žodžius?",
+    "options": {
+      "a": "Pagal tai, kaip gerai mokate Raštus.",
+      "b": "Pagal tai, jei mylėsite vieni kitus.",
+      "c": "Pagal tai, kiek stebuklų darysite.",
+      "d": "Pagal tai, kiek pinigų paaukosite."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_011",
+    "question": "Kaip Jėzus nurodė, kas jį išduos?",
+    "options": {
+      "a": "Pasakė vardą garsiai.",
+      "b": "Parodė pirštu į jį.",
+      "c": "Tai buvo tas, kuriam jis padažęs padavė kąsnį.",
+      "d": "Išėjimu iš kambario."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_012",
+    "question": "Ką Jėzus išpranašavo Simonui Petrui, kai šis pasakė, kad guldys už jį gyvybę?",
+    "options": {
+      "a": "Kad Petras taps lyderiu.",
+      "b": "Kad dar gaidžiams nepragydus, Petras tris kartus jo išsigins.",
+      "c": "Kad Petras jį lydės visur.",
+      "d": "Kad Petras jam padės išvengti mirties."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_13"
+  }
+]

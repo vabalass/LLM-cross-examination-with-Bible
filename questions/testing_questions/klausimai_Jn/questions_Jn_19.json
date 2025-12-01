@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_19_001",
+    "question": "Ką kareiviai užspaudė Jėzui ant galvos?",
+    "options": {
+      "a": "Erškėčių vainiką",
+      "b": "Lauro vainiką",
+      "c": "Metalinį šalmą",
+      "d": "Karūną iš brangakmenių"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_002",
+    "question": "Ką Pilotas pasakė išvesdamas Jėzų pas žmones su erškėčių vainiku ir purpurine skraiste?",
+    "options": {
+      "a": "„Štai žmogus!“",
+      "b": "„Štai jūsų karalius!“",
+      "c": "„Aš nerandu jame jokios kaltės!“",
+      "d": "„Jūs imkite ir patys nukryžiuokite!“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_003",
+    "question": "Pagal žydų Įstatymą, kodėl Jėzus turėjo mirti?",
+    "options": {
+      "a": "Nes jis laikė save Dievo Sūnumi",
+      "b": "Nes jis šventė šabą netinkamai",
+      "c": "Nes jis kurstė žmones prieš ciesorių",
+      "d": "Nes jis atsisakė mokėti mokesčius"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_004",
+    "question": "Ką Jėzus pasakė Pilotui apie jo galią?",
+    "options": {
+      "a": "„Tu neturėtum man jokios galios, jeigu tau nebūtų jos duota iš aukštybių.“",
+      "b": "„Tavo galia yra niekinė prieš Dievo galią.“",
+      "c": "„Tu turi visą galią nuteisti arba paleisti mane.“",
+      "d": "„Aš pats turiu daugiau galios nei tu.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_005",
+    "question": "Kokį argumentą žydai naudojo, kad Pilotas nepaleistų Jėzaus?",
+    "options": {
+      "a": "„Jei šitą paleidi, nebesi ciesoriaus draugas.“",
+      "b": "„Jis yra pavojingas maištininkas.“",
+      "c": "„Jis yra burtininkas ir apgaudinėja žmones.“",
+      "d": "„Mūsų Įstatymas reikalauja jo mirties.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_006",
+    "question": "Koks buvo hebrajiškas vietos, kur Pilotas atsisėdo į teisėjo krėslą, pavadinimas?",
+    "options": {
+      "a": "Gabata",
+      "b": "Golgota",
+      "c": "Getsemanė",
+      "d": "Galilėja"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_007",
+    "question": "Kurią valandą buvo Velykų išvakarės, kai Pilotas tarė žydams: „Štai jūsų karalius!“?",
+    "options": {
+      "a": "Apie šeštą valandą",
+      "b": "Apie trečią valandą",
+      "c": "Apie devintą valandą",
+      "d": "Apie vidurnaktį"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_008",
+    "question": "Koks buvo hebrajiškas pavadinimas vietos, kur Jėzus buvo nukryžiuotas?",
+    "options": {
+      "a": "Golgota",
+      "b": "Gabata",
+      "c": "Nazaretas",
+      "d": "Betliejus"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_009",
+    "question": "Koks užrašas buvo prisegtas prie Jėzaus kryžiaus?",
+    "options": {
+      "a": "„Jėzus Nazarietis, žydų karalius“",
+      "b": "„Šitas skelbėsi: aš esu žydų karalius“",
+      "c": "„Nukryžiuotasis nusikaltėlis“",
+      "d": "„Dievo Sūnus“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_010",
+    "question": "Ką kareiviai padarė su Jėzaus tunika?",
+    "options": {
+      "a": "Metė burtą, kam ji teks, nes buvo be siūlės, ištisai megzta",
+      "b": "Padalijo ją į keturias dalis, kaip ir kitus drabužius",
+      "c": "Atidavė ją Jėzaus motinai",
+      "d": "Sudegino ją"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_011",
+    "question": "Kuris iš šių žmonių stovėjo prie Jėzaus kryžiaus?",
+    "options": {
+      "a": "Marija Magdalietė",
+      "b": "Pilotas",
+      "c": "Petras",
+      "d": "Jokūbas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_012",
+    "question": "Kokie buvo Jėzaus žodžiai po to, kai paragavo perrūgusio vyno, prieš atiduodamas dvasią?",
+    "options": {
+      "a": "„Atlikta!“",
+      "b": "„Trokštu!“",
+      "c": "„Tėve, atleisk jiems, nes jie nežino, ką daro.“",
+      "d": "„Į tavo rankas atiduodu savo dvasią.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_013",
+    "question": "Kas ištekėjo iš Jėzaus šono, kai kareivis jį perdūrė ietimi?",
+    "options": {
+      "a": "Kraujas ir vanduo",
+      "b": "Tik kraujas",
+      "c": "Tik vanduo",
+      "d": "Nieko"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_014",
+    "question": "Kas atsigabeno apie šimtą svarų miros ir alavijo mišinio Jėzaus kūnui apdoroti laidojimui?",
+    "options": {
+      "a": "Nikodemas",
+      "b": "Juozapas iš Arimatėjos",
+      "c": "Mylimasis mokinys",
+      "d": "Pilotas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_19"
+  }
+]

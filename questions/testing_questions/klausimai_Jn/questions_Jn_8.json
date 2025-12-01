@@ -1,0 +1,249 @@
+[
+  {
+    "id": "Jn_8_001",
+    "question": "Kur Jėzus nuėjo prieš pasirodydamas šventykloje auštant?",
+    "options": {
+      "a": "Į Alyvų kalną",
+      "b": "Į Galilėjos ežerą",
+      "c": "Į Betliejų",
+      "d": "Į Kafarnaumą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_002",
+    "question": "Ką Rašto aiškintojai ir fariziejai atvedė pas Jėzų?",
+    "options": {
+      "a": "Ligotą žmogų",
+      "b": "Moterį, sugautą svetimaujant",
+      "c": "Aklą elgetą",
+      "d": "Romos šimtininką"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_003",
+    "question": "Ką Mozės Įstatymas liepė daryti su moterimis, sugautomis svetimaujant?",
+    "options": {
+      "a": "Išvaryti iš miesto",
+      "b": "Apriboti laisvę",
+      "c": "Užmušti akmenimis",
+      "d": "Viešai sugėdinti"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_004",
+    "question": "Ką Jėzus padarė, kai jam nesiliaujant kamantinėti, jis pasilenkė?",
+    "options": {
+      "a": "Kalbėjo parabolę",
+      "b": "Melstis",
+      "c": "Pirštu rašė ant žemės",
+      "d": "Pasmerkė fariziejus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_005",
+    "question": "Ką Jėzus pasakė tiems, kurie kamantinėjo jį dėl moters?",
+    "options": {
+      "a": "„Kas nori, tegu atleidžia jai.“",
+      "b": "„Kas iš jūsų be nuodėmės, tegu pirmas sviedžia į ją akmenį.“",
+      "c": "„Tegul nusprendžia seniūnai.“",
+      "d": "„Eikite ir daugiau nenusidėkite.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_006",
+    "question": "Kas ėmė trauktis šalin, išgirdę Jėzaus žodžius?",
+    "options": {
+      "a": "Tik jaunesnieji",
+      "b": "Visi kartu",
+      "c": "Vienas po kito, pradedant nuo vyresniųjų",
+      "d": "Tik moterys"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_007",
+    "question": "Ką Jėzus pasakė moteriai, kai niekas jos nepasmerkė?",
+    "options": {
+      "a": "„Tavo tikėjimas tave išgelbėjo.“",
+      "b": "„Eik ir daugiau nebenusidėk.“",
+      "c": "„Tegul Dievas tau atleidžia.“",
+      "d": "„Gali grįžti pas savo vyrą.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_008",
+    "question": "Kuo Jėzus paskelbė esąs?",
+    "options": {
+      "a": "Tautos išgelbėtoju",
+      "b": "Pasaulio šviesa",
+      "c": "Dievo pranašu",
+      "d": "Mozės pasekėju"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_009",
+    "question": "Kodėl fariziejai prikišo Jėzui, kad jo liudijimas netikras?",
+    "options": {
+      "a": "Nes jis kalbėjo be Raštų.",
+      "b": "Nes jis kalbėjo apie save patį.",
+      "c": "Nes jo mokymas prieštaravo Įstatymui.",
+      "d": "Nes jis nebuvo rabinas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_010",
+    "question": "Kodėl Jėzus teigė, kad jo liudijimas yra tikras?",
+    "options": {
+      "a": "Nes jis buvo iš Nazareto.",
+      "b": "Nes jį palaikė mokiniai.",
+      "c": "Nes jis žinojo, iš kur yra atėjęs ir kur eina.",
+      "d": "Nes jis darė stebuklus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_011",
+    "question": "Kur Jėzus pasakė šiuos žodžius, mokydamas?",
+    "options": {
+      "a": "Ant Alyvų kalno",
+      "b": "Šventyklos iždinėje",
+      "c": "Sinagogoje",
+      "d": "Prie ežero kranto"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_012",
+    "question": "Iš kur, anot Jėzaus, jis pats yra?",
+    "options": {
+      "a": "Iš pažemių",
+      "b": "Iš šio pasaulio",
+      "c": "Iš aukštybės",
+      "d": "Iš Galilėjos"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_013",
+    "question": "Su kokia sąlyga, anot Jėzaus, žmonės numirs savo nuodėmėse?",
+    "options": {
+      "a": "Jei laikysis Įstatymo.",
+      "b": "Jei netikės, kad Aš Esu.",
+      "c": "Jei neatsivers.",
+      "d": "Jei neatliks aukų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_014",
+    "question": "Ką, pasak Jėzaus, mokiniai pažins ir kas juos padarys laisvus?",
+    "options": {
+      "a": "Įstatymą",
+      "b": "Tiesą",
+      "c": "Išmintį",
+      "d": "Dievo valią"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_015",
+    "question": "Kas, pasak Jėzaus, yra nuodėmės vergas?",
+    "options": {
+      "a": "Kiekvienas, kas daro nuodėmę.",
+      "b": "Tik pagonys.",
+      "c": "Tik tie, kurie nepažįsta Dievo.",
+      "d": "Kiekvienas, kas nepaklūsta Romos valdžiai."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_016",
+    "question": "Kas, anot Jėzaus, yra žydų tėvas, jei jie nori jį nužudyti ir nedaro Abraomo darbų?",
+    "options": {
+      "a": "Mozė",
+      "b": "Abraomas",
+      "c": "Velnias",
+      "d": "Cezaris"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_017",
+    "question": "Ką žydai atsiliepė, kai Jėzus kalbėjo apie Tėvą?",
+    "options": {
+      "a": "„Tu esi didis mokytojas.“",
+      "b": "„Argi mes ne teisingai sakome, kad tu samarietis ir velnio apsėstas?!“",
+      "c": "„Parodyk mums Tėvą.“",
+      "d": "„Mes tikime tavo žodžiais.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_018",
+    "question": "Ką Jėzus pažadėjo tiems, kurie laikysis jo žodžio?",
+    "options": {
+      "a": "Amžinąjį gyvenimą po mirties.",
+      "b": "Neragaus mirties per amžius.",
+      "c": "Taps didžiais pranašais.",
+      "d": "Bus išgelbėti nuo romėnų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_019",
+    "question": "Ką Jėzus atsakė žydams, kai jie klausė, ar jis matė Abraomą?",
+    "options": {
+      "a": "„Aš buvau kartu su Abraomu.“",
+      "b": "„Abraomas išvydo manąją dieną.“",
+      "c": "„Pirmiau, negu gimė Abraomas, Aš Esu!“",
+      "d": "„Aš esu Abraomo palikuonis.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_8"
+  }
+]

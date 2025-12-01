@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Jn_3_001",
+    "question": "Kas buvo Nikodemas?",
+    "options": {
+      "a": "Fariziejus ir žydų didžiūnas.",
+      "b": "Jono Krikštytojo mokinys.",
+      "c": "Romos valdytojas Judėjoje.",
+      "d": "Jėzaus giminaitis."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_002",
+    "question": "Kodėl, pasak Nikodemo, Jėzus negalėjo daryti tokių ženklų be Dievo?",
+    "options": {
+      "a": "Nes jis buvo kaimo gyventojas.",
+      "b": "Nes niekas negalėtų padaryti tokių ženklų, jeigu Dievas nebūtų su juo.",
+      "c": "Nes Jėzus buvo pernelyg jaunas.",
+      "d": "Nes jis buvo tik paprastas mokytojas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_003",
+    "question": "Ką Jėzus pasakė Nikodemui, kas yra būtina norint regėti Dievo karalystę?",
+    "options": {
+      "a": "Būti fariziejumi.",
+      "b": "Atgimti iš aukštybės.",
+      "c": "Apsilankyti Jeruzalės šventykloje.",
+      "d": "Būti Izraelio mokytoju."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_004",
+    "question": "Kaip Nikodemas iš pradžių suprato frazę 'gimti iš naujo'?",
+    "options": {
+      "a": "Kaip dvasinę transformaciją.",
+      "b": "Kaip antrą kartą įeiti į savo motinos įsčias ir vėl užgimti.",
+      "c": "Kaip atsivertimą į naują tikėjimą.",
+      "d": "Kaip fizinį atjaunėjimą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_005",
+    "question": "Ką Jėzus teigė esant reikalinga norint įeiti į Dievo karalystę, paaiškindamas Nikodemui jo nesupratimą?",
+    "options": {
+      "a": "Gimti iš kūno.",
+      "b": "Gimti iš vandens ir Dvasios.",
+      "c": "Atlikti gerus darbus.",
+      "d": "Tikėti Moze."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_006",
+    "question": "Kokiu palyginimu Jėzus apibūdina gimusį iš Dvasios?",
+    "options": {
+      "a": "Kaip upę, kuri teka, kur nori.",
+      "b": "Kaip saulę, kuri šviečia visiems.",
+      "c": "Kaip vėją, kurio ošimą girdi, bet nežinai, iš kur ateina ir kurlink nueina.",
+      "d": "Kaip medį, kuris auga aukštyn."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_007",
+    "question": "Su kokiu įvykiu Jėzus palygino savo būsimą 'iškėlimą', kad kiekvienas, kuris jį tiki, turėtų amžinąjį gyvenimą?",
+    "options": {
+      "a": "Su manna dykumoje.",
+      "b": "Su Moze, iškėlusiu žaltį dykumoje.",
+      "c": "Su Dovydo kova prieš Galijotą.",
+      "d": "Su Išėjimu iš Egipto."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_008",
+    "question": "Kokia yra garsaus posakio 'Dievas taip pamilo pasaulį...' pagrindinė mintis?",
+    "options": {
+      "a": "Dievas norėjo pasmerkti pasaulį už jo nuodėmes.",
+      "b": "Dievas atidavė savo viengimį Sūnų, kad kiekvienas, kuris jį tiki, nepražūtų, bet turėtų amžinąjį gyvenimą.",
+      "c": "Dievas norėjo įrodyti savo galią pasauliui.",
+      "d": "Dievas laukė, kol žmonės patys atsivers ir bus išgelbėti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_009",
+    "question": "Kodėl Dievas siuntė savo Sūnų į pasaulį?",
+    "options": {
+      "a": "Kad jis pasaulį pasmerktų.",
+      "b": "Kad jis atskleistų visas žmonių nuodėmes.",
+      "c": "Bet kad pasaulis per jį būtų išgelbėtas.",
+      "d": "Kad jis taptų nauju Izraelio karaliumi."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_010",
+    "question": "Koks yra teismo nuosprendžio pagrindas, minimas tekste?",
+    "options": {
+      "a": "Žmonių finansinė padėtis.",
+      "b": "Atėjo šviesa į pasaulį, bet žmonės labiau mylėjo tamsą nei šviesą, nes jų darbai buvo pikti.",
+      "c": "Tai, kad Jėzus ir Jonas krikštijo.",
+      "d": "Nikodemo abejonės Dievo galia."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_011",
+    "question": "Kur Jonas Krikštytojas krikštijo ir kodėl ta vieta buvo tinkama?",
+    "options": {
+      "a": "Jeruzalėje, nes tai buvo šventa vieta.",
+      "b": "Enone, netoli Salimo, nes ten buvo daug vandens.",
+      "c": "Ant Alyvų kalno, kad būtų gerai matomas.",
+      "d": "Tik Jordano upėje, niekur kitur."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_012",
+    "question": "Kokia buvo Jono Krikštytojo reakcija, kai jo mokiniai pranešė, kad Jėzus taip pat krikštija ir visi bėga pas jį?",
+    "options": {
+      "a": "Jis pasipiktino ir pareikalavo Jėzaus sustoti.",
+      "b": "Jis pasakė: 'Žmogus negali nieko pasiimti, jeigu nebus jam duota iš dangaus.' ir 'Jam skirta augti, o man – mažėti'.",
+      "c": "Jis liepė savo mokiniams konkuruoti su Jėzumi.",
+      "d": "Jis manė, kad tai geras ženklas, jog jo misija baigta."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_3"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Jn_14_001",
+    "question": "Ką Jėzus pasakė einantis daryti savo Tėvo namuose?",
+    "options": {
+      "a": "Sukurti naują šventyklą.",
+      "b": "Paruošti vietą savo mokiniams.",
+      "c": "Susitikti su vyresniaisiais.",
+      "d": "Pailsėti po savo tarnystės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_002",
+    "question": "Kuris iš mokinių pasakė, kad nežino, kur Jėzus eina, ir todėl negali žinoti kelio?",
+    "options": {
+      "a": "Pilypas",
+      "b": "Judas (ne Iskarijotas)",
+      "c": "Tomas",
+      "d": "Petras"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_003",
+    "question": "Ką Jėzus pareiškė esąs, atsakydamas Tomui?",
+    "options": {
+      "a": "Šviesa, tiesa ir meilė",
+      "b": "Duona, vynas ir vanduo",
+      "c": "Kelias, tiesa ir gyvenimas",
+      "d": "Pranašas, kunigas ir karalius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_004",
+    "question": "Ką Jėzus pasakė Pilypui, kai šis paprašė parodyti Tėvą?",
+    "options": {
+      "a": "„Dar ne laikas jums pamatyti Tėvą.“",
+      "b": "„Kas yra matęs mane, yra matęs Tėvą!“",
+      "c": "„Tėvas yra nematomas.“",
+      "d": "„Paklauskite apaštalų.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_005",
+    "question": "Ką Jėzus pažadėjo paprašyti Tėvą atsiųsti po savo išvykimo?",
+    "options": {
+      "a": "Dar dvylika apaštalų.",
+      "b": "Galingą angelą.",
+      "c": "Kitą Globėją.",
+      "d": "Daugiau maisto ir vyno."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_006",
+    "question": "Kokiu kitu vardu Jėzus pavadino šį Globėją?",
+    "options": {
+      "a": "Tiesos Dvasia",
+      "b": "Išminties Dvasia",
+      "c": "Gailestingumo Dvasia",
+      "d": "Galybės Dvasia"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_007",
+    "question": "Ką Jėzus sakė apie ryšį tarp Jo mylėjimo ir Jo įsakymų laikymosi?",
+    "options": {
+      "a": "Jei mane mylite, – jūs žinosite mano įsakymus.",
+      "b": "Jei mane mylite, – jūs išmoksite mano įsakymus.",
+      "c": "Jei mane mylite, – jūs ginčysitės dėl mano įsakymų.",
+      "d": "Jei mane mylite, – jūs laikysitės mano įsakymų."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_008",
+    "question": "Ką Šventoji Dvasia, arba Globėjas, atsiųstas Tėvo Jėzaus vardu, darys mokiniams?",
+    "options": {
+      "a": "Jis paskelbs naują įstatymą.",
+      "b": "Jis išmokys jus visko ir viską primins, ką Jėzus yra pasakęs.",
+      "c": "Jis teiks teismus pasauliui.",
+      "d": "Jis atskleis paslaptis, kurios dar nebuvo atskleistos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_009",
+    "question": "Kokią dovaną Jėzus paliko savo mokiniams, teigdamas, kad ją duoda ne taip, kaip duoda pasaulis?",
+    "options": {
+      "a": "Turtą ir šlovę",
+      "b": "Galią ir autoritetą",
+      "c": "Ramybę",
+      "d": "Ilgą gyvenimą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_010",
+    "question": "Kodėl, pasak Jėzaus, jo mokiniai turėtų džiaugtis, kad jis keliauja pas Tėvą?",
+    "options": {
+      "a": "Nes Tėvas už jį aukštesnis.",
+      "b": "Nes jis pagaliau pailsės.",
+      "c": "Nes jie patys taps lyderiais.",
+      "d": "Nes pasaulis jį pamirš."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_14"
+  }
+]

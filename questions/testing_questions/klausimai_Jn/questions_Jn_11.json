@@ -1,0 +1,249 @@
+[
+  {
+    "id": "Jn_11_001",
+    "question": "Kokiame kaime gyveno Lozorius su seserimis Marija ir Morta?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Betanijoje",
+      "c": "Efraime",
+      "d": "Galilėjoje"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_002",
+    "question": "Kuo buvo žinoma Marija, Lozoriaus sesuo, Biblijos tekste?",
+    "options": {
+      "a": "Ji gydė ligonius Betanijoje.",
+      "b": "Ji patepė Viešpatį kvepalais ir nušluostė plaukais jo kojas.",
+      "c": "Ji garsi buvo savo išmintimi ir pamokymais.",
+      "d": "Ji viena iš pirmųjų įtikėjo Jėzaus prisikėlimu."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_003",
+    "question": "Koks buvo Jėzaus atsakymas apie Lozoriaus ligos tikslą?",
+    "options": {
+      "a": "„Šita liga reiškia bausmę už nuodėmes.“",
+      "b": "„Šita liga ne mirčiai, bet Dievo garbei, – kad būtų pašlovintas Dievo Sūnus.“",
+      "c": "„Šita liga parodys tikinčiųjų kantrybę ir ištikimybę.“",
+      "d": "„Šita liga yra natūrali gyvenimo dalis.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_004",
+    "question": "Kiek laiko Jėzus užtruko ten, kur viešėjo, išgirdęs apie Lozoriaus ligą?",
+    "options": {
+      "a": "Iškart išėjo",
+      "b": "Vieną dieną",
+      "c": "Dvi dienas",
+      "d": "Tris dienas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_005",
+    "question": "Kodėl mokiniai prieštaravo Jėzaus planui grįžti į Judėją?",
+    "options": {
+      "a": "Jie bijojo romėnų kareivių.",
+      "b": "Juos ką tik žydai kėsinosi užmušti akmenimis.",
+      "c": "Jiems nepatiko kelionės ilgumas.",
+      "d": "Jie manė, kad Jėzus turėtų gydyti kitus ligonius."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_006",
+    "question": "Ką Jėzus turėjo omenyje sakydamas: „Mūsų bičiulis Lozorius užmigo, bet aš eisiu jo pažadinti“?",
+    "options": {
+      "a": "Kad Lozoriui reikia tik pailsėti.",
+      "b": "Kad Lozorius iš tikrųjų miega ir atsibus.",
+      "c": "Kad Lozorius mirė.",
+      "d": "Kad Lozorių reikia pažadinti iš nuolatinio miego."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_007",
+    "question": "Kodėl Jėzus džiaugėsi, kad nebuvo ten, kai Lozorius mirė?",
+    "options": {
+      "a": "Jis norėjo išvengti gedulo.",
+      "b": "Dėl mokinių, kad jie įtikėtų.",
+      "c": "Jis negalėjo pakęsti mirties kvapo.",
+      "d": "Jis turėjo kitų svarbių susitikimų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_008",
+    "question": "Ką Tomas, vadinamas Dvyniu, tarė kitiems mokiniams, kai Jėzus nusprendė eiti pas Lozorių?",
+    "options": {
+      "a": "„Mes turime likti čia ir melstis.“",
+      "b": "„Eikime ir mes numirti su juo!“",
+      "c": "„Gal geriau palaukti, kol pavojus praeis.“",
+      "d": "„Aš neisiu, nes bijau.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_009",
+    "question": "Kiek dienų Lozorius jau buvo išgulėjęs kapo rūsyje, kai atėjo Jėzus?",
+    "options": {
+      "a": "Vieną dieną",
+      "b": "Dvi dienas",
+      "c": "Tris dienas",
+      "d": "Keturias dienas"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_010",
+    "question": "Koks buvo Betanijos atstumas nuo Jeruzalės?",
+    "options": {
+      "a": "Maždaug penkios stadijos",
+      "b": "Maždaug dešimt stadijų",
+      "c": "Maždaug penkiolika stadijų",
+      "d": "Maždaug dvidešimt stadijų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_011",
+    "question": "Kuri iš Lozoriaus seserų pirmoji išėjo pasitikti Jėzaus, išgirdusi, kad jis ateina?",
+    "options": {
+      "a": "Marija",
+      "b": "Morta",
+      "c": "Abi kartu",
+      "d": "Nei viena, Jėzus atėjo pas jas į namus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_012",
+    "question": "Ką Jėzus pasakė Martai, kai ji pareiškė žinanti, jog jos brolis prisikels paskutinę dieną?",
+    "options": {
+      "a": "„Tu teisi, Morta.“",
+      "b": "„Aš esu prisikėlimas ir gyvenimas.“",
+      "c": "„Reikia tikėti dabar, o ne ateityje.“",
+      "d": "„Tavo tikėjimas yra silpnas.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_013",
+    "question": "Ką Morta išpažino Jėzui po to, kai jis pasakė esąs prisikėlimas ir gyvenimas?",
+    "options": {
+      "a": "„Aš tikiu, kad tu esi geras mokytojas.“",
+      "b": "„Aš tikiu, kad tu gali išgydyti visus ligonius.“",
+      "c": "„Aš tikiu, jog tu Mesijas, Dievo Sūnus, kuris turi ateiti į šį pasaulį.“",
+      "d": "„Aš tikiu, kad mano brolis tikrai atsikels.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_014",
+    "question": "Kokia buvo Jėzaus reakcija pamačius Mariją ir kartu atėjusius žydus verkiančius?",
+    "options": {
+      "a": "Jis nusisuko ir nuėjo toliau.",
+      "b": "Jis liko ramus ir guodė juos.",
+      "c": "Jis labai susigraudino ir susijaudino.",
+      "d": "Jis subarė juos už nevilties kupiną verksmą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_015",
+    "question": "Ką Jėzus padarė, atėjęs prie kapo?",
+    "options": {
+      "a": "Jis iškart pradėjo melstis.",
+      "b": "Jis liepė nuristi akmenį.",
+      "c": "Jis palietė kapo akmenį.",
+      "d": "Jis paprašė žydų palikti jį vieną."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_016",
+    "question": "Kuo Morta įspėjo Jėzų, kai jis liepė nuristi akmenį nuo kapo?",
+    "options": {
+      "a": "„Viešpatie, bus per sunku akmenį nuristi.“",
+      "b": "„Viešpatie, jau dvokia. Jau keturios dienos, kaip jis miręs.“",
+      "c": "„Viešpatie, gal palauksime ryto.“",
+      "d": "„Viešpatie, tai nepadės jam prisikelti.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_017",
+    "question": "Ką Jėzus galingu balsu sušuko, nuritus akmenį?",
+    "options": {
+      "a": "„Tėve, pašlovink savo vardą!“",
+      "b": "„Lozoriau, išeik!“",
+      "c": "„Mirtie, atiduok savo auką!“",
+      "d": "„Žmonės, liudykite Dievo šlovę!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_018",
+    "question": "Ką Kajafas, tais metais vyriausiasis kunigas, pareiškė apie Jėzų?",
+    "options": {
+      "a": "„Jį reikia skubiai suimti.“",
+      "b": "„Jums geriau, kad vienas žmogus mirtų už tautą, o ne visa tauta žūtų.“",
+      "c": "„Šitas žmogus yra didis pranašas.“",
+      "d": "„Mes turime ieškoti taikos su romėnais.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_019",
+    "question": "Kur Jėzus pasitraukė po to, kai buvo nuspręsta jį nužudyti?",
+    "options": {
+      "a": "Į Jerichą",
+      "b": "Į Betliejų",
+      "c": "Į Efraimą dykumos pakraštyje",
+      "d": "Į Galilėją"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_11"
+  }
+]

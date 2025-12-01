@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Jn_5_001",
+    "question": "Kur buvo atliktas išgydymas, aprašytas teksto pradžioje?",
+    "options": {
+      "a": "Jeruzalėje, prie Avių vartų, maudyklėje Betzata.",
+      "b": "Jeruzalės šventykloje.",
+      "c": "Galilėjoje, prie Tiberiados ežero.",
+      "d": "Betliejuje, prie piemenų laukų."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_002",
+    "question": "Kiek metų sirgo žmogus, kurį Jėzus išgydė prie Betzatos maudyklės?",
+    "options": {
+      "a": "Trisdešimt aštuonerius metus.",
+      "b": "Trisdešimt metų.",
+      "c": "Aštuonerius metus.",
+      "d": "Nuo gimimo."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_003",
+    "question": "Ką Jėzus liepė išgydytajam daryti iškart po išgydymo?",
+    "options": {
+      "a": "Eiti į šventyklą ir padėkoti Dievui.",
+      "b": "Kelkis, imk savo gultą ir eik!",
+      "c": "Pranešti visiems apie stebuklą.",
+      "d": "Nusiprausti tvenkinyje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_004",
+    "question": "Kokia diena buvo, kai Jėzus išgydė ligonį prie Betzatos maudyklės?",
+    "options": {
+      "a": "Pirmadienis.",
+      "b": "Šabas.",
+      "c": "Žydų šventės diena.",
+      "d": "Jėzaus gimtadienis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_005",
+    "question": "Kodėl žydai užsipuolė išgydytąjį?",
+    "options": {
+      "a": "Nes jis nesilaikė žydų papročių.",
+      "b": "Nes jis nešė savo gultą šabo dieną.",
+      "c": "Nes jis melavo apie savo ligą.",
+      "d": "Nes jis bendravo su Jėzumi."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_006",
+    "question": "Ką Jėzus pasakė išgydytajam, kai jį vėliau sutiko šventykloje?",
+    "options": {
+      "a": "„Džiaukis savo sveikata ir šlovink Dievą!“",
+      "b": "„Štai tu esi pasveikęs. Daugiau nebenusidėk, kad neatsitiktų kas blogesnio!“",
+      "c": "„Papasakok visiems, ką aš padariau dėl tavęs.“",
+      "d": "„Atsimink, kas tave pagydė.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_007",
+    "question": "Dėl kokių priežasčių žydai dar labiau ieškojo progos nužudyti Jėzų?",
+    "options": {
+      "a": "Nes jis kalbėjo apie amžinąjį gyvenimą.",
+      "b": "Nes jis nepaisydavo šabo ir vadino Dievą savuoju Tėvu, lygindamas save su Dievu.",
+      "c": "Nes jis teigė esąs pranašas.",
+      "d": "Nes jis rinko mokinius ir juos mokė."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_008",
+    "question": "Ką Jėzus sakė apie Sūnaus galimybę veikti savarankiškai?",
+    "options": {
+      "a": "Sūnus gali daryti bet ką, ko panorėjęs.",
+      "b": "Sūnus nieko negali daryti iš savęs, o vien tai, ką mato darant Tėvą.",
+      "c": "Sūnus veikia tik tuomet, kai Tėvas jam tiesiogiai įsako.",
+      "d": "Sūnus turi didesnę galią už Tėvą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_009",
+    "question": "Kam Tėvas pavedė visą teismą?",
+    "options": {
+      "a": "Angelams.",
+      "b": "Mozės įstatymui.",
+      "c": "Sūnui.",
+      "d": "Šventajai Dvasiai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_010",
+    "question": "Kas, pasak Jėzaus, turi amžinąjį gyvenimą ir nepateks į teismą?",
+    "options": {
+      "a": "Tie, kurie griežtai laikosi įstatymo.",
+      "b": "Kas mano žodžių klauso ir mane atsiuntusį tiki.",
+      "c": "Tie, kurie atlieka gerus darbus.",
+      "d": "Tie, kurie aukoja šventykloje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_011",
+    "question": "Kas atsitiks gulintiesiems kapuose, pasak Jėzaus, atėjus valandai?",
+    "options": {
+      "a": "Visi prisikels stoti į teismą.",
+      "b": "Kurie darė gera, prisikels gyventi; kurie darė bloga, prisikels stoti į teismą.",
+      "c": "Tik tie, kurie darė gera, prisikels.",
+      "d": "Visi išgirs jo balsą, bet tik tikintieji atgis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_012",
+    "question": "Kaip Jėzus apibūdino Joną Krikštytoją?",
+    "options": {
+      "a": "Jis buvo didžiausias iš visų pranašų.",
+      "b": "Jonas buvo degantis ir šviečiantis žiburys.",
+      "c": "Jis buvo tas, kuris ateis po Jėzaus.",
+      "d": "Jonas buvo liudytojas, kurio žodžiais niekas netikėjo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_013",
+    "question": "Ką Jėzus nurodė kaip aukštesnį liudijimą apie save negu Jono?",
+    "options": {
+      "a": "Angelų apsireiškimus.",
+      "b": "Dangaus balsą, girdėtą prie Jordano.",
+      "c": "Darbus, kuriuos jam skyrė nuveikti Tėvas.",
+      "d": "Senojo Testamento pranašystes."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_014",
+    "question": "Ką, pasak Jėzaus, tyrinėja žydai, manydami juose rasti amžinąjį gyvenimą, ir kas liudija už Jėzų?",
+    "options": {
+      "a": "Pranašų knygas.",
+      "b": "Mozės Įstatymą.",
+      "c": "Raštus (Šventuosius Raštus).",
+      "d": "Saliamono patarles."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_015",
+    "question": "Kas, pasak Jėzaus, bus žydų kaltintojas Tėvui?",
+    "options": {
+      "a": "Jėzus pats.",
+      "b": "Jonas Krikštytojas.",
+      "c": "Mozė, į kurį jie sudėjo savo viltis.",
+      "d": "Jų pačių nuodėmės."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_5"
+  }
+]

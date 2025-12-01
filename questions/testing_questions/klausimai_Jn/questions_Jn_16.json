@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Jn_16_001",
+    "question": "Kodėl Jėzus paskelbė mokiniams apie būsimus sunkumus ir persekiojimus?",
+    "options": {
+      "a": "Kad jie nepasipiktintų, kai tai įvyks.",
+      "b": "Kad jie galėtų pasiruošti ir kovoti.",
+      "c": "Kad jie suprastų, jog persekiojimai yra bausmė.",
+      "d": "Kad jie pasitrauktų nuo sinagogų."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_002",
+    "question": "Ką persekiojantys mokinius žmonės manys atliekantys?",
+    "options": {
+      "a": "Teisingą visuomenės tvarką.",
+      "b": "Šventą pareigą Dievui.",
+      "c": "Bausmę už nuodėmes.",
+      "d": "Politinę valią."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_003",
+    "question": "Kokia yra pagrindinė sąlyga, kad Globėjas (Šventoji Dvasia) ateitų pas mokinius?",
+    "options": {
+      "a": "Mokiniai turi melstis ir pasninkauti.",
+      "b": "Jėzus turi pasilikti su jais.",
+      "c": "Jėzus turi iškeliauti.",
+      "d": "Mokiniai turi įtikėti dar stipriau."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_004",
+    "question": "Ko, Jėzaus žodžiais, Globėjas ateis ir parodys pasauliui, kad jis klysta?",
+    "options": {
+      "a": "Dėl neteisingumo, priespaudos ir karo.",
+      "b": "Dėl nuodėmės, teisybės ir teismo.",
+      "c": "Dėl meilės, tikėjimo ir vilties.",
+      "d": "Dėl Dievo plano ir pranašysčių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_005",
+    "question": "Kaip Jėzus apibrėžia nuodėmę, dėl kurios Globėjas parodys pasauliui, kad jis klysta?",
+    "options": {
+      "a": "Melas ir apgaulė.",
+      "b": "Netikėjimas Jėzumi.",
+      "c": "Įstatymo laužymas.",
+      "d": "Meilės stoka artimui."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_006",
+    "question": "Kaip Tiesos Dvasia, Jėzaus teigimu, perduos informaciją?",
+    "options": {
+      "a": "Kalbės iš savęs ir atskleis paslaptis.",
+      "b": "Skelbs, ką bus išgirdusi, ir praneš, kas turi įvykti.",
+      "c": "Mokys juos naujų taisyklių ir įstatymų.",
+      "d": "Parodys jiems ateities vizijas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_007",
+    "question": "Kokią prasmę Jėzus suteikia savo žodžiams: 'Prabėgs valandėlė – ir manęs neregėsit, ir dar valandėlė – ir vėl mane pamatysit'?",
+    "options": {
+      "a": "Mokiniai patirs trumpą išsiskyrimą, po kurio seks ilgas džiaugsmo metas.",
+      "b": "Jų liūdesys pavirs džiaugsmu, panašiu į moters, pagimdžiusios kūdikį.",
+      "c": "Jėzus kalba apie savo trumpą kelionę ir grįžimą po kelių dienų.",
+      "d": "Mokiniai turi suprasti, kad liūdesys yra neišvengiama gyvenimo dalis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_008",
+    "question": "Ką Jėzus nurodo mokiniams daryti, kad jų džiaugsmas būtų pilnas?",
+    "options": {
+      "a": "Mylėti vienas kitą ir tarnauti Dievui.",
+      "b": "Prašyti Tėvo Jėzaus vardu, ir jie gaus.",
+      "c": "Laukti, kol Jėzus grįš ir atsakys į visus klausimus.",
+      "d": "Skelbti Gerąją Naujieną visam pasauliui."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_009",
+    "question": "Kodėl, pasak Jėzaus, pats Tėvas myli mokinius?",
+    "options": {
+      "a": "Nes jie yra jo išrinktoji tauta.",
+      "b": "Nes jie įvykdė visus įsakymus.",
+      "c": "Nes jie pamilo Jėzų ir įtikėjo, kad jis yra iš Dievo atėjęs.",
+      "d": "Nes jie pasiaukojo dėl jo vardo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_010",
+    "question": "Iš kur Jėzus atėjo ir kur vėl grįžta?",
+    "options": {
+      "a": "Iš Galilėjos ir grįžta į Nazaretą.",
+      "b": "Iš Dangaus ir grįžta į žemę.",
+      "c": "Iš Tėvo ir atėjo į pasaulį; vėl palieka pasaulį ir grįžta pas Tėvą.",
+      "d": "Iš Dvasios ir grįžta į Dvasią."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_011",
+    "question": "Koks yra pagrindinis Jėzaus tikslas pasakojant mokiniams apie būsimą priespaudą pasaulyje?",
+    "options": {
+      "a": "Įspėti juos apie neišvengiamą pralaimėjimą.",
+      "b": "Kad manyje atrastų ramybę ir būtų drąsūs, nes jis nugalėjo pasaulį.",
+      "c": "Paskatinti juos bėgti ir slėptis nuo persekiojimų.",
+      "d": "Parodyti jiems, kad jie turi kovoti su pasauliu."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn_16"
+  }
+]
