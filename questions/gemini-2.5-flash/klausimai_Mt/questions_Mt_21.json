@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mt_21_001",
+    "question": "Iš kur Jėzus pasiuntė du mokinius, kai jie prisiartino prie Jeruzalės?",
+    "options": {
+      "a": "Iš Jeruzalės miesto",
+      "b": "Iš Betfagės prie Alyvų kalno",
+      "c": "Iš Betanijos",
+      "d": "Iš Galilėjos"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_002",
+    "question": "Ką Jėzus liepė mokiniams atvesti jam?",
+    "options": {
+      "a": "Du arkliai ir vežimą",
+      "b": "Pririštą asilą su asilaičiu",
+      "c": "Avį ir ožką",
+      "d": "Šunis ir kates"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_003",
+    "question": "Koks turėjo būti atsakymas, jei kas paklaustų, kodėl atriša gyvulius?",
+    "options": {
+      "a": "'Jie skirti parduoti'",
+      "b": "'Jų reikia Viešpačiui'",
+      "c": "'Jie yra mūsų nuosavybė'",
+      "d": "'Mes juos skolinsimės trumpam'"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_004",
+    "question": "Kaip minia pagerbė Jėzų jam įžengiant į Jeruzalę?",
+    "options": {
+      "a": "Mėtydami gėles ant kelio",
+      "b": "Tiesdami drabužius ir klojodami medžių šakas ant kelio",
+      "c": "Giedodami šventas giesmes",
+      "d": "Plodami ir šokdami"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_005",
+    "question": "Ką minios šaukė Jėzui įžengiant į Jeruzalę?",
+    "options": {
+      "a": "„Tegyvuoja Karalius!“",
+      "b": "„Šlovė Dievui!“",
+      "c": "„Osana Dovydo Sūnui! Garbė tam, kuris ateina Viešpaties vardu!“",
+      "d": "„Laukiamas Mesijau!“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_006",
+    "question": "Ką Jėzus padarė įėjęs į šventyklą?",
+    "options": {
+      "a": "Meldėsi už nuodėmes",
+      "b": "Išvarė parduodančius ir perkančius, išvartė pinigų keitėjų stalus",
+      "c": "Skatino prekybą",
+      "d": "Paskelbė naują įstatymą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_007",
+    "question": "Kokia Rašto citata Jėzus pasmerkė prekiautojus šventykloje?",
+    "options": {
+      "a": "„Nežudyk“",
+      "b": "„Mano namai vadinsis maldos namai, o jūs pavertėte juos plėšikų lindyne!“",
+      "c": "„Mylėk savo artimą kaip save patį“",
+      "d": "„Tebūnie šviesa“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_008",
+    "question": "Kas įpyko pamatę Jėzaus stebuklus ir vaikus šaukiančius šventykloje?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Paprasti žmonės",
+      "c": "Aukštieji kunigai ir Rašto aiškintojai",
+      "d": "Romos kareiviai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_009",
+    "question": "Kas atsitiko figmedžiui, kurį Jėzus pasmerkė, nes nerado ant jo vaisių?",
+    "options": {
+      "a": "Jis pradėjo žydėti ir brandinti vaisius",
+      "b": "Jis nudžiūvo po metų",
+      "c": "Jis bemat nudžiūvo",
+      "d": "Jis pavirto uola"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_010",
+    "question": "Kokią pamoką Jėzus davė mokiniams po figmedžio nudžiūvimo?",
+    "options": {
+      "a": "Apie medžių sodinimą",
+      "b": "Apie atleidimą ir gailestingumą",
+      "c": "Apie tikėjimo galią ir nesvyravimą",
+      "d": "Apie maisto svarbą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_011",
+    "question": "Kokį klausimą aukštieji kunigai ir tautos seniūnai uždavė Jėzui šventykloje?",
+    "options": {
+      "a": "„Kokia galia tu kalbi?“",
+      "b": "„Kokia galia tai darai? Kas tau davė šitą galią?“",
+      "c": "„Kada ateis Dievo karalystė?“",
+      "d": "„Ar galima duoti Cezariui mokesčių?“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_012",
+    "question": "Kuo Jėzus atsikirto kunigams ir seniūnams, kai jie klausė apie jo galią?",
+    "options": {
+      "a": "Atsisakė atsakyti",
+      "b": "Paklausė apie Jono krikštą: „Iš dangaus ar iš žmonių?“",
+      "c": "Pateikė jiems mįslę",
+      "d": "Pradėjo mokyti toliau"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_013",
+    "question": "Palyginime apie du sūnus, kuris sūnus įvykdė tėvo valią?",
+    "options": {
+      "a": "Pirmasis, kuris pasakė 'Nenoriu', bet vėliau nuėjo dirbti",
+      "b": "Antrasis, kuris pasakė 'Einu, viešpatie', bet nenuėjo",
+      "c": "Abu sūnūs",
+      "d": "Nė vienas sūnus"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_014",
+    "question": "Palyginime apie vynininkus žmogžudžius, ką vynininkai padarė šeimininko sūnui?",
+    "options": {
+      "a": "Priėmė jį su pagarba",
+      "b": "Išmetė jį iš vynuogyno ir užmušė",
+      "c": "Paprašė, kad jis pasiliktų",
+      "d": "Nusiuntė jį atgal pas tėvą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_015",
+    "question": "Koks bus likimas Dievo karalystei, pasak Jėzaus po vynininkų palyginimo?",
+    "options": {
+      "a": "Ji liks su tais pačiais žmonėmis",
+      "b": "Ji bus atiduota vynininkams",
+      "c": "Ji bus iš jų atimta ir atiduota tautai, kuri duos vaisių",
+      "d": "Ji bus sunaikinta"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_21"
+  }
+]

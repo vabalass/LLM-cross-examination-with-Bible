@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Mt_10_001",
+    "question": "Ką Jėzus suteikė dvylikai mokinių, juos pasišaukęs?",
+    "options": {
+      "a": "Valdžią netyrosioms dvasioms ir gebėjimą gydyti ligas bei negales.",
+      "b": "Dviprasmiškus nurodymus apie kelionę.",
+      "c": "Tik teisę skelbti dangaus karalystę.",
+      "d": "Pinigų ir brangenybių kelionei."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_002",
+    "question": "Kuris iš šių apaštalų buvo muitininkas?",
+    "options": {
+      "a": "Matas",
+      "b": "Petras",
+      "c": "Jokūbas",
+      "d": "Andriejus"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_003",
+    "question": "Koks apaštalas yra minimas kaip tas, kuris išdavė Jėzų?",
+    "options": {
+      "a": "Simonas Kananietis",
+      "b": "Judas Iskarijotas",
+      "c": "Tomas",
+      "d": "Pilypas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_004",
+    "question": "Kur Jėzus nurodė apaštalams nenuklysti ir neužsukti, juos išsiųsdamas?",
+    "options": {
+      "a": "Pas žydus ir Jeruzalės miestus.",
+      "b": "Pas pagonis ir į samariečių miestus.",
+      "c": "Į Romos imperijos provincijas.",
+      "d": "Į dykumą ir kalnus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_005",
+    "question": "Ką turėjo skelbti apaštalai, eidami ir lankydami pražuvusias Izraelio namų avis?",
+    "options": {
+      "a": "Kad prisiartino teismo diena.",
+      "b": "Kad prisiartino dangaus karalystė.",
+      "c": "Kad Jėzus yra Mesijas.",
+      "d": "Kad reikia atgailauti už nuodėmes."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_006",
+    "question": "Koks buvo Jėzaus principas dėl stebuklų, kuriuos turėjo daryti apaštalai?",
+    "options": {
+      "a": "Už kiekvieną stebuklą imti atlygį.",
+      "b": "Pirmiausia išgydyti tik tikinčiuosius.",
+      "c": "Dovanai gavote, dovanai ir duokite.",
+      "d": "Skelbti stebuklus visuose miestuose."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_007",
+    "question": "Ko apaštalams nebuvo leista įsigyti kelionei, pagal Jėzaus nurodymus?",
+    "options": {
+      "a": "Maisto ir vandens.",
+      "b": "Aukso, sidabro ar variokų.",
+      "c": "Vienų marškinių ir kurpių.",
+      "d": "Biblinių raštų ritinių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_008",
+    "question": "Ką apaštalai turėjo daryti, jei kur jų nepriimtų ir jų žodžių neklausytų?",
+    "options": {
+      "a": "Bandyti įtikinti dar kartą.",
+      "b": "Išeiti iš tokių namų ar miesto ir nusikratyti dulkes nuo kojų.",
+      "c": "Maldauti, kad juos priimtų.",
+      "d": "Skelbti pranašystę apie artėjančią nelaimę."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_009",
+    "question": "Kuriai žemei Jėzus sakė, kad bus lengviau teismo dieną nei miestui, kuris nepriėmė apaštalų?",
+    "options": {
+      "a": "Egipto žemei.",
+      "b": "Sodomos ir Gomoros žemei.",
+      "c": "Galilėjos žemei.",
+      "d": "Romos imperijos provincijoms."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_010",
+    "question": "Kaip Jėzus apibūdino, kad siunčia apaštalus, ir kokį elgesį jiems patarė?",
+    "options": {
+      "a": "Kaip liūtus tarp avinų; būti drąsiems ir stipriems.",
+      "b": "Kaip avis tarp vilkų; būti gudriems kaip žalčiai ir neklastingiems kaip balandžiai.",
+      "c": "Kaip sakalus tarp paukščių; būti greitiems ir budriems.",
+      "d": "Kaip žuvis vandenyje; būti tyliems ir nepastebimiems."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_011",
+    "question": "Kas kalbės apaštalų lūpomis, kai jie bus įskųsti teismams, pagal Jėzaus pažadą?",
+    "options": {
+      "a": "Šventosios Dvasios angelai.",
+      "b": "Jų Tėvo Dvasia.",
+      "c": "Pranašai iš senų laikų.",
+      "d": "Jų pačių išmokta išmintis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_012",
+    "question": "Ko, pasak Jėzaus, nereikia bijoti, o ko reikia bijoti?",
+    "options": {
+      "a": "Bijoti tų, kurie žudo sielą, bet ne kūną; nebijoti tų, kurie žudo kūną.",
+      "b": "Nebijoti tų, kurie žudo kūną, bet negali užmušti sielos; verčiau bijoti to, kuris gali pražudyti ir sielą, ir kūną pragare.",
+      "c": "Bijoti visų žmonių; nebijoti Dievo.",
+      "d": "Bijoti vilkų; nebijoti avių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_013",
+    "question": "Ką Jėzus pažadėjo tiems, kurie jį išpažins žmonių akivaizdoje?",
+    "options": {
+      "a": "Turtingą gyvenimą žemėje.",
+      "b": "Kad ir Jis jį išpažins savo dangiškojo Tėvo akivaizdoje.",
+      "c": "Kad jie niekada nebus persekiojami.",
+      "d": "Kad jie bus karaliais žemėje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_014",
+    "question": "Ką Jėzus sako atėjęs nešti žemei, priešingai nei galėtų kas manyti?",
+    "options": {
+      "a": "Ramybės.",
+      "b": "Meilės ir sutarimo.",
+      "c": "Ne ramybės, o kalavijo.",
+      "d": "Tiesos ir išminties."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_10"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_8_001",
+    "question": "Kaip raupsuotasis kreipėsi į Jėzų, kai šis leidosi nuo kalno?",
+    "options": {
+      "a": "Atsistojęs reikalavo pagydymo.",
+      "b": "Parpuolė prieš jį ant žemės, maldaudamas.",
+      "c": "Šaukdamas iš tolo prašė pagalbos.",
+      "d": "Pasiuntė savo atstovus su prašymu."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_002",
+    "question": "Ką Jėzus liepė raupsuotajam, kai šis buvo padarytas švarus?",
+    "options": {
+      "a": "Eiti ir visur skelbti apie tai.",
+      "b": "Niekam nepasakoti, bet eiti pasirodyti kunigui ir paaukoti Mozės įsakytą atnašą.",
+      "c": "Pasilikti su juo ir tapti jo mokiniu.",
+      "d": "Sugrįžti pas jį po savaitės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_003",
+    "question": "Kuo sirgo šimtininko tarnas, dėl kurio šimtininkas kreipėsi į Jėzų?",
+    "options": {
+      "a": "Karščiavimu ir silpnumu.",
+      "b": "Apakimu.",
+      "c": "Paralyžiumi ir baisiai kankinosi.",
+      "d": "Demono apsėdimu."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_004",
+    "question": "Ką Jėzus pasakė apie šimtininko tikėjimą?",
+    "options": {
+      "a": "Kad toks tikėjimas buvo rastas visame Izraelyje.",
+      "b": "Kad niekur Izraelyje nerado tokio tikėjimo.",
+      "c": "Kad šimtininko tikėjimas buvo per silpnas.",
+      "d": "Kad tokį tikėjimą turi tik Rašto aiškintojai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_005",
+    "question": "Ką Jėzus pranašavo apie 'karalystės vaikus'?",
+    "options": {
+      "a": "Kad jie susės dangaus karalystėje prie stalo su Abraomu, Izaoku ir Jokūbu.",
+      "b": "Kad jie bus išmesti laukan į tamsybes, kur bus verksmas ir dantų griežimas.",
+      "c": "Kad jie eis ir skelbs Gerąją Naujieną.",
+      "d": "Kad jie taps didžiais karalystės vadovais."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_006",
+    "question": "Kas sirgo Petro namuose, kai Jėzus ten atėjo?",
+    "options": {
+      "a": "Petro žmona.",
+      "b": "Petro brolis.",
+      "c": "Petro uošvė, kuri karščiavo.",
+      "d": "Petro sūnus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_007",
+    "question": "Ką Jėzus atsakė Rašto aiškintojui, kuris norėjo jį sekti, kur tik jis eis?",
+    "options": {
+      "a": "„Ateik ir sek paskui mane.“",
+      "b": "„Pirmiau eik ir pamokyk savo mokinius.“",
+      "c": "„Lapės turi urvus, padangių sparnuočiai – lizdus, o Žmogaus Sūnus neturi kur galvos priglausti.“",
+      "d": "„Pirmiausia paaukok atnašą šventykloje.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_008",
+    "question": "Ką Jėzus atsakė mokiniui, kuris prašė pirmiau pareiti tėvo palaidoti?",
+    "options": {
+      "a": "„Sek paskui mane ir palik mirusiems laidoti savo numirėlius.“",
+      "b": "„Eik, bet grįžk kaip įmanoma greičiau.“",
+      "c": "„Pirmiausia turi būti šeimos pareigos.“",
+      "d": "„Aš eisiu su tavimi palaidoti tavo tėvo.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_009",
+    "question": "Kas nutiko Jėzui su mokiniais įlipus į valtį?",
+    "options": {
+      "a": "Valtis iškart pasiekė kitą krantą.",
+      "b": "Ežere pakilo smarki vėtra, bangos sėmė valtį.",
+      "c": "Jie susitiko kitus žvejus ežere.",
+      "d": "Jėzus pradėjo mokyti iš valties."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_010",
+    "question": "Ką Jėzus padarė, kai mokiniai jį prižadino per audrą?",
+    "options": {
+      "a": "Meldėsi Dievui, kad audra nurimtų.",
+      "b": "Liepė mokiniams melstis kartu su juo.",
+      "c": "Sudraudė vėjus bei ežerą, ir pasidarė visiškai ramu.",
+      "d": "Šoko į vandenį, kad nuramintų bangas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_011",
+    "question": "Kas atsitiko kiaulėms, kai demonai, Jėzaus leidus, įėjo į jas?",
+    "options": {
+      "a": "Jos pradėjo bėgioti po laukus, keldamos triukšmą.",
+      "b": "Visa kaimenė metėsi nuo skardžio į ežerą ir gavo galą vilnyse.",
+      "c": "Jos tapo ramios ir prisijaukino prie piemenų.",
+      "d": "Jos pabėgo į miestą, sukeldamos paniką."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_8"
+  }
+]

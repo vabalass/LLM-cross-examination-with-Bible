@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Mt_12_001",
+    "question": "Ką Jėzaus mokiniai darė šabo dieną, kas papiktino fariziejus?",
+    "options": {
+      "a": "Skynė varpas ir valgė",
+      "b": "Meldėsi šventykloje",
+      "c": "Gydė ligonius",
+      "d": "Keliavo tolimą kelią"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_002",
+    "question": "Kokį pavyzdį Jėzus paminėjo, aiškindamas mokinių veiksmus šabo dieną?",
+    "options": {
+      "a": "Mozę, valgantį maną dykumoje",
+      "b": "Dovydą, valgantį padėtinę duoną",
+      "c": "Elijo, valgantį su našle",
+      "d": "Jokūbą, verdantį lęšių troškinį"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_003",
+    "question": "Ką, pasak Jėzaus, kunigai darydavo šventykloje per šabą, pažeisdami šabo poilsį, bet nenusikaltsdami?",
+    "options": {
+      "a": "Keliaudavo ilgus atstumus",
+      "b": "Valgydavo padėtinę duoną",
+      "c": "Atlikdavo apeigas",
+      "d": "Skelbdavo pamokslus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_004",
+    "question": "Kokius žodžius Jėzus citavo, norėdamas paaiškinti pasigailėjimo svarbą, o ne aukos?",
+    "options": {
+      "a": "„Mylėk savo artimą kaip save patį“",
+      "b": "„Aš noriu pasigailėjimo, o ne aukos“",
+      "c": "„Garbink Viešpatį, savo Dievą“",
+      "d": "„Būkite šventi, nes aš esu šventas“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_005",
+    "question": "Kas, pasak Jėzaus, yra šabo Viešpats?",
+    "options": {
+      "a": "Kunigai",
+      "b": "Įstatymas",
+      "c": "Žmogaus Sūnus",
+      "d": "Dovydas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_006",
+    "question": "Koks buvo žmogaus sinagogoje negalavimas, dėl kurio fariziejai klausinėjo Jėzų?",
+    "options": {
+      "a": "Jis buvo aklas",
+      "b": "Jis buvo kurčias",
+      "c": "Jo ranka buvo padžiūvusi",
+      "d": "Jis buvo raišas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_007",
+    "question": "Koks buvo fariziejų tikslas, klausiant Jėzų, ar leistina šabo dieną gydyti?",
+    "options": {
+      "a": "Norėjo išmokti gydyti",
+      "b": "Siekė apkaltinti jį",
+      "c": "Rūpinosi ligoniu",
+      "d": "Tikrino jo žinias"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_008",
+    "question": "Kokį pavyzdį Jėzus pateikė, argumentuodamas, kad leistina daryti gera šabo dieną?",
+    "options": {
+      "a": "Išgelbėti į duobę įkritusią avį",
+      "b": "Pamaitinti alkanus vargšus",
+      "c": "Aplankyti sergančius",
+      "d": "Duoti išmaldą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_009",
+    "question": "Ką fariziejai darė, kai Jėzus pagydė žmogų padžiūvusia ranka?",
+    "options": {
+      "a": "Išsigando ir pabėgo",
+      "b": "Susimokė Jėzų pražudyti",
+      "c": "Pagarbino Dievą",
+      "d": "Paprašė jį daugiau gydyti"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_010",
+    "question": "Ką Jėzus padarė, žinodamas fariziejų susimokymą jį pražudyti?",
+    "options": {
+      "a": "Paskelbė jiems nuosprendį",
+      "b": "Pasitraukė iš ten ir gydė daugelį",
+      "c": "Iškvietė mokinius gintis",
+      "d": "Pasislėpė mieste"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_011",
+    "question": "Kieno pranašo žodžiai turėjo išsipildyti, Jėzui gydant ir įspėjant, kad jo negarsintų?",
+    "options": {
+      "a": "Jeremijo",
+      "b": "Danieliaus",
+      "c": "Izaijo",
+      "d": "Malachijo"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_012",
+    "question": "Koks apsėstasis buvo atvestas pas Jėzų, kurį jis pagydė?",
+    "options": {
+      "a": "Kurčias ir raišas",
+      "b": "Aklas ir nebylys",
+      "c": "Luošas ir ligotas",
+      "d": "Aklas ir kurčias"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_013",
+    "question": "Kuo fariziejai apkaltino Jėzų dėl demonų išvarymo?",
+    "options": {
+      "a": "Naudojo piktąją magiją",
+      "b": "Veikė Dievo Dvasios jėga",
+      "c": "Išvarinėjo demonus Belzebulo galia",
+      "d": "Buvo apgavikas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_014",
+    "question": "Kuri nuodėmė, pasak Jėzaus, nebus atleista nei šiame, nei būsimajame gyvenime?",
+    "options": {
+      "a": "Piktžodžiavimas Žmogaus Sūnui",
+      "b": "Melas",
+      "c": "Piktžodžiavimas Šventajai Dvasiai",
+      "d": "Tuščių žodžių sakymas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_015",
+    "question": "Koks ženklas, pasak Jėzaus, bus duotas piktai ir neištikimai kartai?",
+    "options": {
+      "a": "Ugnis iš dangaus",
+      "b": "Angelų pasirodymas",
+      "c": "Pranašo Jonos ženklas",
+      "d": "Žemės drebėjimas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_016",
+    "question": "Kas, pasak Jėzaus, yra jam ir brolis, ir sesuo, ir motina?",
+    "options": {
+      "a": "Jo kraujo giminaičiai",
+      "b": "Tie, kurie klauso jo mokymų",
+      "c": "Kiekvienas, kas tik vykdo jo dangiškojo Tėvo valią",
+      "d": "Jo mokiniai, sekantys jį visur"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_12"
+  }
+]

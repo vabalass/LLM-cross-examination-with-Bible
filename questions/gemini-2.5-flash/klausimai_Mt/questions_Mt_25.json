@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mt_25_001",
+    "question": "Kiek mergaičių iš viso išėjo pasitikti jaunikio palyginime apie dešimtį mergaičių?",
+    "options": {
+      "a": "Penkios",
+      "b": "Septynios",
+      "c": "Dešimt",
+      "d": "Dvylika"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_002",
+    "question": "Ko nepasiėmė paikosios mergaitės kartu su žibintais?",
+    "options": {
+      "a": "Vandens",
+      "b": "Maisto",
+      "c": "Alyvos",
+      "d": "Pinigų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_003",
+    "question": "Kas pasigirdo vidurnaktį, kai jaunikis vėlavo?",
+    "options": {
+      "a": "Muzika",
+      "b": "Jaunikio juokas",
+      "c": "Balsai: „Štai jaunikis! Išeikite pasitikti!“",
+      "d": "Paukščių čiulbėjimas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_004",
+    "question": "Ką protingosios mergaitės patarė paikosioms, kai šios prašė alyvos?",
+    "options": {
+      "a": "Pasidalyti su jomis",
+      "b": "Verčiau nueikite pas prekiautojus ir nusipirkite",
+      "c": "Palaukti ryto",
+      "d": "Ignoruoti jų prašymą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_005",
+    "question": "Koks buvo jaunikio atsakymas mergaitėms, kurios atėjo vėliau, kai durys jau buvo uždarytos?",
+    "options": {
+      "a": "„Užeikite!“",
+      "b": "„Palaukite!“",
+      "c": "„Aš jūsų nepažįstu!“",
+      "d": "„Kur jūs buvote?“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_006",
+    "question": "Ko moko palyginimas apie dešimtį mergaičių, pagal paskutinį teksto sakinį?",
+    "options": {
+      "a": "Visada turėkite atsargų",
+      "b": "Dalinkitės su kitais",
+      "c": "Budėkite, nes nežinote nei dienos, nei valandos",
+      "d": "Niekada nevėluokite į vestuves"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_007",
+    "question": "Kaip šeimininkas padalijo turtą tarnams palyginime apie talentus?",
+    "options": {
+      "a": "Visiems po lygiai",
+      "b": "Jauniausiam daugiausiai",
+      "c": "Kiekvienam pagal jo gabumus",
+      "d": "Tik pačiam gabiausiam"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_008",
+    "question": "Ką padarė tarnas, gavęs vieną talentą?",
+    "options": {
+      "a": "Pelnė kitą talentą",
+      "b": "Atidavė jį kitam tarnui",
+      "c": "Nuėjo, iškasė duobę ir paslėpė šeimininko pinigus",
+      "d": "Išleido pinigus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_009",
+    "question": "Ką šeimininkas pasakė tarnui, kuris pelnė penkis talentus?",
+    "options": {
+      "a": "„Gerai, šaunusis ir ištikimasis tarne! Eikš į savo šeimininko džiaugsmą!“",
+      "b": "„Tu galėjai pelnyti dar daugiau.“",
+      "c": "„Tavo darbas yra tik pradinė investicija.“",
+      "d": "„Aš tavimi nusivyliau.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_010",
+    "question": "Kaip šeimininkas pavadino tarną, kuris paslėpė talentą?",
+    "options": {
+      "a": "Tingus ir gudrus",
+      "b": "Ištikimas ir darbštus",
+      "c": "„Blogasis tarne, tinginy!“",
+      "d": "Atsargus ir išmintingas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_011",
+    "question": "Ką reikėjo padaryti su talentu, atimtu iš tinginio tarno?",
+    "options": {
+      "a": "Atiduoti vargšams",
+      "b": "Grąžinti šeimininkui",
+      "c": "Atiduoti tam, kuris turi dešimt talentų",
+      "d": "Išdalinti visiems"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_012",
+    "question": "Kokia metafora naudojama apibūdinant Žmogaus Sūnaus žmonių perskyrimą Paskutiniojo Teismo metu?",
+    "options": {
+      "a": "Kaip sodininkas atskiria piktžoles nuo gėlių",
+      "b": "Kaip piemuo atskiria avis nuo ožių",
+      "c": "Kaip teisėjas atskiria nusikaltėlius nuo teisiųjų",
+      "d": "Kaip tėvas atskiria vaikus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_013",
+    "question": "Kurioje pusėje bus pastatytos avys Paskutiniojo Teismo metu?",
+    "options": {
+      "a": "Kairėje",
+      "b": "Dešinėje",
+      "c": "Priekyje",
+      "d": "Už nugaros"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_014",
+    "question": "Ką Karalius sako, kad teisieji padarė jam, kai padėjo „vienam iš šitų mažiausiųjų mano brolių“?",
+    "options": {
+      "a": "Tai buvo jūsų pareiga",
+      "b": "Man padarėte",
+      "c": "Aš to nepamiršiu",
+      "d": "Tai yra Dievo garbė"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_015",
+    "question": "Kur eis tie, kurie nepasigailėjo mažiausiųjų, pagal Paskutiniojo Teismo aprašymą?",
+    "options": {
+      "a": "Į amžinąjį gyvenimą",
+      "b": "Į tamsybes",
+      "c": "Į amžinąjį kentėjimą",
+      "d": "Į lauką"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_25"
+  }
+]

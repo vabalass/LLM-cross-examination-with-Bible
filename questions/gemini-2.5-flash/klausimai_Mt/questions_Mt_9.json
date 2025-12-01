@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mt_9_001",
+    "question": "Ką Jėzus pasakė paralyžiuotajam, prieš liepdamas jam keltis ir vaikščioti?",
+    "options": {
+      "a": "Pasitikėk, sūnau, tavo nuodėmės atleistos!",
+      "b": "Kelkis ir eik namo!",
+      "c": "Tikėk Dievu ir būsi sveikas.",
+      "d": "Sek paskui mane."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_002",
+    "question": "Kaip Jėzus žinojo, ką mąsto kai kurie Rašto aiškintojai, kurie murmėjo apie piktžodžiavimą?",
+    "options": {
+      "a": "Išgirdo juos šnabždantis.",
+      "b": "Skaitydamas jų mintis.",
+      "c": "Jam pasakė jo mokiniai.",
+      "d": "Jie pasakė jam tiesiai į akis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_003",
+    "question": "Kokia buvo minių reakcija, pamačius pagydytą paralyžiuotąjį?",
+    "options": {
+      "a": "Jie pyko ant Jėzaus.",
+      "b": "Jie juokėsi iš Jėzaus.",
+      "c": "Jie išsigando ir šlovino Dievą.",
+      "d": "Jie prašė Jėzaus daugiau stebuklų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_004",
+    "question": "Koks buvo muitininko, kurį Jėzus pašaukė, vardas?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Matas",
+      "d": "Andriejus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_005",
+    "question": "Kas prikišo Jėzaus mokiniams, kad jų Mokytojas valgo su muitininkais ir nusidėjėliais?",
+    "options": {
+      "a": "Jono mokiniai",
+      "b": "Sinagogos vyresnieji",
+      "c": "Fariziejai",
+      "d": "Kaimo gyventojai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_006",
+    "question": "Kokį palyginimą Jėzus panaudojo, kad paaiškintų, jog jam nereikia sveikųjų, o ligonių?",
+    "options": {
+      "a": "Ne sveikiems reikia piemens, o sergantiems.",
+      "b": "Ne stipriems reikia kario, o silpniesiems.",
+      "c": "Ne gausiems reikia maisto, o alkstantiems.",
+      "d": "Ne sveikiesiems reikia gydytojo, o ligoniams."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_007",
+    "question": "Kas priėjo prie Jėzaus ir paklausė apie pasninkavimą?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Rašto aiškintojai",
+      "c": "Jono mokiniai",
+      "d": "Muitininkai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_008",
+    "question": "Ką Jėzus sakė apie naują vyną ir senus vynmaišius?",
+    "options": {
+      "a": "Jaunas vynas pilamas į senus vynmaišius, ir abeji išsilaiko.",
+      "b": "Jaunas vynas pilamas į naujus vynmaišius, ir abeji išsilaiko.",
+      "c": "Jaunas vynas išpila senus vynmaišius, ir vynas išsilietu.",
+      "d": "Visi vynmaišiai yra vienodi, nepriklausomai nuo vyno amžiaus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_009",
+    "question": "Kiek metų moteris, palietusi Jėzaus apsiausto apvadą, sirgo kraujoplūdžiu?",
+    "options": {
+      "a": "Penkerius metus",
+      "b": "Dešimt metų",
+      "c": "Dvylika metų",
+      "d": "Penkiolika metų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_010",
+    "question": "Ką Jėzus pasakė sinagogos vyresniojo namuose, kai pamatė raudančią minią?",
+    "options": {
+      "a": "Mergaitė mirusi.",
+      "b": "Išeikite, nes mergaitė ne mirus, o miega.",
+      "c": "Ką tik mirė mano dukrelė.",
+      "d": "Niekas negali jos pagydyti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_011",
+    "question": "Ką sakė minios, kai demono apsėstas nebylys prakalbo?",
+    "options": {
+      "a": "Fariziejai jį apgaudinėja.",
+      "b": "Jis išvaro demonus su jų valdovo galia.",
+      "c": "Dar niekad Izraelyje nėra buvę tokių dalykų.",
+      "d": "Tokie stebuklai vyksta dažnai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_012",
+    "question": "Kaip Jėzus apibūdino minias, matydamas jų būklę?",
+    "options": {
+      "a": "Gausios ir laimingos.",
+      "b": "Protingos ir išsilavinusios.",
+      "c": "Suvargusios ir apleistos lyg avys be piemens.",
+      "d": "Savo sielų šeimininkės."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_9"
+  }
+]

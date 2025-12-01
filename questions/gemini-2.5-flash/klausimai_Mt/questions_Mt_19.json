@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Mt_19_001",
+    "question": "Kur Jėzus pasitraukė iš Galilėjos, pabaigęs kalbas?",
+    "options": {
+      "a": "Į Samarijos sritį, anapus Jordano",
+      "b": "Į Judėjos sritį, anapus Jordano",
+      "c": "Į Dekapolio miestus",
+      "d": "Atgal į Nazaretą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_002",
+    "question": "Kokiu tikslu fariziejai priėjo prie Jėzaus ir paklausė apie skyrybas?",
+    "options": {
+      "a": "Norėdami pasimokyti iš jo išminties",
+      "b": "Bandydami Jį suvedžioti ir spęsdami pinkles",
+      "c": "Siekdami aiškumo dėl Mozės įstatymo",
+      "d": "Norėdami gauti palaiminimą savo santuokoms"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_003",
+    "question": "Kokia buvo priežastis, dėl kurios Mozė leido duoti skyrybų raštą, anot Jėzaus?",
+    "options": {
+      "a": "Dėl moters nuodėmės",
+      "b": "Dėl vyro širdies kietumo",
+      "c": "Dėl didelio turto skirtumo",
+      "d": "Dėl šeimos spaudimo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_004",
+    "question": "Anot Jėzaus, jei ne dėl kokios priežasties atleidus žmoną ir vedus kitą, žmogus svetimauja?",
+    "options": {
+      "a": "Jei ne dėl ligos",
+      "b": "Jei ne dėl nesutarimų",
+      "c": "Jei ne dėl ištvirkavimo",
+      "d": "Jei ne dėl neturto"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_005",
+    "question": "Kaip mokiniai reagavo į Jėzaus žodžius apie santuokos neišardomumą?",
+    "options": {
+      "a": "Jie džiaugėsi naujuoju mokymu",
+      "b": "Jie sutiko, kad tai yra teisinga",
+      "c": "Jie pareiškė, kad neverta vesti",
+      "d": "Jie paprašė Jėzaus paaiškinti plačiau"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_006",
+    "question": "Kiek skirtingų eunuchų tipų paminėjo Jėzus?",
+    "options": {
+      "a": "Vieną",
+      "b": "Du",
+      "c": "Tris",
+      "d": "Keturių"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_007",
+    "question": "Kodėl Jėzus sakė: „Leiskite mažutėlius ir nedrauskite jiems ateiti pas mane“?",
+    "options": {
+      "a": "Nes jam patiko vaikų šurmulys",
+      "b": "Nes norėjo juos pamokyti",
+      "c": "Nes tokių yra dangaus karalystė",
+      "d": "Nes jie turėjo jam klausimų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_008",
+    "question": "Ką Jėzus liepė jaunuoliui daryti, kad taptų tobulas, po to, kai jis teigė laikęsis įsakymų?",
+    "options": {
+      "a": "Skirti dešimtinę šventyklai",
+      "b": "Parduoti, ką turi, išdalyti vargšams ir sekti paskui Jį",
+      "c": "Tapti Rašto žinovu",
+      "d": "Keliauti ir skelbti Gerąją Naujieną"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_009",
+    "question": "Ką Jėzus palygino su sunkumu turtuoliui patekti į dangaus karalystę?",
+    "options": {
+      "a": "Lengviau kupranugariui išlįsti pro adatos ausį",
+      "b": "Lengviau laivui perplaukti audringą jūrą",
+      "c": "Lengviau kalnui pajudėti iš vietos",
+      "d": "Lengviau vargšui tapti karaliumi"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_010",
+    "question": "Ką Jėzus pažadėjo savo sekėjams pasaulio atgimime?",
+    "options": {
+      "a": "Jie taps žemiškais karaliais",
+      "b": "Jie turės neribotą turtą",
+      "c": "Jie sėdės dvylikoje sostų, teisdami dvylika Izraelio giminių",
+      "d": "Jie gaus aukštas pareigas šventykloje"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_19"
+  }
+]

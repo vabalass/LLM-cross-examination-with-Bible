@@ -1,0 +1,288 @@
+[
+  {
+    "id": "Mt_27_001",
+    "question": "Rytui išaušus, kas nusprendė, kad Jėzus turįs būti nužudytas?",
+    "options": {
+      "a": "Visi aukštieji kunigai ir tautos seniūnai",
+      "b": "Tik fariziejai",
+      "c": "Romos valdytojas Pilotas",
+      "d": "Jėzaus mokiniai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_002",
+    "question": "Kam buvo atiduotas Jėzus, surišus jį ryte?",
+    "options": {
+      "a": "Valdytojui Pilotui",
+      "b": "Cezariui Romoje",
+      "c": "Erodo rūmams",
+      "d": "Šventyklos sargybai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_003",
+    "question": "Kiek sidabrinių Judas grąžino aukštiesiems kunigams ir seniūnams?",
+    "options": {
+      "a": "Trisdešimt",
+      "b": "Dvidešimt",
+      "c": "Keturiasdešimt",
+      "d": "Šimtą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_004",
+    "question": "Ką Judas tarė, grąžindamas pinigus?",
+    "options": {
+      "a": "„Nusidėjau išduodamas nekaltą kraują“",
+      "b": "„Aš persigalvojau dėl sandorio“",
+      "c": "„Štai jūsų pinigai atgal“",
+      "d": "„Man gaila, kad taip nutiko“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_005",
+    "question": "Ką Judas padarė nusviedęs pinigus šventykloje?",
+    "options": {
+      "a": "Pasikorė",
+      "b": "Bėgo slėptis",
+      "c": "Grįžo pas mokinius",
+      "d": "Bandė atsiimti Jėzų"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_006",
+    "question": "Ką aukštieji kunigai nusprendė daryti su grąžintais sidabriniais pinigais?",
+    "options": {
+      "a": "Nupirkti puodžiaus dirvą ateiviams laidoti",
+      "b": "Padėti juos į šventyklos iždą",
+      "c": "Grąžinti Jėzui",
+      "d": "Paskirstyti vargšams"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_007",
+    "question": "Kaip iki šios dienos vadinosi dirva, nupirkta už Judas pinigus?",
+    "options": {
+      "a": "Kraujo dirva",
+      "b": "Puodžiaus dirva",
+      "c": "Ateivių dirva",
+      "d": "Judas dirva"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_008",
+    "question": "Kurio pranašo žodžiai išsipildė dėl trisdešimties sidabrinių?",
+    "options": {
+      "a": "Jeremijo",
+      "b": "Izaijo",
+      "c": "Ezecho",
+      "d": "Danieliaus"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_009",
+    "question": "Ką Pilotas paklausė Jėzaus valdytojo akivaizdoje?",
+    "options": {
+      "a": "„Ar tu esi žydų karalius?“",
+      "b": "„Ką blogo esi padaręs?“",
+      "c": "„Kodėl tyli?“",
+      "d": "„Ar pažįsti Barabą?“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_010",
+    "question": "Kaip Jėzus atsakė Piloto klausimui: „Ar tu esi žydų karalius?“",
+    "options": {
+      "a": "„Taip yra, kaip sakai“",
+      "b": "„Aš esu tiesa“",
+      "c": "„Aš atėjau išgelbėti“",
+      "d": "„Tu pats žinai“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_011",
+    "question": "Ką Pilotas jautė, kai Jėzus neatsakė nė į vieną kaltinimą?",
+    "options": {
+      "a": "Buvo be galo nustebintas",
+      "b": "Suprato Jėzaus kaltę",
+      "c": "Pasipiktino jo tyla",
+      "d": "Nusprendė jį iškart paleisti"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_012",
+    "question": "Koks buvo garsus kalinys, kurį Pilotas turėjo šventės proga, ir apie kurį klausė minios?",
+    "options": {
+      "a": "Barabas",
+      "b": "Herkus",
+      "c": "Kaifas",
+      "d": "Simonas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_013",
+    "question": "Kodėl Pilotas žinojo, kad aukštieji kunigai Jėzų buvo išdavę?",
+    "options": {
+      "a": "Iš pavydo",
+      "b": "Dėl pinigų",
+      "c": "Dėl Jėzaus nusikaltimų",
+      "d": "Dėl minios spaudimo"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_014",
+    "question": "Ką Piloto žmona atsiuntė jam sėdint teismo krasėje?",
+    "options": {
+      "a": "Įspėjimą apie Jėzų sapne",
+      "b": "Laišką su nurodymais",
+      "c": "Maisto ir gėrimų",
+      "d": "Patarimą paleisti Barabą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_015",
+    "question": "Ką aukštieji kunigai ir seniūnai sukurstė žmones prašyti paleisti?",
+    "options": {
+      "a": "Barabą",
+      "b": "Jėzų",
+      "c": "Bet kurį kalinį",
+      "d": "Nieko"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_016",
+    "question": "Kai Pilotas paklausė, ką daryti su Jėzumi, kuris vadinamas Mesiju, ką visi rėkė?",
+    "options": {
+      "a": "„Ant kryžiaus jį!“",
+      "b": "„Paleisk jį!“",
+      "c": "„Tegu bus nuteistas kalėjimu!“",
+      "d": "„Tegu jis mus moko!“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_017",
+    "question": "Ką Pilotas padarė, pamatęs, kad nieko nelaimi, o sąmyšis vis didėja?",
+    "options": {
+      "a": "Paėmė vandens ir nusimazgojo rankas minios akivaizdoje",
+      "b": "Pabėgo iš teismo",
+      "c": "Bandė dar kartą įtikinti minią",
+      "d": "Liepė sargybai nutildyti minią"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_018",
+    "question": "Ką žmonės šaukė po Piloto rankų nusiplovimo, sakydami: „Aš nekaltas dėl šio teisiojo kraujo“?",
+    "options": {
+      "a": "„Jo kraujas [tekrinta] ant mūsų ir mūsų vaikų!“",
+      "b": "„Tegu tai būna tavo atsakomybė!“",
+      "c": "„Mes tik norime teisingumo!“",
+      "d": "„Tegu Dievas jus teisia!“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_019",
+    "question": "Ką Pilotas padarė su Jėzumi, paleidęs Barabą?",
+    "options": {
+      "a": "Nuplakdinęs atidavė nukryžiuoti",
+      "b": "Paleido jį namo",
+      "c": "Įmetė į kalėjimą",
+      "d": "Atsisakė toliau jį teisti"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_020",
+    "question": "Ką kareiviai uždėjo Jėzui ant galvos tyčiodamiesi ir apvilkę raudona skraiste?",
+    "options": {
+      "a": "Erškėčių vainiką",
+      "b": "Auksinę karūną",
+      "c": "Skrybėlę",
+      "d": "Audeklo raištį"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_021",
+    "question": "Kas buvo įspausta Jėzui į dešinę ranką kareivių tyčiojimosi metu?",
+    "options": {
+      "a": "Nendrė",
+      "b": "Kardas",
+      "c": "Skevelė",
+      "d": "Kryžiaus fragmentas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_022",
+    "question": "Apie kokią valandą visą kraštą gaubė tamsa, kol Jėzus buvo ant kryžiaus?",
+    "options": {
+      "a": "Nuo šeštos iki devintos",
+      "b": "Nuo ryto iki vidurdienio",
+      "c": "Nuo trečios iki šeštos",
+      "d": "Visą dieną"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_27"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mt_17_001",
+    "question": "Kuriuos mokinius Jėzus pasiėmė su savimi ant aukšto kalno atsimainymui?",
+    "options": {
+      "a": "Petrą, Jokūbą ir Joną",
+      "b": "Petrą, Andriejų ir Joną",
+      "c": "Jokūbą, Joną ir Matą",
+      "d": "Petrą, Jokūbą ir Tadą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_002",
+    "question": "Kas pasirodė Jėzui ant kalno atsimainymo metu ir kalbėjosi su juo?",
+    "options": {
+      "a": "Abraomas ir Izaokas",
+      "b": "Mozė ir Elijas",
+      "c": "Dovydas ir Saliamonas",
+      "d": "Nojus ir Elijus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_003",
+    "question": "Ką balsas iš skaistaus debesies pasakė apie Jėzų?",
+    "options": {
+      "a": "„Šitas yra mano pasirinktasis tarnas.“",
+      "b": "„Šitas yra karalius Izraelio.“",
+      "c": "„Šitas yra mano mylimasis Sūnus, kuriuo aš gėriuosi.“",
+      "d": "„Šitas yra ateinantis pranašas.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_004",
+    "question": "Apie ką Jėzus kalbėjo, sakydamas, kad Elijas jau buvo atėjęs?",
+    "options": {
+      "a": "Apie Eliją, kuris grįš į žemę.",
+      "b": "Apie pranašą Izaiją.",
+      "c": "Apie Joną Krikštytoją.",
+      "d": "Apie save patį."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_005",
+    "question": "Kokia liga kamavo vyrą, kuris atsiklaupė prieš Jėzų ir maldavo pasigailėti jo sūnaus?",
+    "options": {
+      "a": "Jis buvo aklas.",
+      "b": "Jis buvo luošas.",
+      "c": "Jis per miegus vaikščiojo ir kankindavosi.",
+      "d": "Jis sirgo raupsais."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_006",
+    "question": "Kodėl mokiniai negalėjo išvaryti demono iš berniuko lunatiko?",
+    "options": {
+      "a": "Todėl, kad jiems trūko žinių.",
+      "b": "Todėl, kad berniukas nebuvo krikštytas.",
+      "c": "Todėl, kad jiems trūko tikėjimo.",
+      "d": "Todėl, kad tai galėjo padaryti tik Jėzus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_007",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnų, tebebūdamas su mokiniais Galilėjoje?",
+    "options": {
+      "a": "Kad jis bus karalius.",
+      "b": "Kad jis bus atiduotas, nužudytas ir trečią dieną prisikels.",
+      "c": "Kad jis įkurs naują karalystę.",
+      "d": "Kad jis bus paskirtas teisėju."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_008",
+    "question": "Kas priėjo prie Petro, kai jie atėjo į Kafarnaumą, ir paklausė apie mokestį?",
+    "options": {
+      "a": "Romos kariai",
+      "b": "Šventyklos kunigai",
+      "c": "Didrachmų rinkėjai",
+      "d": "Fariziejai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_009",
+    "question": "Ką Petras turėjo rasti pirmosios pagautos žuvies burnoje, kad sumokėtų mokestį?",
+    "options": {
+      "a": "Sidabrinę monetą, pavadintą statera.",
+      "b": "Auksinį žiedą.",
+      "c": "Retą perlą.",
+      "d": "Mažą medžio gabalėlį."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_17"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Mt_23_001",
+    "question": "Kas, pagal tekstą, anuomet atsisėdo į Mozės krasę?",
+    "options": {
+      "a": "Jėzus ir jo mokiniai",
+      "b": "Rašto aiškintojai ir fariziejai",
+      "c": "Pranašai ir išminčiai",
+      "d": "Tikintieji iš minios"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_002",
+    "question": "Ką Rašto aiškintojai ir fariziejai darydavo, kad būtų žmonių matomi?",
+    "options": {
+      "a": "Plakdavo žmones sinagogose",
+      "b": "Pasiplatindavo maldos diržus ir pasididindavo apsiaustų spurgus",
+      "c": "Statydavo pranašams antkapius",
+      "d": "Keliaudavo per jūrą ir sausumą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_003",
+    "question": "Ką Jėzus nurodė didesniam iš mokinių daryti?",
+    "options": {
+      "a": "Būti mokytoju",
+      "b": "Būti lyderiu",
+      "c": "Būti tarnu",
+      "d": "Būti rabi"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_004",
+    "question": "Ką Rašto aiškintojai ir fariziejai rišdavo ir kraudavo žmonėms ant pečių, ko patys nenorėjo nė pirštu pajudinti?",
+    "options": {
+      "a": "Sunkiais maišais",
+      "b": "Sunkiais, nepakeliamomis naštomis",
+      "c": "Sunkiais akmenimis",
+      "d": "Sunkiais ginklais"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_005",
+    "question": "Kokia yra priežastis, kodėl mokiniai neturėtų vadinti nė vieno iš savųjų 'tėvu'?",
+    "options": {
+      "a": "Nes jų vienintelis Mokytojas yra Kristus",
+      "b": "Nes visi yra broliai",
+      "c": "Nes turite vienintelį Tėvą danguje",
+      "d": "Nes tai būtų veidmainystė"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_006",
+    "question": "Už ką Jėzus smerkė Rašto aiškintojus ir fariziejus dėl dangaus karalystės?",
+    "options": {
+      "a": "Kad jie pamiršo, kas svarbiausia Įstatyme",
+      "b": "Kad jie užrakina žmonėms dangaus karalystę ir nei patys neina, nei trokštančių neleidžia",
+      "c": "Kad jie valo tik taurės išorę",
+      "d": "Kad jie statė pranašams antkapius"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_007",
+    "question": "Kaip Rašto aiškintojai ir fariziejai paveikdavo naujatikius, kuriuos laimėdavo?",
+    "options": {
+      "a": "Padarydavo iš jų geresnius žmones",
+      "b": "Padarydavo iš jų pragaro vaiką, dvigubai blogesnį už save pačius",
+      "c": "Padarydavo iš jų mokytojus",
+      "d": "Padarydavo iš jų sėkmingus pirklius"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_008",
+    "question": "Kas, Jėzaus žodžiais, yra didesnis: auksas ar šventovė, kuri pašventina auksą?",
+    "options": {
+      "a": "Auksas",
+      "b": "Šventovė",
+      "c": "Jie yra lygiaverčiai",
+      "d": "Abu yra nieko"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_009",
+    "question": "Ką Rašto aiškintojai ir fariziejai pamiršdavo, duodami dešimtinę nuo mėtų, krapų ir kmynų?",
+    "options": {
+      "a": "Kas svarbiausia Įstatyme – teisingumą, gailestingumą ir ištikimybę",
+      "b": "Kitiems duoti paramą",
+      "c": "Savo mokinius",
+      "d": "Savo namų priežiūrą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_010",
+    "question": "Kuo Jėzus palygino veidmainius Rašto aiškintojus ir fariziejus, kalbėdamas apie jų išorę ir vidų?",
+    "options": {
+      "a": "Į sena ir pūvančia mediena",
+      "b": "Į pabaltintus antkapius, kurie iš paviršiaus gražiai atrodo, o viduje pilni numirėlių kaulų",
+      "c": "Į gerai išvalytus dubenis",
+      "d": "Į ganyklas pilnas vilkų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_011",
+    "question": "Kieno kraujas, be teisiojo Abelio, minimas kaip išlietas tarp šventovės ir aukuro, už kurį kris bausmė ant šitos kartos?",
+    "options": {
+      "a": "Jono Krikštytojo kraujas",
+      "b": "Barachijo sūnaus Zacharijo kraujas",
+      "c": "Izaijo kraujas",
+      "d": "Elijo kraujas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_012",
+    "question": "Kaip Jėzus norėjo surinkti Jeruzalės vaikus?",
+    "options": {
+      "a": "Kaip ganytojas avis",
+      "b": "Kaip tėvas savo vaikus",
+      "c": "Kaip višta surenka savo viščiukus po sparnais",
+      "d": "Kaip mokytojas savo mokinius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_013",
+    "question": "Kokie žodžiai turi būti ištarti Jeruzalėje, kad Jėzus vėl pasirodytų?",
+    "options": {
+      "a": "„Ateik, Viešpatie!“",
+      "b": "„Garbė tam, kuris ateina Viešpaties vardu!“",
+      "c": "„Atleisk mums mūsų nuodėmes!“",
+      "d": "„Mes tavęs laukiame!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_23"
+  }
+]

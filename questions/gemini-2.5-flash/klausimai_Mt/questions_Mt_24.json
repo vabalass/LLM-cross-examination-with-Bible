@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Mt_24_001",
+    "question": "Ką Jėzus pranašavo apie šventyklos rūmus, išeidamas iš šventyklos?",
+    "options": {
+      "a": "Jos bus atstatytos dar didesnės.",
+      "b": "Čia neliks akmens ant akmens, viskas bus išgriauta.",
+      "c": "Jos stovės amžinai kaip tikėjimo simbolis.",
+      "d": "Jos bus perkeltos į kitą vietą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_002",
+    "question": "Kur Jėzus atsisėdo, kai mokiniai priėjo ir klausė apie jo atėjimą ir pasaulio pabaigą?",
+    "options": {
+      "a": "Prie šventyklos vartų.",
+      "b": "Ant Alyvų kalno.",
+      "c": "Jeruzalės mieste.",
+      "d": "Nazareto apylinkėse."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_003",
+    "question": "Ką Jėzus perspėjo, kad darys daugelis žmonių, ateinančių su jo vardu?",
+    "options": {
+      "a": "Jie skelbs taiką ir meilę.",
+      "b": "Jie statys naujas šventyklas.",
+      "c": "Jie sakys: 'Aš Mesijas!', ir daugelį suklaidins.",
+      "d": "Jie mokys senojo Testamento įstatymų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_004",
+    "question": "Kokius įvykius Jėzus paminėjo kaip 'kentėjimų pradžią', bet dar ne galą?",
+    "options": {
+      "a": "Tikėjimo atgimimą ir stebuklus.",
+      "b": "Karus, badmečius ir žemės drebėjimus.",
+      "c": "Šventyklos atstatymą.",
+      "d": "Visuotinę taiką."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_005",
+    "question": "Kas nutiks Jėzaus mokiniams dėl jo vardo?",
+    "options": {
+      "a": "Jie bus garbinami visose tautose.",
+      "b": "Jie bus atiduoti kankinti ir žudyti, ir bus visų tautų nekenčiami.",
+      "c": "Jiems bus suteikta didžiulė galia.",
+      "d": "Jie gyvens taikiai ir ramiai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_006",
+    "question": "Kas nutiks daugelio meilei, kadangi įsigalės neteisybė?",
+    "options": {
+      "a": "Ji padidės.",
+      "b": "Ji išliks stipri.",
+      "c": "Ji atšals.",
+      "d": "Ji taps abejinga."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_007",
+    "question": "Kas turi būti paskelbta visame pasaulyje, kad paliudytų visoms tautoms, prieš ateinant galui?",
+    "options": {
+      "a": "Taikos sutartis.",
+      "b": "Karalystės Evangelija.",
+      "c": "Nauji įstatymai.",
+      "d": "Filosofinės idėjos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_008",
+    "question": "Koks ženklas, susijęs su pranašu Danieliumi, nurodys, kad Judėjos gyventojai turėtų bėgti į kalnus?",
+    "options": {
+      "a": "Sausra.",
+      "b": "Sunaikinimo pabaisa, stovinti šventoje vietoje.",
+      "c": "Dangaus ženklas.",
+      "d": "Naujos šventyklos statyba."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_009",
+    "question": "Koks nurodymas duodamas tiems, kurie bus ant stogo ar laukuose, kai ateis sunaikinimas?",
+    "options": {
+      "a": "Grįžti namo pasiimti daiktų.",
+      "b": "Nelipti žemėn/negrįžti pasiimti apsiausto, o nedelsiant bėgti.",
+      "c": "Pasislėpti ten, kur jie yra.",
+      "d": "Laukti pagalbos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_010",
+    "question": "Ko mokiniai turėtų melstis, kad jiems netektų bėgti?",
+    "options": {
+      "a": "Kad jiems netektų bėgti žiemą ar šabo dieną.",
+      "b": "Kad jie turėtų pakankamai maisto.",
+      "c": "Kad jie būtų apsaugoti nuo priešų.",
+      "d": "Kad jie galėtų likti namuose."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_011",
+    "question": "Kodėl tos didelio suspaudimo dienos bus sutrumpintos?",
+    "options": {
+      "a": "Dėl piktųjų.",
+      "b": "Dėl Romos imperijos.",
+      "c": "Dėl išrinktųjų.",
+      "d": "Dėl angelų prašymo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_012",
+    "question": "Ką darys netikri mesijai ir netikri pranašai, kad suklaidintų žmones?",
+    "options": {
+      "a": "Jie rašys knygas.",
+      "b": "Jie darys didelių ženklų bei stebuklų.",
+      "c": "Jie kalbės viešai.",
+      "d": "Jie slėpsis nuo žmonių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_013",
+    "question": "Kaip Jėzus apibūdino Žmogaus Sūnaus atėjimą?",
+    "options": {
+      "a": "Tyliai ir nepastebimai.",
+      "b": "Kaip žaibas tvykstelėja iš rytų ir nušvinta iki vakarų.",
+      "c": "Tik nedaugelis tai pamatys.",
+      "d": "Kaip lėtai kylanti saulė."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_014",
+    "question": "Kokie kosminiai įvykiai, pasak Jėzaus, nutiks netrukus po tų nelaimių dienų, prieš pasirodant Žmogaus Sūnaus ženklui?",
+    "options": {
+      "a": "Atsiras naujų žvaigždžių.",
+      "b": "Saulė užtems, mėnulis nebeduos šviesos, žvaigždės kris iš dangaus.",
+      "c": "Žemė taps derlingesnė.",
+      "d": "Dangus ims švytėti naujomis spalvomis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_015",
+    "question": "Ką Jėzus pasakė apie kartą, kuri išvys šiuos įvykius?",
+    "options": {
+      "a": "Ši karta praeis, kol visa tai įvyks.",
+      "b": "Nepraeis nė ši karta, iki visa tai įvyks.",
+      "c": "Tik ateinančios kartos tai pamatys.",
+      "d": "Neaišku, kuri karta tai išvys."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_016",
+    "question": "Kas žino tos dienos ir valandos, kada ateis Žmogaus Sūnus?",
+    "options": {
+      "a": "Tik Tėvas.",
+      "b": "Dangaus angelai.",
+      "c": "Sūnus.",
+      "d": "Mokiniai."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_017",
+    "question": "Kuo pasižymi ištikimas ir protingas tarnas, ir kuo jį apdovanos šeimininkas, sugrįžęs netikėtai?",
+    "options": {
+      "a": "Jis yra tas, kuris muša savo tarnybos draugus.",
+      "b": "Jis deramu laiku maitina šeimyną ir bus paskirtas valdyti visų turtų.",
+      "c": "Jis valgo ir ūžia su girtuokliais.",
+      "d": "Jis nieko neveikia, laukdamas šeimininko."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_24"
+  }
+]

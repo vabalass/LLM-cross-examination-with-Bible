@@ -1,0 +1,93 @@
+[
+  {
+    "id": "Mt_2_001",
+    "question": "Kas atvyko į Jeruzalę, ieškodami gimusio Žydų karaliaus, matę jo žvaigždę?",
+    "options": {
+      "a": "Rytų išminčiai",
+      "b": "Romos legionieriai",
+      "c": "Jeruzalės aukštieji kunigai",
+      "d": "Galilėjos žvejai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_002",
+    "question": "Kaip karalius Erodas reagavo išgirdęs apie gimusį Žydų karalių?",
+    "options": {
+      "a": "Sunerimo ir sušaukė aukštuosius kunigus bei Rašto aiškintojus",
+      "b": "Apsidžiaugė ir pats išvyko jo pagarbinti",
+      "c": "Iškart išsiuntė savo kareivius kūdikio ieškoti",
+      "d": "Ignoravo naujienas, manydamas, kad tai tik gandai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_003",
+    "question": "Kur, pasak pranašų žodžių, turėjo gimti Mesijas?",
+    "options": {
+      "a": "Nazarete, Galilėjoje",
+      "b": "Jeruzalėje, šventajame mieste",
+      "c": "Judėjos Betliejuje",
+      "d": "Egipte, kur jam reikėjo bėgti"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_004",
+    "question": "Kokias tris dovanas išminčiai įteikė Jėzui, jį pagarbindami?",
+    "options": {
+      "a": "Sidabrą, vyną ir duoną",
+      "b": "Auksą, smilkalus ir mirą",
+      "c": "Perlus, šilką ir prieskonius",
+      "d": "Avieną, vandenį ir alyvuogių aliejų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_005",
+    "question": "Į kurią šalį Juozapas su Marija ir kūdikiu Jėzumi pasitraukė, sapne įspėti apie Erodo ketinimus?",
+    "options": {
+      "a": "Siriją",
+      "b": "Egiptą",
+      "c": "Graikiją",
+      "d": "Romą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_006",
+    "question": "Koks tragiškas įvykis įvyko Betliejuje ir jo apylinkėse, kai Erodas suprato, kad išminčiai jį apvylė?",
+    "options": {
+      "a": "Visi berniukai, dvejų metų ir jaunesni, buvo išžudyti",
+      "b": "Miestas buvo apleistas ir sunaikintas",
+      "c": "Erodas nubaudė išminčius, kurie jį apgavo",
+      "d": "Visi gyventojai buvo priversti bėgti į Egiptą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_007",
+    "question": "Kodėl Juozapas, grįžęs iš Egipto po Erodo mirties, negrįžo į Judėją, o nuvyko į Galilėjos sritį?",
+    "options": {
+      "a": "Nes angelas sapne nurodė jam keliauti būtent ten",
+      "b": "Nes Judėją valdė Erodo sūnus Archelajas, kurio Juozapas pabūgo",
+      "c": "Nes Nazaretas buvo jo gimtasis miestas",
+      "d": "Nes Galilėja buvo turtingesnė sritis gyventi"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_2"
+  }
+]

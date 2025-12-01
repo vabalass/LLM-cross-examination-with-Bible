@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_18_001",
+    "question": "Kas, Jėzaus žodžiais, bus didžiausias dangaus karalystėje?",
+    "options": {
+      "a": "Tas, kas pasidarys mažas, kaip šis vaikelis",
+      "b": "Tas, kas daugiausia melsis ir pasninkaus",
+      "c": "Tas, kas išmokys kitus apie Dievo karalystę",
+      "d": "Tas, kas paaukos visą savo turtą vargšams"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_002",
+    "question": "Ką Jėzus sako apie tą, kuris papiktintų vieną iš šitų mažutėlių, kurie Jį tiki?",
+    "options": {
+      "a": "Jam būtų geriau, kad asilo sukamų girnų akmuo būtų užkabintas jam ant kaklo ir jis būtų paskandintas jūros gelmėje",
+      "b": "Jam bus atleista, jei atgailaus ir pasitaisys",
+      "c": "Jis bus viešai apšmeižtas ir sugėdintas",
+      "d": "Jam bus skirta bausmė, atitinkanti nuodėmės sunkumą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_003",
+    "question": "Ką Jėzus siūlo daryti, jei tavo ranka ar koja gundo tave nusidėti?",
+    "options": {
+      "a": "Melstis, kad Dievas pašalintų gundymą",
+      "b": "Nukirsti ją ir mesti šalin",
+      "c": "Vengti situacijų, kurios gundo",
+      "d": "Ieškoti dvasinio patarimo ir pagalbos"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_004",
+    "question": "Kodėl, pasak Jėzaus, neturėtume paniekinti nė vieno iš mažutėlių?",
+    "options": {
+      "a": "Nes jie yra Dievo sukurti unikalūs asmenys",
+      "b": "Nes jų angelai danguje visuomet regi Dievo Tėvo veidą",
+      "c": "Nes jie gali turėti didelę įtaką ateityje",
+      "d": "Nes jie gali būti pranašai, atsiųsti iš Dievo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_005",
+    "question": "Ką piemuo darytų, jei viena iš šimto avių nuklystų?",
+    "options": {
+      "a": "Paliktų devyniasdešimt devynias kalnuose ir eitų ieškoti nuklydusios",
+      "b": "Lauktų, kol nuklydusi avis pati suras kelią atgal",
+      "c": "Tikrintų, ar likusios 99 avys yra saugios",
+      "d": "Paskelbtų, kad avis yra prarasta ir nieko nebedarytų"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_006",
+    "question": "Koks yra pirmas žingsnis, jei tavo brolis tau nusikalstų, pagal Jėzaus mokymą?",
+    "options": {
+      "a": "Pranešti apie tai bažnyčios vyresniesiems",
+      "b": "Pasiimti su savimi dar vieną ar du liudytojus",
+      "c": "Eiti ir bark jį prie keturių akių",
+      "d": "Nedelsiant jam atleisti ir pamiršti nusižengimą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_007",
+    "question": "Kas įvyksta, kai du ar trys susirinkę Jėzaus vardu?",
+    "options": {
+      "a": "Jėzus yra tarp jų",
+      "b": "Jiems bus suteikta bet kokia malda",
+      "c": "Jie gaus specialų palaiminimą",
+      "d": "Jie bus atleisti nuo visų nuodėmių"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_008",
+    "question": "Kiek kartų, pasak Jėzaus, reikia atleisti savo broliui, kai jis nusikalsta?",
+    "options": {
+      "a": "Iki septynių kartų",
+      "b": "Iki septyniasdešimt septynių kartų",
+      "c": "Tiek kartų, kiek jis atgailauja",
+      "d": "Kol visiškai jam atleisi"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_009",
+    "question": "Kokia buvo skolininko skola karaliui palyginime apie beširdį skolininką?",
+    "options": {
+      "a": "Šimtas denarų",
+      "b": "Vienas talentas",
+      "c": "Dešimt tūkstančių talentų",
+      "d": "Tūkstantis denarų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_010",
+    "question": "Kokią sumą pinigų pirmasis tarnas buvo skolingas savo tarnybos draugui?",
+    "options": {
+      "a": "Dešimt tūkstančių talentų",
+      "b": "Šimtas denarų",
+      "c": "Vieną talentą",
+      "d": "Trisdešimt denarų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_011",
+    "question": "Kaip elgsis dangiškasis Tėvas su tais, kurie iš tikros širdies neatleis savo broliui?",
+    "options": {
+      "a": "Jis taip pat jiems neatleis",
+      "b": "Jis duos jiems daugiau laiko atgailai",
+      "c": "Jis atsiųs jiems pamoką, kad išmoktų atleisti",
+      "d": "Jis privers juos susitaikyti su broliu"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_18"
+  }
+]

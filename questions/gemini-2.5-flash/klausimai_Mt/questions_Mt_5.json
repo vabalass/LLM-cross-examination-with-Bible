@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Mt_5_001",
+    "question": "Kur Jėzus užkopė ir atsisėdo, matydamas minias, kad mokytų savo mokinius?",
+    "options": {
+      "a": "Ant kalno",
+      "b": "Į šventyklą",
+      "c": "Prie jūros kranto",
+      "d": "Į miestą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_002",
+    "question": "Kuriems priklauso dangaus karalystė, pasak Jėzaus, viename iš palaiminimų?",
+    "options": {
+      "a": "Liūdintiems",
+      "b": "Turintiems vargdienio dvasią",
+      "c": "Romiesiems",
+      "d": "Gailestingiesiems"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_003",
+    "question": "Ką paveldės romieji, pasak Jėzaus?",
+    "options": {
+      "a": "Dangaus karalystę",
+      "b": "Paguodą",
+      "c": "Žemę",
+      "d": "Gausų atlygį"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_004",
+    "question": "Kaip bus vadinami taikdariai?",
+    "options": {
+      "a": "Dievo tarnais",
+      "b": "Dangaus gyventojais",
+      "c": "Dievo vaikais",
+      "d": "Išminčiais"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_005",
+    "question": "Ką reikia daryti, pasak Jėzaus, kai dėl jo jus niekina ir persekioja bei meluodami šmeižia?",
+    "options": {
+      "a": "Būti liūdniems ir susimąsčiusiems",
+      "b": "Būti linksmiems ir džiūgauti",
+      "c": "Atsilyginti tuo pačiu",
+      "d": "Slėptis nuo persekiojimo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_006",
+    "question": "Kas nutiks druskai, jei ji išsidvoktų?",
+    "options": {
+      "a": "Ji bus naudinga laukams tręšti",
+      "b": "Ji taps tinkama maistui paruošti",
+      "c": "Ji niekam netinka ir bus išberta žmonėms sumindžioti",
+      "d": "Ji bus perdirbta ir vėl pasūdyta"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_007",
+    "question": "Koks buvo Jėzaus tikslas, kalbant apie Įstatymą ar Pranašus?",
+    "options": {
+      "a": "Panaikinti juos",
+      "b": "Pakeisti juos naujais paliepimais",
+      "c": "Įvykdyti juos",
+      "d": "Sumoderninti jų interpretaciją"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_008",
+    "question": "Kas bus vadinamas mažiausiu dangaus karalystėje?",
+    "options": {
+      "a": "Tas, kuris tik tiki, bet nieko nedaro",
+      "b": "Tas, kuris pažeidžia bent vieną iš mažiausių paliepimų ir taip elgtis moko žmones",
+      "c": "Tas, kuris tik retkarčiais lankosi šventykloje",
+      "d": "Tas, kuris bijo išreikšti savo nuomonę"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_009",
+    "question": "Ką Jėzus sako daryti, jei neši dovaną prie aukuro ir ten prisimeni, jog tavo brolis turi šį tą prieš tave?",
+    "options": {
+      "a": "Aukoti dovaną ir melstis už brolį",
+      "b": "Toliau aukoti dovaną, nes Dievas žino tavo širdį",
+      "c": "Palikti savo atnašą tenai prie aukuro, eiti pirmiau susitaikinti su broliu, ir tik tada sugrįžus aukoti dovaną",
+      "d": "Atidėti dovanos aukojimą kitai dienai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_010",
+    "question": "Ką, pasak Jėzaus, reiškia geidulingai žvelgti į moterį?",
+    "options": {
+      "a": "Būti pagundytam, bet dar nenusidėti",
+      "b": "Jau svetimauti savo širdimi",
+      "c": "Nusidėti mintimis, bet ne veiksmais",
+      "d": "Būti pasiruošusiam nusidėti ateityje"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_011",
+    "question": "Kodėl, pasak Jėzaus, verčiau tau netekti vieno nario (pvz., dešinės akies ar rankos), kuris skatina tave nusidėti?",
+    "options": {
+      "a": "Kad būtum pavyzdys kitiems",
+      "b": "Kad išvengtum bausmės žemėje",
+      "c": "Negu kad visas kūnas būtų įmestas į pragarą",
+      "d": "Kad Dievas tave išbandytų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_012",
+    "question": "Kuriuo atveju, pasak Jėzaus, atleisdamas žmoną vyras jos neskatina svetimauti?",
+    "options": {
+      "a": "Jei ji nemyli vyro",
+      "b": "Jei ji neatlieka namų ruošos",
+      "c": "Jei ji ištvirkauja",
+      "d": "Jėzus išvis neleidžia atleisti žmonos"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_013",
+    "question": "Kodėl, pasak Jėzaus, negalima prisiekti dangumi, žeme ar Jeruzale?",
+    "options": {
+      "a": "Nes tai yra Dievo nuosavybė ir jo valdžioje",
+      "b": "Nes tai gali būti melas",
+      "c": "Nes prisiekiančiajam gresia bausmė",
+      "d": "Nes priesaikos yra iš piktojo"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_014",
+    "question": "Koks turėtų būti tikinčiųjų kalba, pasak Jėzaus, vietoj priesaikų?",
+    "options": {
+      "a": "„Tegu Dievas paliudija“",
+      "b": "„Mano žodis yra mano priesaika“",
+      "c": "„Taip“, jei taip, „Ne“, jei ne",
+      "d": "„Tikiuosi, kad bus taip“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_015",
+    "question": "Ką Jėzus sako daryti, jei kas tave užgautų per dešinį skruostą?",
+    "options": {
+      "a": "Duok jam atgal",
+      "b": "Iškart kreiptis į teismą",
+      "c": "Atsuk jam ir kitą skruostą",
+      "d": "Paprašyk jo atsiprašyti"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_016",
+    "question": "Kodėl Jėzus moko mylėti savo priešus ir melstis už savo persekiotojus?",
+    "options": {
+      "a": "Kad būtumėte savo dangiškojo Tėvo vaikai",
+      "b": "Kad pasiektumėte socialinę ramybę",
+      "c": "Kad įgytumėte daugiau draugų",
+      "d": "Kad išvengtumėte nuobaudų"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_5"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "Mt_28_001",
+    "question": "Kas pirmosios ėjo aplankyti kapo po šabo, auštant pirmajai savaitės dienai?",
+    "options": {
+      "a": "Marija Magdalietė ir kita Marija",
+      "b": "Jėzaus motina Marija ir Morta",
+      "c": "Salomė ir Marija Magdalietė",
+      "d": "Jėzaus motina Marija ir Marija Magdalietė"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_002",
+    "question": "Kaip Biblijos tekste apibūdinama Viešpaties angelo išvaizda, kai jis nurito akmenį nuo kapo?",
+    "options": {
+      "a": "Jo išvaizda buvo it žaibo, o drabužiai balti kaip sniegas.",
+      "b": "Jis pasirodė kaip ryški šviesa, apsirengęs purpuriniais drabužiais.",
+      "c": "Jis buvo apsirengęs kareivio šarvais ir turėjo kalaviją.",
+      "d": "Jo išvaizda buvo kukli, o drabužiai pilki."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_003",
+    "question": "Ką angelas įsakė moterims padaryti po to, kai pranešė, jog Jėzus prisikėlė?",
+    "options": {
+      "a": "Palaukti prie kapo Jėzaus sugrįžimo.",
+      "b": "Greitomis duoti žinią jo mokiniams, kad Jėzus eina pirma jų į Galilėją.",
+      "c": "Grįžti namo ir niekam nieko nepasakoti, kol Jėzus pats nepasikalbės su jais.",
+      "d": "Paimti akmenį ir paslėpti jį kitoje vietoje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_004",
+    "question": "Kam sargybiniai, saugoję kapą, pranešė apie įvykius?",
+    "options": {
+      "a": "Romos valdytojui Piloto.",
+      "b": "Aukštiesiems kunigams.",
+      "c": "Jėzaus mokiniams.",
+      "d": "Miesto seniūnams."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_005",
+    "question": "Koks buvo aukštųjų kunigų ir seniūnų planas, siekiant nuslėpti įvykius prie kapo?",
+    "options": {
+      "a": "Paskleisti gandą, kad Jėzus niekada nebuvo tikrai miręs.",
+      "b": "Nurodė kareiviams sakyti, kad Jėzaus mokiniai naktį jį išvogė, kol sargybiniai miegojo.",
+      "c": "Paskelbti, kad kapas buvo tuščias dėl natūralių priežasčių.",
+      "d": "Įkalbėti valdytoją, kad jis paskelbtų Jėzų apsimetėliu."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_006",
+    "question": "Kokią paskutinę užduotį Jėzus davė savo vienuolikai mokinių, apsireiškęs jiems ant kalno Galilėjoje?",
+    "options": {
+      "a": "Grįžti į Jeruzalę ir laukti Šventosios Dvasios.",
+      "b": "Skelbti Gerąją Naujieną tik žydams Izraelyje.",
+      "c": "Eiti ir padaryti mano mokiniais visų tautų žmones, krikštydami juos ir mokydami laikytis visko, ką esu įsakęs.",
+      "d": "Statyti šventyklą jo garbei Galilėjoje."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_28"
+  }
+]

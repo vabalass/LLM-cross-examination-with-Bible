@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_6_001",
+    "question": "Kaip neturėtume elgtis, dalydami išmaldą, pasak teksto?",
+    "options": {
+      "a": "Trimitoti sinagogose ir gatvėse",
+      "b": "Duoti tik tiems, kas prašo",
+      "c": "Leisti kairei žinoti, ką daro dešinė",
+      "d": "Duoti per mažai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_002",
+    "question": "Kokia yra viena iš veidmainių maldos savybių, kurios reikia vengti?",
+    "options": {
+      "a": "Maldavimas per ilgai",
+      "b": "Meldžiasi stovėdami sinagogose ir aikštėse, kad būtų žmonių matomi",
+      "c": "Maldavimas tyliai",
+      "d": "Maldavimas tik bažnyčioje"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_003",
+    "question": "Ką turėtų daryti žmogus, norintis melstis slapta?",
+    "options": {
+      "a": "Eiti į šventyklą",
+      "b": "Eiti į savo kambarėlį ir užsirakinti",
+      "c": "Meldžiasi lauke, gamtoje",
+      "d": "Meldžiasi kartu su kitais"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_004",
+    "question": "Kodėl nereikėtų daugiažodžiauti meldžiantis, kaip pagonys?",
+    "options": {
+      "a": "Nes Dievas nemėgsta ilgų maldų",
+      "b": "Jie tariasi būsią išklausyti dėl žodžių gausumo",
+      "c": "Nes tai neefektyvu",
+      "d": "Nes tai atima per daug laiko"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_005",
+    "question": "Kas, pasak Tėve mūsų maldos, turi ateiti?",
+    "options": {
+      "a": "Dievo galybė",
+      "b": "Tavo karalystė",
+      "c": "Dievo šlovė",
+      "d": "Dievo žodis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_006",
+    "question": "Kas atsitiks, jei neatleisite žmonėms jų nusižengimų?",
+    "options": {
+      "a": "Jūsų Dangiškasis Tėvas atleis tik dalį jūsų nuodėmių",
+      "b": "Nė jūsų Tėvas neatleis jūsų nusižengimų",
+      "c": "Jums reikės pasninkauti ilgiau",
+      "d": "Jūsų maldos nebus išklausytos"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_007",
+    "question": "Ką reikia daryti pasninkaujant, kad ne žmonėms rodytumeisi pasninkaująs?",
+    "options": {
+      "a": "Būti paniurusiu, kad atrodytum kenčiantis",
+      "b": "Pasitepti galvą ir nusiprausti veidą",
+      "c": "Apsirengti paprastais drabužiais",
+      "d": "Vengti bendravimo su žmonėmis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_008",
+    "question": "Kur nereikėtų krauti lobių, pasak teksto?",
+    "options": {
+      "a": "Banke",
+      "b": "Danguje",
+      "c": "Žemėje",
+      "d": "Pas draugus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_009",
+    "question": "Koks ryšys tarp lobio ir širdies?",
+    "options": {
+      "a": "Kur lobis, ten ir širdies nerimas",
+      "b": "Kur tavo lobis, ten ir tavo širdis",
+      "c": "Kur lobis, ten ir širdies ramybė",
+      "d": "Kur lobis, ten ir širdies džiaugsmas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_010",
+    "question": "Apie ką nereikėtų per daug rūpintis, pasak Jėzaus?",
+    "options": {
+      "a": "Apie savo sielos išganymą",
+      "b": "Apie ateitį ir rytojaus vargus",
+      "c": "Savo gyvybe, ką valgysite, nei savo kūnu, kuo vilkėsite",
+      "d": "Apie Dievo karalystę"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_011",
+    "question": "Ko pirmiausia turėtų ieškoti žmogus, kad jam būtų pridėta visa, ko reikia?",
+    "options": {
+      "a": "Turtų ir šlovės",
+      "b": "Šeimos laimės",
+      "c": "Dievo karalystės ir jo teisumo",
+      "d": "Ilgo gyvenimo"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_6"
+  }
+]

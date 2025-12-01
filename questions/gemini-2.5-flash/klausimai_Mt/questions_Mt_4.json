@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Mt_4_001",
+    "question": "Kiek laiko Jėzus pasninkavo dykumoje prieš velnio gundymą?",
+    "options": {
+      "a": "20 dienų ir 20 naktų",
+      "b": "30 dienų ir 30 naktų",
+      "c": "40 dienų ir 40 naktų",
+      "d": "50 dienų ir 50 naktų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_002",
+    "question": "Kokia buvo pirmoji gundytojo pagunda Jėzui?",
+    "options": {
+      "a": "Liepti akmenims pavirsti duona.",
+      "b": "Nusileisti nuo šventyklos šelmens.",
+      "c": "Pagarbinti gundytoją.",
+      "d": "Išgydyti visus ligonius."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_003",
+    "question": "Kaip Jėzus atsakė į antrąją gundytojo pagundą, kai buvo pastatytas ant šventyklos šelmens?",
+    "options": {
+      "a": "„Eik šalin, šėtone!“",
+      "b": "„Žmogus gyvas ne viena duona...“",
+      "c": "„Negundyk Viešpaties, savo Dievo“.",
+      "d": "„Viešpatį, savo Dievą, tegarbink...“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_004",
+    "question": "Kas atsitiko, kai velnias atsitraukė nuo Jėzaus po gundymų?",
+    "options": {
+      "a": "Jis iškart nuvyko į Nazaretą.",
+      "b": "Angelai prisiartino ir jam tarnavo.",
+      "c": "Jis ėmė skelbti dangaus karalystę.",
+      "d": "Jis susitiko su Jonu Krikštytoju."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_005",
+    "question": "Kodėl Jėzus pasitraukė į Galilėją po gundymų?",
+    "options": {
+      "a": "Kad rastų savo šeimą.",
+      "b": "Išgirdęs, kad Jonas suimtas.",
+      "c": "Kad pastatytų naują sinagogą.",
+      "d": "Kad pasislėptų nuo Romos kareivių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_006",
+    "question": "Kuris miestas tapo Jėzaus apsistojimo vieta Galilėjoje, kur susieina Zabulono ir Neftalio sritys?",
+    "options": {
+      "a": "Nazaretas",
+      "b": "Jeruzalė",
+      "c": "Dekapolis",
+      "d": "Kafarnaumas"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_007",
+    "question": "Kokie du broliai buvo pirmieji, kuriuos Jėzus pašaukė prie Galilėjos ežero?",
+    "options": {
+      "a": "Jokūbas ir Jonas",
+      "b": "Simonas Petras ir Andriejus",
+      "c": "Pilypas ir Baltramiejus",
+      "d": "Matas ir Tomas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_008",
+    "question": "Kokia buvo pagrindinė Jėzaus veikla vaikščiojant po visą Galilėją?",
+    "options": {
+      "a": "Statyti naujus namus vargšams.",
+      "b": "Mokyti sinagogose, skelbti karalystės Evangeliją ir gydyti ligas.",
+      "c": "Rinkti mokesčius ir teisėjavoti ginčuose.",
+      "d": "Organizuoti didelius žvejybos ekspedicijas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_4"
+  }
+]

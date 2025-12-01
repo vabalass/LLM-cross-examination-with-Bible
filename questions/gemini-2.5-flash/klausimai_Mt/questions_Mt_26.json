@@ -1,0 +1,327 @@
+[
+  {
+    "id": "Mt_26_001",
+    "question": "Ką Jėzus tarė savo mokiniams apie įvykius po dviejų dienų?",
+    "options": {
+      "a": "Bus Velykos, ir Žmogaus Sūnus bus atiduotas nukryžiuoti.",
+      "b": "Bus Pavasario šventė, ir Jėzus išvyks iš Jeruzalės.",
+      "c": "Bus Velykos, ir jie švęs kartu su juo.",
+      "d": "Bus Šabatas, ir Jėzus melsis su jais."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_002",
+    "question": "Kur aukštieji kunigai bei tautos seniūnai susirinko, kad nuspręstų suimti Jėzų?",
+    "options": {
+      "a": "Į vyriausiojo kunigo Kajafaso rūmus.",
+      "b": "Į šventyklą Jeruzalėje.",
+      "c": "Į Betaniją, Simono Raupsuotojo namus.",
+      "d": "Į Alyvų kalną."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_003",
+    "question": "Kodėl aukštieji kunigai sakė, kad Jėzaus negalima suimti per šventes?",
+    "options": {
+      "a": "Kad žmonėse nekiltų sąmyšio.",
+      "b": "Kad nebūtų per daug liudininkų.",
+      "c": "Kad spėtų paruošti visus dokumentus.",
+      "d": "Kad nenorėjo neteršti šventės."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_004",
+    "question": "Kur Jėzus viešėjo, kai moteris atėjo jį patepti brangiu kvapiuoju aliejumi?",
+    "options": {
+      "a": "Betanijoje, Simono Raupsuotojo namuose.",
+      "b": "Nazarete, pas jo gimines.",
+      "c": "Jeruzalėje, šventykloje.",
+      "d": "Galilėjoje, prie ežero."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_005",
+    "question": "Ką mokiniai manė apie moters poelgį, išpylusios aliejų ant Jėzaus galvos?",
+    "options": {
+      "a": "Jie pasipiktino ir kalbėjo, kad tai eikvojimas, nes aliejų buvo galima parduoti ir išdalyti vargšams.",
+      "b": "Jie džiaugėsi, kad moteris pagerbė Jėzų.",
+      "c": "Jie manė, kad moteris elgiasi netinkamai.",
+      "d": "Jie svarstė, kas bus atsakingas už nuostolius."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_006",
+    "question": "Kaip Jėzus paaiškino moters poelgį, išliejusios aliejų ant jo kūno?",
+    "options": {
+      "a": "Ji tai padarė mano laidotuvėms.",
+      "b": "Ji parodė savo tikėjimą ir meilę.",
+      "c": "Ji suteikė man atgaivą.",
+      "d": "Ji įvykdė seną pranašystę."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_007",
+    "question": "Ką Jėzus pažadėjo apie moters gerą darbą?",
+    "options": {
+      "a": "Visame pasaulyje, kur tik bus skelbiama ši Evangelija, ir jos atminimui bus pasakojama, ką yra padariusi.",
+      "b": "Ji gaus didelį atlygį Tėvo karalystėje.",
+      "c": "Aš visuomet ją prisiminsiu.",
+      "d": "Jos poelgis bus užrašytas knygoje."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_008",
+    "question": "Kuris iš Dvylikos nuėjo pas aukštuosius kunigus išduoti Jėzaus?",
+    "options": {
+      "a": "Judas Iskarijotas.",
+      "b": "Petras.",
+      "c": "Jonas.",
+      "d": "Andrius."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_009",
+    "question": "Kiek sidabrinių aukštieji kunigai pasiūlė Judui už Jėzaus išdavystę?",
+    "options": {
+      "a": "Trisdešimt.",
+      "b": "Dvylika.",
+      "c": "Šimtą.",
+      "d": "Penkiasdešimt."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_010",
+    "question": "Kurią dieną mokiniai paklausė Jėzaus, kur paruošti Velykų vakarienę?",
+    "options": {
+      "a": "Pirmąją Neraugintos duonos dieną.",
+      "b": "Paskutinę šabato dieną.",
+      "c": "Antrąją Velykų dieną.",
+      "d": "Per mėnulio pilnatį."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_011",
+    "question": "Ką Jėzus liepė mokiniams pasakyti žmogui mieste, pas kurį turėjo būti Velykų vakarienė?",
+    "options": {
+      "a": "'Mokytojas sako: Mano metas jau atėjo. Pas tave valgysiu Velykų vakarienę su savo mokiniais'.",
+      "b": "'Mokytojas sako: Laukiu jūsų šventykloje'.",
+      "c": "'Mokytojas sako: Paruoškite didelę puotą'.",
+      "d": "'Mokytojas sako: Aš būsiu su kitais mokiniais'."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_012",
+    "question": "Ką Jėzus tarė mokiniams pradėjus valgyti Velykų vakarienę?",
+    "options": {
+      "a": "„Vienas iš jūsų mane išduos“.",
+      "b": "„Šiandien aš paskutinį kartą valgau su jumis“.",
+      "c": "„Mano kančios metas artėja“.",
+      "d": "„Mylėkite vienas kitą“."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_013",
+    "question": "Ką Jėzus įvardijo kaip jį išduosiantį asmenį?",
+    "options": {
+      "a": "Dažantis kartu su manim duoną dubenyje.",
+      "b": "Tas, kuris sėdi man iš kairės.",
+      "c": "Tas, kuris paliks stalą pirmas.",
+      "d": "Tas, kuris atsisakys gerti iš taurės."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_014",
+    "question": "Koks likimas, pasak Jėzaus, laukia to, kuris išduos Žmogaus Sūnų?",
+    "options": {
+      "a": "Geriau jam būtų buvę negimti.",
+      "b": "Jis bus atleistas dėl savo poelgio.",
+      "c": "Jis gaus pranašo atlygį.",
+      "d": "Jis taps galingu Izraelio vadovu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_015",
+    "question": "Ką Jėzus paėmė, sukalbėjo palaiminimą, laužė ir davė mokiniams tardamas: „Imkite ir valgykite: tai yra mano kūnas“?",
+    "options": {
+      "a": "Duoną.",
+      "b": "Žuvį.",
+      "c": "Mėsą.",
+      "d": "Vynmedžio vaisių."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_016",
+    "question": "Ką Jėzus sakė apie vyną, duodamas jį mokiniams gerti?",
+    "options": {
+      "a": "Tai yra mano kraujas, Sandoros kraujas, kuris už daugelį išliejamas nuodėmėms atleisti.",
+      "b": "Tai yra džiaugsmo simbolis, kurį gersime kartu.",
+      "c": "Tai yra mano aukos ženklas.",
+      "d": "Tai yra mano testamento įrodymas."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_017",
+    "question": "Iki kada Jėzus sakė nebegersiąs vynmedžio vaisiaus?",
+    "options": {
+      "a": "Iki tos dienos, kada su jumis gersiu jį naują savo Tėvo karalystėje.",
+      "b": "Iki savo prisikėlimo iš numirusių.",
+      "c": "Iki Paskutiniojo Teismo dienos.",
+      "d": "Iki tol, kol visi įtikės į jį."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_018",
+    "question": "Kur Jėzus ir mokiniai išėjo pagiedoję himną po vakarienės?",
+    "options": {
+      "a": "Į Alyvų kalną.",
+      "b": "Į Getsemanės sodą.",
+      "c": "Į Betaniją.",
+      "d": "Į vyriausiojo kunigo rūmus."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_019",
+    "question": "Ką Jėzus pranašavo Petrui apie jį išsiginantįjį?",
+    "options": {
+      "a": "Šią naktį, dar gaidžiui nepragydus, tu tris kartus manęs išsiginsi.",
+      "b": "Šią naktį, kol neišauš, tu manęs išsiginsi.",
+      "c": "Šią naktį tu manęs neišsiginsi, bet rytoj.",
+      "d": "Niekada tu manęs neišsiginsi, Petrai."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_020",
+    "question": "Kaip vadinosi ūkis, į kurį Jėzus su mokiniais atėjo melstis po vakarienės?",
+    "options": {
+      "a": "Getsemanė.",
+      "b": "Betanija.",
+      "c": "Magdala.",
+      "d": "Jerichas."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_021",
+    "question": "Kuriuos tris mokinius Jėzus pasiėmė kartu su savimi toliau į Getsemanę melstis?",
+    "options": {
+      "a": "Petrą ir abu Zebediejaus sūnus.",
+      "b": "Petrą, Andrių ir Pilypą.",
+      "c": "Joną, Jokūbą ir Tadą.",
+      "d": "Matą, Simoną ir Judą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_022",
+    "question": "Kokia buvo Jėzaus malda Getsemanėje?",
+    "options": {
+      "a": "„Mano Tėve, jeigu įmanoma, teaplenkia mane ši taurė. Tačiau ne kaip aš noriu, bet kaip tu!“",
+      "b": "„Mano Tėve, išgelbėk mane nuo šios kančios ir mirties!“",
+      "c": "„Mano Tėve, tegul tavo valia įvyksta žemėje, kaip ir danguje.“",
+      "d": "„Mano Tėve, siųsk man dvylika legionų angelų.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_023",
+    "question": "Ką Jėzus pasakė mokiniams, kai rado juos miegančius, nors prašė budėti?",
+    "options": {
+      "a": "„Budėkite ir melskitės, kad nepatektumėte į pagundą. Dvasia ryžtinga, bet kūnas silpnas.“",
+      "b": "„Ar jūs negalėjote budėti su manimi nė valandos?“",
+      "c": "„Miegokite ir ilsėkitės, nes valanda dar neatėjo.“",
+      "d": "„Jums nereikia melstis, aš melsiuosi už visus.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_024",
+    "question": "Kokį ženklą Judas Iskarijotas davė būriui, kad jie atpažintų Jėzų ir suimtų jį?",
+    "options": {
+      "a": "Jis pabučiavo Jėzų.",
+      "b": "Jis parodė į Jėzų pirštu.",
+      "c": "Jis sušuko Jėzaus vardą.",
+      "d": "Jis stovėjo prie Jėzaus, nurodydamas jį."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_025",
+    "question": "Ką padarė vienas iš Jėzaus palydovų, kai Jėzus buvo suimamas?",
+    "options": {
+      "a": "Išsitraukė kalaviją ir nukirto vyriausiojo kunigo tarno ausį.",
+      "b": "Bandė pabėgti, bet buvo sučiuptas.",
+      "c": "Pasipriešino būriui, bet buvo nuginkluotas.",
+      "d": "Sušuko, kad Jėzus yra nekaltas."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_26"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Mt_1_001",
+    "question": "Kokia asmenybe prasideda Jėzaus Kristaus kilmės knyga?",
+    "options": {
+      "a": "Jėzus Kristus",
+      "b": "Dovydas",
+      "c": "Abraomas",
+      "d": "Izaokas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_002",
+    "question": "Kam gimė Judas ir jo broliai?",
+    "options": {
+      "a": "Abraomui",
+      "b": "Izaokui",
+      "c": "Jokūbui",
+      "d": "Farui"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_003",
+    "question": "Kam gimė Boazas iš Rachabos?",
+    "options": {
+      "a": "Salmonui",
+      "b": "Jobedui",
+      "c": "Jesei",
+      "d": "Dovydui"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_004",
+    "question": "Kiek kartų, pasak teksto, buvo nuo Abraomo iki Dovydo?",
+    "options": {
+      "a": "Dvylika",
+      "b": "Trylika",
+      "c": "Keturiolika",
+      "d": "Penkiolika"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_005",
+    "question": "Kieno vyras buvo Juozapas, iš kurios gimė Jėzus?",
+    "options": {
+      "a": "Rutos",
+      "b": "Tamaros",
+      "c": "Rachabos",
+      "d": "Marijos"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_006",
+    "question": "Kaip Marija tapo nėščia, dar nepradėjus jai ir Juozapui kartu gyventi?",
+    "options": {
+      "a": "Per angelo apsireiškimą",
+      "b": "Šventosios Dvasios veikimu",
+      "c": "Per stebuklingą gydymą",
+      "d": "Dėl Juozapo maldos"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_007",
+    "question": "Ką Juozapas sumanė padaryti, sužinojęs apie Marijos nėštumą, būdamas teisus ir nenorėdamas daryti jai nešlovės?",
+    "options": {
+      "a": "Viešai ją pasmerkti",
+      "b": "Tylomis ją atleisti",
+      "c": "Iškart ją parsivesti į namus",
+      "d": "Paklausti kunigų patarimo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_008",
+    "question": "Ką reiškia vardas Emanuelis, pasak pranašo žodžių?",
+    "options": {
+      "a": "Išgelbėtojas",
+      "b": "Dievas su mumis",
+      "c": "Dovydo sūnus",
+      "d": "Šventoji Dvasia"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_1"
+  }
+]

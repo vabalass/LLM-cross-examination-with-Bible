@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mt_14_001",
+    "question": "Ką tetrarchas Erodas pamanė apie Jėzų, išgirdęs gandus apie jį?",
+    "options": {
+      "a": "Tai yra Elijos pranašystės išsipildymas.",
+      "b": "Tai yra Jonas Krikštytojas, prisikėlęs iš numirusių.",
+      "c": "Tai naujas pranašas, didesnis už Joną.",
+      "d": "Tai pavojingas maištininkas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_002",
+    "question": "Dėl kokios priežasties Erodas buvo įsakęs suimti ir įkalinti Joną Krikštytoją?",
+    "options": {
+      "a": "Jonas viešai kritikavo jo valdžią.",
+      "b": "Jonas paskatino minią maištauti.",
+      "c": "Jonas jam sakė, kad nevalia turėti brolio Pilypo žmonos Erodiados.",
+      "d": "Jonas bandė nuversti Erodo valdžią."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_003",
+    "question": "Ko Erodas bijojo, norėdamas nužudyti Joną?",
+    "options": {
+      "a": "Romos imperatoriaus pykčio.",
+      "b": "Jono giminaičių keršto.",
+      "c": "Žmonių, kurie Joną laikė pranašu, reakcijos.",
+      "d": "Karo su kaimyninėmis šalimis."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_004",
+    "question": "Ką Erodiados duktė paprašė iš Erodo per jo gimimo dieną?",
+    "options": {
+      "a": "Pusę jo karalystės.",
+      "b": "Aukso ir brangenybių.",
+      "c": "Jono Krikštytojo galvą dubenyje.",
+      "d": "Išlaisvinti Joną iš kalėjimo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_005",
+    "question": "Ką Jono mokiniai padarė su Jono kūnu po jo mirties?",
+    "options": {
+      "a": "Paliko jį kalėjime.",
+      "b": "Nunešė jį Erodiadai.",
+      "c": "Palaidojo jį ir davė žinią Jėzui.",
+      "d": "Paslėpė jį, kad niekas nerastų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_006",
+    "question": "Kur Jėzus nuplaukė laiveliu, išgirdęs apie Jono Krikštytojo mirtį?",
+    "options": {
+      "a": "Į Kaparnaumą.",
+      "b": "Į dykvietę, į vienumą.",
+      "c": "Į Jeruzalę.",
+      "d": "Į Genezaretą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_007",
+    "question": "Kiek kepaliukų duonos ir žuvų mokiniai teturėjo, kai Jėzus liepė jiems duoti miniai valgyti?",
+    "options": {
+      "a": "Septynis kepaliukus ir keletą žuvų.",
+      "b": "Penkis kepaliukus ir dvi žuvis.",
+      "c": "Tris kepaliukus ir vieną žuvį.",
+      "d": "Dešimt kepaliukų ir tris žuvis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_008",
+    "question": "Kiek vyrų, be moterų ir vaikų, valgė ir pasisotino duonos padauginimo metu?",
+    "options": {
+      "a": "Apie tūkstantį.",
+      "b": "Apie du tūkstančius.",
+      "c": "Apie penkis tūkstančius.",
+      "d": "Apie dešimt tūkstančių."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_009",
+    "question": "Kiek pilnų pintinių nulikusių kąsnelių buvo surinkta po to, kai visi valgė ir pasisotino?",
+    "options": {
+      "a": "Septynios.",
+      "b": "Dešimt.",
+      "c": "Dvylika.",
+      "d": "Penkiolika."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_010",
+    "question": "Kuriuo nakties sargybos metu Jėzus atėjo pas mokinius, žengdamas ežero paviršiumi?",
+    "options": {
+      "a": "Pirmos.",
+      "b": "Antros.",
+      "c": "Trečios.",
+      "d": "Ketvirtos."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_011",
+    "question": "Ką Jėzus pasakė Petrui, kai šis pradėjo skęsti, eidamas vandens paviršiumi?",
+    "options": {
+      "a": "„Tu tikrai netiki!“",
+      "b": "„Silpnatiki, ko suabejojai?!“",
+      "c": "„Tau trūksta tikėjimo.“",
+      "d": "„Kodėl bijai?“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_012",
+    "question": "Kaip žmonės Genezarete pasveiko nuo ligų, suvežti pas Jėzų?",
+    "options": {
+      "a": "Jėzus uždėjo ant jų rankas.",
+      "b": "Jėzus pasakė jiems gyti.",
+      "c": "Palietę nors Jėzaus apsiausto apvadą.",
+      "d": "Gėrė vandenį, kurį Jėzus palaimino."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_14"
+  }
+]

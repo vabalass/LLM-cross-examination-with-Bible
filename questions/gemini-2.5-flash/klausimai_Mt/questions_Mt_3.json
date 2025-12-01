@@ -1,0 +1,67 @@
+[
+  {
+    "id": "Mt_3_001",
+    "question": "Koks buvo Jono Krikštytojo apdaras ir maistas?",
+    "options": {
+      "a": "Lininis apdaras, žuvis ir duona.",
+      "b": "Kupranugario vilnų apdaras, skėriai ir lauko medus.",
+      "c": "Aulinis rūbas, vaisiai ir vanduo.",
+      "d": "Odinis apdaras, duona ir vynas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_002",
+    "question": "Kokia buvo pagrindinė Jono Krikštytojo žinia Judėjos dykumoje?",
+    "options": {
+      "a": "Pasitikėkite Viešpačiu, ir Jis jus išgelbės.",
+      "b": "Atsiverskite, nes prisiartino dangaus karalystė.",
+      "c": "Aukokite aukas šventykloje už savo nuodėmes.",
+      "d": "Laikykitės Mozės įstatymo ir būsite palaiminti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_003",
+    "question": "Kaip Jonas Krikštytojas pavadino fariziejus ir sadukiejus, atėjusius krikštytis?",
+    "options": {
+      "a": "Veidmainiai ir įstatymo laužytojai.",
+      "b": "Nepaklusnūs ir maištingi.",
+      "c": "Angių išperos.",
+      "d": "Nedorėliai ir bedieviai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_004",
+    "question": "Kuo Jėzaus krikštas skiriasi nuo Jono krikšto, pasak Jono?",
+    "options": {
+      "a": "Jonas krikštija vandeniu, o Jėzus krikštys vynu.",
+      "b": "Jonas krikštija dėl atsivertimo, o Jėzus krikštys Šventąja Dvasia ir ugnimi.",
+      "c": "Jonas krikštija upėje, o Jėzus krikštys šventykloje.",
+      "d": "Jonas krikštija nuodėmėms atleisti, o Jėzus – tikėti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_005",
+    "question": "Kas nutiko iš karto po Jėzaus pakrikštijimo, jam išbridus iš vandens?",
+    "options": {
+      "a": "Angelai pasirodė ir jam tarnavo.",
+      "b": "Žemė sudrebėjo ir ugnis nusileido.",
+      "c": "Atsivėrė dangus, ir Dievo Dvasia nusileido it balandis, o balsas iš dangaus prabilo.",
+      "d": "Jis pradėjo daryti stebuklus ir gydyti ligonius."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_3"
+  }
+]

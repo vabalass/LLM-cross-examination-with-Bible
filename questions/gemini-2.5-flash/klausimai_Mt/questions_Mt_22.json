@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mt_22_001",
+    "question": "Su kuo Jėzus palygino dangaus karalystę palyginime apie vestuves?",
+    "options": {
+      "a": "Su karaliumi, kuris kėlė savo sūnui vestuves.",
+      "b": "Su galingu valdovu, statančiu pilį.",
+      "c": "Su pirkliu, ieškančiu brangaus perlo.",
+      "d": "Su ūkininku, sėjančiu sėklas."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_002",
+    "question": "Kaip sureagavo pirmieji pakviestieji į karalaičio vestuves?",
+    "options": {
+      "a": "Nedelsdami atėjo į pokylį.",
+      "b": "Atsisakė eiti, nes turėjo kitų reikalų, o kai kurie išniekino ir užmušė tarnus.",
+      "c": "Išsiuntė dovanas, bet patys neatvyko.",
+      "d": "Paprašė atidėti vestuves."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_003",
+    "question": "Kokia bausmė ištiko tuos, kurie išniekino ir užmušė tarnus, kviečiančius į vestuves?",
+    "options": {
+      "a": "Jie buvo atleisti, jei gailėjosi.",
+      "b": "Karalius atsiuntė kariuomenę, kuri juos sunaikino ir sudegino jų miestą.",
+      "c": "Jiems buvo uždrausta kada nors dar dalyvauti pokyliuose.",
+      "d": "Jie turėjo atlyginti žalą tarnų šeimoms."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_004",
+    "question": "Iš kurios vietos tarnams buvo liepta rinkti naujus svečius į vestuves?",
+    "options": {
+      "a": "Tik iš turtingųjų namų.",
+      "b": "Tik iš artimųjų kaimų.",
+      "c": "Iš kryžkelių, kviečiant visus, ką tik ras.",
+      "d": "Iš prekyviečių, kviečiant prekybininkus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_005",
+    "question": "Koks buvo vieno svečio, kurį karalius pamatė vestuvių menėje, trūkumas?",
+    "options": {
+      "a": "Jis vėlavo atvykti.",
+      "b": "Jis neatsinešė dovanos.",
+      "c": "Jis neapsirengė vestuvių drabužiu.",
+      "d": "Jis triukšmavo ir kėlė nepatogumų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_006",
+    "question": "Kokiais žodžiais baigiamas palyginimas apie karalaičio vestuves?",
+    "options": {
+      "a": "„Laimingi tie, kurie įeina į Dievo karalystę.“",
+      "b": "„Daug pašauktų, bet maža išrinktų.“",
+      "c": "„Kiekvienam bus atlyginta pagal jo darbus.“",
+      "d": "„Tik tie, kurie tiki, pasieks amžinąjį gyvenimą.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_007",
+    "question": "Kas nusiuntė savo mokinių kartu su Erodo šalininkais, kad sugautų Jėzų kalboje dėl mokesčių?",
+    "options": {
+      "a": "Sadukiejai.",
+      "b": "Rašto žinovai.",
+      "c": "Fariziejai.",
+      "d": "Romos valdytojas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_008",
+    "question": "Kokį pinigą Jėzus paprašė parodyti, kai jo klausė apie mokesčius ciesoriui?",
+    "options": {
+      "a": "Auksinę monetą.",
+      "b": "Denarą.",
+      "c": "Sikelį.",
+      "d": "Bronzinę monetą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_009",
+    "question": "Kieno paveikslas ir įrašas buvo ant denaro, kurį Jėzus apžiūrėjo?",
+    "options": {
+      "a": "Karaliaus Dovydo.",
+      "b": "Erodo.",
+      "c": "Ciesoriaus.",
+      "d": "Mozės."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_010",
+    "question": "Kaip Jėzus atsakė į klausimą apie mokesčius ciesoriui?",
+    "options": {
+      "a": "„Nemokėkite jokių mokesčių ciesoriui.“",
+      "b": "„Atiduokite tad, kas ciesoriaus, ciesoriui, o kas Dievo – Dievui.“",
+      "c": "„Mokėkite tik tie, kurie neturite kitų įsipareigojimų.“",
+      "d": "„Apskritai nereikėtų mokėti mokesčių pagoniškiems valdovams.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_011",
+    "question": "Kurie iš žydų religinių grupių nepripažino mirusiųjų prisikėlimo ir atėjo klausti Jėzaus?",
+    "options": {
+      "a": "Fariziejai.",
+      "b": "Erodininkai.",
+      "c": "Sadukiejai.",
+      "d": "Esėnai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_012",
+    "question": "Kaip Jėzus paaiškino santuoką prisikėlusiesiems?",
+    "options": {
+      "a": "Prisikėlę vėl susituoks su savo buvusiais sutuoktiniais.",
+      "b": "Prisikėlę nei ves, nei tekės, bet bus kaip Dievo angelai danguje.",
+      "c": "Santuoka bus atnaujinta tik su pirmuoju sutuoktiniu.",
+      "d": "Kiekvienas rinksis naują sutuoktinį danguje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_013",
+    "question": "Ką Jėzus įvardijo kaip didžiausią įsakymą Įstatyme?",
+    "options": {
+      "a": "„Nemušk savo artimo.“",
+      "b": "„Švęsk šabo dieną.“",
+      "c": "„Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela ir visu protu.“",
+      "d": "„Gerbk savo tėvą ir motiną.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_014",
+    "question": "Koks yra antrasis, didžiausiajam panašus, įsakymas?",
+    "options": {
+      "a": "„Nesakyk neteisingo liudijimo.“",
+      "b": "„Nepageidauk svetimo turto.“",
+      "c": "„Mylėk savo artimą kaip save patį.“",
+      "d": "„Nepaleistuvauk.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_015",
+    "question": "Kaip Jėzus paklausė fariziejų apie Mesiją, norėdamas juos sugluminti?",
+    "options": {
+      "a": "„Ką jūs manote apie Mesiją? Kokius stebuklus jis darys?“",
+      "b": "„Ką jūs manote apie Mesiją? Kieno jis sūnus?“",
+      "c": "„Ką jūs manote apie Mesiją? Kada jis ateis?“",
+      "d": "„Ką jūs manote apie Mesiją? Ar jis bus karalius?“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_22"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mt_16_001",
+    "question": "Kokio ženklo fariziejai ir sadukiejai prašė Jėzaus?",
+    "options": {
+      "a": "Ženklo iš dangaus.",
+      "b": "Ženklo, patvirtinančio jo mokymą.",
+      "c": "Ženklo, išgydančio ligonius.",
+      "d": "Ženklo apie ateitį."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_002",
+    "question": "Ką mokiniai buvo užmiršę pasiimti keldamiesi kitapus ežero?",
+    "options": {
+      "a": "Vyno.",
+      "b": "Žuvies.",
+      "c": "Duonos.",
+      "d": "Pinigų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_003",
+    "question": "Apie ką Jėzus liepė saugotis, sakydamas: „Žiūrėkite, saugokitės fariziejų ir sadukiejų raugo“?",
+    "options": {
+      "a": "Apie sugedusią duoną.",
+      "b": "Apie fariziejų ir sadukiejų mokslo.",
+      "c": "Apie pavojingus keliautojus.",
+      "d": "Apie ligas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_004",
+    "question": "Kokiose apylinkėse Jėzus paklausė mokinius: „Kuo žmonės laiko Žmogaus Sūnų?“",
+    "options": {
+      "a": "Jeruzalės apylinkėse.",
+      "b": "Galilėjos apylinkėse.",
+      "c": "Pilypo Cezarėjos apylinkėse.",
+      "d": "Betliejaus apylinkėse."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_005",
+    "question": "Kas atsakė Jėzui: „Tu esi Mesijas, gyvojo Dievo Sūnus!“?",
+    "options": {
+      "a": "Andriejus.",
+      "b": "Jokūbas.",
+      "c": "Simonas Petras.",
+      "d": "Jonas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_006",
+    "question": "Ką Jėzus pažadėjo pastatyti ant Petro – Uolos?",
+    "options": {
+      "a": "Didelę šventyklą.",
+      "b": "Savo Bažnyčią.",
+      "c": "Naują miestą.",
+      "d": "Mokymo centrą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_007",
+    "question": "Ką Jėzus griežtai įsakė savo mokiniams niekam neskelbti?",
+    "options": {
+      "a": "Kad jis yra pranašas.",
+      "b": "Kad jis yra gydytojas.",
+      "c": "Kad jis yra Mesijas.",
+      "d": "Kad jis mokina naujo įstatymo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_008",
+    "question": "Ką Jėzus subarė, pavadinęs jį „šėtone“, kai tas bandė drausti jam eiti į Jeruzalę ir kentėti?",
+    "options": {
+      "a": "Tomą.",
+      "b": "Petrą.",
+      "c": "Judą.",
+      "d": "Filipą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_009",
+    "question": "Ką, pasak Jėzaus, turi daryti tas, kas nori eiti paskui jį?",
+    "options": {
+      "a": "Parduoti visą turtą ir išdalyti vargšams.",
+      "b": "Pasninkauti keturiasdešimt dienų ir naktų.",
+      "c": "Išsižadėti pats savęs, pasiimti savo kryžių ir sekti juo.",
+      "d": "Mokytis Rašto ir pranašų knygas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_16"
+  }
+]

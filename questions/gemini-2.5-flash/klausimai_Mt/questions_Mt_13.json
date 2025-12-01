@@ -1,0 +1,249 @@
+[
+  {
+    "id": "Mt_13_001",
+    "question": "Kur Jėzus atsisėdo vieną dieną, išėjęs iš namų, susirinkus didelei miniai?",
+    "options": {
+      "a": "Ant ežero kranto, o vėliau įlipo į valtį",
+      "b": "Ant kalno viršūnės",
+      "c": "Sinagogoje Nazarete",
+      "d": "Viduryje minios"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_002",
+    "question": "Kas nutiko sėkloms, nukritusioms ant uolų, kur buvo nedaug žemės, sėjėjo palyginime?",
+    "options": {
+      "a": "Jos ilgai dygo ir davė didelį derlių",
+      "b": "Jos greit sudygo, bet saulei patekėjus nuvyto ir sudžiūvo, neturėdamos šaknų",
+      "c": "Jas sulesė paukščiai",
+      "d": "Jas užgožė erškėčiai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_003",
+    "question": "Koks didžiausias derlius buvo duotas sėkloms, nukritusioms į gerą žemę?",
+    "options": {
+      "a": "Trisdešimteriopas grūdas",
+      "b": "Šešiasdešimteriopas grūdas",
+      "c": "Šimteriopas grūdas",
+      "d": "Dvigubas grūdas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_004",
+    "question": "Kodėl Jėzus kalbėjo palyginimais?",
+    "options": {
+      "a": "Kad jie žiūrėdami nemato, klausydami negirdi ir nesupranta",
+      "b": "Kad visos minios lengvai suprastų jo mokymus",
+      "c": "Kad mokiniai galėtų geriau išmokti juos aiškinti",
+      "d": "Tai buvo populiarus to meto mokymo būdas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_005",
+    "question": "Kokia pranašystė, pasak Jėzaus, pildėsi kalbant apie tautą, kuri klausydama negirdi ir žiūrėdama nemato?",
+    "options": {
+      "a": "Ezechielio pranašystė",
+      "b": "Jeremijo pranašystė",
+      "c": "Izaijo pranašystė",
+      "d": "Danieliaus pranašystė"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_006",
+    "question": "Ką sėjėjo palyginimo aiškinime reiškia „pasėlys prie kelio“?",
+    "options": {
+      "a": "Tas, kuris klauso žodžio ir supranta jį",
+      "b": "Tas, kuris girdi žodį apie karalystę ir nesupranta, todėl piktasis jį išplėšia",
+      "c": "Tas, kuris tuojau su džiaugsmu priima žodį, bet neturi šaknų",
+      "d": "Tas, kuriam žodį nustelbia šio pasaulio rūpesčiai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_007",
+    "question": "Ką sėjėjo palyginimo aiškinime trūksta „pasėliui ant uolų“, dėl ko jis atkrinta?",
+    "options": {
+      "a": "Geresnės žemės",
+      "b": "Šaknų",
+      "c": "Džiaugsmo",
+      "d": "Piktųjų nebuvimo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_008",
+    "question": "Ką sėjėjo palyginimo aiškinime reiškia „pasėlys tarp erškėčių“?",
+    "options": {
+      "a": "Žmogų, kuris duoda šimteriopą derlių",
+      "b": "Žmogų, kuriam žodį nustelbia šio pasaulio rūpesčiai ir turto apgaulė, ir jis lieka nevaisingas",
+      "c": "Žmogų, kuris greitai atkrinta ištikus persekiojimui",
+      "d": "Žmogų, kuris nuo pat pradžių atmeta žodį"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_009",
+    "question": "Palyginime apie rauges, kas pasėjo rauges kviečių lauke, kol žmonės miegojo?",
+    "options": {
+      "a": "Šeimininkas pats",
+      "b": "Kaimynas",
+      "c": "Šeimininko priešas",
+      "d": "Šeimininko tarnai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_010",
+    "question": "Ką šeimininkas atsakė tarnams, kai jie pasisiūlė išravėti rauges iš kviečių lauko?",
+    "options": {
+      "a": "Liepė išravėti tuojau pat",
+      "b": "Liepė palikti abejus augti iki pjūties",
+      "c": "Liepė išravėti tik didesnes rauges",
+      "d": "Liepė sudeginti visą derlių"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_011",
+    "question": "Su kuo Jėzus palygino dangaus karalystę, sakydamas, kad ji yra mažiausia iš visų sėklų, bet užaugusi pavirsta medeliu?",
+    "options": {
+      "a": "Su kviečio grūdu",
+      "b": "Su garstyčios grūdeliu",
+      "c": "Su lino sėkla",
+      "d": "Su akmens grūdeliu"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_012",
+    "question": "Ką reiškia palyginimas apie rauges, kurį moteris įmaišė į miltus?",
+    "options": {
+      "a": "Raugės simbolizuoja nuodėmę, kuri plinta",
+      "b": "Raugės simbolizuoja karalystės augimą ir plitimą",
+      "c": "Raugės simbolizuoja netikėjimą tarp tikinčiųjų",
+      "d": "Raugės simbolizuoja kantrybę"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_013",
+    "question": "Kas yra sėjantysis gerą sėklą palyginimo apie rauges aiškinime?",
+    "options": {
+      "a": "Kiekvienas tikintysis",
+      "b": "Žmogaus Sūnus",
+      "c": "Angelai",
+      "d": "Dvasininkai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_014",
+    "question": "Ką simbolizuoja „pjūtis“ palyginimo apie rauges aiškinime?",
+    "options": {
+      "a": "Derliaus nuėmimą",
+      "b": "Pasaulio pabaigą",
+      "c": "Evangelijos skelbimą",
+      "d": "Naujo gyvenimo pradžią"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_015",
+    "question": "Kas, pasak palyginimo apie rauges aiškinimo, nutiks nedorėliams pasaulio pabaigoje?",
+    "options": {
+      "a": "Jie bus atleisti",
+      "b": "Jie bus įmesti į žioruojančią krosnį",
+      "c": "Jie bus išvaryti iš šalies",
+      "d": "Jie bus sudeginti kartu su kviečiais"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_016",
+    "question": "Ką padaro žmogus, atradęs dirvoje paslėptą lobį, pasak palyginimo?",
+    "options": {
+      "a": "Parduođa visa, ką turi, ir perkasi tą dirvą",
+      "b": "Pasidalija su draugais",
+      "c": "Iškasa lobį ir iškeliauja",
+      "d": "Nieko nedaro, nes bijo, kad jį atims"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_017",
+    "question": "Ką padaro pirklys, atradęs vieną brangų perlą, pasak palyginimo?",
+    "options": {
+      "a": "Apsikeičia jį į kitus brangius daiktus",
+      "b": "Parduođa visa, ką turi, ir nusiperka jį",
+      "c": "Pasaugoja jį ateičiai",
+      "d": "Stengiasi rasti daugiau tokių perlų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_018",
+    "question": "Palyginime apie tinklą, kas atsitinka netikusioms žuvims, kai tinklas išvelkamas į krantą?",
+    "options": {
+      "a": "Jos surenkamos į indus",
+      "b": "Jos išmetamos",
+      "c": "Jos grąžinamos į ežerą",
+      "d": "Jos parduodamos pigiau"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_019",
+    "question": "Koks buvo Jėzaus tėvas, pasak Nazareto gyventojų, kai Jėzus mokė sinagogoje?",
+    "options": {
+      "a": "Žvejys",
+      "b": "Dailidė",
+      "c": "Mokytojas",
+      "d": "Ūkininkas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_13"
+  }
+]

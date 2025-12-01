@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_20_001",
+    "question": "Koks buvo pradinis atlyginimas, dėl kurio vynuogyno šeimininkas susitarė su darbininkais anksti rytą?",
+    "options": {
+      "a": "du denarai",
+      "b": "denaras",
+      "c": "pusė denaro",
+      "d": "atlyginimas pagal nuopelnus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_002",
+    "question": "Kurią valandą šeimininkas paskutinį kartą išėjo samdytis darbininkų į savo vynuogyną?",
+    "options": {
+      "a": "apie trečią valandą",
+      "b": "apie šeštą valandą",
+      "c": "apie devintą valandą",
+      "d": "apie vienuoliktą valandą"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_003",
+    "question": "Kaip reagavo pirmieji pasamdytieji darbininkai, gavę atlyginimą?",
+    "options": {
+      "a": "Jie dėkojo šeimininkui.",
+      "b": "Jie džiaugėsi savo atlyginimu.",
+      "c": "Jie murmėjo prieš šeimininką.",
+      "d": "Jie prašė papildomo užmokesčio."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_004",
+    "question": "Kokį pavyzdį vynuogyno šeimininkas nurodė, teigdamas, kad jam leidžiama tvarkytis kaip nori?",
+    "options": {
+      "a": "„Argi ne už denarą susiderėjai su manimi?“",
+      "b": "„Nejaugi man nevalia tvarkyti savo reikalų, kaip noriu?!“",
+      "c": "„Aš noriu ir šitam paskutiniam duoti tiek, kiek tau.“",
+      "d": "Visi išvardinti."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_005",
+    "question": "Kur Jėzus keliavo, kai pasiėmė skyrium dvylika mokinių ir kalbėjo jiems apie savo kančią?",
+    "options": {
+      "a": "į Galileją",
+      "b": "į Betliejų",
+      "c": "į Jeruzalę",
+      "d": "į Nazaretą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_006",
+    "question": "Kas pasmerks Žmogaus Sūnų mirti, pasak Jėzaus pranašystės?",
+    "options": {
+      "a": "Romos valdytojas",
+      "b": "aukštieji kunigai bei Rašto aiškintojai",
+      "c": "minia",
+      "d": "mokinių taryba"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_007",
+    "question": "Kurią dieną Žmogaus Sūnus prisikels, pasak Jėzaus?",
+    "options": {
+      "a": "pirmą dieną",
+      "b": "antrą dieną",
+      "c": "trečią dieną",
+      "d": "ketvirtą dieną"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_008",
+    "question": "Ko prašė Zebediejaus sūnų motina savo sūnums Jėzaus karalystėje?",
+    "options": {
+      "a": "kad jie taptų didžiausiais tarp mokinių",
+      "b": "kad jie gautų dvigubą atlygį",
+      "c": "kad jie sėdėtų vienas Jėzaus dešinėje, o kitas kairėje",
+      "d": "kad jie būtų atleisti nuo visų darbų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_009",
+    "question": "Kaip sureagavo kiti dešimt mokinių į Jokūbo ir Jono motinos prašymą?",
+    "options": {
+      "a": "Jie palaikė šį prašymą.",
+      "b": "Jie supyko ant tų brolių.",
+      "c": "Jie ignoravo prašymą.",
+      "d": "Jie paklausė, ar gali sėdėti šalia."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_010",
+    "question": "Kas turėtų būti didžiausias ir pirmas tarp Jėzaus mokinių?",
+    "options": {
+      "a": "valdovas",
+      "b": "tarnas",
+      "c": "mokytojas",
+      "d": "teisėjas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_011",
+    "question": "Kiek neregių sėdėjo pakelėje, kai Jėzus su minia išėjo iš Jericho?",
+    "options": {
+      "a": "vienas",
+      "b": "du",
+      "c": "trys",
+      "d": "daug"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_20"
+  }
+]

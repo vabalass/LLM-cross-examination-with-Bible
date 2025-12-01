@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Mt_15_001",
+    "question": "Kas prisiartino prie Jėzaus ir paklausė, kodėl jo mokiniai laužo prosenių paprotį?",
+    "options": {
+      "a": "Erodas su savo sargyba",
+      "b": "Romos kareiviai",
+      "c": "Rašto aiškintojai ir fariziejai iš Jeruzalės",
+      "d": "Paprasti žmonės iš minios"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_002",
+    "question": "Kokį prosenių paprotį, pasak fariziejų, Jėzaus mokiniai laužė?",
+    "options": {
+      "a": "Nevalgė pasninko dienomis",
+      "b": "Nepaisė Šabo įstatymų",
+      "c": "Prieš valgį nesimazgojo rankų",
+      "d": "Nedalyvavo šventyklos aukojimo apeigose"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_003",
+    "question": "Kokį Dievo įsakymą Jėzus apkaltino fariziejus laužant dėl savojo papročio?",
+    "options": {
+      "a": "Nežudyk",
+      "b": "Nusilenk tik Viešpačiui, savo Dievui",
+      "c": "Gerbk savo tėvą ir motiną",
+      "d": "Nemeluok"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_004",
+    "question": "Kuo, pasak Jėzaus, fariziejai niekais vertė Dievo liepimą dėl savojo papročio, susijusio su tėvų gerbimu?",
+    "options": {
+      "a": "Mokė tėvus nepadėti savo vaikams",
+      "b": "Sakė, kad kas pasakė tėvui: 'Tebūnie dovana šventyklai, kuo turėčiau tave sušelpti', tas gali nepagerbti tėvo",
+      "c": "Priverstinėmis aukomis šventyklai",
+      "d": "Atsisakė priimti senų tėvų palikimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_005",
+    "question": "Kas, pasak Jėzaus, suteršia žmogų?",
+    "options": {
+      "a": "Kas patenka į burną",
+      "b": "Kas išeina iš burnos",
+      "c": "Valgymas nemazgotomis rankomis",
+      "d": "Buvimas su pagonimis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_006",
+    "question": "Kokie dalykai, pasak Jėzaus, išeina iš širdies ir suteršia žmogų?",
+    "options": {
+      "a": "Pikti sumanymai, tinginystė, melagingi liudijimai",
+      "b": "Žmogžudystės, vagystės, paleistuvystės, pavydas",
+      "c": "Svetimavimai, melagingi liudijimai, šmeižtai, pikti sumanymai",
+      "d": "Vagystės, savanaudiškumas, svetimavimai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_007",
+    "question": "Kaip Jėzus apibūdino fariziejus mokiniams po to, kai jie pasipiktino jo žodžiais?",
+    "options": {
+      "a": "Jie yra išmintingi mokytojai",
+      "b": "Jie akli aklųjų vadovai",
+      "c": "Jie yra Dievo išrinktieji",
+      "d": "Jie yra tikrieji teisumo sergėtojai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_008",
+    "question": "Į kokią sritį Jėzus pasitraukė iš ten išėjęs, prieš susitikdamas su kanaaniete?",
+    "options": {
+      "a": "Galilėjos",
+      "b": "Nazareto",
+      "c": "Tyro ir Sidono",
+      "d": "Samarijos"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_009",
+    "question": "Ko prašė Jėzaus kananietė moteris, kai prie jo priėjo?",
+    "options": {
+      "a": "Duonos jai ir jos dukrai",
+      "b": "Kad pasigailėtų jos ir išgydytų jos dukterį, kurią kankino demonas",
+      "c": "Kad leistų jai tapti jo mokine",
+      "d": "Kad palaimintų jos namus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_010",
+    "question": "Koks buvo Jėzaus atsakymas mokiniams, kai jie prašė išklausyti kanaanietę?",
+    "options": {
+      "a": "Aš esu siųstas tik pas pražuvusias Izraelio namų avis",
+      "b": "Tegu moteris eina su taika",
+      "c": "Pirmiausia turiu pavalgydinti minią",
+      "d": "Ji dar neatėjo tinkamu laiku"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_011",
+    "question": "Kokį palyginimą Jėzus panaudojo, kai atsakė kanaanietei moteriai jos prašymo išgydyti dukrą klausimu?",
+    "options": {
+      "a": "Apie sėjėją ir sėklą",
+      "b": "Apie vaikų duoną ir šunyčius",
+      "c": "Apie pamestą avį",
+      "d": "Apie du kelius"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_012",
+    "question": "Kiek duonos kepaliukų ir žuvelių turėjo mokiniai, kai Jėzus paklausė apie maistą miniai ant kalno?",
+    "options": {
+      "a": "Penkis kepaliukus ir dvi žuveles",
+      "b": "Tris kepaliukus ir vieną žuvelę",
+      "c": "Septynis kepaliukus ir kelias žuveles",
+      "d": "Dešimt kepaliukų ir daug žuvų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_013",
+    "question": "Kiek pilnų krepšių kąsnelių buvo surinkta po antrojo duonos padauginimo ir kiek maždaug vyrų (be moterų ir vaikų) buvo pamaitinta?",
+    "options": {
+      "a": "Penki krepšiai ir penki tūkstančiai vyrų",
+      "b": "Septyni krepšiai ir keturi tūkstančiai vyrų",
+      "c": "Dvidešimt krepšių ir du tūkstančiai vyrų",
+      "d": "Trys krepšiai ir trys tūkstančiai vyrų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_15"
+  }
+]

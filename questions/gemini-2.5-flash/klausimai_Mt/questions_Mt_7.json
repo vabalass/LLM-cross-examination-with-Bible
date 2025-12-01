@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mt_7_001",
+    "question": "Koks yra perspėjimas apie kitų teisimą, pateikiamas teksto pradžioje?",
+    "options": {
+      "a": "Neteiskite, kad nebūtumėte teisiami.",
+      "b": "Teiskite teisingai, kad būtumėte apdovanoti.",
+      "c": "Teisimas yra būtinas, norint išlaikyti tvarką.",
+      "d": "Teisti leidžiama tik tam tikromis aplinkybėmis."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_002",
+    "question": "Kokiu palyginimu Jėzus smerkia veidmainystę, kai matomi krislai brolio akyje, bet nepastebimi rąstai savojoje?",
+    "options": {
+      "a": "Akmuo ir smėlis.",
+      "b": "Krislas ir rąstas.",
+      "c": "Vynuogės ir erškėčiai.",
+      "d": "Avys ir vilkai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_003",
+    "question": "Ką, pasak Jėzaus, nereikėtų duoti šunims ir nebarstyti kiaulėms?",
+    "options": {
+      "a": "Duonos ir aliejaus.",
+      "b": "Šventenybių ir perlų.",
+      "c": "Sidabro ir aukso.",
+      "d": "Sėklų ir vandens."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_004",
+    "question": "Kokios trys veiksmų poros garantuoja, kad bus gauta, rasta ir atidaryta?",
+    "options": {
+      "a": "Melkite ir džiaukitės, laukite ir pamirškite, skelbkite ir įtikinkite.",
+      "b": "Prašykite ir jums bus duota, ieškokite ir rasite, belskite ir bus jums atidaryta.",
+      "c": "Dirbkite ir užsidirbsite, kaukite ir nugalėsite, planuokite ir pasieksite.",
+      "d": "Mąstykite ir suprasite, stebėkite ir išmoksite, klausykite ir paklusite."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_005",
+    "question": "Jei vaikas prašo duonos, ko, pasak teksto, tėvas jam neduotų?",
+    "options": {
+      "a": "Žuvies.",
+      "b": "Gyvatės.",
+      "c": "Akmens.",
+      "d": "Vyno."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_006",
+    "question": "Kokią taisyklę Jėzus vadina 'Įstatymu ir Pranašais'?",
+    "options": {
+      "a": "Visada atleisk savo priešams.",
+      "b": "Mylėkite Viešpatį, savo Dievą, visa širdimi.",
+      "c": "Darykite kitiems tai, ko norite, kad jums darytų žmonės.",
+      "d": "Nesikaupkite turtų žemėje."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_007",
+    "question": "Kas sakoma apie platųjį kelią?",
+    "options": {
+      "a": "Jis veda į gyvenimą ir daug juo einančių.",
+      "b": "Jis veda į pražūtį ir nedaugelis jį atranda.",
+      "c": "Jis veda į pražūtį ir daug juo einančių.",
+      "d": "Jis veda į gyvenimą ir nedaugelis jį atranda."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_008",
+    "question": "Kaip, pasak Jėzaus, galima atpažinti netikrus pranašus?",
+    "options": {
+      "a": "Iš jų išvaizdos.",
+      "b": "Iš jų žodžių.",
+      "c": "Iš jų elgesio.",
+      "d": "Iš jų vaisių."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_009",
+    "question": "Su kuo Jėzus palygina žmogų, kuris klauso jo žodžių ir juos vykdo?",
+    "options": {
+      "a": "Su žmogumi, pasistačiusiu namą ant smėlio.",
+      "b": "Su žmogumi, pasistačiusiu namą ant uolos.",
+      "c": "Su žmogumi, kuris ieško ir randa.",
+      "d": "Su žmogumi, kuris barsto perlus kiaulėms."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_7"
+  }
+]

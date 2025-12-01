@@ -353,7 +353,7 @@ def json_to_csv(input_json_path: str, output_csv_path: str):
 def main():
     read_and_save_API_keys("API_keys.txt")
     
-    book_path = Path(__file__).parent / "Bible" / "luko_evangelija"
+    book_path = Path(__file__).parent / "Bible" / "mato_evangelija"
     
     models = [
         "gemini/gemini-2.5-flash",

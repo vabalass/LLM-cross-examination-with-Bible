@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Mt_11_001",
+    "question": "Ką Jonas Krikštytojas padarė, išgirdęs kalėjime apie Kristaus darbus?",
+    "options": {
+      "a": "Nusiuntė savo mokinius paklausti, ar Jėzus yra tas, kuris turi ateiti.",
+      "b": "Parašė laišką Jėzui, prašydamas išlaisvinimo.",
+      "c": "Pradėjo abejoti Jėzaus misija ir pats išėjo pas jį.",
+      "d": "Paskelbė kalėjime, kad Jėzus yra Mesijas."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_002",
+    "question": "Pagal Jėzaus atsakymą Jono mokiniams, kuris iš šių nebuvo išvardintas kaip Jėzaus darbų ženklas?",
+    "options": {
+      "a": "Aklieji praregi.",
+      "b": "Raišieji vaikščioja.",
+      "c": "Mirusieji prikeliami.",
+      "d": "Išmokslinti tampa išmintingaisiais."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_003",
+    "question": "Ką Jėzus pasakė minioms apie Joną Krikštytoją, palygindamas jį su pranašu?",
+    "options": {
+      "a": "Jis yra pranašas, bet mažesnis už visus kitus.",
+      "b": "Jis yra pranašas, ir daugiau negu pranašas.",
+      "c": "Jis yra pranašas, bet jo žodžiai nėra svarbūs.",
+      "d": "Jis nėra pranašas, o tik dykumos gyventojas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_004",
+    "question": "Ką Jėzus pasakė apie Jono Krikštytojo didybę tarp gimusių iš moterų?",
+    "options": {
+      "a": "Nėra buvę didesnio už Joną Krikštytoją.",
+      "b": "Jis yra mažiausias tarp visų pranašų.",
+      "c": "Jis yra didesnis už visus dangaus karalystėje.",
+      "d": "Jis yra didesnis tik už tuos, kurie gyvena dykumoje."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_005",
+    "question": "Kurį Senojo Testamento pranašą Jėzus užsiminė, kad Jonas Krikštytojas yra, „jeigu norite priimti“?",
+    "options": {
+      "a": "Izaiją.",
+      "b": "Mozę.",
+      "c": "Eliją.",
+      "d": "Jeremiją."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_006",
+    "question": "Kaip žmonės apibūdino Joną Krikštytoją, kuris buvo „nevalgus ir negeriantis“?",
+    "options": {
+      "a": "'Štai rijūnas ir vyno gėrėjas'.",
+      "b": "'Jis demono apsėstas'.",
+      "c": "'Tikras Dievo tarnas'.",
+      "d": "'Dykumos atsiskyrėlis'."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_007",
+    "question": "Kuriems miestams Jėzus ėmė priekaištauti už tai, kad jie neatsivertė, nors juose buvo padaryta dauguma jo stebuklų?",
+    "options": {
+      "a": "Tyras, Sidonas ir Sodoma.",
+      "b": "Jeruzalė, Nazaretas ir Galilėja.",
+      "c": "Chorazinas, Betsaida ir Kafarnaumas.",
+      "d": "Damaskas, Samarija ir Betliejus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_008",
+    "question": "Ką Jėzus pasakė, kad bus lengviau teismo dieną nei Chorazinui ir Betsaidai?",
+    "options": {
+      "a": "Sodomos žemei.",
+      "b": "Tyrui ir Sidonui.",
+      "c": "Kafarnaumui.",
+      "d": "Tiems, kurie gyveno dykumoje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_009",
+    "question": "Kodėl Jėzus šlovino Tėvą, dangaus ir žemės Viešpatį, už tiesos apreiškimą?",
+    "options": {
+      "a": "Kad paslėpei tai nuo mažutėlių, o apreiškei išmintingiesiems ir gudriesiems.",
+      "b": "Kad paslėpei tai nuo išmintingųjų ir gudriųjų, o apreiškei mažutėliams.",
+      "c": "Kad visiems apreiškei tiesą vienodai.",
+      "d": "Kad apreiškei tai tik pranašams."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_010",
+    "question": "Ką Jėzus pažada tiems, kurie ateina pas jį, vargsta ir yra prislėgti, ir ima jo jungą?",
+    "options": {
+      "a": "Jie gaus didelį turtą ir šlovę.",
+      "b": "Jie išmoks griežtos disciplinos ir asketizmo.",
+      "c": "Jie ras savo sieloms atgaivą.",
+      "d": "Jie taps valdovais ir karaliais."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt_11"
+  }
+]
