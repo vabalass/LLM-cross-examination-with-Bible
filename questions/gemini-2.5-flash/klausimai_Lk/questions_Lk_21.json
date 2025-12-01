@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Lk_21_001",
+    "question": "Apie kokią našlę Jėzus kalbėjo, kad ji įmetė daugiau už visus?",
+    "options": {
+      "a": "Vargšę našlę, įmetusią du smulkius pinigėlius.",
+      "b": "Turtingą našlę, įmetusią daug aukso.",
+      "c": "Našlę, kuri neįmetė nieko, bet meldėsi.",
+      "d": "Našlę, kuri įmetė viską, ką turėjo, bet tai buvo maža suma."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_002",
+    "question": "Ką Jėzus pranašavo apie šventyklą?",
+    "options": {
+      "a": "Kad ji bus dar gražiau išpuošta.",
+      "b": "Kad joje bus įrengta nauja aukų skrynia.",
+      "c": "Kad neliks akmens ant akmens, viskas bus išgriauta.",
+      "d": "Kad ji stovės amžinai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_003",
+    "question": "Koks buvo pirmas Jėzaus patarimas, kalbant apie artėjančias nelaimes?",
+    "options": {
+      "a": "Nebijoti karų ir maištų.",
+      "b": "Žiūrėti, kad nebūtų suklaidinti.",
+      "c": "Bėgti į kalnus.",
+      "d": "Melstis be paliovos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_004",
+    "question": "Kas, pasak Jėzaus, atsitiks jo sekėjams dėl jo vardo?",
+    "options": {
+      "a": "Jie bus gerbiami visų tautų.",
+      "b": "Jie bus imami persekioti, tamsinami į sinagogas ir kalėjimus.",
+      "c": "Jie gaus didelį turtą.",
+      "d": "Jiems bus suteikta absoliuti apsauga nuo bet kokios žalos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_005",
+    "question": "Kaip Jėzus pažadėjo padėti savo sekėjams, kai jie bus vedžiojami pas karalius ir valdytojus?",
+    "options": {
+      "a": "Atsiųs angelus jų ginti.",
+      "b": "Duos jiems tokios iškalbos bei išminties, kad priešininkai negalės atsispirti.",
+      "c": "Padarys, kad kalbės už juos.",
+      "d": "Suteiks jiems galią daryti stebuklus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_006",
+    "question": "Kas, pasak Jėzaus, išdavinės jo sekėjus?",
+    "options": {
+      "a": "Tik Romos kareiviai.",
+      "b": "Tėvai, broliai, giminės ir draugai.",
+      "c": "Tik sinagogų vadovai.",
+      "d": "Tik pagonys."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_007",
+    "question": "Kaip Jėzaus sekėjai išlaikys savo gyvybę per persekiojimus?",
+    "options": {
+      "a": "Pabėgdami į kitus kraštus.",
+      "b": "Su ginklais rankose.",
+      "c": "Slėpdamiesi.",
+      "d": "Savo ištverme."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_008",
+    "question": "Koks bus ženklas, kad Jeruzalės nuniokojimas prisiartino?",
+    "options": {
+      "a": "Žemės drebėjimai mieste.",
+      "b": "Matys Jeruzalę supamą kariuomenės.",
+      "c": "Ženklai danguje virš miesto.",
+      "d": "Badas mieste."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_009",
+    "question": "Kas mindžios Jeruzalę po jos žlugimo, pasak Jėzaus?",
+    "options": {
+      "a": "Romėnai.",
+      "b": "Žydai.",
+      "c": "Pagonys.",
+      "d": "Egipto kariai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_010",
+    "question": "Kas bus sukrėstos prieš Žmogaus Sūnaus atėjimą?",
+    "options": {
+      "a": "Kalnai ir upės.",
+      "b": "Žmonių širdys.",
+      "c": "Dangaus galybės.",
+      "d": "Žemės imperijos."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_011",
+    "question": "Kokį palyginimą Jėzus panaudojo, kad paaiškintų Dievo karalystės artumą?",
+    "options": {
+      "a": "Apie sėjėją ir sėklą.",
+      "b": "Apie figmedį ir kitus medžius.",
+      "c": "Apie dešimt mergelių.",
+      "d": "Apie lobį paslėptą dirvoje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_012",
+    "question": "Kaip Jėzus patarė žmonėms elgtis, kad būtų pasiruošę ateities įvykiams?",
+    "options": {
+      "a": "Kaupti turtus ir atsargas.",
+      "b": "Pasislėpti nuo pasaulio.",
+      "c": "Visą laiką budėti ir melstis.",
+      "d": "Nepaisyti kasdienių rūpesčių."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_21"
+  }
+]

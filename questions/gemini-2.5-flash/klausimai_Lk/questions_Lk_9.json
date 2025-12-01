@@ -1,0 +1,262 @@
+[
+  {
+    "id": "Lk_9_001",
+    "question": "Kokių daiktų Jėzus liepė apaštalams neimti į kelionę?",
+    "options": {
+      "a": "Lazdos, krepšio, duonos, pinigų.",
+      "b": "Tik lazdos ir pinigų.",
+      "c": "Tik duonos ir krepšio.",
+      "d": "Drabužių ir apavo."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_002",
+    "question": "Ką apaštalai turėjo daryti, jei žmonės jų nepriimtų mieste?",
+    "options": {
+      "a": "Melstis už juos.",
+      "b": "Nuo kojų nusikratyti dulkes.",
+      "c": "Išeiti į kitą miestą be žodžio.",
+      "d": "Prakeikti tą miestą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_003",
+    "question": "Ką Erodas sakė padaręs Jonui?",
+    "options": {
+      "a": "Įkalinęs.",
+      "b": "Išsiuntęs į tremtį.",
+      "c": "Nukirsdinęs galvą.",
+      "d": "Paleidęs į laisvę."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_004",
+    "question": "Ką Erodas panoro pamatyti?",
+    "options": {
+      "a": "Joną Krikštytoją.",
+      "b": "Eliją.",
+      "c": "Jėzų.",
+      "d": "Prisikėlusį pranašą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_005",
+    "question": "Kiek vyrų buvo pamaitinta Jėzui padauginus duoną?",
+    "options": {
+      "a": "Apie tūkstantį.",
+      "b": "Apie penkis tūkstančius.",
+      "c": "Apie dešimt tūkstančių.",
+      "d": "Apie tris tūkstančius."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_006",
+    "question": "Kiek duonos kepalėlių ir žuvų turėjo mokiniai prieš duonos padauginimą?",
+    "options": {
+      "a": "Trys kepalėliai ir viena žuvis.",
+      "b": "Penki kepalėliai ir dvi žuvys.",
+      "c": "Septyni kepalėliai ir kelios žuvelės.",
+      "d": "Tik duona, be žuvų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_007",
+    "question": "Kiek pintinių nulikusių kąsnelių buvo surinkta po to, kai visi pasisotino?",
+    "options": {
+      "a": "Septynios.",
+      "b": "Dešimt.",
+      "c": "Dvylika.",
+      "d": "Dvidešimt."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_008",
+    "question": "Kaip žmonės, pasak mokinių, laikė Jėzų?",
+    "options": {
+      "a": "Jonu Krikštytoju, Eliju arba vienu iš senųjų pranašų.",
+      "b": "Tik Moze.",
+      "c": "Romos valdovu.",
+      "d": "Nauju mokytoju."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_009",
+    "question": "Ką Petras atsakė, kai Jėzus paklausė: „O jūs kuo mane laikote?“",
+    "options": {
+      "a": "„Tu esi mūsų Mokytojas.“",
+      "b": "„Tu esi pranašas.“",
+      "c": "„Tu esi Dievo Mesijas.“",
+      "d": "„Tu esi karalius.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_010",
+    "question": "Ką Jėzus pasakė visiems, kurie nori eiti paskui jį?",
+    "options": {
+      "a": "Turi palikti savo turtą.",
+      "b": "Turi išsižadėti pats savęs, nešti savo kryžių ir sekti juo.",
+      "c": "Turi tarnauti kitiems.",
+      "d": "Turi tikėti Jo žodžiais."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_011",
+    "question": "Kuriuos mokinius Jėzus pasiėmė su savimi, užkopdamas į kalną melstis?",
+    "options": {
+      "a": "Petrą, Andriejų ir Joną.",
+      "b": "Petrą, Joną ir Jokūbą.",
+      "c": "Joną, Jokūbą ir Filipą.",
+      "d": "Petrą, Jokūbą ir Matą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_012",
+    "question": "Kokie du vyrai pasirodė ir kalbėjosi su Jėzumi atsimainymo metu?",
+    "options": {
+      "a": "Abraomas ir Izaokas.",
+      "b": "Mozė ir Elijas.",
+      "c": "Dovydas ir Saliamonas.",
+      "d": "Jėzaus tėvai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_013",
+    "question": "Apie ką Mozė ir Elijas kalbėjosi su Jėzumi atsimainymo metu?",
+    "options": {
+      "a": "Apie Izraelio ateitį.",
+      "b": "Apie Jėzaus išėjimą (mirtį ir prisikėlimą), būsiantį Jeruzalėje.",
+      "c": "Apie Dievo karalystę.",
+      "d": "Apie jo mokymą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_014",
+    "question": "Koks balsas nuskambėjo iš debesies Atsimainymo metu?",
+    "options": {
+      "a": "„Šitas yra Mano Sūnus, Mylimasis, kurio aš klausau.“",
+      "b": "„Šitas mano išrinktasis Sūnus, jo klausykite!“",
+      "c": "„Aš esu, kuris esu.“",
+      "d": "„Štai aš siunčiu savo angelą prieš tave.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_015",
+    "question": "Kokiais žodžiais Jėzus kreipėsi į žmones, kai jo mokiniai neįstengė išvaryti dvasios iš berniuko?",
+    "options": {
+      "a": "„Atsipalaiduokite ir pasitikėkite Dievu.“",
+      "b": "„O netikinti ir sugedusi gimine! Kaip ilgai man reikės su jumis pasilikti ir jus kęsti?!“",
+      "c": "„Jūs esate silpni.“",
+      "d": "„Turiu tai padaryti pats.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_016",
+    "question": "Dėl ko kilo ginčas tarp mokinių?",
+    "options": {
+      "a": "Dėl to, kas bus Jėzaus vietininkas.",
+      "b": "Dėl to, kas iš jų didžiausias.",
+      "c": "Dėl to, kas geriau supranta Jėzaus mokymus.",
+      "d": "Dėl to, kas turės daugiau pinigų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_017",
+    "question": "Ką Jėzus pasistatė šalia savęs, norėdamas parodyti, kas yra didžiausias?",
+    "options": {
+      "a": "Knygą.",
+      "b": "Vaiką.",
+      "c": "Apaštalą Petrą.",
+      "d": "Avelę."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_018",
+    "question": "Ką Jėzus atsakė Jonui, kai šis pranešė apie žmogų, varantį demonus Jėzaus vardu, bet nevaikštantį su jais?",
+    "options": {
+      "a": "„Drauskite jam tai daryti.“",
+      "b": "„Tegul eina su mumis.“",
+      "c": "„Nedrauskite! Kas ne prieš jus, tas už jus!“",
+      "d": "„Aš jį nubaudsiu.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_019",
+    "question": "Kodėl Samarijos kaimo gyventojai nesutiko priimti Jėzaus?",
+    "options": {
+      "a": "Jis buvo iš Nazareto.",
+      "b": "Jis keliavo Jeruzalės link.",
+      "c": "Jis kalbėjo hebrajų kalba.",
+      "d": "Jie jo nepažinojo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_020",
+    "question": "Ką Jėzus pasakė žmogui, norinčiam pirma atsisveikinti su namiškiais?",
+    "options": {
+      "a": "„Eik ir atsisveikink, o paskui grįžk.“",
+      "b": "„Nė vienas, kuris prideda ranką prie arklo ir žvalgosi atgal, netinka Dievo karalystei.“",
+      "c": "„Tavo šeima yra svarbesnė.“",
+      "d": "„Atsisveikinimas nėra būtinas.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_9"
+  }
+]

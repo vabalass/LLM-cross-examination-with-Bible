@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Lk_7_001",
+    "question": "Baigęs visus pamokymus, į kurį miestą Jėzus sugrįžo?",
+    "options": {
+      "a": "Kafarnaumą",
+      "b": "Jeruzalę",
+      "c": "Nazaretą",
+      "d": "Najiną"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_002",
+    "question": "Kieno tarnas sirgo ir buvo arti mirties Kafarnaume?",
+    "options": {
+      "a": "Žydų kilmingojo",
+      "b": "Šimtininko",
+      "c": "Fariziejaus",
+      "d": "Jėzaus mokinio"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_003",
+    "question": "Kodėl žydų kilmingieji prašė Jėzaus pagelbėti šimtininkui?",
+    "options": {
+      "a": "Nes šimtininkas buvo jų giminaitis.",
+      "b": "Nes šimtininkas mylėjo jų tautą ir pastatė sinagogą.",
+      "c": "Nes šimtininkas jiems mokėjo didelius mokesčius.",
+      "d": "Nes šimtininkas juos globojo kariniu požiūriu."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_004",
+    "question": "Kokią žinutę šimtininkas atsiuntė Jėzui, jam artinantis prie namų?",
+    "options": {
+      "a": "Prašė paskubėti, nes tarnas jau miršta.",
+      "b": "Kviesdamas Jėzų į puotą savo namuose.",
+      "c": "„Viešpatie, nesivargink! Aš nesu vertas, kad užeitum po mano stogu.“",
+      "d": "„Ateik, bet palauk už vartų.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_005",
+    "question": "Ką Jėzus pasakė apie šimtininko tikėjimą?",
+    "options": {
+      "a": "„Tokio didelio tikėjimo neradau net Izraelyje.“",
+      "b": "„Tokio didelio tikėjimo neradau niekur Pasaulyje.“",
+      "c": "„Šimtininko tikėjimas yra geras pavyzdys visiems kareiviams.“",
+      "d": "„Jo tikėjimas yra pakankamas, kad išgelbėtų tarną.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_006",
+    "question": "Koks buvo kito miesto, į kurį Jėzus keliavo su mokiniais ir minia, vardas?",
+    "options": {
+      "a": "Kafarnaumas",
+      "b": "Jeruzalė",
+      "c": "Najinas",
+      "d": "Betliejus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_007",
+    "question": "Kas buvo nešamas iš miesto vartų, kai Jėzus prisiartino prie Najino?",
+    "options": {
+      "a": "Ligonį.",
+      "b": "Vienturtį našlės sūnų.",
+      "c": "Fariziejų.",
+      "d": "Šimtininko tarną."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_008",
+    "question": "Ką Jėzus pasakė numirėliui jaunuoliui?",
+    "options": {
+      "a": "„Atsigulk ir ilsėkis.“",
+      "b": "„Klausykis ir tikėk.“",
+      "c": "„Jaunuoli, sakau tau: kelkis!“",
+      "d": "„Tavo motina tavęs laukia.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_009",
+    "question": "Kaip žmonės reagavo į jaunuolio prikėlimą Najine?",
+    "options": {
+      "a": "Jie nustebo ir pradėjo ginčytis.",
+      "b": "Juos pagavo baimė ir jie garbino Dievą.",
+      "c": "Jie išsilakstė bijodami.",
+      "d": "Jie paprašė Jėzaus pakartoti stebuklą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_010",
+    "question": "Kas pasiuntė du savo mokinius pas Viešpatį paklausti?",
+    "options": {
+      "a": "Petras",
+      "b": "Fariziejus Simonas",
+      "c": "Jonas Krikštytojas",
+      "d": "Šimtininkas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_011",
+    "question": "Koks buvo Jono Krikštytojo mokinių klausimas Jėzui?",
+    "options": {
+      "a": "„Ar tu esi Mesijas, kurio laukiame?“",
+      "b": "„Ar tu esi tas, kuris turi ateiti, ar mums laukti kito?“",
+      "c": "„Kada ateis Dievo karalystė?“",
+      "d": "„Ką turime daryti, kad būtume išgelbėti?“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_012",
+    "question": "Kokius ženklus Jėzus nurodė perduoti Jonui Krikštytojui, įrodydamas savo tapatybę?",
+    "options": {
+      "a": "Aklieji praregi, raišieji vaikščioja, raupsuotieji apvalomi.",
+      "b": "Mirusieji prikeliami, vargdieniams skelbiama geroji naujiena.",
+      "c": "Kurtieji girdi, piktosios dvasios išvaromos.",
+      "d": "Visi paminėti atsakymai yra teisingi."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_013",
+    "question": "Ką Jėzus pasakė apie Joną Krikštytoją, palygindamas jį su kitais gimusiais iš moteries?",
+    "options": {
+      "a": "„Tarp gimusių iš moteries nėra buvę didesnio už Joną.“",
+      "b": "„Jonas yra mažesnis už visus pranašus.“",
+      "c": "„Jonas yra tas, kuris nutiesė man kelią.“",
+      "d": "„Jonas yra toks pat kaip ir kiti pranašai.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_014",
+    "question": "Į ką Jėzus palygino šios kartos žmones?",
+    "options": {
+      "a": "Į pranašus, skelbiančius Dievo žodį.",
+      "b": "Į kareivius, paklūstančius įsakymams.",
+      "c": "Į vaikus, kurie, susėdę prekyvietėje, šaukia vieni kitiems.",
+      "d": "Į avis, neturinčias ganytojo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_015",
+    "question": "Ką atsinešė nusidėjėlė moteris, atėjusi pas Jėzų fariziejaus namuose?",
+    "options": {
+      "a": "Kvepiančių gėlių krepšelį.",
+      "b": "Alebastrinį indą kvapaus tepalo.",
+      "c": "Auksinį papuošalą.",
+      "d": "Duonos ir vyno."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_016",
+    "question": "Ką Jėzus pasakė nusidėjėlei moteriai, aiškindamas jos nuodėmių atleidimą Simonui?",
+    "options": {
+      "a": "„Tau atleidžiama daugybė tavo nuodėmių, nes tu daug verkėte.“",
+      "b": "„Tau atleidžiama daugybė tavo nuodėmių, nes ji labai pamilo.“",
+      "c": "„Tavo nuodėmės atleistos, nes atnešei brangų tepalą.“",
+      "d": "„Eik ir daugiau nebenusidėk, ir tau bus atleista.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_7"
+  }
+]

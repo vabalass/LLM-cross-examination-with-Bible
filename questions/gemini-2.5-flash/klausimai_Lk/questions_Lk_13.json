@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Lk_13_001",
+    "question": "Apie ką papasakojo Jėzui žmonės tuo pačiu metu, kai jis mokė?",
+    "options": {
+      "a": "Apie galilėjiečius, kurių kraują Pilotas sumaišė su jų aukomis.",
+      "b": "Apie bokšto griūtį prie Siloamo.",
+      "c": "Apie moterį, kuri aštuoniolika metų kentėjo nuo ligos dvasios.",
+      "d": "Apie fariziejus, kurie norėjo jį nužudyti."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_002",
+    "question": "Kiek žmonių žuvo, kai užgriuvo bokštas prie Siloamo tvenkinio?",
+    "options": {
+      "a": "Dvylika",
+      "b": "Penkiolika",
+      "c": "Aštuoniolika",
+      "d": "Dvidešimt"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_003",
+    "question": "Kiek metų žmogus veltui ieškojo vaisių figmedyje, kol liepė jį nukirsti?",
+    "options": {
+      "a": "Vienerius metus",
+      "b": "Dvejus metus",
+      "c": "Trejus metus",
+      "d": "Ketverius metus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_004",
+    "question": "Ką pasiūlė sodininkas daryti su nevaisingu figmedžiu, prieš jį nukertant?",
+    "options": {
+      "a": "Persodinti jį į kitą vietą.",
+      "b": "Palikti dar metams, apkasyti ir patręšti.",
+      "c": "Praskiesti jo šakas, kad gautų daugiau saulės.",
+      "d": "Pabandyti paskiepyti kitą medį."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_005",
+    "question": "Kiek metų moteris sinagogoje kentėjo nuo ligos dvasios ir negalėjo išsitiesti?",
+    "options": {
+      "a": "Dešimt metų",
+      "b": "Dvylika metų",
+      "c": "Penkiolika metų",
+      "d": "Aštuoniolika metų"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_006",
+    "question": "Kaip Jėzus pavadino sinagogos vyresnįjį, kuris supyko dėl gydymo šabo dieną?",
+    "options": {
+      "a": "Tamsuoliu",
+      "b": "Įstatymo laužytoju",
+      "c": "Veidmainiu",
+      "d": "Nedorėliu"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_007",
+    "question": "Su kuo Jėzus palygino Dievo karalystę, be garstyčios grūdo?",
+    "options": {
+      "a": "Su perlų vėriniu",
+      "b": "Su lobiu lauke",
+      "c": "Su raugu",
+      "d": "Su žvejo tinklu"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_008",
+    "question": "Ką Jėzus liepė daryti žmonėms, norintiems būti išgelbėti?",
+    "options": {
+      "a": "Mokytis visų įstatymų.",
+      "b": "Stengtis įeiti pro ankštus vartus.",
+      "c": "Skelbti Gerąją Naujieną visur.",
+      "d": "Dalinti visą turtą vargšams."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_009",
+    "question": "Ką namų šeimininkas atsakys tiems, kurie stovės lauke ir prašys atidaryti duris?",
+    "options": {
+      "a": "„Palaukite, kol ateis rytas.“",
+      "b": "„Aš nežinau, iš kur jūs.“",
+      "c": "„Man gaila, bet vietų nebėra.“",
+      "d": "„Kam gi leidote sau pavėluoti?“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_010",
+    "question": "Kokiu gyvūnu Jėzus pavadino Erodą?",
+    "options": {
+      "a": "Vilku",
+      "b": "Liūtu",
+      "c": "Lape",
+      "d": "Šuniu"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_011",
+    "question": "Kiek dienų Jėzus sakė išvarinėjantis demonus ir gydąs, kol bus visa atlikęs?",
+    "options": {
+      "a": "Vieną dieną",
+      "b": "Dvi dienas",
+      "c": "Tris dienas",
+      "d": "Keturias dienas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_13"
+  }
+]

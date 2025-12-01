@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Lk_20_001",
+    "question": "Kas atėjo paklausti Jėzaus šventykloje apie jo įgaliojimus?",
+    "options": {
+      "a": "Aukštieji kunigai, Rašto aiškintojai ir seniūnai",
+      "b": "Sadukiejai ir fariziejai",
+      "c": "Romos valdytojai ir kariai",
+      "d": "Paprasti žmonės ir mokiniai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_002",
+    "question": "Koks buvo Jėzaus atsakomasis klausimas tiems, kurie klausė apie jo galią?",
+    "options": {
+      "a": "Ar dera Dievui mokėti mokesčius?",
+      "b": "Ką daryti su nedorais vynininkais?",
+      "c": "Ar Jono krikštas buvo iš dangaus, ar iš žmonių?",
+      "d": "Kodėl Mesijas vadinamas Dovydo sūnumi?"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_003",
+    "question": "Kodėl aukštieji kunigai ir Rašto aiškintojai atsakė, kad nežino, iš kur buvo Jono krikštas?",
+    "options": {
+      "a": "Jie tikrai nežinojo šio fakto.",
+      "b": "Bijo Jėzaus pykčio.",
+      "c": "Bijo žmonių, kurie Jono laikė pranašu.",
+      "d": "Nenorėjo atskleisti savo žinių."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_004",
+    "question": "Ką vynogyno savininkas išsiuntė pas vynininkus pirmajam derliaus daliai paimti?",
+    "options": {
+      "a": "Savo sūnų",
+      "b": "Tarną",
+      "c": "Kaimyną",
+      "d": "Savo draugą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_005",
+    "question": "Kaip vynininkai pasielgė su vynogyno savininko mylimuoju sūnumi?",
+    "options": {
+      "a": "Priėmė jį su pagarba.",
+      "b": "Davė jam derliaus dalį.",
+      "c": "Nusitempė už vynuogyno ir nužudė.",
+      "d": "Paprašė jo pasilikti su jais."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_006",
+    "question": "Koks Rašto posakis buvo cituojamas po vynininkų palyginimo?",
+    "options": {
+      "a": "Aš esu kelias, tiesa ir gyvenimas.",
+      "b": "Akmuo, kurį statytojai atmetė, tapo kertiniu akmeniu.",
+      "c": "Ne duona viena žmogus gyvas.",
+      "d": "Mylėk savo artimą kaip save patį."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_007",
+    "question": "Kas siuntinėjo šnipus pas Jėzų, apsimetančius teisuoliais, kad jį sugautų kalboje?",
+    "options": {
+      "a": "Fariziejai ir sadukiejai",
+      "b": "Aukštieji kunigai ir Rašto aiškintojai",
+      "c": "Romos kariai",
+      "d": "Herodo šalininkai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_008",
+    "question": "Ką Jėzus liepė parodyti jam, kai jo paklausė apie mokesčius ciesoriui?",
+    "options": {
+      "a": "Auksinę monetą",
+      "b": "Sidabrinę monetą",
+      "c": "Denarą",
+      "d": "Šekelį"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_009",
+    "question": "Koks buvo Jėzaus atsakymas į klausimą apie mokesčius ciesoriui?",
+    "options": {
+      "a": "Nereikia mokėti jokių mokesčių.",
+      "b": "Mokėkite tik Dievui.",
+      "c": "Kas ciesoriaus, atiduokite ciesoriui, o kas Dievo – Dievui.",
+      "d": "Mokėkite tik tiems, kas gerbia Dievą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_010",
+    "question": "Kas atėjo pas Jėzų ir neigė mirusiųjų prisikėlimą?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Sadukiejai",
+      "c": "Esekiejai",
+      "d": "Zelotai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_011",
+    "question": "Kokį įstatymą minėjo sadukiejai, klausdami apie moterį, kuri turėjo septynis vyrus?",
+    "options": {
+      "a": "Dešimt įsakymų",
+      "b": "Mozės įstatymą",
+      "c": "Romos įstatymą",
+      "d": "Karalių knygos įstatymą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_012",
+    "question": "Ką Jėzus pasakė apie tuos, kurie prisikels aname pasaulyje?",
+    "options": {
+      "a": "Jie vėl ves ir tekės.",
+      "b": "Jie nebegalės mirti, bus tolygūs angelams ir bus Dievo vaikai.",
+      "c": "Jie gyvens kaip šiame pasaulyje.",
+      "d": "Jie tarnaus žmonėms."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_013",
+    "question": "Kaip Jėzus įrodė, kad mirusieji prisikels, remdamasis Moze?",
+    "options": {
+      "a": "Mini, kad Mozė kalbėjo apie prisikėlimo stebuklus.",
+      "b": "Nurodė, kad Mozė Viešpatį vadino Abraomo Dievu, Izaoko Dievu ir Jokūbo Dievu, nes Dievas yra gyvųjų Dievas.",
+      "c": "Pasakė, kad Mozė pats prisikėlė.",
+      "d": "Cituodamas Mozės knygas apie dangaus karalystę."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_014",
+    "question": "Ką Jėzus sakė apie Mesijo ryšį su Dovydu?",
+    "options": {
+      "a": "Mesijas yra tiesioginis Dovydo sūnus.",
+      "b": "Mesijas yra didesnis už Dovydą, nes Dovydas jį vadina „Viešpačiu“.",
+      "c": "Dovydas nepažinojo Mesijo.",
+      "d": "Mesijas neturi nieko bendra su Dovydu."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_015",
+    "question": "Kokios savybės buvo įvardintos kaip Rašto aiškintojų, nuo kurių Jėzus įspėjo saugotis?",
+    "options": {
+      "a": "Kuklumas ir nuolankumas.",
+      "b": "Gebėjimas puikiai mokyti.",
+      "c": "Mėgsta vaikščioti su ilgais drabužiais, būti sveikinami turgavietėse, užimti pirmuosius krėslus ir garbės vietas, suryja našlių namus.",
+      "d": "Atvirumas ir teisingumas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_20"
+  }
+]

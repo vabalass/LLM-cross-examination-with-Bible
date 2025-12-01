@@ -1,0 +1,340 @@
+[
+  {
+    "id": "Lk_1_001",
+    "question": "Kam buvo surašytas sutvarkytas pasakojimas Lk 1,3?",
+    "options": {
+      "a": "Visiems tikintiesiems",
+      "b": "Garbingajam Teofiliui",
+      "c": "Romos imperatoriui",
+      "d": "Izraelio vyresniesiems"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_002",
+    "question": "Koks buvo Luko pasakojimo tikslas Lk 1,4?",
+    "options": {
+      "a": "Įtikinti žmones nauja religija",
+      "b": "Pateikti alternatyvų pasakojimą",
+      "c": "Kad įsitikintum tikrumu mokslo, kurio esi išmokytas",
+      "d": "Aprašyti pranašystes apie ateitį"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_003",
+    "question": "Koks karalius valdė Judėją kunigo Zacharijo dienomis Lk 1,5?",
+    "options": {
+      "a": "Karalius Dovydas",
+      "b": "Karalius Saliamonas",
+      "c": "Karalius Erodas",
+      "d": "Karalius Pilypas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_004",
+    "question": "Iš kokio skyriaus buvo kunigas Zacharijas Lk 1,5?",
+    "options": {
+      "a": "Levi",
+      "b": "Abijo",
+      "c": "Aarono",
+      "d": "Zadoko"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_005",
+    "question": "Kaip Dievo akyse buvo vertinami Zacharijas ir Elzbieta Lk 1,6?",
+    "options": {
+      "a": "Abejojantys ir silpni",
+      "b": "Teisūs ir nepriekaištingai vykdantys įsakymus",
+      "c": "Pamaldūs, bet nelaimingi",
+      "d": "Turtuoliai ir įtakingi"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_006",
+    "question": "Kokia buvo Zacharijo žmonos Elzbietos problema Lk 1,7?",
+    "options": {
+      "a": "Ji buvo ligota",
+      "b": "Ji buvo nevaisinga ir abu sulaukę senyvo amžiaus",
+      "c": "Ji atsisakė turėti vaikų",
+      "d": "Ji jau turėjo daug vaikų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_007",
+    "question": "Kokį burtą traukė kunigai, ir koks burtas teko Zacharijui Lk 1,9?",
+    "options": {
+      "a": "Dėstyti įstatymus, teko mokyti žmones",
+      "b": "Vadovauti apeigoms, teko aukoti aukas",
+      "c": "Įžengti į Viešpaties šventovės vidų ir aukoti smilkalus",
+      "d": "Šventinti vandenį, teko tai padaryti"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_008",
+    "question": "Kur Viešpaties angelas pasirodė Zacharijui Lk 1,11?",
+    "options": {
+      "a": "Prie altoriaus",
+      "b": "Smilkalų aukuro dešinėje",
+      "c": "Priešais šventovės uždangą",
+      "d": "Šventovės kieme"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_009",
+    "question": "Koks angelas pasirodė Zacharijui Lk 1,19?",
+    "options": {
+      "a": "Mykolas",
+      "b": "Rapolas",
+      "c": "Gabrielius",
+      "d": "Urielis"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_010",
+    "question": "Kokiu vardu Zacharijas turėjo pavadinti savo sūnų Lk 1,13?",
+    "options": {
+      "a": "Jozuė",
+      "b": "Elijas",
+      "c": "Simonas",
+      "d": "Jonu"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_011",
+    "question": "Kokia buvo angelo pranašystė apie Jono gėrimo įpročius Lk 1,15?",
+    "options": {
+      "a": "Jis gers vyną tik švenčių metu",
+      "b": "Jis negers vyno ir jokių svaigalų",
+      "c": "Jis gers tik vandenį",
+      "d": "Jis gers tik sultis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_012",
+    "question": "Su kokia dvasia ir galybe Jonas turėjo žengti pirma Viešpaties Lk 1,17?",
+    "options": {
+      "a": "Su Mozės dvasia ir galybe",
+      "b": "Su Dovydo dvasia ir galybe",
+      "c": "Su Elijo dvasia ir galybe",
+      "d": "Su Jokūbo dvasia ir galybe"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_013",
+    "question": "Kokia buvo Zacharijo reakcija į angelo žinią apie sūnų Lk 1,18?",
+    "options": {
+      "a": "Jis dėkojo Dievui",
+      "b": "Jis džiaugsmingai priėmė žinią",
+      "c": "Jis nepatikėjo, sakydamas: „Kaip aš tai patirsiu? Aš gi jau senis...“",
+      "d": "Jis nustebo ir tylėjo"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_014",
+    "question": "Kokia bausmė ištiko Zachariją už nepatikėjimą angelo žodžiais Lk 1,20?",
+    "options": {
+      "a": "Jis apako",
+      "b": "Jis tapo nebylys",
+      "c": "Jis prarado klausą",
+      "d": "Jis susirgo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_015",
+    "question": "Kiek mėnesių Elzbieta slėpėsi po to, kai tapo nėščia Lk 1,24?",
+    "options": {
+      "a": "Tris mėnesius",
+      "b": "Keturi mėnesius",
+      "c": "Penkis mėnesius",
+      "d": "Šešis mėnesius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_016",
+    "question": "Kelintą mėnesį po Elzbietos pastojimo angelas Gabrielius buvo pasiųstas pas Mariją Lk 1,26?",
+    "options": {
+      "a": "Trečiame mėnesyje",
+      "b": "Ketvirtame mėnesyje",
+      "c": "Penktame mėnesyje",
+      "d": "Šeštame mėnesyje"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_017",
+    "question": "Į kokį Galilėjos miestą buvo pasiųstas angelas Gabrielius pas Mariją Lk 1,26?",
+    "options": {
+      "a": "Betliejų",
+      "b": "Jeruzalę",
+      "c": "Nazaretą",
+      "d": "Kafarnaumą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_018",
+    "question": "Iš kokių namų buvo Marijos sužadėtinis Juozapas Lk 1,27?",
+    "options": {
+      "a": "Aarono namų",
+      "b": "Levi namų",
+      "c": "Dovydo namų",
+      "d": "Judo namų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_019",
+    "question": "Kokiais žodžiais angelas pasveikino Mariją Lk 1,28?",
+    "options": {
+      "a": "„Tebūnie tau palaiminta!“",
+      "b": "„Ramybė tau, išrinktoji!“",
+      "c": "„Sveika, malonėmis apdovanotoji! Viešpats su tavimi!“",
+      "d": "„Garbė tau, Dievo motina!“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_020",
+    "question": "Kaip Marija paklausė angelo apie pastojimą, būdama mergelė Lk 1,34?",
+    "options": {
+      "a": "„Ar tai įmanoma?“",
+      "b": "„Kaip tai įvyks, jeigu aš nepažįstu vyro?“",
+      "c": "„Ar Dievas gali tai padaryti?“",
+      "d": "„Kada tai nutiks?“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_021",
+    "question": "Ką Marija atsakė angelui, išgirdusi žinią Lk 1,38?",
+    "options": {
+      "a": "„Aš bijau.“",
+      "b": "„Štai aš Viešpaties tarnaitė, tebūna man, kaip tu pasakei.“",
+      "c": "„Leisk man pagalvoti.“",
+      "d": "„Ar aš to verta?“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_022",
+    "question": "Kokia buvo Marijos giminaitės, kuri taip pat laukėsi senatvėje, vardas Lk 1,36?",
+    "options": {
+      "a": "Salomėja",
+      "b": "Rebeka",
+      "c": "Elzbieta",
+      "d": "Ana"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_023",
+    "question": "Kas atsitiko Elzbietos įsčiose, kai ji išgirdo Marijos sveikinimą Lk 1,41?",
+    "options": {
+      "a": "Ji pajuto skausmą",
+      "b": "Kūdikis šoktelėjo",
+      "c": "Ji nustebo",
+      "d": "Ji užmigo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_024",
+    "question": "Kiek laiko Marija prabuvo pas Elzbietą Lk 1,56?",
+    "options": {
+      "a": "Apie vieną mėnesį",
+      "b": "Apie du mėnesius",
+      "c": "Apie tris mėnesius",
+      "d": "Apie keturis mėnesius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_025",
+    "question": "Kurią dieną buvo įprasta apipjaustyti berniuką ir suteikti jam vardą Lk 1,59?",
+    "options": {
+      "a": "Septintą dieną",
+      "b": "Aštuntą dieną",
+      "c": "Dešimtą dieną",
+      "d": "Keturioliktą dieną"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_026",
+    "question": "Kas atsitiko Zacharijui, kai jis ant rašomosios lentelės užrašė sūnaus vardą Lk 1,64?",
+    "options": {
+      "a": "Jis nualpo iš laimės",
+      "b": "Jis pradėjo dainuoti giesmę",
+      "c": "Atsivėrė jo lūpos, atsirišo liežuvis, ir jis ėmė kalbėti šlovindamas Dievą",
+      "d": "Jis vėl tapo nebylys"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_1"
+  }
+]

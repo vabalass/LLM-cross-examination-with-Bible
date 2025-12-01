@@ -1,0 +1,249 @@
+[
+  {
+    "id": "Lk_12_001",
+    "question": "Ko Jėzus liepė mokiniams saugotis?",
+    "options": {
+      "a": "Fariziejų raugo, tai yra veidmainystės.",
+      "b": "Erodų mokesčių rinkėjų.",
+      "c": "Romėnų kareivių persekiojimų.",
+      "d": "Samariečių piktžodžiavimo."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_002",
+    "question": "Kas nutiks viskam, kas buvo uždengta ir paslėpta, pasak Jėzaus?",
+    "options": {
+      "a": "Tai liks amžinai paslaptimi.",
+      "b": "Bus atidengta ir žinoma.",
+      "c": "Bus sunaikinta ugnimi.",
+      "d": "Bus užrašyta į slaptą knygą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_003",
+    "question": "Kur, pasak Jėzaus, bus skelbiama, ką žmonės šnibždėjo į ausį kambariuose?",
+    "options": {
+      "a": "Tik artimiausiems draugams.",
+      "b": "Bus skelbiama nuo stogų.",
+      "c": "Bus užmiršta.",
+      "d": "Bus parašyta ant sienų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_004",
+    "question": "Kokių žmonių, pasak Jėzaus, nereikia bijoti?",
+    "options": {
+      "a": "Tų, kurie gali žudyti sielą.",
+      "b": "Tų, kurie žudo kūną ir paskui nebegali daugiau kenkti.",
+      "c": "Tų, kurie renka mokesčius.",
+      "d": "Tų, kurie neigia Dievą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_005",
+    "question": "Ko, pasak Jėzaus, iš tiesų turime bijoti?",
+    "options": {
+      "a": "Tų, kurie gali mus įmesti į kalėjimą.",
+      "b": "Tų, kurie gali atimti mūsų turtą.",
+      "c": "To, kuris nužudęs turi galią įstumti į pragarą.",
+      "d": "Tų, kurie gali apšmeižti mūsų vardą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_006",
+    "question": "Kiek žvirblių parduodami už du skatikus?",
+    "options": {
+      "a": "Keturi.",
+      "b": "Penki.",
+      "c": "Šeši.",
+      "d": "Du."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_007",
+    "question": "Kas, pasak teksto, yra suskaityta ant žmonių galvų?",
+    "options": {
+      "a": "Tik geri darbai.",
+      "b": "Visi galvos plaukai.",
+      "c": "Tik mintys.",
+      "d": "Visi prarasti plaukai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_008",
+    "question": "Kas bus išpažintas Dievo angelų akivaizdoje?",
+    "options": {
+      "a": "Tas, kuris išpažįsta Jėzų žmonių akivaizdoje.",
+      "b": "Tas, kuris atgailauja už savo nuodėmes.",
+      "c": "Tas, kuris dosniai aukoja šventyklai.",
+      "d": "Tas, kuris griežtai laikosi įstatymo."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_009",
+    "question": "Kam, pasak Jėzaus, nebus atleista?",
+    "options": {
+      "a": "Tam, kas tartų žodį prieš Žmogaus Sūnų.",
+      "b": "Tam, kas neišpažintų Jėzaus žmonių akivaizdoje.",
+      "c": "Tam, kas piktžodžiautų Šventajai Dvasiai.",
+      "d": "Tam, kas nepaklustų tėvams."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_010",
+    "question": "Kas pamokys mokinius, ką kalbėti, kai jie bus vedami pas viršininkus ar vyresnybes?",
+    "options": {
+      "a": "Mokytojai iš sinagogos.",
+      "b": "Šventoji Dvasia.",
+      "c": "Jėzus asmeniškai.",
+      "d": "Artimiausi mokiniai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_011",
+    "question": "Ko prašė Jėzaus vienas iš minios?",
+    "options": {
+      "a": "Kad išgydytų jo brolį.",
+      "b": "Kad lieptų jo broliui pasidalyti palikimu.",
+      "c": "Kad pamokytų jį Dievo žodžio.",
+      "d": "Kad palaimintų jo derlių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_012",
+    "question": "Ką turtingasis žmogus planavo padaryti su savo gausiu derliumi, kai jam trūko vietos klojimuose?",
+    "options": {
+      "a": "Išdalinti vargšams.",
+      "b": "Parduoti ir investuoti pinigus.",
+      "c": "Nugriausti savo klojimus ir statytis didesnius, kad sukrautų visus javus.",
+      "d": "Išsinuomoti papildomų sandėlių."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_013",
+    "question": "Kaip Dievas kreipėsi į turtingąjį žmogų, kai šis planavo ilgus metus ilsėtis, valgyti ir gerti?",
+    "options": {
+      "a": "„Protingasis“.",
+      "b": "„Kvaily“.",
+      "c": "„Šykštuoli“.",
+      "d": "„Išminčiau“."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_014",
+    "question": "Ką Jėzus mini kaip pavyzdį, kad Dievas rūpinasi net mažais padarais, kurie nesėja ir nepjauna?",
+    "options": {
+      "a": "Šunis.",
+      "b": "Varnus.",
+      "c": "Lapes.",
+      "d": "Kates."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_015",
+    "question": "Kuo, pasak Jėzaus, lelijos pranoksta Saliamono didybę?",
+    "options": {
+      "a": "Jos auga be pastangų, o Saliamonas turėjo sunkiai dirbti.",
+      "b": "Jos turi daugiau žiedlapių nei Saliamono karališkieji drabužiai.",
+      "c": "Nė Saliamonas pačioje savo didybėje nebuvo taip pasipuošęs kaip kiekviena iš jų.",
+      "d": "Lelijos yra amžinos, o Saliamono šlovė praėjo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_016",
+    "question": "Ko, pasak Jėzaus, turime ieškoti pirmiausia, užuot rūpinęsi maistu ir gėrimu?",
+    "options": {
+      "a": "Šio pasaulio turtų.",
+      "b": "Žmonių pripažinimo.",
+      "c": "Jo karalystės.",
+      "d": "Ilgo gyvenimo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_017",
+    "question": "Kur Jėzus pataria kaupti nenykstantį lobį?",
+    "options": {
+      "a": "Žemės bankuose.",
+      "b": "Slaptose saugyklose.",
+      "c": "Danguje, kur joks vagis neprieis ir kandys nesuės.",
+      "d": "Po žeme, paslėptą nuo visų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_018",
+    "question": "Kokios būsenos turėtų būti tarnai, laukiantys savo šeimininko grįžimo iš vestuvių?",
+    "options": {
+      "a": "Miegantys.",
+      "b": "Ilsintys.",
+      "c": "Budintys.",
+      "d": "Linksminantys."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_019",
+    "question": "Ką reiškia posakis: \"iš kiekvieno, kuriam daug duota, bus daug pareikalauta, ir kam daug patikėta, iš to bus daug ir išieškota\"?",
+    "options": {
+      "a": "Turtingieji bus nubausti labiau nei vargšai.",
+      "b": "Dievas griežtai elgiasi su tais, kurie piktnaudžiauja savo galia.",
+      "c": "Kuo daugiau išteklių ar atsakomybės žmogus gauna, tuo didesnių rezultatų ar ištikimybės iš jo tikimasi.",
+      "d": "Tik nedaugeliui bus patikėta didelė atsakomybė."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_12"
+  }
+]

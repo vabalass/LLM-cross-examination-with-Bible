@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Lk_16_001",
+    "question": "Kuo buvo apskųstas turtingo žmogaus prievaizdas?",
+    "options": {
+      "a": "Kad vogė pinigus iš savo šeimininko.",
+      "b": "Kad eikvojo savo šeimininko turtą.",
+      "c": "Kad nesirūpino šeimininko reikalais.",
+      "d": "Kad neteisingai skirstė skolas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_002",
+    "question": "Kai šeimininkas atėmė prievaizdavimą, ką prievaizdas pasakė sau, kad negalės daryti?",
+    "options": {
+      "a": "Kasti.",
+      "b": "Elgetauti.",
+      "c": "Dirbti naują darbą.",
+      "d": "Atsiskaityti šeimininkui."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_003",
+    "question": "Koks buvo apsukriojo prievaizdo planas, atleidus jį iš tarnybos?",
+    "options": {
+      "a": "Ieškoti naujo šeimininko.",
+      "b": "Paprašyti šeimininko atleidimo.",
+      "c": "Padaryti bičiulių, kad šie priimtų jį į savo namus.",
+      "d": "Pasišalinti ir pasislėpti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_004",
+    "question": "Kiek statinių aliejaus buvo skolingas pirmasis skolininkas ir kiek prievaizdas jam liepė parašyti?",
+    "options": {
+      "a": "50 statinių, liepė rašyti 25.",
+      "b": "100 statinių, liepė rašyti 50.",
+      "c": "100 statinių, liepė rašyti 80.",
+      "d": "80 statinių, liepė rašyti 50."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_005",
+    "question": "Kiek saikų kviečių buvo skolingas antrasis skolininkas ir kiek prievaizdas jam liepė parašyti?",
+    "options": {
+      "a": "100 saikų, liepė rašyti 80.",
+      "b": "50 saikų, liepė rašyti 25.",
+      "c": "100 saikų, liepė rašyti 50.",
+      "d": "80 saikų, liepė rašyti 50."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_006",
+    "question": "Ką Jėzus pataria daryti su „apgaulinga Mamona“?",
+    "options": {
+      "a": "Kaupti ją sau.",
+      "b": "Visiškai jos atsisakyti.",
+      "c": "Darytis su ja bičiulių, kad, galui atėjus, jie priimtų jus į amžinąsias padangtes.",
+      "d": "Išdalinti ją vargšams."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_007",
+    "question": "Ką Jėzus sako apie ištikimybę mažmožiuose?",
+    "options": {
+      "a": "Ji nėra svarbi.",
+      "b": "Kas ištikimas mažmožiuose, tas ištikimas ir didžiuose dalykuose.",
+      "c": "Mažmožiai rodo silpnumą.",
+      "d": "Ištikimybė pasirodo tik dideliuose darbuose."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_008",
+    "question": "Kiek šeimininkų gali tarnauti vienas tarnas, pasak Jėzaus?",
+    "options": {
+      "a": "Vienam.",
+      "b": "Dviem, jei jie gerai sutaria.",
+      "c": "Keliems, priklausomai nuo situacijos.",
+      "d": "Nė vienam, nes jis turi būti laisvas."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_009",
+    "question": "Ką Jėzus sako apie tai, kas atleidžia žmoną ir veda kitą?",
+    "options": {
+      "a": "Jis vykdo Įstatymą.",
+      "b": "Jis svetimauja.",
+      "c": "Jis pradeda naują gyvenimą.",
+      "d": "Jis turi teisę taip pasielgti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_010",
+    "question": "Kur po mirties angelai nunešė elgetą Lozorių?",
+    "options": {
+      "a": "Į rojų.",
+      "b": "Į turtingojo namus.",
+      "c": "Į Abraomo prieglobstį.",
+      "d": "Į pragaro kančias."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_16"
+  }
+]

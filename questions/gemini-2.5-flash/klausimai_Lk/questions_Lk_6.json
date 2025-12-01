@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Lk_6_001",
+    "question": "Ką Jėzaus mokiniai darė per šabą, kas sukėlė fariziejų priekaištus?",
+    "options": {
+      "a": "Skabė varpas ir valgė",
+      "b": "Gydė ligonius",
+      "c": "Pirko prekes turguje",
+      "d": "Dirbo laukuose"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_002",
+    "question": "Kokiu pavyzdžiu Jėzus argumentavo dėl mokinių veiksmų šabo dieną?",
+    "options": {
+      "a": "Elijo pagydymais",
+      "b": "Dovydo valgymu padėtinės duonos",
+      "c": "Mozės įstatymų aiškinimu",
+      "d": "Pranašų stebuklais"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_003",
+    "question": "Kaip Jėzus įvardijo save kontekste su šabu?",
+    "options": {
+      "a": "Įstatymo Sūnumi",
+      "b": "Šabo taisyklės sergėtoju",
+      "c": "Žmogaus Sūnumi, kuris yra ir šabo Viešpats",
+      "d": "Tėvo tarnu"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_004",
+    "question": "Kokią ligą turėjo žmogus, kurį Jėzus pagydė sinagogoje šabo dieną?",
+    "options": {
+      "a": "Jis buvo aklas",
+      "b": "Jis turėjo padžiūvusią dešinę ranką",
+      "c": "Jis negalėjo vaikščioti",
+      "d": "Jis buvo kurčias"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_005",
+    "question": "Kokiu tikslu Rašto aiškintojai ir fariziejai stebėjo Jėzų sinagogoje?",
+    "options": {
+      "a": "Kad išmoktų iš jo",
+      "b": "Kad pagirtų jį už gerus darbus",
+      "c": "Kad rastų kuo jį kaltinti, jei gydys šabo dieną",
+      "d": "Kad pakviestų jį į savo namus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_006",
+    "question": "Kokį klausimą Jėzus uždavė Rašto aiškintojams ir fariziejams apie šabą?",
+    "options": {
+      "a": "Ar per šabą leistina melstis, ar dirbti?",
+      "b": "Ar per šabą leistina gera daryti, ar bloga? Gelbėti gyvybę ar žudyti?",
+      "c": "Ar per šabą leistina valgyti, ar pasninkauti?",
+      "d": "Ar per šabą leistina keliauti, ar likti namuose?"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_007",
+    "question": "Kur Jėzus užkopė melstis prieš pasirinkdamas apaštalus?",
+    "options": {
+      "a": "Į Jeruzalės šventyklą",
+      "b": "Į kalną",
+      "c": "Į dykumą",
+      "d": "Į sinagogą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_008",
+    "question": "Kiek apaštalų Jėzus išsirinko iš savo mokinių?",
+    "options": {
+      "a": "Septyniasdešimt",
+      "b": "Dešimt",
+      "c": "Dvylika",
+      "d": "Trys"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_009",
+    "question": "Kuris iš apaštalų buvo pramintas Petru?",
+    "options": {
+      "a": "Jonas",
+      "b": "Jokūbas",
+      "c": "Simonas",
+      "d": "Andriejus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_010",
+    "question": "Kodėl minia stengėsi paliesti Jėzų?",
+    "options": {
+      "a": "Nes iš jo ėjo galia ir visus gydė",
+      "b": "Kad parodytų savo pagarbą",
+      "c": "Kad pakviestų jį į savo namus",
+      "d": "Nes norėjo su juo pasikalbėti"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_011",
+    "question": "Kam, anot Jėzaus, priklauso Dievo karalystė?",
+    "options": {
+      "a": "Turtingiesiems",
+      "b": "Išmintingiesiems",
+      "c": "Vargdieniams",
+      "d": "Galingiesiems"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_012",
+    "question": "Kam Jėzus ištarė „vargas jums“ dėl jau atsiimtos paguodos?",
+    "options": {
+      "a": "Fariziejams",
+      "b": "Turtuoliams",
+      "c": "Nuodėmingiesiems",
+      "d": "Romėnams"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_013",
+    "question": "Ką Jėzus nurodė daryti su priešais ir niekintojais?",
+    "options": {
+      "a": "Vengti jų",
+      "b": "Kovoti su jais",
+      "c": "Mylėti juos, daryti gera, laiminti ir melstis už juos",
+      "d": "Įspėti juos apie bausmę"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_014",
+    "question": "Kokiu saiku Jėzus sako, kad mums bus atseikėta?",
+    "options": {
+      "a": "Skurdžiu",
+      "b": "Tiksliu",
+      "c": "Kokiu saiku seikite, tokiu jums bus atseikėta",
+      "d": "Mažu"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_015",
+    "question": "Ką Jėzus lygina su rąstu savo akyje?",
+    "options": {
+      "a": "Mokinio klaidoms",
+      "b": "Veidmainio trūkumams",
+      "c": "Brolio nuodėmėms",
+      "d": "Fariziejų teismams"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_016",
+    "question": "Į ką panašus tas, kuris ateina pas Jėzų, klausosi jo žodžių ir juos vykdo?",
+    "options": {
+      "a": "Į sėjėją, sėjantį sėklas",
+      "b": "Į žvejį, sugaunantį daug žuvies",
+      "c": "Į namą statantį žmogų, kuris pamatus padėjo ant uolos",
+      "d": "Į piemenį, vedantį avis"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_6"
+  }
+]

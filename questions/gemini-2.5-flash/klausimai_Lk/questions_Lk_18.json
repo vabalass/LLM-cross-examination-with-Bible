@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Lk_18_001",
+    "question": "Apie ką Jėzus pasakė palyginimą, kaip reikia visuomet melstis ir nepaliauti?",
+    "options": {
+      "a": "Apie tai, kaip reikia visuomet melstis ir nepaliauti.",
+      "b": "Apie teisėjų teisingumą.",
+      "c": "Apie našlių sunkią dalią.",
+      "d": "Apie Dievo baimę."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_002",
+    "question": "Koks buvo teisėjas, aprašytas įkyrios prašytojos palyginime?",
+    "options": {
+      "a": "Dievobaimingas ir sąžiningas.",
+      "b": "Geras ir gailestingas.",
+      "c": "Nebijojo Dievo ir nesidrovėjo žmonių.",
+      "d": "Visada apgindavo silpnuosius."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_003",
+    "question": "Kokia buvo našlės priežastis eiti pas teisėją?",
+    "options": {
+      "a": "Prašė pinigų.",
+      "b": "Prašė apginti nuo skriaudiko.",
+      "c": "Norėjo ištekėti.",
+      "d": "Skundėsi kaimynais."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_004",
+    "question": "Ką teisėjas pasakė sau, galiausiai nusprendęs apginti našlę?",
+    "options": {
+      "a": "„Aš apginsiu jos teises, nes ji teisi.“",
+      "b": "„Aš bijau Dievo, todėl jai padėsiu.“",
+      "c": "„Man gaila šitos moters, todėl jai padėsiu.“",
+      "d": "„Nors aš Dievo nebijau nei žmonių nesidroviu, vis dėlto, kai šita našlė tokia įkyri, imsiu ir apginsiu jos teises, kad, ko gero, ji manęs neapkultų.“"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_005",
+    "question": "Kokia buvo fariziejaus maldos esmė, pasak Jėzaus palyginimo?",
+    "options": {
+      "a": "Maldavo Dievo atleidimo už nuodėmes.",
+      "b": "Dėkojo Dievui, kad nesu toks, kaip kiti žmonės (plėšikai, sukčiai, svetimautojai, muitininkas).",
+      "c": "Prašė Dievo palaiminimo savo šeimai.",
+      "d": "Dėkojo už gerą derlių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_006",
+    "question": "Kaip muitininkas meldėsi šventykloje?",
+    "options": {
+      "a": "Garsiai šaukė Dievą.",
+      "b": "Atsistojo šalia fariziejaus ir meldėsi kartu.",
+      "c": "Stovėjo atokiai ir nedrįso nė akių pakelti į dangų, tik mušėsi į krūtinę, maldaudamas: 'Dieve, būk gailestingas man nusidėjėliui!'",
+      "d": "Skaitė iš Šventojo Rašto."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_007",
+    "question": "Ką Jėzus pasakė apie muitininko ir fariziejaus maldą?",
+    "options": {
+      "a": "Abu nuėjo nuteisinti.",
+      "b": "Tik fariziejus nuėjo nuteisintas.",
+      "c": "Muitininkas nuėjo į namus nuteisintas, ne anas.",
+      "d": "Nė vienas nebuvo nuteisintas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_008",
+    "question": "Ką Jėzus pasakė mokiniams, kai šie barė atnešusius kūdikius?",
+    "options": {
+      "a": "„Tegul vaikai būna tylūs ir ramūs.“",
+      "b": "„Vaikai dar per jauni suprasti Dievo žodį.“",
+      "c": "„Leiskite mažutėliams ateiti pas mane ir netrukdykite, nes tokių yra Dievo karalystė.“",
+      "d": "„Pirmiausia turi ateiti suaugusieji.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_009",
+    "question": "Ką didikas paklausė Jėzaus, norėdamas laimėti amžinąjį gyvenimą?",
+    "options": {
+      "a": "„Gerasis mokytojau, ką turiu daryti, kad laimėčiau amžinąjį gyvenimą?“",
+      "b": "„Kada ateis Dievo karalystė?“",
+      "c": "„Kaip tapti turtingu?“",
+      "d": "„Ar aš esu geras žmogus?“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_010",
+    "question": "Kokių įsakymų laikymąsi Jėzus priminė kilmingam turtuoliui?",
+    "options": {
+      "a": "Mylėti Dievą ir artimą.",
+      "b": "Pasninkauti ir duoti dešimtinę.",
+      "c": "Nesvetimauk, nežudyk, nevok, melagingai neliudyk, gerbk savo tėvą ir motiną.",
+      "d": "Statyti šventyklas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_011",
+    "question": "Ką Jėzus pasakė, kad trūksta turtuoliui, norinčiam įgyti amžinąjį gyvenimą?",
+    "options": {
+      "a": "Daugiau melstis.",
+      "b": "Pardavus, ką turi, išdalyti vargšams, tai įsigys turtą danguje, ir sekti Jėzumi.",
+      "c": "Dažniau lankytis šventykloje.",
+      "d": "Išmokti visus įsakymus mintinai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_012",
+    "question": "Koks Jėzaus palyginimas apie turtuolių patekimą į Dievo karalystę?",
+    "options": {
+      "a": "Lengviau liūto jaunikliui įlipti į medį.",
+      "b": "Lengviau kupranugariui išlįsti pro adatos ausį, negu turtuoliui įeiti į Dievo karalystę!",
+      "c": "Lengviau paukščiui pagauti žuvį.",
+      "d": "Lengviau upei tekėti prieš srovę."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_013",
+    "question": "Ką Jėzus pranešė Dvylikai apie savo ateitį Jeruzalėje?",
+    "options": {
+      "a": "Jis taps karaliumi.",
+      "b": "Jis bus atiduotas pagonims, išjuoktas, paniekintas, apspjaudytas, nuplaktas ir nužudytas, bet trečią dieną prisikels.",
+      "c": "Jis statys naują šventyklą.",
+      "d": "Jis aplankys savo tėvus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_014",
+    "question": "Kas nutiko neregiui Jericho kelyje, kai Jėzus jam tarė „Regėk! Tavo tikėjimas išgelbėjo tave“?",
+    "options": {
+      "a": "Jis gavo pinigų.",
+      "b": "Jis praregėjo ir nulydėjo Jėzų, garbindamas Dievą.",
+      "c": "Jis tapo Jėzaus mokiniu.",
+      "d": "Jis pasiliko elgetauti toliau."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_18"
+  }
+]

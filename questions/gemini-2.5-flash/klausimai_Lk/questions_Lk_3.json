@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Lk_3_001",
+    "question": "Kas buvo Galilėjos tetrarchas, kai prasidėjo Jono Krikštytojo veikla?",
+    "options": {
+      "a": "Erodas",
+      "b": "Pilypas",
+      "c": "Lisanijus",
+      "d": "Poncijus Pilotas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_002",
+    "question": "Kas buvo vyriausieji kunigai tuo metu, kai Viešpaties žodis pasiekė Joną dykumoje?",
+    "options": {
+      "a": "Ana ir Kajafas",
+      "b": "Zacharijas ir Izaijas",
+      "c": "Abraomas ir Mozė",
+      "d": "Dovydas ir Saliamonas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_003",
+    "question": "Kokį krikštą Jonas skelbė Pajordanėje?",
+    "options": {
+      "a": "Atsivertimo krikštą nuodėmėms atleisti",
+      "b": "Atgimimo krikštą išganymui pasiekti",
+      "c": "Šventosios Dvasios krikštą tikintiesiems sustiprinti",
+      "d": "Pasiaukojimo krikštą Dievui pagerbti"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_004",
+    "question": "Kieno pranašystė buvo cituojama apie \"šaukiančiojo balsą tyruose\"?",
+    "options": {
+      "a": "Izaijo",
+      "b": "Jeremijo",
+      "c": "Elijo",
+      "d": "Mozės"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_005",
+    "question": "Kaip Jonas kreipėsi į minias, ateinančias pas jį krikštytis?",
+    "options": {
+      "a": "„Angių išperos“",
+      "b": "„Tikintieji“",
+      "c": "„Dievo vaikai“",
+      "d": "„Nuodėmingieji“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_006",
+    "question": "Ką Jonas sakė, kad Dievas gali padaryti su akmenimis, kalbant apie Abraomą?",
+    "options": {
+      "a": "Pažadinti Abraomui vaikų iš šitų akmenų",
+      "b": "Pastatyti šventyklą Abraomo garbei",
+      "c": "Paversti akmenis duona alkaniesiems",
+      "d": "Akmenimis sudrausminti nepaklusniuosius"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_007",
+    "question": "Kokį patarimą Jonas davė muitininkams?",
+    "options": {
+      "a": "Nereikalauti daugiau, negu jiems nustatyta",
+      "b": "Atsisakyti savo profesijos ir sekti jį",
+      "c": "Paskirti dalį savo pelno vargšams",
+      "d": "Reguliariai melstis už savo nuodėmes"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_008",
+    "question": "Ką Jonas patarė daryti kariams?",
+    "options": {
+      "a": "Nieko neskriausti, neįdavinėti dėl pelno ir tenkintis savo alga",
+      "b": "Palikti ginklus ir tapti jo mokiniais",
+      "c": "Ginti silpnuosius ir kovoti už teisingumą",
+      "d": "Aukoti dalį savo algos šventyklai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_009",
+    "question": "Kuom Jonas sakė, kad krikštys už jį galingesnis ateinantysis?",
+    "options": {
+      "a": "Šventąja Dvasia ir ugnimi",
+      "b": "Vandeniu ir žodžiu",
+      "c": "Tiesos ir teisingumo dvasia",
+      "d": "Galybe ir išmintimi"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_010",
+    "question": "Kas atsitiks pelams, kai ateinantysis išvalys savo kluoną?",
+    "options": {
+      "a": "Bus sudeginti neužgesinama ugnimi",
+      "b": "Bus išbarstyti vėjyje",
+      "c": "Bus panaudoti gyvulių pašarui",
+      "d": "Bus palikti ir pūti laukuose"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_011",
+    "question": "Kodėl tetrarchas Erodas įkalino Joną?",
+    "options": {
+      "a": "Dėl Erodiados, savo brolio žmonos, ir kitų piktadarybių",
+      "b": "Dėl to, kad Jonas sukėlė maištą prieš romėnų valdžią",
+      "c": "Dėl Jono atsisakymo sumokėti mokesčius",
+      "d": "Dėl Jono piktžodžiavimo prieš šventyklą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_012",
+    "question": "Kokiu pavidalu Šventoji Dvasia nusileido ant Jėzaus po jo krikšto?",
+    "options": {
+      "a": "Tarsi balandis",
+      "b": "Tarsi ugnies liepsna",
+      "c": "Tarsi šviesos spindulys",
+      "d": "Tarsi angelas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_3"
+  }
+]

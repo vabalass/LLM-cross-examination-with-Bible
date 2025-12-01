@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_23_001",
+    "question": "Kas pirmiausia atvedė Jėzų pas Pilotą?",
+    "options": {
+      "a": "Visas susirinkimas",
+      "b": "Aukštieji kunigai",
+      "c": "Romos kareiviai",
+      "d": "Rašto aiškintojai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_002",
+    "question": "Kokia buvo viena iš kaltinimų, kuriuos žydai pateikė Jėzui prieš Pilotą?",
+    "options": {
+      "a": "Jis gydė šabo dieną.",
+      "b": "Jis tvirtino esąs Dievo Sūnus.",
+      "c": "Jis draudė mokėti ciesoriui mokesčius.",
+      "d": "Jis valgė su nusidėjėliais."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_003",
+    "question": "Ką Pilotas pasakė apie Jėzų po pirminės apklausos?",
+    "options": {
+      "a": "„Aš nerandu šitame žmoguje jokios kaltės.“",
+      "b": "„Šitas žmogus turi būti nuteistas.“",
+      "c": "„Jis yra žydų karalius.“",
+      "d": "„Jis yra pavojingas mūsų tautai.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_004",
+    "question": "Ką Pilotas padarė su Jėzumi, sužinojęs, kad jis galilėjietis?",
+    "options": {
+      "a": "Nuteisė jį mirties bausme.",
+      "b": "Paleido jį į laisvę.",
+      "c": "Nusiuntė jį pas Erodą.",
+      "d": "Nuplakdino jį."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_005",
+    "question": "Kodėl Erodas apsidžiaugė pamatęs Jėzų?",
+    "options": {
+      "a": "Jis tikėjosi pamatysiąs Jėzų darantį kokį nors stebuklą.",
+      "b": "Jis norėjo jam atleisti.",
+      "c": "Jis tikėjosi išmokti iš jo.",
+      "d": "Jis norėjo jį pakviesti į savo rūmus."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_006",
+    "question": "Kokia buvo Jėzaus reakcija į Erodo klausinėjimus?",
+    "options": {
+      "a": "Jis jam atsakė į visus klausimus.",
+      "b": "Jis jam neatsakinėjo.",
+      "c": "Jis paprašė Erodo paleisti jį.",
+      "d": "Jis jį sudrausmino."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_007",
+    "question": "Kas nutiko tarp Erodo ir Piloto tą dieną?",
+    "options": {
+      "a": "Jie susipyko.",
+      "b": "Jie tapo draugais.",
+      "c": "Jie sutarė pasidalinti teisingumu.",
+      "d": "Jie abu nusprendė paleisti Jėzų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_008",
+    "question": "Ką Pilotas siūlė daryti su Jėzumi, prieš miniai pareikalaujant Barabo?",
+    "options": {
+      "a": "Nukryžiuoti jį.",
+      "b": "Nuplakdinti ir paleisti jį.",
+      "c": "Įkalinti jį.",
+      "d": "Siųsti jį į tremtį."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_009",
+    "question": "Už ką buvo įkalintas Barabas?",
+    "options": {
+      "a": "Už mokesčių nemokėjimą ir piktžodžiavimą.",
+      "b": "Už maištą mieste ir žmogžudystę.",
+      "c": "Už vagystę ir šventyklos išniekinimą.",
+      "d": "Už pranašavimą ir pamokslavimą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_010",
+    "question": "Kiek kartų Pilotas bandė įtikinti minią paleisti Jėzų?",
+    "options": {
+      "a": "Vieną kartą.",
+      "b": "Du kartus.",
+      "c": "Tris kartus.",
+      "d": "Keturis kartus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_011",
+    "question": "Kas buvo priverstas nešti Jėzaus kryžių?",
+    "options": {
+      "a": "Petras.",
+      "b": "Kirėnės gyventojas Simonas.",
+      "c": "Juozapas iš Arimatėjos.",
+      "d": "Vienas iš kareivių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_012",
+    "question": "Ką Jėzus pasakė moterims, verkiančioms dėl jo kelyje į Golgotą?",
+    "options": {
+      "a": "„Aš kenčiu už jūsų nuodėmes.“",
+      "b": "„Verkite ne manęs, bet verčiau savęs ir savo vaikų!“",
+      "c": "„Nustokite verkti, nes Dievo karalystė arti.“",
+      "d": "„Jūsų ašaros yra veltui.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_013",
+    "question": "Koks buvo vietos, kur Jėzus buvo nukryžiuotas, pavadinimas?",
+    "options": {
+      "a": "Alyvų kalnas.",
+      "b": "Golgota.",
+      "c": "Káukolė.",
+      "d": "Siono kalnas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_014",
+    "question": "Kokie buvo Jėzaus žodžiai ant kryžiaus atleidžiant kaltininkams?",
+    "options": {
+      "a": "„Tėve, atleisk jiems, nes jie nežino, ką darą.“",
+      "b": "„Tėve, atleisk jiems, nes jie pasmerkti.“",
+      "c": "„Tėve, tebūnie tavo valia, o ne mano.“",
+      "d": "„Aš atleidžiu jums jūsų nuodėmes.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_015",
+    "question": "Ką kareiviai padarė su Jėzaus drabužiais?",
+    "options": {
+      "a": "Sugrąžino juos jo motinai.",
+      "b": "Pasidalijo juos, mesdami burtą.",
+      "c": "Sudege juos ugnimi.",
+      "d": "Atidavė juos Pilotui."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_016",
+    "question": "Ką Jėzus pažadėjo jam nuoširdžiai tikėjusiam nusikaltėliui?",
+    "options": {
+      "a": "Kad jis bus išlaisvintas.",
+      "b": "Kad jis sugrįš į savo šeimą.",
+      "c": "„Šiandien su manimi būsi rojuje.“",
+      "d": "Kad jis bus prisikeltas paskutinę dieną."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_017",
+    "question": "Kas įvyko visame krašte nuo šeštos iki devintos valandos, kai Jėzus mirė?",
+    "options": {
+      "a": "Žemės drebėjimas.",
+      "b": "Didelis audra.",
+      "c": "Tamsa apgaubė visą kraštą.",
+      "d": "Dangus prapliupo lietumi."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_018",
+    "question": "Kas buvo Juozapas, kuris paprašė Jėzaus kūno?",
+    "options": {
+      "a": "Vienas iš apaštalų.",
+      "b": "Romos šimtininkas.",
+      "c": "Teismo tarybos narys iš Arimatėjos.",
+      "d": "Jėzaus giminaitis."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_23"
+  }
+]

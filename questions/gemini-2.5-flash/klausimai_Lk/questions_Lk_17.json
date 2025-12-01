@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Lk_17_001",
+    "question": "Kokia bausmė būtų geresnė tam, kuris papiktina bent vieną iš mažutėlių?",
+    "options": {
+      "a": "Būtų uždarytas kalėjime visam gyvenimui.",
+      "b": "Būtų išvarytas iš savo miesto.",
+      "c": "Ant kaklo būtų užmauta girnapusė ir jis būtų įmestas jūron.",
+      "d": "Būtų atstumtas visų savo draugų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_002",
+    "question": "Kiek kartų per dieną reikia atleisti savo broliui, jei jis nusikalsta ir gailisi?",
+    "options": {
+      "a": "Vieną kartą.",
+      "b": "Tris kartus.",
+      "c": "Septynis kartus.",
+      "d": "Kol pats pavargsi atleisti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_003",
+    "question": "Ką reikia daryti, jei tavo brolis nusikalsta ir, jeigu jis gailisi?",
+    "options": {
+      "a": "Pasmerkti jį viešai.",
+      "b": "Atstumti jį ir daugiau su juo nebendrauti.",
+      "c": "Pabarti jį ir atleisti jam.",
+      "d": "Reikalauti, kad jis atsiprašytų visos bendruomenės."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_004",
+    "question": "Ko apaštalai prašė Jėzaus?",
+    "options": {
+      "a": "Išmokyti juos kalbėti naujomis kalbomis.",
+      "b": "Sustiprinti jų tikėjimą.",
+      "c": "Duoti jiems daugiau turto.",
+      "d": "Atkeršyti jų priešams."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_005",
+    "question": "Ką gali padaryti tikėjimas, dydžiu prilygstantis garstyčios grūdeliui?",
+    "options": {
+      "a": "Perkelti kalnus iš vienos vietos į kitą.",
+      "b": "Pagydyti visas ligas akimirksniu.",
+      "c": "Įsakyti šilkmedžiui išsirauti ir pasisodinti jūroje.",
+      "d": "Priversti žmones daryti, ką nori."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_006",
+    "question": "Kaip Jėzaus mokymu, atlikę visa, kas buvo pavesta, turėtų sakyti tarnai?",
+    "options": {
+      "a": "'Esame pavyzdingi tarnai. Puikiai atlikome savo darbą.'",
+      "b": "'Esame nenaudingi tarnai. Padarėme, ką turėjome padaryti.'",
+      "c": "'Esame verti atlygio už mūsų pastangas.'",
+      "d": "'Esame ištikimi Dievo tarnai, vykdantys jo valią.'"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_007",
+    "question": "Ką šeimininkas liepia daryti samdiniui, grįžusiam iš lauko, prieš jam pačiam pavalgant?",
+    "options": {
+      "a": "Tuojau sėstis prie stalo ir valgyti.",
+      "b": "Eiti pailsėti po sunkaus darbo.",
+      "c": "Prirenkti jam vakarienę, susijuosti ir patarnauti, kolei jis valgys ir gers.",
+      "d": "Eiti ir nuprausti savo kojas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_008",
+    "question": "Kiek raupsuotųjų vyrų pasitiko Jėzų įeinantį į kaimą?",
+    "options": {
+      "a": "Penkis.",
+      "b": "Dešimt.",
+      "c": "Dvylika.",
+      "d": "Septynis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_009",
+    "question": "Koks buvo vienas iš dešimties pasveikusiųjų, kuris sugrįžo padėkoti Jėzui?",
+    "options": {
+      "a": "Galilėjietis.",
+      "b": "Judėjas.",
+      "c": "Samarietis.",
+      "d": "Romėnas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_010",
+    "question": "Ką Jėzus pasakė raupsuotiesiems daryti, kad pasveiktų?",
+    "options": {
+      "a": "Nusiprausti Jordano upėje.",
+      "b": "Eiti ir pasirodyti kunigams.",
+      "c": "Meldėsi Dievui tris dienas.",
+      "d": "Paaukoti auką šventykloje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_011",
+    "question": "Kaip, pasak Jėzaus, ateina Dievo karalystė?",
+    "options": {
+      "a": "Su dideliais ženklais danguje ir žemėje.",
+      "b": "Pastebimai, kad visi galėtų ją pamatyti.",
+      "c": "Nepastebimai.",
+      "d": "Tik Jeruzalėje, šventykloje."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_012",
+    "question": "Kur, Jėzaus paaiškinimu fariziejams, jau yra Dievo karalystė?",
+    "options": {
+      "a": "Danguje, su angelais.",
+      "b": "Tarp jūsų.",
+      "c": "Ateityje, dar neatėjusi.",
+      "d": "Tik šventykloje Jeruzalėje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_17"
+  }
+]

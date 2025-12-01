@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_11_001",
+    "question": "Kas paprašė Jėzaus išmokyti melstis?",
+    "options": {
+      "a": "Vienas mokinys",
+      "b": "Viena moteris iš minios",
+      "c": "Fariziejus",
+      "d": "Įstatymo mokytojas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_002",
+    "question": "Koks yra pirmas prašymas maldoje, kurią Jėzus mokė?",
+    "options": {
+      "a": "Teesie šventas tavo vardas",
+      "b": "Teateinie tavo karalystė",
+      "c": "Duok mums kasdienės duonos",
+      "d": "Atleisk mums mūsų kaltes"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_003",
+    "question": "Kokia duona prašoma kasdien maldoje?",
+    "options": {
+      "a": "Kasdienės",
+      "b": "Šviežios",
+      "c": "Šventos",
+      "d": "Paprastos"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_004",
+    "question": "Kuriuo paros metu draugas nuėjo prašyti duonos palyginime?",
+    "options": {
+      "a": "Vidurnaktį",
+      "b": "Auštant",
+      "c": "Vakarėjant",
+      "d": "Ryte"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_005",
+    "question": "Dėl ko, pasak Jėzaus, draugas galiausiai duos duonos?",
+    "options": {
+      "a": "Dėl bičiulystės",
+      "b": "Dėl jo įkyrumo",
+      "c": "Dėl Dievo gerumo",
+      "d": "Dėl gailesčio"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_006",
+    "question": "Kokius tris veiksmus Jėzus skatina maldai?",
+    "options": {
+      "a": "Melskitės, giedokite, švęskite",
+      "b": "Prašykite, ieškokite, belskite",
+      "c": "Klausykite, tikėkite, laukite",
+      "d": "Greitinkite, aukokite, atgailaukite"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_007",
+    "question": "Ko tėvas neduos duonos prašančiam vaikui?",
+    "options": {
+      "a": "Akmenį",
+      "b": "Žuvį",
+      "c": "Kiaušinį",
+      "d": "Vaisius"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_008",
+    "question": "Ką Dangaus Tėvas duoda tiems, kurie jo prašo?",
+    "options": {
+      "a": "Gerų daiktų",
+      "b": "Dieviškos išminties",
+      "c": "Šventąją Dvasią",
+      "d": "Ilgą gyvenimą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_009",
+    "question": "Kokią galią, pasak kai kurių žmonių, Jėzus naudojo demonams varyti?",
+    "options": {
+      "a": "Dievo piršto galią",
+      "b": "Belzebulo galią",
+      "c": "Jonos ženklą",
+      "d": "Saliamono išmintį"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_010",
+    "question": "Kas, pasak Jėzaus, nutiks kiekvienai suskilusiai karalystei?",
+    "options": {
+      "a": "Sustiprės",
+      "b": "Bus sunaikinta",
+      "c": "Išsiplės",
+      "d": "Pakeis valdytoją"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_011",
+    "question": "Kuo, pasak Jėzaus, jis išveja demonus kaip Dievo karalystės ženklą?",
+    "options": {
+      "a": "Angelų pagalba",
+      "b": "Galinga malda",
+      "c": "Dievo pirštu",
+      "d": "Žodžio galia"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_012",
+    "question": "Kiek kitų dvasių sugrįžtanti netyroji dvasia pasiima su savimi?",
+    "options": {
+      "a": "Tris",
+      "b": "Penkias",
+      "c": "Septynias",
+      "d": "Dešimt"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_013",
+    "question": "Kas, pasak Jėzaus, yra „dar labiau palaiminti“?",
+    "options": {
+      "a": "Tie, kurie jį nešiojo ir žindė",
+      "b": "Tie, kurie klausosi Dievo žodžio ir jo laikosi",
+      "c": "Tie, kurie meldžiasi kasdien",
+      "d": "Tie, kurie stato paminklus pranašams"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_014",
+    "question": "Koks ženklas bus duotas šiai piktai kartai?",
+    "options": {
+      "a": "Pranašo Elijo ženklas",
+      "b": "Jonos ženklas",
+      "c": "Ženklas iš dangaus",
+      "d": "Saliamono ženklas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_015",
+    "question": "Kas vadinama „Kūno žiburiu“?",
+    "options": {
+      "a": "Širdis",
+      "b": "Akis",
+      "c": "Protas",
+      "d": "Dvasia"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_016",
+    "question": "Dėl ko fariziejus nusistebėjo, kai Jėzus atėjo pietų?",
+    "options": {
+      "a": "Kad jis nekalbėjo prieš valgį",
+      "b": "Kad jis nenusimazgojo rankų prieš valgį",
+      "c": "Kad jis atsisakė sėstis už stalo",
+      "d": "Kad jis neatliko maldos"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_017",
+    "question": "Ko, pasak Jėzaus, fariziejai nepaisė, duodami dešimtinę iš žolelių?",
+    "options": {
+      "a": "Apmokėti mokesčius",
+      "b": "Teisingumo ir Dievo meilės",
+      "c": "Pagalbos vargšams",
+      "d": "Šventyklos aukų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_018",
+    "question": "Kuo Jėzus apkaltino Įstatymo mokytojus, kad jie pasisavino ir kliudė kitiems naudotis?",
+    "options": {
+      "a": "Dievo įsakymus",
+      "b": "Pranašų knygas",
+      "c": "Pažinimo raktą",
+      "d": "Tikėjimo kelią"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_11"
+  }
+]

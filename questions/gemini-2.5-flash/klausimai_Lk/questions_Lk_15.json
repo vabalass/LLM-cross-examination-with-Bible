@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Lk_15_001",
+    "question": "Kas rinkdavosi pas Jėzų jo pasiklausyti pagal teksto pradžią?",
+    "options": {
+      "a": "Tik fariziejai ir Rašto aiškintojai",
+      "b": "Muitininkai ir nusidėjėliai",
+      "c": "Jėzaus mokiniai",
+      "d": "Tik teisieji, kuriems nereikia atsiversti"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_002",
+    "question": "Kokia buvo fariziejų ir Rašto aiškintojų reakcija į tai, kad Jėzus priima nusidėjėlius ir su jais valgo?",
+    "options": {
+      "a": "Jie džiaugėsi kartu su Jėzumi",
+      "b": "Jie kvietė Jėzų į savo namus",
+      "c": "Jie murmėdavo",
+      "d": "Jie stebėjosi jo išmintimi"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_003",
+    "question": "Kiek avių turėjo piemuo paklydusios avelės palyginime, prieš nuklystant vienai?",
+    "options": {
+      "a": "Dešimt",
+      "b": "Šimtas",
+      "c": "Devyniasdešimt devynios",
+      "d": "Tūkstantis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_004",
+    "question": "Ką padarė piemuo, radęs pražuvusią avį?",
+    "options": {
+      "a": "Paliko ją dykumoje ir grįžo",
+      "b": "Su džiaugsmu užsidėjo ją ant pečių",
+      "c": "Subarė ją už nuklydimą",
+      "d": "Paskelbė apie tai visam kaimui"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_005",
+    "question": "Kiek drachmų turėjo moteris pamestos drachmos palyginime?",
+    "options": {
+      "a": "Vieną",
+      "b": "Dešimt",
+      "c": "Šimtą",
+      "d": "Dvi"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_006",
+    "question": "Ką pametęs turtą dirbo jaunesnysis sūnus?",
+    "options": {
+      "a": "Prekiavo turguje",
+      "b": "Statė namus",
+      "c": "Ganė kiaules",
+      "d": "Dirbo žemę savo laukuose"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_007",
+    "question": "Kuo geidė prikimšti pilvą jaunesnysis sūnus, ganydamas kiaules?",
+    "options": {
+      "a": "Tėvo namų duona",
+      "b": "Ankščių jovalu, kurį ėdė kiaulės",
+      "c": "Geriausio veršio mėsa",
+      "d": "Šalies gyventojų vaišėmis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_008",
+    "question": "Kaip tėvas pasitiko grįžtantį jaunesnįjį sūnų?",
+    "options": {
+      "a": "Iš tolo pažino jį, susigraudino, pribėgo, puolė ant kaklo ir pabučiavo",
+      "b": "Pirmiausia subarė jį už palaidą gyvenimą",
+      "c": "Pasiuntė tarnus jo parsivesti",
+      "d": "Liepė jam eiti į namus ir laukti jo"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_009",
+    "question": "Ką tėvas įsakė atnešti savo grįžusiam sūnui, IŠSKYRUS vieną daiktą?",
+    "options": {
+      "a": "Geriausią drabužį",
+      "b": "Žiedą",
+      "c": "Naująjį arklį",
+      "d": "Nupenėtą veršį"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_010",
+    "question": "Kodėl vyresnysis sūnus supyko ir nenorėjo eiti namo?",
+    "options": {
+      "a": "Nes tėvas jam nedavė paveldėjimo dalies",
+      "b": "Nes tėvas niekada neleido jam linksmintis su draugais",
+      "c": "Nes tėvas niekada jam nedavė ožiuko, o sugrįžusiam broliui papjovė nupenėtą veršį",
+      "d": "Nes jis nemėgo muzikos ir šokių"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_15"
+  }
+]

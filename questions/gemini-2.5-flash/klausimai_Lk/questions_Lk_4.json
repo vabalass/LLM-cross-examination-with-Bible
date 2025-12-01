@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Lk_4_001",
+    "question": "Kiek dienų Jėzus praleido dykumoje, būdamas gundomas velnio?",
+    "options": {
+      "a": "Septynias dienas",
+      "b": "Trisdešimt dienų",
+      "c": "Keturiasdešimt dienų",
+      "d": "Penkiasdešimt dienų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_002",
+    "question": "Kokia buvo pirmoji velnio pagunda Jėzui dykumoje?",
+    "options": {
+      "a": "Pavirsti akmenį duona",
+      "b": "Šokti nuo šventyklos šelmens",
+      "c": "Pagarbinti velnią už pasaulio karalystes",
+      "d": "Atsisakyti Dievo sūnaus titulo"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_003",
+    "question": "Kokiais žodžiais Jėzus atsakė į pirmąją pagundą?",
+    "options": {
+      "a": "Aš esu kelias, tiesa ir gyvenimas",
+      "b": "Parašyta: Žmogus gyvas ne viena duona!",
+      "c": "Atsitrauk nuo manęs, Šėtone!",
+      "d": "Nebijok, tikėk!"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_004",
+    "question": "Ką velnias pasiūlė Jėzui mainais už pagarbą jam?",
+    "options": {
+      "a": "Ilgą gyvenimą",
+      "b": "Visas pasaulio karalystes ir jų valdžią",
+      "c": "Begalinę išmintį",
+      "d": "Angelų apsaugą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_005",
+    "question": "Kokiais žodžiais Jėzus atsakė į velnio pasiūlymą garbinti jį?",
+    "options": {
+      "a": "Tik Dievas yra mano Tėvas",
+      "b": "Parašyta: Negundyk Viešpaties, savo Dievo!",
+      "c": "Parašyta: Viešpatį, savo Dievą, tegarbink ir jam vienam tetarnauk!",
+      "d": "Aš atėjau tarnauti, ne kad man tarnautų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_006",
+    "question": "Kur velnias nusivedė Jėzų trečiajai pagundai?",
+    "options": {
+      "a": "Į aukštą kalną",
+      "b": "Į dykumos oazę",
+      "c": "Į Jeruzalę, ant šventyklos šelmens",
+      "d": "Į Kafarnaumą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_007",
+    "question": "Kokiais žodžiais Jėzus atmetė trečiąją velnio pagundą?",
+    "options": {
+      "a": "Parašyta: Negundyk Viešpaties, savo Dievo!",
+      "b": "Mylėk savo artimą kaip save patį",
+      "c": "Dievas mane saugo",
+      "d": "Tėvo valia tebūna"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_008",
+    "question": "Kokia knyga buvo paduota Jėzui skaityti Nazareto sinagogoje?",
+    "options": {
+      "a": "Mozės Įstatymo knyga",
+      "b": "Pranašo Izaijo knyga",
+      "c": "Psalmių knyga",
+      "d": "Pranašo Jeremijo knyga"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_009",
+    "question": "Ką Jėzus perskaitė iš pranašo Izaijo knygos, kalbėdamas apie savo misiją?",
+    "options": {
+      "a": "Kad jis atėjo sunaikinti nuodėmę",
+      "b": "Kad jis pateptas nešti gerąją naujieną vargdieniams",
+      "c": "Kad jis atėjo įkurti naują karalystę",
+      "d": "Kad jis bus kankinamas ir mirs"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_010",
+    "question": "Ką Jėzus pasakė po to, kai baigė skaityti iš Izaijo knygos Nazareto sinagogoje?",
+    "options": {
+      "a": "Aš esu pasaulio šviesa",
+      "b": "Sekite manimi",
+      "c": "Šiandien išsipildė ką tik jūsų girdėti Rašto žodžiai",
+      "d": "Atėjo Dievo karalystė"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_011",
+    "question": "Kaip Nazareto gyventojai reagavo į Jėzaus žodžius po to, kai jis paminėjo Elijo ir Eliziejaus pavyzdžius?",
+    "options": {
+      "a": "Jie jį priėmė su džiaugsmu",
+      "b": "Jie stebėjosi jo išmintimi",
+      "c": "Jie užsirūstino ir norėjo jį nustumti nuo kalno",
+      "d": "Jie jam dėkojo už mokymą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_012",
+    "question": "Ką netyrasis demonas sušuko Jėzui Kafarnaumo sinagogoje?",
+    "options": {
+      "a": "Išeik iš mūsų miesto!",
+      "b": "Mes tavęs nepažįstame!",
+      "c": "Aš žinau, kas tu esi: Dievo šventasis!",
+      "d": "Argi tu ne Juozapo sūnus?"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_013",
+    "question": "Ką Jėzus padarė Simono namuose po apsilankymo Kafarnaumo sinagogoje?",
+    "options": {
+      "a": "Valgė vakarienę su mokiniais",
+      "b": "Gydė Simono uošvę nuo karštinės",
+      "c": "Kalbėjo apie Dievo karalystę",
+      "d": "Meldėsi už miesto žmones"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_014",
+    "question": "Koks buvo Jėzaus paaiškinimas, kodėl jis negalėjo pasilikti su miniomis Kafarnaume?",
+    "options": {
+      "a": "Jis turėjo eiti melstis vienumoje",
+      "b": "Jis turėjo skelbti gerąją naujieną apie Dievo karalystę ir kitiems miestams",
+      "c": "Jam reikėjo susitikti su savo mokiniais",
+      "d": "Jis buvo pavargęs ir jam reikėjo pailsėti"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_4"
+  }
+]

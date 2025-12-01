@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Lk_5_001",
+    "question": "Kur Jėzus stovėjo, kai minios veržėsi prie jo klausytis Dievo žodžio?",
+    "options": {
+      "a": "Genezareto ežero kranto",
+      "b": "Alyvų kalno papėdėje",
+      "c": "Nazareto sinagogoje",
+      "d": "Jėzaus namuose Kafarnaume"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_002",
+    "question": "Kiek valčių pamatė Jėzus sustojusių prie ežero kranto?",
+    "options": {
+      "a": "Vieną",
+      "b": "Dvi",
+      "c": "Tris",
+      "d": "Keturias"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_003",
+    "question": "Kieno valtyje Jėzus atsisėdęs mokė minias?",
+    "options": {
+      "a": "Jokūbo",
+      "b": "Jono",
+      "c": "Simono",
+      "d": "Andriejaus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_004",
+    "question": "Ką Simonas ir jo bendrai darė visą naktį prieš Jėzaus nurodymą išmesti tinklus?",
+    "options": {
+      "a": "Ilsėjosi krante",
+      "b": "Taisė sugedusius tinklus",
+      "c": "Vargę nieko nesugavo",
+      "d": "Gaudo žuvis, bet mažai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_005",
+    "question": "Kas nutiko tinklams, kai jie užgriebė didelę daugybę žuvų?",
+    "options": {
+      "a": "Tinklai suplyšo į gabalus",
+      "b": "Tinklai pradėjo trūkinėti",
+      "c": "Tinklai atlaikė be jokių problemų",
+      "d": "Žuvys išplaukė iš tinklų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_006",
+    "question": "Kaip Simonas Petras reagavo, matydamas didelį žuvų laimikį?",
+    "options": {
+      "a": "Šaukė iš džiaugsmo ir stebėjosi",
+      "b": "Puolė Jėzui į kojas, sakydamas, kad yra nusidėjėlis",
+      "c": "Pradėjo skaičiuoti pagautas žuvis",
+      "d": "Paprašė Jėzaus dar kartą išmesti tinklus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_007",
+    "question": "Ką Jėzus pasakė Simonui, kai šis išsigando dėl žuvų laimikio?",
+    "options": {
+      "a": "„Nebijok! Nuo šiol jau žmones žvejosi“",
+      "b": "„Nebijok! Visada būsiu su tavimi“",
+      "c": "„Nebijok! Tu tapsi didis žvejys“",
+      "d": "„Nebijok! Dievo galia yra didelė“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_008",
+    "question": "Ką raupsuotasis pasakė Jėzui, maldydamas pagijimo?",
+    "options": {
+      "a": "„Viešpatie, tu privalai mane pagydyti!“",
+      "b": "„Viešpatie, jei tik panorėsi, gali padaryti mane švarų!“",
+      "c": "„Viešpatie, parodyk savo galią!“",
+      "d": "„Viešpatie, gailėkis manęs!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_009",
+    "question": "Ką Jėzus liepė raupsuotajam po jo pagydymo?",
+    "options": {
+      "a": "Skubiai grįžti namo ir džiaugtis",
+      "b": "Nieko nepasakoti, tik nueiti pasirodyti kunigui ir atiduoti auką",
+      "c": "Papasakoti visiems apie stebuklą",
+      "d": "Pradėti sekti Jėzų ir tapti mokiniu"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_010",
+    "question": "Ką Jėzus darydavo traukdamasis į nuošalesnes vietas?",
+    "options": {
+      "a": "Medituodavo",
+      "b": "Mokė tikinčiuosius",
+      "c": "Melsdavosi",
+      "d": "Gydė ligonius"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_011",
+    "question": "Kaip paralyžiuotas žmogus buvo įneštas pas Jėzų, kai negalėjo pro minią?",
+    "options": {
+      "a": "Pro šonines duris, kurios buvo atidarytos",
+      "b": "Žmonės išsiskyrė ir praleido nešėjus",
+      "c": "Per stogą, nuleidžiant jį su neštuvais",
+      "d": "Palaukė, kol minia išsiskirstys"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_012",
+    "question": "Koks buvo muitininko, kurį Jėzus pašaukė, vardas?",
+    "options": {
+      "a": "Simonas",
+      "b": "Jokūbas",
+      "c": "Levis",
+      "d": "Petras"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_013",
+    "question": "Ką Jėzus atsakė fariziejams, kurie priekaištavo jo mokiniams dėl valgymo su muitininkais ir nusidėjėliais?",
+    "options": {
+      "a": "„Mes valgom ir geriam, nes esame laisvi“",
+      "b": "„Jie yra mano mokiniai, todėl gali daryti, ką nori“",
+      "c": "„Ne sveikiesiems reikia gydytojo, bet ligoniams. Aš atėjau šaukti į atgailą ne teisiųjų, o nusidėjėlių“",
+      "d": "„Mums reikia stiprybės, kad galėtume tarnauti Dievui“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_5"
+  }
+]

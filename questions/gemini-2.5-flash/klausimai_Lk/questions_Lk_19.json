@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Lk_19_001",
+    "question": "Kodėl Zachiejus iš pradžių negalėjo pamatyti Jėzaus?",
+    "options": {
+      "a": "Jis buvo ligotas ir negalėjo išeiti iš namų.",
+      "b": "Jėzus dar nebuvo atvykęs į Jerichą.",
+      "c": "Jis buvo per žemo ūgio ir minia trukdė.",
+      "d": "Jėzus nenorėjo su juo susitikti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_002",
+    "question": "Ką Zachiejus padarė, kad galėtų pamatyti Jėzų?",
+    "options": {
+      "a": "Atsistojo ant suoliuko.",
+      "b": "Paprašė Jėzaus sustoti.",
+      "c": "Įlipo į šilkmedį.",
+      "d": "Nusiuntė tarną pakviesti Jėzų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_003",
+    "question": "Ką Jėzus pasakė Zachiejui, kai pamatė jį medyje?",
+    "options": {
+      "a": "„Greit lipk žemyn, aš noriu su tavimi pasikalbėti“.",
+      "b": "„Zachiejau, greit lipk žemyn! Man reikia šiandien apsilankyti tavo namuose“.",
+      "c": "„Kodėl tu čia sėdi?“",
+      "d": "„Eik namo, aš tuoj ateisiu“."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_004",
+    "question": "Kokia buvo žmonių reakcija, kai Jėzus nuėjo į Zachiejaus namus?",
+    "options": {
+      "a": "Jie džiaugėsi kartu su Zachiejumi.",
+      "b": "Jie nustebo ir tylėjo.",
+      "c": "Jie murmėjo, sakydami, kad Jėzus nuėjo į svečius pas nusidėjėlį.",
+      "d": "Jie reikalavo, kad Zachiejus atlygintų skriaudas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_005",
+    "question": "Kiek savo turto Zachiejus pažadėjo atiduoti vargšams?",
+    "options": {
+      "a": "Dešimtadalį.",
+      "b": "Pusę.",
+      "c": "Visą.",
+      "d": "Trečdalį."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_006",
+    "question": "Jei Zachiejus ką nors nuskriaudė, kiek jis pažadėjo grąžinti?",
+    "options": {
+      "a": "Tiek pat.",
+      "b": "Dviejų.",
+      "c": "Keturgubai.",
+      "d": "Tris kartus."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_007",
+    "question": "Kam, pasak Jėzaus, buvo atėjęs Žmogaus Sūnus?",
+    "options": {
+      "a": "Apriboti turtuolių turtus.",
+      "b": "Teisti nusidėjėlius.",
+      "c": "Ieškoti ir gelbėti, kas buvo pražuvę.",
+      "d": "Įkurti naują karalystę."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_008",
+    "question": "Kokia buvo pagrindinė priežastis, kodėl Jėzus pasakojo Minų palyginimą?",
+    "options": {
+      "a": "Norėjo pabrėžti pinigų vertę.",
+      "b": "Žmonės manė, jog netrukus turinti apsireikšti Dievo karalystė.",
+      "c": "Norėjo pamokyti apie investicijas.",
+      "d": "Parodyti, kaip sunku uždirbti pinigus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_009",
+    "question": "Kiek minų didžiūnas padalijo dešimčiai tarnų išvykdamas?",
+    "options": {
+      "a": "Vieną miną kiekvienam.",
+      "b": "Dešimt minų kiekvienam.",
+      "c": "Dešimt minų iš viso.",
+      "d": "Šimtą minų iš viso."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_010",
+    "question": "Ką antrasis tarnas pelnė iš jam duotos minos?",
+    "options": {
+      "a": "Dešimt minų.",
+      "b": "Penkias minas.",
+      "c": "Aštuonias minas.",
+      "d": "Nulį minų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_011",
+    "question": "Ką trečiasis tarnas padarė su savo mina?",
+    "options": {
+      "a": "Investavo į žemę.",
+      "b": "Atidavė vargšams.",
+      "c": "Laikė ją suvyniotą į skepetą.",
+      "d": "Prarado ją."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_012",
+    "question": "Koks likimas ištiko miną, kurią trečiasis tarnas paslėpė?",
+    "options": {
+      "a": "Ji buvo grąžinta jam.",
+      "b": "Ji buvo atiduota tam, kuris turėjo dešimt minų.",
+      "c": "Ji buvo padalinta vargšams.",
+      "d": "Ji buvo panaudota didžiūno asmeninėms reikmėms."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_013",
+    "question": "Kokį gyvūną Jėzus liepė mokiniams parvesti į Jeruzalę?",
+    "options": {
+      "a": "Kumelį.",
+      "b": "Avinėlį.",
+      "c": "Asilaitį.",
+      "d": "Jautį."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_014",
+    "question": "Kaip mokiniai paaiškino asilaičio savininkams, kodėl jie jį atriša?",
+    "options": {
+      "a": "„Mums jo reikia kelionei“.",
+      "b": "„Viešpats juo nori pajoti“.",
+      "c": "„Jo reikia Viešpačiui“.",
+      "d": "„Mes jį nupirkome“."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_015",
+    "question": "Ką Jėzus padarė pamatęs Jeruzalę?",
+    "options": {
+      "a": "Iškart nuėjo į šventyklą.",
+      "b": "Džiaugsmingai šlovino Dievą.",
+      "c": "Verkė dėl jos.",
+      "d": "Pamokslavo miniai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_016",
+    "question": "Ką Jėzus padarė įžengęs į šventyklą?",
+    "options": {
+      "a": "Meldėsi.",
+      "b": "Pradėjo varyti laukan prekiautojus.",
+      "c": "Mokė minią.",
+      "d": "Kalbėjo su aukštaisiais kunigais."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_19"
+  }
+]

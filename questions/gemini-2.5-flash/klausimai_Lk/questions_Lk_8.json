@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_8_001",
+    "question": "Kas, be Dvylikos apaštalų, keliavo su Jėzumi ir jį šelpė?",
+    "options": {
+      "a": "Tik Joana ir Zuzana",
+      "b": "Tik Marija Magdalietė",
+      "c": "Kitos moterys, išgydytos nuo piktųjų dvasių bei ligų",
+      "d": "Didelė minia vyrų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_002",
+    "question": "Kiek demonų buvo išėję iš Marijos, vadinamos Magdaliete?",
+    "options": {
+      "a": "Penki",
+      "b": "Šeši",
+      "c": "Septyni",
+      "d": "Aštuoni"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_003",
+    "question": "Kas atsitiko sėjėjui sėjant grūdus, kurie nukrito ant uolų?",
+    "options": {
+      "a": "Buvo sumindžioti",
+      "b": "Jų daigai sudžiūvo, nes trūko drėgmės",
+      "c": "Dangaus sparnuočiai juos sulesė",
+      "d": "Kartu išaugę erškėčiai juos nusmelkė"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_004",
+    "question": "Kokį derlių davė grūdai, nukritę į gerą žemę?",
+    "options": {
+      "a": "Trisdešimteriopą",
+      "b": "Šešiasdešimteriopą",
+      "c": "Šimteriopą",
+      "d": "Dvigubą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_005",
+    "question": "Kodėl Jėzus skelbė Dievo karalystės paslaptis kitiems palyginimais?",
+    "options": {
+      "a": "Kad jie lengviau suprastų",
+      "b": "Kad regėdami nematytų ir girdėdami nesuprastų",
+      "c": "Kad labiau tikėtų",
+      "d": "Kad galėtų patys iššifruoti prasmę"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_006",
+    "question": "Ką reiškia sėkla Sėjėjo palyginime?",
+    "options": {
+      "a": "Žmogaus širdį",
+      "b": "Dievo žodį",
+      "c": "Tikėjimą",
+      "d": "Derlių"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_007",
+    "question": "Kas nusmelkia tuos, kurie išgirdo žodį, bet krito tarp erškėčių?",
+    "options": {
+      "a": "Velnias",
+      "b": "Gundymai",
+      "c": "Rūpesčiai, turtai ir gyvenimo malonumai",
+      "d": "Netikėjimas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_008",
+    "question": "Koks yra žiburio paskirtis, pagal Jėzų?",
+    "options": {
+      "a": "Slėpti jį po indu",
+      "b": "Slėpti jį po lova",
+      "c": "Statyti į žibintuvą, kad ateinantys matytų šviesą",
+      "d": "Laikyti jį tik sau"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_009",
+    "question": "Ką Jėzus pavadino savo motina ir broliais?",
+    "options": {
+      "a": "Tuos, kurie stovėjo lauke ir norėjo su juo pasimatyti",
+      "b": "Tuos, kurie klausosi Dievo žodžio ir jį vykdo",
+      "c": "Savo apaštalus",
+      "d": "Kaimynus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_010",
+    "question": "Kas nutiko, kai ežere pakilo vėtra Jėzaus ir mokinių valtyje?",
+    "options": {
+      "a": "Jėzus sudraudė vėtrą ir bangas, ir stojo tyla",
+      "b": "Jėzus liepė mokiniams melstis",
+      "c": "Mokiniai patys nuramino audrą",
+      "d": "Valtis apvirto"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_011",
+    "question": "Ko Jėzus paklausė mokinių, nuraminęs audrą?",
+    "options": {
+      "a": "Kurgi jūsų drąsa?",
+      "b": "Kurgi jūsų meilė?",
+      "c": "Kurgi jūsų tikėjimas?!",
+      "d": "Kurgi jūsų išmintis?"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_012",
+    "question": "Kur laikėsi demonų apsėstas vyras geraziečių krašte?",
+    "options": {
+      "a": "Mieste",
+      "b": "Namie",
+      "c": "Kapinėse",
+      "d": "Dykumoje"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_013",
+    "question": "Kuo save pavadino demonų apsėstasis, paklaustas Jėzaus?",
+    "options": {
+      "a": "Belzebubu",
+      "b": "Satanu",
+      "c": "Legionu",
+      "d": "Apolionu"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_014",
+    "question": "Kur Jėzus leido demonams išeiti iš apsėstojo žmogaus?",
+    "options": {
+      "a": "Į gelmę",
+      "b": "Į kitą žmogų",
+      "c": "Į didelę kaimenę kiaulių",
+      "d": "Į mišką"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_015",
+    "question": "Ką Jėzus paliepė pagydytam demonų apsėstajam vyrui?",
+    "options": {
+      "a": "Grįžti namo ir papasakoti, kokių didžių dalykų jam padarė Dievas",
+      "b": "Prisijungti prie jo mokinių",
+      "c": "Nieko niekam nesakyti",
+      "d": "Pasislėpti nuo žmonių"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_016",
+    "question": "Kiek metų sirgo moteris kraujoplūdžiu, kurią Jėzus pagydė?",
+    "options": {
+      "a": "Penkis metus",
+      "b": "Dešimt metų",
+      "c": "Dvylika metų",
+      "d": "Penkiolika metų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_017",
+    "question": "Kaip moteris, sirgusi kraujoplūdžiu, buvo pagydyta?",
+    "options": {
+      "a": "Jėzus ją palietė",
+      "b": "Ji prisilietė prie Jėzaus drabužio apvado",
+      "c": "Jėzus pasakė jai žodį",
+      "d": "Petras už ją meldėsi"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_018",
+    "question": "Koks buvo sinagogos vyresniojo, kurio dukrelė sirgo, vardas?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Jokūbas",
+      "d": "Jajiras"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_8"
+  }
+]

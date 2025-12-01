@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Lk_2_001",
+    "question": "Kas įsakė surašyti visus valstybės gyventojus?",
+    "options": {
+      "a": "Ciesorius Augustas",
+      "b": "Kvirinas",
+      "c": "Juozapas",
+      "d": "Dovydas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_002",
+    "question": "Į kokį miestą Juozapas ir Marija keliavo užsirašyti?",
+    "options": {
+      "a": "Nazaretą",
+      "b": "Jeruzalę",
+      "c": "Betliejų",
+      "d": "Galilėją"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_003",
+    "question": "Kodėl Juozapas keliavo į Betliejų?",
+    "options": {
+      "a": "Nes ten gyveno jo giminės.",
+      "b": "Nes tai buvo Dovydo miestas ir jis buvo kilęs iš Dovydo namų ir giminės.",
+      "c": "Nes ten buvo didžiausia užeiga.",
+      "d": "Nes ten valdė Kvirinas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_004",
+    "question": "Kur buvo paguldytas kūdikis Jėzus po gimimo?",
+    "options": {
+      "a": "Lopšyje",
+      "b": "Ant rankų",
+      "c": "Ėdžiose",
+      "d": "Ant žemės"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_005",
+    "question": "Kokia buvo pagrindinė priežastis, kodėl Jėzus buvo paguldytas ėdžiose?",
+    "options": {
+      "a": "Nes tai buvo pranašystė.",
+      "b": "Nes jie norėjo parodyti kuklumą.",
+      "c": "Nes jiems nebuvo vietos užeigoje.",
+      "d": "Nes piemenys atnešė jam šieno."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_006",
+    "question": "Ką angelas paskelbė piemenims laukuose?",
+    "options": {
+      "a": "Kad bus didelis karas.",
+      "b": "Kad jiems gimė Išganytojas Dovydo mieste.",
+      "c": "Kad jiems reikia vykti į Jeruzalę.",
+      "d": "Kad jiems reikia aukoti Viešpačiui."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_007",
+    "question": "Koks ženklas buvo duotas piemenims atpažinti ką tik gimusį Išganytoją?",
+    "options": {
+      "a": "Ras kūdikį, miegantį prabangioje lovoje.",
+      "b": "Ras kūdikį, suvystytą vystyklais ir paguldytą ėdžiose.",
+      "c": "Ras kūdikį, lydimą daug žmonių.",
+      "d": "Ras kūdikį, apšviestą dangiška šviesa."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_008",
+    "question": "Ką giedojo gausi dangaus kareivija, pasirodžiusi prie angelo?",
+    "options": {
+      "a": "„Šlovė karaliui Dovydo mieste!“",
+      "b": "„Ramybė Izraeliui ir jo žmonėms!“",
+      "c": "„Garbė Dievui aukštybėse, o žemėje ramybė jo mylimiems žmonėms!“",
+      "d": "„Dievas galingas, tebus garbė jam!“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_009",
+    "question": "Ką Marija darė su visais įvykiais, susijusiais su Jėzaus gimimu?",
+    "options": {
+      "a": "Apsakė visiems, ką girdėjo.",
+      "b": "Užrašė į knygą.",
+      "c": "Dėmėjosi visus šiuos dalykus ir svarstė juos savo širdyje.",
+      "d": "Slėpė juos nuo Juozapo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_010",
+    "question": "Kada berniukui buvo duotas Jėzaus vardas?",
+    "options": {
+      "a": "Iškart po gimimo.",
+      "b": "Praslinkus aštuonioms dienoms, kai reikėjo apipjaustyti.",
+      "c": "Kai angelas jį nurodė.",
+      "d": "Kai jam sukako dvylika metų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_011",
+    "question": "Kur tėvai nunešė kūdikį Jėzų paaukoti Viešpačiui po apsivalymo dienų?",
+    "options": {
+      "a": "Į Nazaretą",
+      "b": "Į Betliejų",
+      "c": "Į Jeruzalę",
+      "d": "Į Galilėją"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_012",
+    "question": "Kokia auka, pasak Mozės Įstatymo, buvo atnašaujama už pirmagimį berniuką?",
+    "options": {
+      "a": "Avinėlis",
+      "b": "Porą purplelių arba du balandžiukus",
+      "c": "Jautis",
+      "d": "Alyvuogių aliejus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_013",
+    "question": "Kokia pranašystė buvo duota Simeonui?",
+    "options": {
+      "a": "Kad jis matys karalių.",
+      "b": "Kad jis nemirsiąs, kol pamatysiąs Viešpaties Mesiją.",
+      "c": "Kad jis gyvens labai ilgai.",
+      "d": "Kad jis taps didžiu pranašu."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_014",
+    "question": "Ką Simeonas giedojo paėmęs Jėzų į rankas?",
+    "options": {
+      "a": "Kad dabar jis gali ramiai iškeliauti, nes jo akys išvydo išgelbėjimą.",
+      "b": "Kad Jėzus bus Izraelio karalius.",
+      "c": "Kad Jėzus atneš ramybę visai žemei.",
+      "d": "Kad Jėzus yra Dievo Sūnus."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_015",
+    "question": "Ką pranašė Ona veikė šventykloje?",
+    "options": {
+      "a": "Moko vaikus.",
+      "b": "Tarnaudavo Dievui per dienas ir naktis pasninkais bei maldomis.",
+      "c": "Prižiūrėjo šventyklos švarą.",
+      "d": "Bendravo su piligrimais."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_016",
+    "question": "Kiek metų buvo Jėzui, kai jis pasiliko Jeruzalėje po Velykų šventės?",
+    "options": {
+      "a": "Septynias",
+      "b": "Dešimt",
+      "c": "Dvylika",
+      "d": "Penkiolika"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_017",
+    "question": "Kur tėvai rado Jėzų po trijų dienų, kai jis dingo Jeruzalėje?",
+    "options": {
+      "a": "Miesto turguje.",
+      "b": "Šventykloje, sėdintį tarp mokytojų.",
+      "c": "Pas gimines.",
+      "d": "Nakvynės namuose."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_2"
+  }
+]

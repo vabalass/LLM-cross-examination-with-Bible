@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Lk_10_001",
+    "question": "Kiek mokinių Viešpats paskyrė ir išsiuntė po du?",
+    "options": {
+      "a": "Dvylika",
+      "b": "Septyniasdešimt du",
+      "c": "Trisdešimt keturis",
+      "d": "Šimtą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_002",
+    "question": "Kaip Jėzus palygino savo mokinius, siunčiamus į kelionę?",
+    "options": {
+      "a": "Lyg erelius, skrendančius virš slėnių.",
+      "b": "Lyg liūtus tarp avinėlių.",
+      "c": "Lyg avinėlius tarp vilkų.",
+      "d": "Lyg karius, einančius į mūšį."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_003",
+    "question": "Kurio daikto mokiniams nebuvo leista neštis kelionėje?",
+    "options": {
+      "a": "Lazdos",
+      "b": "Vyno",
+      "c": "Autuvo (sandalų)",
+      "d": "Maisto"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_004",
+    "question": "Kokia žinia turėjo būti skelbiama miestuose, kurie priėmė mokinius?",
+    "options": {
+      "a": "Dievo karalystė jau toli!",
+      "b": "Jums čia pat Dievo karalystė!",
+      "c": "Pranašų karalystė artėja!",
+      "d": "Pasaulio pabaiga jau čia!"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_005",
+    "question": "Kuriuos miestus Jėzus pasmerkė dėl jų atsisakymo atgailauti, nepaisant ten padarytų stebuklų?",
+    "options": {
+      "a": "Nazaretą ir Kafarnaumą",
+      "b": "Jeruzalę ir Jerichą",
+      "c": "Choraziną, Betsaidą ir Kafarnaumą",
+      "d": "Tyrą ir Sidoną"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_006",
+    "question": "Ką Jėzus pasakė apie tuos, kurie klauso jo mokinių?",
+    "options": {
+      "a": "Jie klauso pranašų.",
+      "b": "Jie klauso Dievo.",
+      "c": "Jie klauso jo paties.",
+      "d": "Jie klauso angelo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_007",
+    "question": "Kuo džiaugsmingai dalinosi septyniasdešimt du mokiniai, sugrįžę iš pasiuntinybės?",
+    "options": {
+      "a": "Kad jiems pavyko surinkti daug pinigų.",
+      "b": "Kad pagydė daug ligonių.",
+      "c": "Kad jiems paklūsta net demonai.",
+      "d": "Kad rado daug ramybės sūnų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_008",
+    "question": "Dėl ko, pasak Jėzaus, mokiniai turėtų džiaugtis labiausiai?",
+    "options": {
+      "a": "Dėl to, kad jiems pavaldžios dvasios.",
+      "b": "Dėl to, kad jų vardai įrašyti danguje.",
+      "c": "Dėl to, kad įgijo galią mindžioti gyvates ir skorpionus.",
+      "d": "Dėl to, kad matė šėtoną krintantį iš dangaus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_009",
+    "question": "Kam, pasak Jėzaus, Tėvas apreiškė tiesą, paslėpęs ją nuo išmintingųjų ir gudriųjų?",
+    "options": {
+      "a": "Karaliams ir pranašams.",
+      "b": "Mokytojams ir levitams.",
+      "c": "Mažutėliams.",
+      "d": "Samariečiams."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_010",
+    "question": "Kokį klausimą Įstatymo mokytojas uždavė Jėzui, norėdamas jį išmėginti?",
+    "options": {
+      "a": "Ar dera mokėti mokesčius?",
+      "b": "Ką turiu daryti, kad laimėčiau amžinąjį gyvenimą?",
+      "c": "Kas yra Dievo karalystė?",
+      "d": "Kas mano artimas?"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_011",
+    "question": "Koks yra didžiausias įsakymas, pasak Įstatymo mokytojo atsakymo Jėzui?",
+    "options": {
+      "a": "Mylėti Dievą ir gerbti tėvus.",
+      "b": "Mylėti Dievą visa širdimi ir artimą kaip save patį.",
+      "c": "Gerbti šabą ir aukoti aukas.",
+      "d": "Nesinešti piniginės ir krepšio."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_012",
+    "question": "Kas praėjo pro sumuštą žmogų kelyje iš Jeruzalės į Jerichą, prieš pasirodant samariečiui?",
+    "options": {
+      "a": "Tik kunigas.",
+      "b": "Kunigas ir levitas.",
+      "c": "Kunigas ir Įstatymo mokytojas.",
+      "d": "Tik levitas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_013",
+    "question": "Kiek denarų samarietis davė užeigos šeimininkui, kad pasirūpintų sužeistuoju?",
+    "options": {
+      "a": "Vieną denarą.",
+      "b": "Du denarus.",
+      "c": "Tris denarus.",
+      "d": "Keturis denarus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_014",
+    "question": "Ką darė Marija, kai Jėzus lankėsi Mortos namuose?",
+    "options": {
+      "a": "Patarnavo kartu su Morta.",
+      "b": "Gamino valgį.",
+      "c": "Sėdėjo prie Viešpaties kojų ir klausėsi jo žodžių.",
+      "d": "Skundėsi, kad Morta dirba viena."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_10"
+  }
+]

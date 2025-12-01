@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Lk_14_001",
+    "question": "Apie ką Jėzus kalbėjo fariziejams ir Įstatymo mokytojams šabo dieną, prieš išgydydamas žmogų?",
+    "options": {
+      "a": "Ar valia per šabą gydyti ar ne?",
+      "b": "Ar valia per šabą dirbti laukuose?",
+      "c": "Ar valia per šabą keliauti ilgus atstumus?",
+      "d": "Ar valia per šabą aukoti šventykloje?"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_002",
+    "question": "Kaip reagavo Įstatymo mokytojai ir fariziejai, kai Jėzus paklausė, ar valia per šabą gydyti?",
+    "options": {
+      "a": "Jie pritarė, kad valia.",
+      "b": "Jie nesutiko, kad valia.",
+      "c": "Jie tylėjo.",
+      "d": "Jie paprašė laiko pagalvoti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_003",
+    "question": "Kokią ligą turėjo žmogus, kurį Jėzus išgydė šabo dieną?",
+    "options": {
+      "a": "Raudonosios rožės.",
+      "b": "Paralyžių.",
+      "c": "Vandenligę.",
+      "d": "Karščiavimą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_004",
+    "question": "Ką Jėzus patarė daryti pakviestam į vestuves, renkantis vietą?",
+    "options": {
+      "a": "Atsisėsti pirmoje vietoje, jei jautiesi svarbus.",
+      "b": "Palaukti, kol šeimininkas paskirs vietą.",
+      "c": "Sėstis paskutinėje vietoje, kad būtų pakviestas aukščiau.",
+      "d": "Sėstis šalia savo draugų ar giminaičių."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_005",
+    "question": "Kokia yra pagrindinė pamoka iš Jėzaus palyginimo apie pirmąsias vietas?",
+    "options": {
+      "a": "Būtina visada rodyti pagarbą šeimininkui.",
+      "b": "Svarbu rodyti nuolankumą, kad būtum išaukštintas.",
+      "c": "Turtingieji ir garbingieji visada turi sėsti pirmose vietose.",
+      "d": "Niekada nereikia atsisakyti aukštesnės vietos, jei ji siūloma."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_006",
+    "question": "Kokius žmones Jėzus patarė kviesti į vaišes, kad būtų palaimintas?",
+    "options": {
+      "a": "Draugus ir giminaičius.",
+      "b": "Turtingus kaimynus.",
+      "c": "Vargšus, paliegėlius, luošus ir aklus.",
+      "d": "Tik tuos, kurie gali atsilyginti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_007",
+    "question": "Koks atlygis žadamas tiems, kurie kviečia vargšus, paliegėlius, luošus ir aklus į vaišes?",
+    "options": {
+      "a": "Jie bus pakviesti į dar didesnes vaišes.",
+      "b": "Jiems bus atlyginta teisiųjų prisikėlime.",
+      "c": "Jie sulauks pagarbos iš kitų žmonių.",
+      "d": "Jiems bus atlyginta dar šiame gyvenime."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_008",
+    "question": "Kuri iš šių priežasčių NEBUVO nurodyta kaip atsisakymo atvykti į didelę puotą priežastis?",
+    "options": {
+      "a": "Nusipirkau dirvą ir turiu eiti apžiūrėti.",
+      "b": "Pirkau penkis jungus jaučių ir einu jų išmėginti.",
+      "c": "Vedžiau, todėl negaliu atvykti.",
+      "d": "Einu lankyti sergančio giminaičio."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_009",
+    "question": "Ką šeimininkas įsakė tarnui kviesti į puotą, kai pirmieji kviestieji atsisakė?",
+    "options": {
+      "a": "Draugus ir giminaičius iš toli.",
+      "b": "Tik tuos, kurie dar nebuvo pakviesti.",
+      "c": "Vargšus, paliegėlius, aklus ir luošus iš miesto bei kelius ir patvorius.",
+      "d": "Kaimynus ir bendradarbius."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_010",
+    "question": "Ką Jėzus nurodė kaip vieną iš esminių sąlygų būti jo mokiniu?",
+    "options": {
+      "a": "Tapti turtingu ir galingu.",
+      "b": "Neatsisakyti visos savo nuosavybės.",
+      "c": "Nenešti savo kryžiaus ir nesekti juo.",
+      "d": "Atsižadėti visos savo nuosavybės."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_011",
+    "question": "Kokius du palyginimus Jėzus panaudojo, kad iliustruotų būtinybę apgalvoti sprendimą tapti jo mokiniu?",
+    "options": {
+      "a": "Apie pasiklydusią avį ir pamestą monetą.",
+      "b": "Apie bokšto statybą ir karalių, traukiantį į karą.",
+      "c": "Apie sėjos sėjėją ir raugą.",
+      "d": "Apie dvi statybas ant uolos ir smėlio."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_14"
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "id": "Lk_22_001",
+    "question": "Kokia šventė buvo arti, vadinama Velykomis?",
+    "options": {
+      "a": "Neraugintos duonos šventė",
+      "b": "Palapinių šventė",
+      "c": "Derliaus šventė",
+      "d": "Atpirkimo šventė"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_002",
+    "question": "Kodėl aukštieji kunigai ir Rašto aiškintojai bijojo nužudyti Jėzų?",
+    "options": {
+      "a": "Bijojo Romos valdžios",
+      "b": "Bijojo Jėzaus mokinių",
+      "c": "Bijojo žmonių",
+      "d": "Bijojo Dievo"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_003",
+    "question": "Į ką įėjo šėtonas, siekdamas išduoti Jėzų?",
+    "options": {
+      "a": "Į Petrą",
+      "b": "Į Judą, vadinamą Iskarijotu",
+      "c": "Į vieną iš Rašto aiškintojų",
+      "d": "Į vyriausiąjį kunigą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_004",
+    "question": "Su kuo Judas tarėsi dėl Jėzaus išdavystės?",
+    "options": {
+      "a": "Su Romos valdytoju",
+      "b": "Su Erodo tarnais",
+      "c": "Su aukštaisiais kunigais ir sargybos viršininkais",
+      "d": "Su kitais Dvylikos nariais"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_005",
+    "question": "Koks buvo susitarimas už Jėzaus išdavystę?",
+    "options": {
+      "a": "Judas gaus žemės",
+      "b": "Judas taps kunigu",
+      "c": "Judas gaus pinigų",
+      "d": "Judas bus išaukštintas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_006",
+    "question": "Kuriuos du mokinius Jėzus pasiuntė paruošti Velykų vakarienę?",
+    "options": {
+      "a": "Jokūbą ir Joną",
+      "b": "Petrą ir Andriejų",
+      "c": "Petrą ir Joną",
+      "d": "Tomą ir Filipą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_007",
+    "question": "Koks ženklas mieste turėjo padėti mokiniams rasti vietą vakarienei?",
+    "options": {
+      "a": "Moteris, nešanti krepšį duonos",
+      "b": "Žmogus, nešinas vandens ąsočiu",
+      "c": "Sėdinėjęs prie miesto vartų",
+      "d": "Šauklys, skelbiantis naujienas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_008",
+    "question": "Kaip Jėzus apibūdino kambarį, kuriame turėjo vykti vakarienė?",
+    "options": {
+      "a": "Mažas, jaukus kambarėlis",
+      "b": "Didelis aukštutinis kambarys su baldais",
+      "c": "Vidutinio dydžio kambarys be langų",
+      "d": "Požeminė patalpa"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_009",
+    "question": "Ką Jėzus pasakė apie savo troškimą valgyti šią Velykų vakarienę?",
+    "options": {
+      "a": "„Aš noriu greitai ją baigti.“",
+      "b": "„Trokšte troškau valgyti su jumis šią Velykų vakarienę prieš kentėdamas.“",
+      "c": "„Noriu, kad tai būtų mūsų paskutinė vakarienė.“",
+      "d": "„Esu alkanas šios vakarienės.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_010",
+    "question": "Ką Jėzus palygino su savo kūnu Eucharistijos įsteigimo metu?",
+    "options": {
+      "a": "Vyną",
+      "b": "Velykų avinėlį",
+      "c": "Duoną",
+      "d": "Vandens ąsotį"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_011",
+    "question": "Ką Jėzus pasakė apie taurę po vakarienės?",
+    "options": {
+      "a": "„Ši taurė yra senasis vynas.“",
+      "b": "„Ši taurė yra mano sielvarto simbolis.“",
+      "c": "„Ši taurė yra Naujoji Sandora mano kraujyje.“",
+      "d": "„Ši taurė yra jūsų gėrimas.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_012",
+    "question": "Ką Jėzus pasakė apie išdaviko ranką?",
+    "options": {
+      "a": "„Mano išdavėjo ranka yra paslėpta po stalu.“",
+      "b": "„Mano išdavėjo ranka yra atskirta nuo manęs.“",
+      "c": "„Mano išdavėjo ranka yra kartu su manąja ant stalo.“",
+      "d": "„Mano išdavėjo ranka mane apglėbia.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_013",
+    "question": "Kaip apaštalai reagavo į Jėzaus įspėjimą apie išdaviką?",
+    "options": {
+      "a": "Jie iš karto suprato, kad tai Judas.",
+      "b": "Jie pradėjo teirautis vienas kito, kas tai galėtų padaryti.",
+      "c": "Jie apkaltino vienas kitą.",
+      "d": "Jie tylėjo iš baimės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_014",
+    "question": "Dėl ko kilo ginčas tarp apaštalų po vakarienės?",
+    "options": {
+      "a": "Dėl to, kas turės daugiau pinigų.",
+      "b": "Dėl to, kas bus Jėzaus dešinėje.",
+      "c": "Dėl to, kuris iš jų galėtų būti laikomas didžiausiu.",
+      "d": "Dėl to, kas paruoš geriausią maistą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_015",
+    "question": "Kaip Jėzus mokė apaštalus apie didybę tarp jų?",
+    "options": {
+      "a": "Vyriausias turi būti kaip karalius.",
+      "b": "Didžiausias turi valdyti kitus.",
+      "c": "Kas vyriausias, tebūnie tarsi mažiausias, o viršininkas tebūnie lyg tarnas.",
+      "d": "Tik vienas iš jų gali būti didis."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_016",
+    "question": "Koks pažadas buvo duotas apaštalams už ištvermę su Jėzumi?",
+    "options": {
+      "a": "Jie taps Romos valdytojais.",
+      "b": "Jie gaus didelius turtus.",
+      "c": "Jie valgys ir gers už Jo stalo ir sėdės sostuose, teisdami dvylika Izraelio giminių.",
+      "d": "Jie bus atleisti nuo visų sunkumų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_017",
+    "question": "Ko šėtonas pareikalavo iš apaštalų, pasak Jėzaus?",
+    "options": {
+      "a": "Jus sunaikinti",
+      "b": "Jus persijoti tarsi kviečius",
+      "c": "Jus išsklaidyti",
+      "d": "Jus pagundyti"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_018",
+    "question": "Ką Jėzus pasakė Petrui apie gaidį ir jo išsigynimą?",
+    "options": {
+      "a": "„Dar gaidžiui nepragydus, tu kartą išsiginsi mane.“",
+      "b": "„Ryte, kai gaidys pragys, tu mane išduosi.“",
+      "c": "„Dar gaidžiui šiąnakt nepragydus, tu tris kartus išsiginsi mane pažįstąs.“",
+      "d": "„Gaidžiui pragydus, tu mane prisiminsi.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_019",
+    "question": "Ką Jėzus nurodė apaštalams daryti, jei jie neturi kalavijo, lemtingomis valandomis?",
+    "options": {
+      "a": "Jį paslėpti.",
+      "b": "Jį atiduoti sargybai.",
+      "c": "Parduoti apsiaustą ir nusipirkti kalaviją.",
+      "d": "Jais kovoti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_020",
+    "question": "Kur Jėzus nuėjo melstis po vakarienės?",
+    "options": {
+      "a": "Į šventyklą",
+      "b": "Į vyriausiojo kunigo rūmus",
+      "c": "Į Alyvų kalną",
+      "d": "Į Jordano upės slėnį"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_021",
+    "question": "Kokia buvo Jėzaus maldos Alyvų kalne esmė?",
+    "options": {
+      "a": "Kad Tėvas išgelbėtų Jį nuo mirties.",
+      "b": "Kad Tėvas atimtų šitą taurę nuo Jo, bet tebūtų Tėvo valia.",
+      "c": "Kad mokiniai būtų stiprūs.",
+      "d": "Kad šėtonas būtų nugalėtas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_022",
+    "question": "Kaip angelas sustiprino Jėzų Alyvų kalne?",
+    "options": {
+      "a": "Angelas pasakė paguodos žodžius.",
+      "b": "Angelas davė Jam maisto.",
+      "c": "Angelas pasirodė iš dangaus ir Jį sustiprino.",
+      "d": "Angelas pagydė Jo žaizdas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_023",
+    "question": "Kuo Judas išdavė Jėzų suėmimo metu?",
+    "options": {
+      "a": "Pinigais",
+      "b": "Šūksniu",
+      "c": "Pabučiavimu",
+      "d": "Kalaviju"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Lk_22"
+  }
+]
