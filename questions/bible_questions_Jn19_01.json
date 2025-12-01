@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Ką kareiviai užspaudė Jėzui ant galvos ir kokiu drabužiu jį apsiautė, šaipydamiesi?",
+    "options": {
+      "a": "Vainiką iš erškėčių ir purpurine skraiste.",
+      "b": "Šalmą iš geležies ir karaliaus apsiaustu.",
+      "c": "Laurus vainiką ir balta tunika.",
+      "d": "Audinio raištį ir pilka apklote."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Kodėl, pasak žydų, Jėzus turėjo mirti pagal jų Įstatymą?",
+    "options": {
+      "a": "Nes jis pažeidė šabo įstatymą.",
+      "b": "Nes jis melavo esąs pranašas.",
+      "c": "Nes jis laikė save Dievo Sūnumi.",
+      "d": "Nes jis bandė nuversti ciesorių."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Ką Pilotas liepė parašyti ant užrašo prie Jėzaus kryžiaus ir kokiomis kalbomis jis buvo parašytas?",
+    "options": {
+      "a": "„Jėzus Nazarietis, žydų karalius“; hebrajiškai, lotyniškai ir graikiškai.",
+      "b": "„Štai jūsų karalius“; tik lotyniškai.",
+      "c": "„Melagingas pranašas“; hebrajiškai ir graikiškai.",
+      "d": "„Ciesoriaus priešas“; visomis kalbomis, bet ne Jėzaus vardu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Kokiomis trimis kalbomis Pilotas liepė parašyti užrašą ant Jėzaus kryžiaus?",
+    "options": {
+      "a": "Hebrajiškai, aramėjiškai ir lotyniškai",
+      "b": "Graikiškai, egiptietiškai ir hebrajiškai",
+      "c": "Hebrajiškai, lotyniškai ir graikiškai",
+      "d": "Lotyniškai, graikiškai ir aramėjiškai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-pro",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Ką kareiviai padarė su Jėzaus tunika, kuri buvo be siūlės?",
+    "options": {
+      "a": "Suplėšė ją į keturias dalis",
+      "b": "Atidavė ją Pilotui",
+      "c": "Paliko ją prie kryžiaus",
+      "d": "Metė dėl jos burtą"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-pro",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Kas, be Juozapo iš Arimatėjos, atvyko ir atsigabeno miros bei alavijo mišinio Jėzaus laidotuvėms?",
+    "options": {
+      "a": "Mylimasis mokinys",
+      "b": "Nikodemas",
+      "c": "Marija Magdalietė",
+      "d": "Pilotas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-pro",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Kas buvo parašyta ant užrašo, prisegto prie Jėzaus kryžiaus?",
+    "options": {
+      "a": "Jėzus Nazarietis",
+      "b": "Jėzus Nazarietis, žydų karalius",
+      "c": "Šitas skelbėsi: aš esu žydų karalius",
+      "d": "Tu esi mūsų karalius"
+    },
+    "correct": "b",
+    "model": "groq/llama-3.3-70b-versatile",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Ką Jėzus tarė, kai pamatė stovinčią motiną ir mylimąjį mokinį?",
+    "options": {
+      "a": "Moterie, štai tavo sūnus! Štai tavo motina!",
+      "b": "Moterie, štai tavo sūnus!",
+      "c": "Štai tavo motina!",
+      "d": "Štai tavo sūnus! Štai tavo tėvas!"
+    },
+    "correct": "b",
+    "model": "groq/llama-3.3-70b-versatile",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Ką Jėzus tarė prieš mirdamas?",
+    "options": {
+      "a": "Atlikta!",
+      "b": "Trokštu!",
+      "c": "Štai tavo motina!",
+      "d": "Štai tavo sūnus!"
+    },
+    "correct": "a",
+    "model": "groq/llama-3.3-70b-versatile",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Kokios dienos buvo Jėzaus nukryžiavimas?",
+    "options": {
+      "a": "Šabatas",
+      "b": "Velykų išvakarės",
+      "c": "Savaitgalis",
+      "d": "Prisirengimo diena"
+    },
+    "correct": "b",
+    "model": "groq/llama-3.1-8b-instant",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Kam nusprendė žydai, kad Jėzų turi nukryžiuoti?",
+    "options": {
+      "a": "Nėra jokios kaltės",
+      "b": "Jėzus laikė save Dievo Sūnumi",
+      "c": "Jėzus skelbėsi karaliumi",
+      "d": "Jėzus nepasitiko žydų žinią"
+    },
+    "correct": "b",
+    "model": "groq/llama-3.1-8b-instant",
+    "chapter": "Jn19"
+  },
+  {
+    "question": "Kas buvo parašyta virš Jėzaus kryžiaus užrašo?",
+    "options": {
+      "a": "Tik hebrajiškai",
+      "b": "Tik lotyniškai",
+      "c": "Tik graikiškai",
+      "d": "Hebrajiškai, lotyniškai ir graikiškai"
+    },
+    "correct": "d",
+    "model": "groq/llama-3.1-8b-instant",
+    "chapter": "Jn19"
+  }
+]

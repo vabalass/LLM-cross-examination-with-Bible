@@ -1,0 +1,362 @@
+[
+  {
+    "question_id": "Pr1_001",
+    "chapter": "Pr1",
+    "question_creator_model": "gemini/gemini-2.5-pro",
+    "question": "Ką Dievas sukūrė pirmąją dieną?",
+    "options": {
+      "a": "Dangų ir žemę",
+      "b": "Šviesą",
+      "c": "Sausumą ir jūras",
+      "d": "Augmeniją"
+    },
+    "correct_answer_key": "b",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 3,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_002",
+    "chapter": "Pr1",
+    "question_creator_model": "gemini/gemini-2.5-pro",
+    "question": "Kurią dieną Dievas sukūrė du didžiulius šviesulius ir žvaigždes?",
+    "options": {
+      "a": "Antrąją",
+      "b": "Trečiąją",
+      "c": "Ketvirtąją",
+      "d": "Penktąją"
+    },
+    "correct_answer_key": "c",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 4,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_003",
+    "chapter": "Pr1",
+    "question_creator_model": "gemini/gemini-2.5-pro",
+    "question": "Pagal ką Dievas sukūrė žmogų, remiantis šiuo tekstu?",
+    "options": {
+      "a": "Pagal gyvūnų panašumą",
+      "b": "Pagal savo paveikslą ir panašumą",
+      "c": "Pagal angelų paveikslą",
+      "d": "Iš žemės dulkių"
+    },
+    "correct_answer_key": "b",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai atsakomas pagal pateiktą Šventojo Rašto ištrauką. Nurodytas atsakymas (B) tiksliai atspindi Pradžios 1, 26-27 eilučių teiginį apie žmogaus sukūrimą pagal Dievo paveikslą ir panašumą."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_004",
+    "chapter": "Pr1",
+    "question_creator_model": "groq/llama-3.1-8b-instant",
+    "question": "Ką Dievas tarė, kad pasireiktų šviesa?",
+    "options": {
+      "a": "Tebūna skliautas",
+      "b": "Tebūna šviesa!",
+      "c": "Tebūna sutelkti vandenys",
+      "d": "Tebūna sausuma "
+    },
+    "correct_answer_key": "b",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai atsakomas tekste, o nurodytas teisingas atsakymas (B) tiksliai cituoja Dievo žodžius iš Pradžios 1,3, kai buvo sukurta šviesa."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir konkretus. Nurodytas atsakymas 'B' yra tiksli citata iš teksto (Pr 1, 3), kuri tiesiogiai ir neabejotinai atsako į pateiktą klausimą."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_005",
+    "chapter": "Pr1",
+    "question_creator_model": "groq/llama-3.1-8b-instant",
+    "question": "Ką Dievas pavadino skliautą?",
+    "options": {
+      "a": "Dangumi",
+      "b": "Žeme",
+      "c": "Sausuma",
+      "d": "Šviesa"
+    },
+    "correct_answer_key": "a",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai susijęs su tekstu. Nurodytas teisingas atsakymas (A) yra absoliučiai tikslus ir nepriekaištingai suformuluotas, tiesiogiai atspindintis Pradžios 1, 8 eilutės informaciją."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus, o teisingas atsakymas (A) yra tiesiogiai ir nedviprasmiškai nurodytas tekste. Pradžios knygos 1 skyriaus 8 eilutėje rašoma: „Dievas pavadino skliautą Dangumi“."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_006",
+    "chapter": "Pr1",
+    "question_creator_model": "groq/llama-3.1-8b-instant",
+    "question": "Kam Dievas palaimino paukščių?",
+    "options": {
+      "a": "Būti vaisingi ir dauginkitės",
+      "b": "Pripildykite jūras vandenis",
+      "c": "Tepildyti jūras vandenis ir dauginkitės",
+      "d": "Pripildykite jūras vandenis, o paukščiai tesiadaugina žemėje"
+    },
+    "correct_answer_key": "d",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Nurodytas atsakymas (D) yra tiesioginė citata iš Pradžios 1,22 eilutės, kurioje aprašomas Dievo palaiminimas vandens gyvūnams ir paukščiams. Jame aiškiai nurodoma specifinė palaiminimo dalis, skirta paukščiams, todėl atsakymas yra idealiai teisingas ir aiškiai suformuluotas pagal tekstą."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 4,
+        "comment": "Atsakyme pateikiama tiksli citata iš Pradžios knygos 1 skyriaus 22 eilutės. Vis dėlto, kadangi klausimas yra konkrečiai apie paukščius, atsakymas turi formuluotės trūkumą, nes jame taip pat nurodomas palaiminimas jūrų gyvūnams."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_007",
+    "chapter": "Pr1",
+    "question_creator_model": "gemini/gemini-2.5-flash",
+    "question": "Koks konkretus Dievo įsakymas nuskambėjo pirmąją kūrimo dieną, pagal pateiktą tekstą?",
+    "options": {
+      "a": "Tebūna šviesa!",
+      "b": "Tebūna skliautas viduryje vandenų!",
+      "c": "Tebūna sutelkti vandenys po Dangumi į vieną vietą!",
+      "d": "Tepagimdo žemė visų rūšių gyvūnus!"
+    },
+    "correct_answer_key": "a",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir konkretus, o nurodytas atsakymas 'a' tiksliai cituoja Dievo įsakymą, pateiktą Pradžios knygos 1:3 eilutėje, kuri aprašo pirmosios kūrimo dienos įvykius."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 5,
+        "comment": "Sutikus tekstui, aiškiai matoma, kad pirmasis Dievo įsakymas, nuskambėjęs pirmąją kūrimo dieną, buvo 'Tebūna šviesa!' (Pr 1:3). Šis įsakymas labai tiksliai cituojamas ir atitinka faktus, tad įvertinimas yra 5."
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_008",
+    "chapter": "Pr1",
+    "question_creator_model": "gemini/gemini-2.5-flash",
+    "question": "Ką Dievas sukūrė trečiąją dieną?",
+    "options": {
+      "a": "Saulę, Mėnulį ir žvaigždes.",
+      "b": "Paukščius ir jūros gyvūnus.",
+      "c": "Sausumą, jūras ir augmeniją.",
+      "d": "Žmogų pagal savo paveikslą."
+    },
+    "correct_answer_key": "c",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Nurodytas atsakymas 'C' yra visiškai teisingas ir tikslus. Pateiktoje ištraukoje, eilutėse nuo 9 iki 13, aiškiai aprašoma, kaip trečiąją dieną Dievas sukūrė sausumą (Žemę), vandenų telkinius (Jūras) ir augmeniją."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 5,
+        "comment": "Atsakymas teisingas, kad Dievas sukūrė sausumą, jūras ir augmeniją trečiąją dieną. Formuluotė aiški ir nepriekaiščiai."
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_009",
+    "chapter": "Pr1",
+    "question_creator_model": "gemini/gemini-2.5-flash",
+    "question": "Pagal pateiktą tekstą, kokiu būdu Dievas sukūrė žmogų?",
+    "options": {
+      "a": "Iš žemės dulkių ir įkvėpė gyvybės alsavimą.",
+      "b": "Padarydamas jį valdovu virš visų žemės gyvūnų, bet ne pagal savo paveikslą.",
+      "c": "Pagal savo paveikslą ir panašumą, vyrą ir moterį.",
+      "d": "Kaip paskutinį ir vienintelį gyvybės kūrinį."
+    },
+    "correct_answer_key": "c",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Nurodytas atsakymas C yra idealiai teisingas, nes tiksliai ir glaustai perteikia Pradžios knygos 1 skyriaus 26-27 eilutėse aprašytą žmogaus sukūrimo būdą – pagal Dievo paveikslą ir panašumą, sukuriant vyrą ir moterį."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 5,
+        "comment": "Pagal tekstą, pagrindinis pagrindimas, kad Dievas sukūrė žmogų, yra 27-oji eilutė: 'Dievas sukūrė žmogų pagal savo paveikslą, pagal savo paveikslą sukūrė jį; vyrą ir moterį; sukūrė juos.' Tai rodo, kad Dievas sukūrė žmogų pagal savo paveikslą ir panašumą su vyrą ir moterį."
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_010",
+    "chapter": "Pr1",
+    "question_creator_model": "groq/llama-3.3-70b-versatile",
+    "question": "Ką Dievas sukūrė pirmiausia?",
+    "options": {
+      "a": "Žmogų",
+      "b": "Dangų ir žemę",
+      "c": "Sausumą",
+      "d": "Vandenis"
+    },
+    "correct_answer_key": "b",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas ir pateiktas teisingas atsakymas puikiai atitinka Šventojo Rašto ištrauką. Pradžios knygos 1 skyriaus 1 eilutėje aiškiai nurodoma, kad 'Pradžioje Dievas sukūrė dangų ir žemę', kas yra pirmasis kūrimo aktas."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Atsakymas yra visiškai teisingas ir tikslus, nes pirmoji Pradžios knygos eilutė tiesiogiai teigia: 'Pradžioje Dievas sukūrė dangų ir žemę'. Klausimo ir atsakymo formuluotė yra aiški ir nedviprasmiška."
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 5,
+        "comment": "Dievas pirmiausia sukūrė dangų ir žemę, kadangi pirmojo pasakojimo eilinėse 1-11 skyriuose minimi įvairūs sukurti daiktai ir gyvūnai, bet tik pirmojo eilutėje minima dangaus ir žemės sukūrimas."
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_011",
+    "chapter": "Pr1",
+    "question_creator_model": "groq/llama-3.3-70b-versatile",
+    "question": "Kokia diena Dievas sukūrė saulę ir mėnulį?",
+    "options": {
+      "a": "Pirmoji diena",
+      "b": "Antroji diena",
+      "c": "Trečioji diena",
+      "d": "Ketvirtoji diena"
+    },
+    "correct_answer_key": "d",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai atsakomas iš pateikto teksto. Tekste nurodoma, kad Dievas sukūrė 'didesnįjį šviesulį dienai valdyti ir mažesnįjį šviesulį nakčiai valdyti' (kas interpretuojama kaip saulė ir mėnulis) ketvirtąją dieną (14-19 eilutės). Nurodytas teisingas atsakymas (D) visiškai atitinka Biblijos ištrauką."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir konkretus, o nurodytas atsakymas 'd' yra visiškai teisingas. Remiantis teksto 14-19 eilutėmis, Dievas sukūrė du šviesulius, skirtus valdyti dienai ir nakčiai, būtent ketvirtąją dieną."
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "Pr1_012",
+    "chapter": "Pr1",
+    "question_creator_model": "groq/llama-3.3-70b-versatile",
+    "question": "Ką Dievas davė žmonėms kaip maistą?",
+    "options": {
+      "a": "Visus gyvūnus",
+      "b": "Visus augalus be sėklų",
+      "c": "Visus augalus su sėklomis ir vaisius",
+      "d": "Visus Žemės galiokus"
+    },
+    "correct_answer_key": "c",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus, o nurodytas atsakymas (c) tiesiogiai ir tiksliai atspindi 29 eilutėje pateiktą informaciją apie tai, ką Dievas davė žmonėms maistui."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 5,
+        "comment": "Atsakymas tiesiogiai įvertina klausimą, pateikdamas tikslų ir aišką informaciją iš šv. Rašto teksto. Teisingumas patvirtintas pagal nurodytą raide (C)"
+      }
+    ]
+  }
+]

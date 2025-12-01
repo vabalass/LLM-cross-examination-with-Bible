@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Dėl kokios priežasties Erodas įsakė suimti Joną Krikštytoją?",
+    "options": {
+      "a": "Dėl to, kad Erodiados duktė to paprašė.",
+      "b": "Dėl to, kad Jonas jam sakė, jog nevalia turėti savo brolio žmonos Erodiados.",
+      "c": "Dėl to, kad Jono bijojo žmonės, kurie laikė jį pranašu.",
+      "d": "Dėl to, kad jis manė, jog Jonas yra iš numirusių prisikėlęs Jėzus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-pro",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Kiek maisto turėjo mokiniai prieš Jėzui pamaitinant minią?",
+    "options": {
+      "a": "Dvylika pintinių duonos ir žuvies.",
+      "b": "Du kepaliukus duonos ir penkias žuvis.",
+      "c": "Penkis kepaliukus duonos ir dvi žuvis.",
+      "d": "Septynis kepaliukus duonos ir kelias žuveles."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-pro",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Kuris mokinys, pamatęs Jėzų einantį ežero paviršiumi, pats bandė eiti vandeniu?",
+    "options": {
+      "a": "Jonas",
+      "b": "Pilypas",
+      "c": "Jokūbas",
+      "d": "Petras"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-pro",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Kodėl Erodas suėmė Joną Krikštytoją?",
+    "options": {
+      "a": "Dėl jo stebuklingų galių",
+      "b": "Dėl to, kad Jonas krikštė liaudį",
+      "c": "Dėl savo brolio Pilypo žmonos Erodiados",
+      "d": "Dėl to, kad Jonas pasakė, kad Erodas negali turėti savo brolio žmonos"
+    },
+    "correct": "d",
+    "model": "groq/llama-3.3-70b-versatile",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Ką Jėzus padarė su penkiais duonos kepaliukais ir dviem žuvimis?",
+    "options": {
+      "a": "Pardavė juos",
+      "b": "Pašaukė juos",
+      "c": "Padalijo tarp mokinių",
+      "d": "Pažvelgė į dangų, sukalbėjo palaiminimą, laužė ir davė mokiniams, kad tie dalijtų žmonėms"
+    },
+    "correct": "d",
+    "model": "groq/llama-3.3-70b-versatile",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Ką Petras atliko, kai Jėzus liepė jam ateiti vandeniu?",
+    "options": {
+      "a": "Jis atsisakė",
+      "b": "Jis skęsto",
+      "c": "Jis ėjo vandens paviršiumi, bet paskui nusigando",
+      "d": "Jis neišėjo iš valties"
+    },
+    "correct": "c",
+    "model": "groq/llama-3.3-70b-versatile",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Kam Erodas norėjo nužudyti Joną?",
+    "options": {
+      "a": "Jis norėjo sakyti jo paslaptį",
+      "b": "Jis norėjo nužudyti jo dėl jo maldų",
+      "c": "Jis norėjo nužudyti jo dėl savo brolio Pilypo žmonos Erodiados",
+      "d": "Jis norėjo nužudyti jo dėl savo gimimo dienos"
+    },
+    "correct": "c",
+    "model": "groq/llama-3.1-8b-instant",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Kas Erodo gimimo dieną priešinosi Jono Krikštytojo galvai?",
+    "options": {
+      "a": "Erodas, kad nepraėjo savo gimimo dienos, bet jo svečiai",
+      "b": "Erodo gimimo dienos sveika",
+      "c": "Erados duktė, kad būtų duota ji viena galva",
+      "d": "Erodo žmonos primokyta"
+    },
+    "correct": "c",
+    "model": "groq/llama-3.1-8b-instant",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Kas Jėzus pažvelgęs į dangų laužė į duonos ir žuvis?",
+    "options": {
+      "a": "Vėlius, kad būtų daugiau maisto",
+      "b": "Danguje esančius priešus",
+      "c": "Žmiais, kurie laukė maisto",
+      "d": "Palaiminimą"
+    },
+    "correct": "d",
+    "model": "groq/llama-3.1-8b-instant",
+    "chapter": "Mt14"
+  },
+    {
+    "question": "Kas pamokė Erodo dukterį paprašyti Jono Krikštytojo galvos?",
+    "options": {
+      "a": "Erodiada, jos motina",
+      "b": "Pilypas, Erodo brolis",
+      "c": "Pats Jonas Krikštytojas",
+      "d": "Erodo tarnai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Kiek vyrų (neskaičiuojant moterų ir vaikų) buvo pamaitinta per pirmąjį duonos padauginimą?",
+    "options": {
+      "a": "Apie penkis šimtus",
+      "b": "Apie tūkstantį",
+      "c": "Apie penkis tūkstančius",
+      "d": "Apie dvylika tūkstančių"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt14"
+  },
+  {
+    "question": "Ką Jėzus pasakė Petrui, kai šis ėmė skęsti eidamas vandeniu?",
+    "options": {
+      "a": "„Tu esi uola, ant kurios pastatysiu savo bažnyčią.“",
+      "b": "„Eik šalin, šėtone!“",
+      "c": "„Silpnatiki, ko suabejojai?!“",
+      "d": "„Nebijok, Petrai, aš visada su tavimi.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mt14"
+  }
+]

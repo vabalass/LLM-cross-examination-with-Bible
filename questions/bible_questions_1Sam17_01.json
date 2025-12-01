@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Koks buvo Galijoto iš Gato ūgis?",
+    "options": {
+      "a": "Penkių uolekčių ir vienas sprindis",
+      "b": "Šešių uolekčių ir vienas sprindis",
+      "c": "Septynių uolekčių",
+      "d": "Keturios uolektys ir du sprindžiai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Kiek dienų filistinas Galijotas išeidavo į priekį ir mesdavo iššūkį Izraelio gretoms?",
+    "options": {
+      "a": "Dešimt dienų",
+      "b": "Dvidešimt dienų",
+      "c": "Trisdešimt dienų",
+      "d": "Keturiasdešimt dienų"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Kokį atlygį karalius Saulius pažadėjo vyrui, kuris nugalėtų Galijotą?",
+    "options": {
+      "a": "Padarys jį turtingą, duos jam savo dukterį žmona ir atleis nuo mokesčių jo tėvo namus.",
+      "b": "Paskirs jį savo asmeniniu patarėju ir duos didelį dvarą.",
+      "c": "Padarys jį kariuomenės vadu ir atiduos visą filistinų turtą.",
+      "d": "Duos jam dešimt tūkstančių šekelių sidabro ir auksinį kalaviją."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Kiek svėrė Galijoto vario krūtinės šarvas?",
+    "options": {
+      "a": "Šešis šimtus geležies šekelių",
+      "b": "Šešias uolektis su sprindžiu",
+      "c": "Keturiasdešimt šekelių",
+      "d": "Penkis tūkstančius šekelių"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-pro",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Koks atlygis buvo pažadėtas vyrui, kuris užmuštų Galijotą?",
+    "options": {
+      "a": "Jis bus padarytas turtingas, gaus karaliaus dukterį ir jo tėvo namai bus atleisti nuo mokesčių.",
+      "b": "Jis gaus dešimt sūrių ir efą pagruzdintų grūdų.",
+      "c": "Jis taps kariuomenės vadu ir gaus pusę karalystės.",
+      "d": "Jam bus leista ganyti karaliaus avis Elos slėnyje."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-pro",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Kokius ginklus Dovydas pasirinko kovai su Galijotu, atsisakęs karaliaus Sauliaus šarvų?",
+    "options": {
+      "a": "Vario šalmą, krūtinės šarvą ir Sauliaus kalaviją.",
+      "b": "Tik kalaviją, kurį ištraukė iš Galijoto makštų po kovos.",
+      "c": "Savo lazdą, penkis gludžius akmenis ir svaidyklę.",
+      "d": "Ietį, kurios kotas buvo tarsi audėjo riestuvas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-pro",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Kur buvo susitelkę filistinai prieš mūšį su Izraelio vyrais?",
+    "options": {
+      "a": "Elos slėnyje",
+      "b": "Tarp Sochojo ir Azekos prie Efes Damimų",
+      "c": "Betliejuje",
+      "d": "Jeruzalėje"
+    },
+    "correct": "b",
+    "model": "groq/llama-3.3-70b-versatile",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Kokio aukščio buvo filistinas Galijotas?",
+    "options": {
+      "a": "Penkių uolekčių",
+      "b": "Šešių uolekčių",
+      "c": "Septynių uolekčių",
+      "d": "Aštuonių uolekčių"
+    },
+    "correct": "b",
+    "model": "groq/llama-3.3-70b-versatile",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Kaip Dovydas nugalėjo filistiną Galijotą?",
+    "options": {
+      "a": "Kalaviju",
+      "b": "Ietimi",
+      "c": "Svaidykle ir akmeniu",
+      "d": "Rankų kovos"
+    },
+    "correct": "c",
+    "model": "groq/llama-3.3-70b-versatile",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Kiek šekelių vertė Galijoto krūtinės šarvas?",
+    "options": {
+      "a": "Penkis tūkstančius",
+      "b": "Šešis šimtai",
+      "c": "Pirkti nepasiruošęs",
+      "d": "Nežinoma vertė"
+    },
+    "correct": "a",
+    "model": "groq/llama-3.1-8b-instant",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Kiek šekelių vertė Galijoto ieties antgalis?",
+    "options": {
+      "a": "Pirkti nepasiruošęs",
+      "b": "Nuožąstybiškas duomenys",
+      "c": "Šešis šimtai",
+      "d": "Daugiau nei penkis tūkstančius"
+    },
+    "correct": "c",
+    "model": "groq/llama-3.1-8b-instant",
+    "chapter": "1Sam17"
+  },
+  {
+    "question": "Koks buvo Dovydo amžius Sauliaus karuose?",
+    "options": {
+      "a": "Jaunas",
+      "b": "Pavykęs",
+      "c": "Senis",
+      "d": "Nemokėjėjas"
+    },
+    "correct": "c",
+    "model": "groq/llama-3.1-8b-instant",
+    "chapter": "1Sam17"
+  }
+]

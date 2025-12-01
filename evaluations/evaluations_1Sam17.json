@@ -1,0 +1,362 @@
+[
+  {
+    "question_id": "1Sam17_001",
+    "chapter": "1Sam17",
+    "question_creator_model": "gemini/gemini-2.5-flash",
+    "question": "Koks buvo Galijoto iš Gato ūgis?",
+    "options": {
+      "a": "Penkių uolekčių ir vienas sprindis",
+      "b": "Šešių uolekčių ir vienas sprindis",
+      "c": "Septynių uolekčių",
+      "d": "Keturios uolektys ir du sprindžiai"
+    },
+    "correct_answer_key": "b",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus, o nurodytas teisingas atsakymas (B) tiksliai ir be jokių dviprasmybių atitinka teksto 4 eilutėje pateiktą faktą: „šešių uolekčių su sprindžiu aukščio vyras“."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai susijęs su tekstu. Teisingas atsakymas (b) Šešių uolekčių ir vienas sprindis yra pagrįstas 1 Sam 17:4, kuriame nurodoma, kad Galijotas iš Gato buvo 'šešių uolekčių su sprindžiu aukščio vyras'."
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 4,
+        "comment": "Atsakymas b) Šešių uolekčių ir vienas sprindis atitinka tekstą, tačiau formuluotė labai aiškiai neįrodo tai."
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_002",
+    "chapter": "1Sam17",
+    "question_creator_model": "gemini/gemini-2.5-flash",
+    "question": "Kiek dienų filistinas Galijotas išeidavo į priekį ir mesdavo iššūkį Izraelio gretoms?",
+    "options": {
+      "a": "Dešimt dienų",
+      "b": "Dvidešimt dienų",
+      "c": "Trisdešimt dienų",
+      "d": "Keturiasdešimt dienų"
+    },
+    "correct_answer_key": "d",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir konkretus, o nurodytas atsakymas (D) yra tiesiogiai patvirtinamas Biblijos ištraukos 16 eilutėje: „Tuo tarpu filistinas keturiasdešimt dienų, rytą ir vakarą, išeidavo į priekį.“"
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tikslingas, o atsakymas sutampa su informacija iš teksto, kurioje nurodoma, kad filistinas keturiasdešimt dienų išeidavo į priekį ir mesdavo iššūkį Izraelio gretoms."
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_003",
+    "chapter": "1Sam17",
+    "question_creator_model": "gemini/gemini-2.5-flash",
+    "question": "Kokį atlygį karalius Saulius pažadėjo vyrui, kuris nugalėtų Galijotą?",
+    "options": {
+      "a": "Padarys jį turtingą, duos jam savo dukterį žmona ir atleis nuo mokesčių jo tėvo namus.",
+      "b": "Paskirs jį savo asmeniniu patarėju ir duos didelį dvarą.",
+      "c": "Padarys jį kariuomenės vadu ir atiduos visą filistinų turtą.",
+      "d": "Duos jam dešimt tūkstančių šekelių sidabro ir auksinį kalaviją."
+    },
+    "correct_answer_key": "a",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus, o nurodytas atsakymas (a) tiksliai ir išsamiai atitinka tekste (1 Sam 17:25) aprašytą atlygį, kurį Izraelio vyrai aptarinėjo. Formuluotė yra nepriekaištinga."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": 5,
+        "comment": "Klausimas teisingai atitinka teksto faktus, ir atsakymas yra tiesiogiai cituojamas iš teksto, be jokių klaidų arba nepatikimų interpretacijų."
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 5,
+        "comment": "Atsakymo kokybe labai aukšta, nuosekliai bei aiškiai atspindinti tekstą. Tiksliai cituoja eilutes, kai Saulius pažadėjo atlyginimą už vyrą, kuris nugalėtų Galijotą. Atsakytojo paaiškinimuose labai aiškiai nurodyta, kad atsakymas yra idealiu sutikimo laipsniu."
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_004",
+    "chapter": "1Sam17",
+    "question_creator_model": "gemini/gemini-2.5-pro",
+    "question": "Kiek svėrė Galijoto vario krūtinės šarvas?",
+    "options": {
+      "a": "Šešis šimtus geležies šekelių",
+      "b": "Šešias uolektis su sprindžiu",
+      "c": "Keturiasdešimt šekelių",
+      "d": "Penkis tūkstančius šekelių"
+    },
+    "correct_answer_key": "d",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas ir nurodytas atsakymas idealiai teisingi ir aiškiai suformuluoti. Tekstas tiesiogiai nurodo, kad Galijoto vario krūtinės šarvas svėrė penkis tūkstančius šekelių (1 Sam 17, 5)."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir konkrečius, o atsakymas d) Penkis tūkstančius šekelių yra tikslus, nes tai tiesiogiai nurodyta tekste, 5 skyrelyje: vario šarvą, sveriantį penkis tūkstančius šekelių."
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_005",
+    "chapter": "1Sam17",
+    "question_creator_model": "gemini/gemini-2.5-pro",
+    "question": "Koks atlygis buvo pažadėtas vyrui, kuris užmuštų Galijotą?",
+    "options": {
+      "a": "Jis bus padarytas turtingas, gaus karaliaus dukterį ir jo tėvo namai bus atleisti nuo mokesčių.",
+      "b": "Jis gaus dešimt sūrių ir efą pagruzdintų grūdų.",
+      "c": "Jis taps kariuomenės vadu ir gaus pusę karalystės.",
+      "d": "Jam bus leista ganyti karaliaus avis Elos slėnyje."
+    },
+    "correct_answer_key": "a",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Nurodytas atsakymas (A) tiksliai ir išsamiai atspindi visus tris atlygio komponentus, paminėtus Biblijos ištraukos 25 eilutėje."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_006",
+    "chapter": "1Sam17",
+    "question_creator_model": "gemini/gemini-2.5-pro",
+    "question": "Kokius ginklus Dovydas pasirinko kovai su Galijotu, atsisakęs karaliaus Sauliaus šarvų?",
+    "options": {
+      "a": "Vario šalmą, krūtinės šarvą ir Sauliaus kalaviją.",
+      "b": "Tik kalaviją, kurį ištraukė iš Galijoto makštų po kovos.",
+      "c": "Savo lazdą, penkis gludžius akmenis ir svaidyklę.",
+      "d": "Ietį, kurios kotas buvo tarsi audėjo riestuvas."
+    },
+    "correct_answer_key": "c",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai klausia apie Dovydo pasirinktus ginklus, atsisakius Sauliaus šarvų. Nurodytas atsakymas (c) idealiai tiksliai atspindi tekste pateiktą informaciją (1 Sam 17, 40)."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_007",
+    "chapter": "1Sam17",
+    "question_creator_model": "groq/llama-3.3-70b-versatile",
+    "question": "Kur buvo susitelkę filistinai prieš mūšį su Izraelio vyrais?",
+    "options": {
+      "a": "Elos slėnyje",
+      "b": "Tarp Sochojo ir Azekos prie Efes Damimų",
+      "c": "Betliejuje",
+      "d": "Jeruzalėje"
+    },
+    "correct_answer_key": "b",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai atsakomas iš teksto. Nurodytas atsakymas (B) yra idealiai teisingas, nes biblinėje ištraukoje (1 Sam 17, 1) aiškiai nurodoma, kad filistinai 'susibūrę prie Sochojo Judo žemėje, jie pasistatė stovyklą tarp Sochojo ir Azekos prie Efes Damimų'."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir konkretus, o nurodytas atsakymas 'b' yra visiškai teisingas. Jis tiksliai atitinka teksto pirmąją eilutę, kurioje aprašoma filistinų stovyklos vieta."
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_008",
+    "chapter": "1Sam17",
+    "question_creator_model": "groq/llama-3.3-70b-versatile",
+    "question": "Kokio aukščio buvo filistinas Galijotas?",
+    "options": {
+      "a": "Penkių uolekčių",
+      "b": "Šešių uolekčių",
+      "c": "Septynių uolekčių",
+      "d": "Aštuonių uolekčių"
+    },
+    "correct_answer_key": "b",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 3,
+        "comment": "Tekste nurodomas Galijoto ūgis yra „šešių uolekčių su sprindžiu“, o pateiktas atsakymas nurodo tik „šešių uolekčių“. Todėl atsakymas yra tiesiogiai netikslus, nes jame trūksta esminės detalės – sprindžio."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 3,
+        "comment": "Nurodytas atsakymas yra netikslus, nes tekste teigiama, kad Galijoto ūgis buvo „šešių uolekčių su sprindžiu“ (1 Sam 17:4), o ne lygiai šešios uolektys. Atsakymo variante praleista svarbi ūgį patikslinanti detalė."
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": 5,
+        "comment": "Atsakymas tiksliai nurodo tekstą ir yra aišku, kad filistinas Galijotas yra šešių uolekčių aukščio."
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_009",
+    "chapter": "1Sam17",
+    "question_creator_model": "groq/llama-3.3-70b-versatile",
+    "question": "Kaip Dovydas nugalėjo filistiną Galijotą?",
+    "options": {
+      "a": "Kalaviju",
+      "b": "Ietimi",
+      "c": "Svaidykle ir akmeniu",
+      "d": "Rankų kovos"
+    },
+    "correct_answer_key": "c",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Atsakymas yra idealiai teisingas. Tekstas aiškiai nurodo, kad Dovydas nugalėjo filistiną „svaidykle ir akmeniu“, parblokšdamas ir užmušdamas jį būtent šiais įrankiais (1 Sam 17, 50)."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai susijęs su pateikta ištrauka. Nurodytas atsakymas (C) yra visiškai teisingas, nes tekste, 1 Samuelio 17:50, aiškiai parašyta: „Taip Dovydas nugalėjo filistiną svaidykle ir akmeniu...“"
+      },
+      {
+        "evaluator_model": "groq/llama-3.1-8b-instant",
+        "grade": null,
+        "comment": null
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_010",
+    "chapter": "1Sam17",
+    "question_creator_model": "groq/llama-3.1-8b-instant",
+    "question": "Kiek šekelių vertė Galijoto krūtinės šarvas?",
+    "options": {
+      "a": "Penkis tūkstančius",
+      "b": "Šešis šimtai",
+      "c": "Pirkti nepasiruošęs",
+      "d": "Nežinoma vertė"
+    },
+    "correct_answer_key": "a",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai atsakomas iš teksto. Nurodytas teisingas atsakymas (A) visiškai atitinka Biblijos ištraukoje (1 Samuelio 17:5) pateiktą informaciją apie Galijoto krūtinės šarvo svorį."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 3,
+        "comment": "Klausimas yra netikslus, nes jame klausiama apie šarvo vertę, o pateiktame tekste nurodomas jo svoris – „penki tūkstančiai šekelių“. Nors skaičius atsakyme yra teisingas, jis apibūdina ne vertę, o masę."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir teisingas, o atsakymas remiasi tiesiogia informacija iš pateikto teksto, kurioje nurodoma, kad Galijoto krūtinės šarvas svėrė penkis tūkstančius šekelių."
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_011",
+    "chapter": "1Sam17",
+    "question_creator_model": "groq/llama-3.1-8b-instant",
+    "question": "Kiek šekelių vertė Galijoto ieties antgalis?",
+    "options": {
+      "a": "Pirkti nepasiruošęs",
+      "b": "Nuožąstybiškas duomenys",
+      "c": "Šešis šimtai",
+      "d": "Daugiau nei penkis tūkstančius"
+    },
+    "correct_answer_key": "c",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai susijęs su pateiktu tekstu. Atsakymas C „Šešis šimtai“ tiksliai atspindi informaciją iš 1 Samuelio 17:7, kur nurodoma, kad ieties antgalis svėrė šešis šimtus geležies šekelių."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": null,
+        "comment": null
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": 5,
+        "comment": "Klausimas yra aiškus ir tiesiogiai susijęs su pateiktu tekstu. Teisingas atsakymas yra „c) Šešis šimtai“, kadangi tekstas nurodo, jog Galijoto ieties antgalis svėrė šešis šimtus geležies šekelių."
+      }
+    ]
+  },
+  {
+    "question_id": "1Sam17_012",
+    "chapter": "1Sam17",
+    "question_creator_model": "groq/llama-3.1-8b-instant",
+    "question": "Koks buvo Dovydo amžius Sauliaus karuose?",
+    "options": {
+      "a": "Jaunas",
+      "b": "Pavykęs",
+      "c": "Senis",
+      "d": "Nemokėjėjas"
+    },
+    "correct_answer_key": "c",
+    "evaluations": [
+      {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "grade": 1,
+        "comment": "Nurodytas atsakymas \"Senis\" akivaizdžiai prieštarauja Biblijos ištraukai, kurioje Dovydas kelis kartus apibūdinamas kaip „vaikas“ ir „jauniausias“."
+      },
+      {
+        "evaluator_model": "gemini/gemini-2.5-pro",
+        "grade": 1,
+        "comment": "Nurodytas atsakymas 'C' (Senis) yra akivaizdžiai neteisingas. Pateiktoje Biblijos ištraukoje Dovydas yra nuolat apibūdinamas kaip „vaikas“ (17:33, 42) ir „jaunuolis“ (17:56, 58), o jo tėvas Jesė yra įvardijamas kaip senas žmogus (17:12)."
+      },
+      {
+        "evaluator_model": "groq/llama-3.3-70b-versatile",
+        "grade": 1,
+        "comment": "Klausimas neatitinka konteksto, nes tekste nėra tiesiogiai nurodytas Dovydo amžius Sauliaus karuose. Be to, teisingas atsakymas 'C' reiškia 'Senis', kas prieštarauja tekstui, kur Dovydas aprašomas kaip 'vaikas' ir 'raudonskruostis vaikas'."
+      }
+    ]
+  }
+]

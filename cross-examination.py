@@ -6,13 +6,13 @@ import json
 import re
 import time
 
-# returns a 3 Bible questions with 4 choice answers (a, b, c, d)
-def get_bible_question_from_llm(model, bible_text, max_retries=1):
+# returns n Bible questions with 4 choice answers (a, b, c, d)
+def get_bible_question_from_llm(model, bible_text, max_retries=1, number_of_questions=1):
     for attempt in range(1, max_retries + 1):
         try:
             if model is not None and bible_text != "":
                 message_content = (
-                    "Sukurk tris klausimus su keturiais atsakymų variantais (a, b, c, d) iš pateikto Biblijos teksto. " +
+                    "Sukurk " + number_of_questions +  " klausimus su keturiais atsakymų variantais (a, b, c, d) iš pateikto Biblijos teksto. " +
                     "Tik vienas atsakymas turi būti teisingas. " +
                     "Grąžink atsakymą IŠSKIRTINAI JSON formatu. JSON struktūra turi būti tokia:\n" +
                     "{\n" +
@@ -95,7 +95,7 @@ def generate_evaluation_prompt(question_data, bible_text):
     BIBLIJOS IŠTRAUKA:
     {bible_text}
 
-    Tu esi Šv. Rašo ekspertas.
+    Tu esi Šv. Rašto ekspertas.
     Atlikti klausimo teisingumo įvertinimą (grade) pagal šią skalę:
         0 - Nekorektiškas klausimas (Ydingas, neaiškus, neatitinka konteksto).
         1 - Akivaizdžiai Neteisingas atsakymas (Nurodyta raidė prieštarauja teksto faktams).
@@ -163,12 +163,27 @@ def extract_json_from_text(text):
 
     return None
 
+def calculate_questions_number(bible_text):
+    # Find all verse numbers (numbers at the start of text or after punctuation)
+    verse_numbers = re.findall(r'\d+', bible_text)
+    
+    if verse_numbers:
+        # Get the last (highest) verse number
+        last_verse = int(verse_numbers[-1])
+        questions_number = max(1, last_verse // 3)
+    else:
+        questions_number = 1
+    
+    print(f"INFO: apskaičiuotas klausimų skaičius: {questions_number}")
+    return str(questions_number)
+
 def generate_questions(models, bible_text, chapter_name, question_file):
     all_questions = []
     
     for model in models:
         print(f"INFO: Generuojami klausimai naudojant modelį {model}...")
-        raw_question = get_bible_question_from_llm(model=model, bible_text=bible_text)
+        number_of_questions = calculate_questions_number(bible_text)
+        raw_question = get_bible_question_from_llm(model=model, bible_text=bible_text, number_of_questions=number_of_questions)
         
         if raw_question is None:
             print("Klaida: tuščias tekstas iš modelio.")
@@ -330,26 +345,31 @@ def json_to_csv(input_json_path: str, output_csv_path: str):
 
 def main():
     read_and_save_API_keys("API_keys.txt")
-    bible_path = Path(__file__).parent / "Bible" / "1Sam17.txt"
+    chapter="1sam17"
+    bible_path = Path(__file__).parent / "Bible" / f"{chapter}.txt"
     bible_chapter = "".join((bible_path).read_text(encoding="utf-8"))
-    question_file = "bible_questions.json"
-    evaluations_file = "evaluations.json"
+    question_file = f"bible_questions_{chapter}_01.json"
+    evaluations_file = f"evaluations_{chapter}.json"
 
     models = [
         "gemini/gemini-2.5-flash",
+        "gemini/gemini-2.5-pro",
         "groq/llama-3.3-70b-versatile",
+        "groq/llama-3.1-8b-instant",
         #"openai/gpt-5"
     ]
 
-    chapter_name = os.path.basename(bible_path).replace(".txt", "")
-    #generate_questions(models, bible_chapter, chapter_name, question_file)
 
-    questions = load_questions(question_file)
-    if not questions:
-        return
+
+    chapter_name = os.path.basename(bible_path).replace(".txt", "")
+    generate_questions(models, bible_chapter, chapter_name, question_file)
+
+    #questions = load_questions(question_file)
+    #if not questions:
+    #    return
 
     #evaluate_questions(questions, models, bible_chapter, evaluations_file)
-    csv_path = "evaluations.csv"
+    csv_path = f"evaluations_{chapter}.csv"
     json_to_csv(evaluations_file, csv_path)
 
 if __name__ == "__main__":
