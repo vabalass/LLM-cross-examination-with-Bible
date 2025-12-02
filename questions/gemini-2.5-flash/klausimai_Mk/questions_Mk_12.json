@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Mk_12_001",
+    "question": "Ką žmogus padarė su vynuogynu, prieš išnuomodamas jį vynininkams ir iškeliaudamas?",
+    "options": {
+      "a": "Įveisė vynuogyną, sumūrijo aptvarą, įrengė spaustuvą ir pastatė bokštą.",
+      "b": "Pastatė namą, įveisė sodą ir įrengė šulinį.",
+      "c": "Apsodino jį alyvmedžiais, pastatė tvorą ir iškasė tvenkinį.",
+      "d": "Iškasė griovį, pastatė sargybos postą ir įrengė gamyklą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_002",
+    "question": "Kaip vynininkai elgėsi su pirmaisiais savininko siųstais tarnais?",
+    "options": {
+      "a": "Juos priėmė ir atidavė deramą dalį.",
+      "b": "Juos sumušė, sužeidė, iškoneveikė, o kai kuriuos ir nužudė.",
+      "c": "Juos išklausė, bet nieko nedavė.",
+      "d": "Juos išvarė, bet nepadarė žalos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_003",
+    "question": "Kaip vynininkai pasielgė su savininko mylimuoju sūnumi?",
+    "options": {
+      "a": "Jį nužudė ir išmetė laukan iš vynuogyno.",
+      "b": "Jį pasveikino ir atidavė visą derlių.",
+      "c": "Jį priėmė, bet atsisakė pripažinti įpėdiniu.",
+      "d": "Jį sumušė ir grąžino atgal pas tėvą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_004",
+    "question": "Kas, anot Jėzaus, atsitiks vynuogyno savininkui su vynininkais ir kokią citatą jis pateikė?",
+    "options": {
+      "a": "Jis atleis jiems ir atsiųs daugiau tarnų.",
+      "b": "Jis ateis, išžudys vynininkus, atiduos vynuogyną kitiems ir paminėjo akmenį, kurį statytojai atmetė.",
+      "c": "Jis atsiųs kariuomenę, kuri sunaikins vynuogyną.",
+      "d": "Jis pamirš apie vynuogyną ir nieko nedarys."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_005",
+    "question": "Kas buvo pasiųsta pas Jėzų, kad sugautų jį kalboje apie mokesčius?",
+    "options": {
+      "a": "Mokiniai ir dvasininkai.",
+      "b": "Sadukiejai ir Rašto aiškintojai.",
+      "c": "Fariziejai ir erodininkai.",
+      "d": "Romos kareiviai ir vietiniai gyventojai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_006",
+    "question": "Kokiais žodžiais siųstieji kreipėsi į Jėzų, prieš užduodami klausimą apie mokesčius?",
+    "options": {
+      "a": "„Ar mums galima tave nutraukti, Mokytojau?“",
+      "b": "„Mokytojau, žinome, jog esi tiesakalbis ir niekam nepataikauji, nepaisai žmonių padėties, bet mokai Dievo kelio.“",
+      "c": "„Ar tu esi Mesijas, kuris atėjo išgelbėti Izraelio?“",
+      "d": "„Gerbiamasis rabi, ar galėtum mums padėti išspręsti ginčą?“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_007",
+    "question": "Ką Jėzus atsakė į klausimą apie mokesčius ciesoriui?",
+    "options": {
+      "a": "„Mokėkite viską ciesoriui, nes jis yra jūsų valdovas.“",
+      "b": "„Nemokėkite nieko, nes Dievas yra vienintelis valdovas.“",
+      "c": "„Kas ciesoriaus, atiduokite ciesoriui, o kas Dievo – Dievui.“",
+      "d": "„Mokesčiai yra nereikalingi, todėl ignoruokite juos.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_008",
+    "question": "Kokia grupė, neigianti mirusiųjų prisikėlimą, atėjo pas Jėzų su klausimu?",
+    "options": {
+      "a": "Fariziejai.",
+      "b": "Erodininkai.",
+      "c": "Sadukiejai.",
+      "d": "Rašto aiškintojai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_009",
+    "question": "Apie kokią situaciją su broliais ir moterimi klausė sadukiejai?",
+    "options": {
+      "a": "Apie moterį, kuri po vyro mirties ištekėjo už kito brolio, o paskui išsiskyrė.",
+      "b": "Apie moterį, kuri septynis kartus ištekėjo už septynių brolių, kurie visi mirė bevaikiai.",
+      "c": "Apie moterį, kuri turėjo septynis sūnus ir visi jie mirė.",
+      "d": "Apie moterį, kuri buvo išgelbėta nuo akmenimis užmėtymo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_010",
+    "question": "Ką Jėzus atsakė sadukiejams apie prisikėlimą ir santuoką?",
+    "options": {
+      "a": "Kad prisikėlusieji vėl ves ir tekės, kaip danguje.",
+      "b": "Kad prisikėlusieji nei ves, nei tekės, bet bus kaip angelai danguje, ir Dievas yra gyvųjų, o ne mirusiųjų Dievas.",
+      "c": "Kad prisikėlimo nėra, todėl jų klausimas beprasmis.",
+      "d": "Kad tik tie, kurie laikėsi Mozės įstatymo, prisikels."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_011",
+    "question": "Kokie yra du didžiausi įsakymai, pasak Jėzaus?",
+    "options": {
+      "a": "Nemušk ir nevok.",
+      "b": "Gerbk tėvą ir motiną, ir nemeluok.",
+      "c": "Mylėk Viešpatį savo Dievą visa širdimi, visa siela, visu protu ir visomis jėgomis, ir mylėk savo artimą kaip save patį.",
+      "d": "Lankyk šventyklą ir aukok aukas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_012",
+    "question": "Kokį Jėzaus perspėjimą apie Rašto aiškintojus galima rasti?",
+    "options": {
+      "a": "Saugokitės tų, kurie nesimeldžia ir negerbia Dievo.",
+      "b": "Saugokitės tų, kurie mėgsta garbę, ilgus drabužius, pirmuosius krėslus sinagogose ir suvalgo našlių namus.",
+      "c": "Saugokitės tų, kurie kalba apie pranašystes, bet patys netiki.",
+      "d": "Saugokitės tų, kurie atsisako aukoti aukas šventykloje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_013",
+    "question": "Kiek pinigėlių įmetė vargšė našlė ir kodėl Jėzus pasakė, kad ji įmetė daugiausiai?",
+    "options": {
+      "a": "Vieną denarą; nes tai buvo viskas, ką ji turėjo.",
+      "b": "Du pinigėlius (skatiką); nes ji įmetė visa, ką turėjo, iš savo neturto.",
+      "c": "Tris denarus; nes ji paaukojo daugiau nei bet kas kitas.",
+      "d": "Dešimt skatikų; nes ji turėjo daug pinigų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_014",
+    "question": "Iš ko aukojo dauguma turtingųjų, palyginti su našle?",
+    "options": {
+      "a": "Iš savo didelio noro prisidėti.",
+      "b": "Iš to, kas jiems atlieka.",
+      "c": "Iš to, ką gavo kaip dovaną.",
+      "d": "Iš savo gausaus derliaus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  }
+]

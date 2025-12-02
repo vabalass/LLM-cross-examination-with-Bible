@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mk_2_001",
+    "question": "Kokia buvo pirminė kliūtis keturiems vyrams, bandantiems atnešti paralyžiuotąjį pas Jėzų Kafarnaume?",
+    "options": {
+      "a": "Per daug žmonių prisirinko, jog nė prie durų nebeliko vietos.",
+      "b": "Jėzus nebuvo namuose.",
+      "c": "Paralyžiuotasis buvo per sunkus nešti.",
+      "d": "Jie nerado namo, kuriame buvo Jėzus."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_002",
+    "question": "Kaip keturi vyrai sugebėjo atnešti paralyžiuotąjį pas Jėzų?",
+    "options": {
+      "a": "Jie paprašė minios pasitraukti.",
+      "b": "Jie laukė, kol Jėzus išėjo į lauką.",
+      "c": "Jie praplėšė namo stogą ir nuleido neštuvus.",
+      "d": "Jėzus pats atėjo prie jų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_003",
+    "question": "Ką Jėzus pasakė paralyžiuotajam išvydęs nešusiųjų tikėjimą?",
+    "options": {
+      "a": "„Kelkis ir eik namo!“",
+      "b": "„Sūnau, tau atleidžiamos nuodėmės!“",
+      "c": "„Tavo liga išgydyta!“",
+      "d": "„Eik ir nusiprausk upėje!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_004",
+    "question": "Kas savo širdyje svarstė ir priekaištavo Jėzui dėl nuodėmių atleidimo?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Minia",
+      "c": "Rašto aiškintojai",
+      "d": "Paralyžiuotasis"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_005",
+    "question": "Kokio asmens vardas, sėdinčio muitinėje, minimas tekste, kurį Jėzus pašaukė?",
+    "options": {
+      "a": "Dovydas",
+      "b": "Jonas",
+      "c": "Alfiejaus",
+      "d": "Levis"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_006",
+    "question": "Kodėl, pasak Jėzaus, jis valgė su muitininkais ir nusidėjėliais?",
+    "options": {
+      "a": "Nes jis mėgo jų draugiją.",
+      "b": "Nes jis norėjo valgyti nemokamai.",
+      "c": "„Ne sveikiesiems reikia gydytojo, bet ligoniams!“",
+      "d": "Jis buvo kviečiamas visų, tad negalėjo atsisakyti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_007",
+    "question": "Pagal Jėzaus palyginimą, kodėl jo mokiniai nepasninkavo, kai Jono mokiniai ir fariziejai pasninkavo?",
+    "options": {
+      "a": "Jie dar nebuvo pasirengę dvasiniam pasninkui.",
+      "b": "Jie buvo su jaunikiumi, o vestuvių svečiai pasninkauti negali, kol su jais yra jaunikis.",
+      "c": "Jėzus jiems neleido pasninkauti.",
+      "d": "Jie pasninkavo kitomis dienomis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_008",
+    "question": "Kas atsitinka, jei naujas vynas pilamas į senus vynmaišius, pasak Jėzaus?",
+    "options": {
+      "a": "Vynas tampa dar geresnis.",
+      "b": "Vynas suplėšytų vynmaišius, ir nueitų niekais ir vynas, ir vynmaišiai.",
+      "c": "Niekas neatsitinka, vynas išlieka geras.",
+      "d": "Vynas greičiau surūgsta."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_009",
+    "question": "Kokį principą Jėzus pareiškė apie Šabą, atsakydamas fariziejams dėl varpų skabymo?",
+    "options": {
+      "a": "Žmogus padarytas Šabui.",
+      "b": "Šabas skirtas tik kunigams.",
+      "c": "Šabas padarytas žmogui, ne žmogus Šabui.",
+      "d": "Šabas yra Dievo įsakymas, kurio privalo laikytis visi, be išimties."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  }
+]

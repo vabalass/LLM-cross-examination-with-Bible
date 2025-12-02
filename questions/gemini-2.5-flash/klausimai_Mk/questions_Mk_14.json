@@ -1,0 +1,314 @@
+[
+  {
+    "id": "Mk_14_001",
+    "question": "Kiek dienų iki Velykų ir Neraugintos duonos šventės tebuvo likę, kai aukštieji kunigai ir Rašto aiškintojai ieškojo būdo sugauti Jėzų?",
+    "options": {
+      "a": "Pora dienų",
+      "b": "Viena diena",
+      "c": "Savaitė",
+      "d": "Trys dienos"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_002",
+    "question": "Kokio būdo ieškojo aukštieji kunigai ir Rašto aiškintojai, norėdami sugauti Jėzų?",
+    "options": {
+      "a": "Klasta",
+      "b": "Atvirai, per šventes",
+      "c": "Pasitelkdami romėnų valdžią",
+      "d": "Per atsitiktinį susitikimą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_003",
+    "question": "Kur Jėzus buvo, kai moteris atėjo jį patepti?",
+    "options": {
+      "a": "Betanijoje, Simono Raupsuotojo namuose",
+      "b": "Jeruzalėje, šventykloje",
+      "c": "Galilėjoje, prie ežero",
+      "d": "Nazarete, jo namuose"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_004",
+    "question": "Kas buvo alebastriniame indelyje, kurį moteris išpylė Jėzui ant galvos?",
+    "options": {
+      "a": "Grynas nardo tepalas",
+      "b": "Kvepalai",
+      "c": "Alyvuogių aliejus",
+      "d": "Šventas vanduo"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_005",
+    "question": "Kiek pinigų, kai kurių ten esančių nuomone, buvo galima gauti pardavus tepalą?",
+    "options": {
+      "a": "Daugiau negu už tris šimtus denarų",
+      "b": "Apie šimtą denarų",
+      "c": "Penkiasdešimt denarų",
+      "d": "Tūkstantį denarų"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_006",
+    "question": "Ką Jėzus pasakė apie vargšus, atsiliepiant į murmėjimą prieš moterį?",
+    "options": {
+      "a": "„Vargšų jūs visuomet turite su savimi“",
+      "b": "„Vargšus sutiksite tik retkarčiais“",
+      "c": "„Vargšai visada bus su manimi“",
+      "d": "„Vargšams padėti privaloma tik per šventes“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_007",
+    "question": "Kam Jėzus paaiškino, kad moteris iš anksto patepė jo kūną?",
+    "options": {
+      "a": "Laidotuvėms",
+      "b": "Kelionei",
+      "c": "Šventei",
+      "d": "Pasveikinimui"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_008",
+    "question": "Kas, būdamas vienas iš Dvylikos, nuėjo pas aukštuosius kunigus pasiryžęs išduoti Jėzų?",
+    "options": {
+      "a": "Judas Iskarijotas",
+      "b": "Petras",
+      "c": "Jonas",
+      "d": "Jokūbas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_009",
+    "question": "Kokia buvo aukštųjų kunigų reakcija į Judo pasiūlymą išduoti Jėzų?",
+    "options": {
+      "a": "Apsidžiaugė ir pažadėjo jam pinigų",
+      "b": "Buvo nustebę ir supyko",
+      "c": "Atsisakė jo pagalbos",
+      "d": "Prašė laiko apmąstyti"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_010",
+    "question": "Kokią dieną mokiniai klausė Jėzaus, kur paruošti Velykų vakarienę?",
+    "options": {
+      "a": "Pirmąją Neraugintos duonos dieną",
+      "b": "Savaitės viduryje",
+      "c": "Prieš šventes",
+      "d": "Per šabo dieną"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_011",
+    "question": "Koks ženklas mieste turėjo padėti mokiniams rasti vietą Velykų vakarienei?",
+    "options": {
+      "a": "Žmogus, vandens ąsočiu nešinas",
+      "b": "Moteris su duonos krepšiu",
+      "c": "Šuo, vedantis juos",
+      "d": "Vaikas su knyga"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_012",
+    "question": "Koks kambarys buvo parodytas mokiniams Velykų vakarienei?",
+    "options": {
+      "a": "Didelis aukštutinis kambarys su baldais",
+      "b": "Mažas rūsys",
+      "c": "Erdvi lauko palapinė",
+      "d": "Pirmame aukšte esantis valgomasis"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_013",
+    "question": "Ką Jėzus prabilo bevalgant vakarienę, kas nuliūdino mokinius?",
+    "options": {
+      "a": "Kad vienas iš jų išduos jį",
+      "b": "Kad jiems teks daug keliauti",
+      "c": "Kad jiems trūksta tikėjimo",
+      "d": "Kad vakarienė baigiasi"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_014",
+    "question": "Koks ženklas, pasak Jėzaus, nurodė išdaviką?",
+    "options": {
+      "a": "Vienas iš Dvylikos, kuris dažo su juo viename dubenyje",
+      "b": "Tas, kuris sėdi Jėzui iš kairės",
+      "c": "Tas, kuris tylėjo per visą vakarienę",
+      "d": "Tas, kuris pirmas pakėlė taurę"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_015",
+    "question": "Ką Jėzus paėmė, laužė ir davė mokiniams, tardamas „Imkite, tai mano kūnas!“?",
+    "options": {
+      "a": "Duoną",
+      "b": "Žuvį",
+      "c": "Mėsą",
+      "d": "Vaisius"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_016",
+    "question": "Ką simbolizavo Jėzaus kraujas, išliejamas už daugelį?",
+    "options": {
+      "a": "Sandoros kraują",
+      "b": "Gyvenimo praradimą",
+      "c": "Džiaugsmo ženklą",
+      "d": "Pranašystę"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_017",
+    "question": "Kur Jėzus ir mokiniai išėjo pagiedoję himną?",
+    "options": {
+      "a": "Į Alyvų kalną",
+      "b": "Atgal į miestą",
+      "c": "Į Sinagogą",
+      "d": "Į Petro namus"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_018",
+    "question": "Kur Jėzus pažadėjo nueiti pirmiau už mokinius po prisikėlimo?",
+    "options": {
+      "a": "Į Galilėją",
+      "b": "Į Jeruzalę",
+      "c": "Į Betaniją",
+      "d": "Į Judėją"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_019",
+    "question": "Kiek kartų, pasak Jėzaus, Petras jo išsigins?",
+    "options": {
+      "a": "Tris kartus",
+      "b": "Vieną kartą",
+      "c": "Du kartus",
+      "d": "Keturis kartus"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_020",
+    "question": "Kaip vadinosi ūkis, į kurį Jėzus ir mokiniai atėjo melstis?",
+    "options": {
+      "a": "Getsemanė",
+      "b": "Betliejus",
+      "c": "Nazaretas",
+      "d": "Kaparnaumas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_021",
+    "question": "Kokius tris mokinius Jėzus pasiėmė su savimi į Getsemanės sodą, kai pradėjo nuogąstauti ir sielotis?",
+    "options": {
+      "a": "Petrą, Jokūbą ir Joną",
+      "b": "Andrių, Filipą ir Baltramiejų",
+      "c": "Tomą, Matą ir Simoną",
+      "d": "Judą, Tadą ir Jokūbą (Alfejo sūnų)"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_022",
+    "question": "Ką Jėzus sakė mokiniams apie budėjimą ir maldą?",
+    "options": {
+      "a": "„Budėkite ir melskitės, kad nepatektumėt į pagundą, nes dvasia ryžtinga, bet kūnas silpnas“",
+      "b": "„Miegokite ir ilsėkitės, nes valanda dar neatėjo“",
+      "c": "„Nebijokite, nes aš esu su jumis“",
+      "d": "„Eikite ir skelbkite gerąją naujieną“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_023",
+    "question": "Koks buvo Judo nurodytas ženklas, kad kareiviai atpažintų Jėzų?",
+    "options": {
+      "a": "Pabučiavimas",
+      "b": "Rankos paspaudimas",
+      "c": "Slaptas žodis",
+      "d": "Parodymas pirštu"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_024",
+    "question": "Ką Jėzus atsakė vyriausiajam kunigui, kai šis paklausė: „Ar tu esi Mesijas, Šlovingojo Sūnus?“",
+    "options": {
+      "a": "„Taip, Aš Esu.“",
+      "b": "„Aš nežinau.“",
+      "c": "„Tu pats sakai.“",
+      "d": "„Palaukite ir pamatysite.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mk_13_001",
+    "question": "Ką Jėzus pasakė apie didžiulius šventyklos pastatus?",
+    "options": {
+      "a": "Čia neliks akmens ant akmens, viskas bus išgriauta.",
+      "b": "Jie stovės amžinai kaip tikėjimo simbolis.",
+      "c": "Jie bus atnaujinti ir taps dar gražesni.",
+      "d": "Jie bus perkelti į kitą vietą ateityje."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_002",
+    "question": "Kas atskirai nuo kitų klausė Jėzų Alyvų kalne apie tai, kada įvyks šventyklos sunaikinimas ir koks bus to ženklas?",
+    "options": {
+      "a": "Petras, Jokūbas, Jonas ir Andriejus.",
+      "b": "Mato, Morkaus, Luko ir Jono mokiniai.",
+      "c": "Tik Petras ir Jonas.",
+      "d": "Visi mokiniai kartu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_003",
+    "question": "Kokius įvykius Jėzus nurodė kaip 'kentėjimų pradžią'?",
+    "options": {
+      "a": "Didelius džiaugsmo šventes ir gausius derlius.",
+      "b": "Tautų susivienijimą ir ilgalaikę taiką.",
+      "c": "Tautų ir karalysčių pakilimą vienai prieš kitą, žemės drebėjimus ir badmečius.",
+      "d": "Naujų miestų statybas ir pranašų atėjimą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_004",
+    "question": "Kas, Jėzaus žodžiais, turi įvykti pirmiau, prieš patį galą?",
+    "options": {
+      "a": "Turi būti pastatyta nauja šventykla.",
+      "b": "Turi būti visoms tautoms paskelbta Evangelija.",
+      "c": "Turi pasirodyti Mesijas.",
+      "d": "Visi karai turi pasibaigti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_005",
+    "question": "Kas kalbės per mokinius, kai jie bus suimti ir vedami į teismus?",
+    "options": {
+      "a": "Jie patys, apgalvoję savo gynybą.",
+      "b": "Jėzus asmeniškai pasirodys ir kalbės už juos.",
+      "c": "Angelai kalbės jų lūpomis.",
+      "d": "Šventoji Dvasia."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_006",
+    "question": "Ką Jėzus pasakė apie tuos, kurie ištvers iki galo?",
+    "options": {
+      "a": "Jie taps karaliais.",
+      "b": "Jie bus išgelbėti.",
+      "c": "Jie gaus didelius turtus.",
+      "d": "Jie taps visų garbinami."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_007",
+    "question": "Koks ženklas Judėjoje turėtų paskatinti žmones bėgti į kalnus?",
+    "options": {
+      "a": "Netikėtas saulės užtemimas.",
+      "b": "Kai pamatys sunaikinimo pabaisą stovint ten, kur jos neturi būti.",
+      "c": "Didelis žemės drebėjimas.",
+      "d": "Angelų pasirodymas danguje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_008",
+    "question": "Kodėl Viešpats sutrumpino 'tas dienas' (suspaudimo dienas)?",
+    "options": {
+      "a": "Kad niekas negalėtų sužinoti pabaigos datos.",
+      "b": "Dėl išrinktųjų, kuriuos išsirinko.",
+      "c": "Kad būtų duota daugiau laiko atgailai.",
+      "d": "Kad netikri mesijai neturėtų laiko suvedžioti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_009",
+    "question": "Kas įvyks danguje po ano suspaudimo?",
+    "options": {
+      "a": "Pasirodys nauja žvaigždė.",
+      "b": "Saulė užtems, mėnulis nebeduos šviesos, žvaigždės kris nuo dangaus.",
+      "c": "Dangus atsivers ir pasirodys angelai.",
+      "d": "Įvyks didelis perkūnija ir žaibavimas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_010",
+    "question": "Kaip žmonės pamatys Žmogaus Sūnų ateinantį?",
+    "options": {
+      "a": "Pasislėpusį minioje, kaip paprastą žmogų.",
+      "b": "Debesyse su didžia galia ir šlove.",
+      "c": "Ant balto žirgo, vedantį kariuomenę.",
+      "d": "Tyliai, be jokių išorinių ženklų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_011",
+    "question": "Ko moko palyginimas su figos medžiu?",
+    "options": {
+      "a": "Kad vasara ateina anksti pavasarį.",
+      "b": "Kai jo šaka suminkštėja ir sprogsta lapai, artinasi vasara; taip pat išvydus tam tikrus ženklus, reikia suprasti, jog jis jau arti, prie slenksčio.",
+      "c": "Kad visada reikia sodinti medžius.",
+      "d": "Kad medžiai yra gyvybiškai svarbūs planetai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_012",
+    "question": "Kas vienintelis žino tikslų 'tos dienos ar tos valandos' laiką?",
+    "options": {
+      "a": "Dangaus angelai.",
+      "b": "Sūnus (Jėzus).",
+      "c": "Tik Tėvas.",
+      "d": "Didieji pranašai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  }
+]

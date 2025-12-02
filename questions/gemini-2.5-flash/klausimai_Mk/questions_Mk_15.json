@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mk_15_001",
+    "question": "Kas surakintą Jėzų nuvedė ir perdavė Pilotui?",
+    "options": {
+      "a": "Aukštieji kunigai su seniūnais ir Rašto aiškintojais bei visa teismo taryba.",
+      "b": "Tik aukštieji kunigai.",
+      "c": "Tik seniūnai ir Rašto aiškintojai.",
+      "d": "Romos kareiviai."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_002",
+    "question": "Ką Pilotas pirmiausia paklausė Jėzaus?",
+    "options": {
+      "a": "Ar tu esi žydų karalius?",
+      "b": "Kodėl tu nieko neatsakai?",
+      "c": "Ką gi pikta tu esi padaręs?",
+      "d": "Ar norite, kad jums paleisčiau Barabą?"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_003",
+    "question": "Kaip Jėzus reagavo į daugybę kaltinimų, kuriuos jam pateikė aukštieji kunigai?",
+    "options": {
+      "a": "Jis neigė visus kaltinimus.",
+      "b": "Jis prašė Piloto jį apginti.",
+      "c": "Jis daugiau nebeatsakinėjo.",
+      "d": "Jis stebėjosi Piloto klausimais."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_004",
+    "question": "Ką Pilotas visuomet darydavo per šventes?",
+    "options": {
+      "a": "Paleisdavo vieną kalinį, kurio žmonės prašydavo.",
+      "b": "Nukryžiuodavo du nusikaltėlius.",
+      "c": "Liepdavo nuplakti visus kalinius.",
+      "d": "Išklausydavo visų teismo tarybos narių nuomones."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_005",
+    "question": "Kuo buvo kaltinamas Barabas, kurį norėjo, kad paleistų?",
+    "options": {
+      "a": "Jis buvo Romos imperijos priešas.",
+      "b": "Jis buvo suimtas kartu su maištininkais, kurie sąmyšio metu buvo nužudę žmogų.",
+      "c": "Jis sugriovė šventyklą ir atstatė ją per tris dienas.",
+      "d": "Jis buvo žydų karalius."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_006",
+    "question": "Kodėl aukštieji kunigai įskundė Jėzų Pilotui?",
+    "options": {
+      "a": "Iš pavydo.",
+      "b": "Nes Jėzus buvo maištininkas.",
+      "c": "Nes Jėzus bandė nuversti Romos valdžią.",
+      "d": "Nes Jėzus šaukėsi Elijo."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_007",
+    "question": "Ką minia reikalavo Pilotui padaryti Jėzui?",
+    "options": {
+      "a": "Nuplakdink jį!",
+      "b": "Paleisk jį!",
+      "c": "Ant kryžiaus jį!",
+      "d": "Tegul jis išsigelbsti pats!"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_008",
+    "question": "Ką kareiviai uždėjo Jėzui ant galvos tyčiodamiesi iš jo?",
+    "options": {
+      "a": "Erškėčių vainiką.",
+      "b": "Purpurinį apsiaustą.",
+      "c": "Auksines karūnas.",
+      "d": "Nendrinę lazdą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_009",
+    "question": "Kas buvo priverstas panėšėti Jėzaus kryžių?",
+    "options": {
+      "a": "Juozapas iš Arimatėjos.",
+      "b": "Simonas Kirėnietis.",
+      "c": "Barabas.",
+      "d": "Vienas iš kareivių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_010",
+    "question": "Kaip vadinosi vieta, į kurią Jėzus buvo nuvestas nukryžiuoti?",
+    "options": {
+      "a": "Golgota.",
+      "b": "Jeruzalė.",
+      "c": "Pretorijus.",
+      "d": "Galilėja."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_011",
+    "question": "Kurią valandą Jėzus buvo nukryžiuotas?",
+    "options": {
+      "a": "Šešta valanda.",
+      "b": "Devinta valanda.",
+      "c": "Trečia valanda.",
+      "d": "Anksti rytą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_012",
+    "question": "Koks Jėzaus kaltinimas buvo užrašytas virš jo ant kryžiaus?",
+    "options": {
+      "a": "Maištininkų vadas.",
+      "b": "Žydų karalius.",
+      "c": "Šventyklos griovėjas.",
+      "d": "Dievo Sūnus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_013",
+    "question": "Kas atsitiko nuo šeštos iki devintos valandos, Jėzui esant ant kryžiaus?",
+    "options": {
+      "a": "Prasidėjo stiprus žemės drebėjimas.",
+      "b": "Visą kraštą apgaubė tamsa.",
+      "c": "Kareiviai jį nuėmė nuo kryžiaus.",
+      "d": "Elijas atėjo jo nuimti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_014",
+    "question": "Koks įvykis įvyko šventykloje, Jėzui atidavus dvasią?",
+    "options": {
+      "a": "Šventykla sugriuvo.",
+      "b": "Šventykloje užgeso visos šviesos.",
+      "c": "Šventyklos uždanga perplyšo į dvi dalis nuo viršaus iki apačios.",
+      "d": "Visi aukštieji kunigai išsigando ir pabėgo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_015",
+    "question": "Kas paprašė Piloto Jėzaus kūno ir jį palaidojo?",
+    "options": {
+      "a": "Simonas Kirėnietis.",
+      "b": "Marija Magdalietė.",
+      "c": "Šimtininkas.",
+      "d": "Juozapas iš Arimatėjos."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  }
+]

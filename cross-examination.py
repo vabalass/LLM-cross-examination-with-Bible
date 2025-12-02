@@ -30,9 +30,11 @@ def get_bible_question_from_llm(model, bible_text, max_retries=1, number_of_ques
                     bible_text
                 )
                 message = [{ "content": message_content,"role": "user"}]
+                print(message)
                 response = completion(model=model, messages=message)
                 print("Atsakymas gautas.")
                 if response.choices:
+                    print(response.choices[0].message["content"])
                     return response.choices[0].message["content"]
                 else:
                     print("Klaida: Atsakymo variantų nerasta.")
@@ -353,7 +355,7 @@ def json_to_csv(input_json_path: str, output_csv_path: str):
 def main():
     read_and_save_API_keys("API_keys.txt")
     
-    book_path = Path(__file__).parent / "Bible" / "mato_evangelija"
+    book_path = Path(__file__).parent / "Bible" / "testiniai_skyriai"
     
     models = [
         "gemini/gemini-2.5-flash",

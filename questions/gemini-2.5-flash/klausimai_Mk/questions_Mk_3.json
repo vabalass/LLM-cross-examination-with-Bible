@@ -1,0 +1,146 @@
+[
+  {
+    "id": "Mk_3_001",
+    "question": "Kodėl fariziejai stebėjo Jėzų sinagogoje, kai ten buvo žmogus su padžiūvusia ranka?",
+    "options": {
+      "a": "Kad galėtų apkaltinti jį, jei gydytų šabo dieną.",
+      "b": "Norėdami išmokti jo gydymo metodų.",
+      "c": "Tikėdamiesi, kad jis padės jiems spręsti ginčus.",
+      "d": "Kad paprašytų jo palaiminimo.",
+      "e": "Kad Jėzus atpažintų juos ir pagydytų"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_002",
+    "question": "Kaip Jėzus reagavo į fariziejų tylėjimą, kai paklausė, ar šabo dieną leistina gera daryti, ar bloga?",
+    "options": {
+      "a": "Rūsčiai juos apžvelgė ir nuliūdo dėl jų širdies kietumo.",
+      "b": "Nekreipė į tai dėmesio ir tęsė mokymą.",
+      "c": "Paprašė juos paaiškinti savo tylėjimą.",
+      "d": "Apdovanojo tuos, kurie pritarė jo nuomonei."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_003",
+    "question": "Kas nutiko po to, kai Jėzus liepė žmogui su padžiūvusia ranka ją ištiesti?",
+    "options": {
+      "a": "Žmogus atsisakė ir išėjo.",
+      "b": "Ranka atgijo.",
+      "c": "Fariziejai suėmė Jėzų.",
+      "d": "Žmogus davė Jėzui pinigų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_004",
+    "question": "Iš kokių vietovių atvyko daugybė žmonių prie ežero, išgirdę apie Jėzaus darbus?",
+    "options": {
+      "a": "Tik iš Galilėjos ir Judėjos.",
+      "b": "Iš Idumėjos, anapus Jordano, Tyro ir Sidono šalies, be kitų.",
+      "c": "Vien tik iš Jeruzalės ir aplinkinių kaimų.",
+      "d": "Tik iš Galilėjos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_005",
+    "question": "Ko Jėzus liepė mokiniams laikyti paruoštą, kad minia jo nesuspaustų?",
+    "options": {
+      "a": "Palapinę.",
+      "b": "Valtį.",
+      "c": "Kėdę.",
+      "d": "Šaligatvį."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_006",
+    "question": "Koks buvo vienas iš tikslų, dėl kurių Jėzus paskyrė Dvylika?",
+    "options": {
+      "a": "Kad jie kauptų turtus ir statytų šventyklas.",
+      "b": "Kad jie būtų kartu su juo ir kad galėtų siųsti juos skelbti žodžio.",
+      "c": "Kad jie jam paruoštų maistą ir pastogę.",
+      "d": "Kad jie jam padėtų administruoti mokesčius."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_007",
+    "question": "Kokiu vardu Jėzus pavadino Zebediejaus sūnus Jokūbą ir Joną?",
+    "options": {
+      "a": "Petru ir Andriejumi.",
+      "b": "Boanergės (griaustinio vaikai).",
+      "c": "Baltramiejumi ir Matu.",
+      "d": "Tomu ir Tadu."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_008",
+    "question": "Kaip Jėzaus saviškiai reagavo, sugrįžus jam namo ir susirinkus tiek žmonių, kad negalėjo net pavalgyti?",
+    "options": {
+      "a": "Jie džiaugėsi jo populiarumu.",
+      "b": "Jie ėjo sulaikyti jo sakydami, kad jis kaip galvos netekęs.",
+      "c": "Jie atnešė jam maisto ir gėrimų.",
+      "d": "Jie prisijungė prie minios, kad jo klausytų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_009",
+    "question": "Ką Jeruzalės Rašto aiškintojai sakė apie Jėzų?",
+    "options": {
+      "a": "Kad jis yra Dievo pranašas.",
+      "b": "„Jis turi Belzebulą“ ir „Demonų kunigaikščio galia jis išvaro demonus“.",
+      "c": "Kad jis moko teisingumo ir meilės.",
+      "d": "Kad jis turėtų būti jų vadovas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_010",
+    "question": "Kokia nuodėmė, pasak Jėzaus, amžiais nebus dovanota?",
+    "options": {
+      "a": "Melas artimui.",
+      "b": "Vagystė iš šventyklos.",
+      "c": "Piktžodžiavimas Šventajai Dvasiai.",
+      "d": "Darbas šabo dieną."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_011",
+    "question": "Kas, pasak Jėzaus, yra jo motina ir broliai?",
+    "options": {
+      "a": "Tik tie, kurie yra jo kraujo giminaičiai.",
+      "b": "Tie, kurie jį aplanko lauke.",
+      "c": "Kas tik vykdo Dievo valią.",
+      "d": "Dvylika apaštalų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  }
+]

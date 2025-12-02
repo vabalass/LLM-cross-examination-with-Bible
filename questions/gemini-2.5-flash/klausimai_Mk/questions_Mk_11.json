@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mk_11_001",
+    "question": "Iš kur Jėzus pasiuntė du savo mokinius ieškoti asilaičio?",
+    "options": {
+      "a": "Iš Betfagės ir Betanijos, ties Alyvų kalnu.",
+      "b": "Iš Nazareto, pro Jericho kelią.",
+      "c": "Iš Galilėjos, netoli Tiberiados ežero.",
+      "d": "Iš Jeruzalės, prie Dovydo miesto vartų."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_002",
+    "question": "Ką mokiniai turėjo surasti kaimo pakraštyje?",
+    "options": {
+      "a": "Sunkiai sužeistą žmogų, kuriam reikėjo pagalbos.",
+      "b": "Pririštą asilaitį, kuriuo dar niekas iš žmonių nebuvo jojęs.",
+      "c": "Pamestą skrynią su brangenybėmis.",
+      "d": "Avių bandą, kurią reikėjo parginti į ganyklą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_003",
+    "question": "Kokio šūksnio žmonės nenaudojo Jėzui įžengiant į Jeruzalę?",
+    "options": {
+      "a": "Osana!",
+      "b": "Garbė tam, kuris ateina Viešpaties vardu!",
+      "c": "Šlovė besiartinančiai mūsų tėvo Dovydo karalystei!",
+      "d": "Šlovė Viešpačiui, karalių Karaliui!"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_004",
+    "question": "Rytojaus dieną, keliaujant iš Betanijos, Jėzus buvo alkanas ir pamatė figmedį. Kodėl jis nerado ant jo vaisių?",
+    "options": {
+      "a": "Nes medis buvo dar jaunas ir nevaisingas.",
+      "b": "Nes figas jau buvo surinkę kiti keliautojai.",
+      "c": "Nes buvo dar ne figų metas.",
+      "d": "Nes figmedis buvo nudžiūvęs."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_005",
+    "question": "Ką Jėzus padarė įėjęs į šventyklą?",
+    "options": {
+      "a": "Meldėsi už sergančiuosius ir ligonius.",
+      "b": "Vijo laukan parduodančius ir perkančius, išvartė pinigų keitėjų stalus.",
+      "c": "Sakė pamokslą apie Mozės įstatymus.",
+      "d": "Kvietė visus susirinkusius vakarienės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_006",
+    "question": "Kaip Jėzus apibūdino šventyklą, cituodamas Raštus?",
+    "options": {
+      "a": "Mano namai vadinsis šlovės namai visoms tautoms!",
+      "b": "Mano namai vadinsis maldos namai visoms tautoms!",
+      "c": "Mano namai vadinsis Dievo buveinė visoms tautoms!",
+      "d": "Mano namai vadinsis aukos namai visoms tautoms!"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_007",
+    "question": "Kas atėjus vakarui Jėzaus ir mokinių atžvilgiu tarėsi, kaip Jėzų pražudyti?",
+    "options": {
+      "a": "Romos kareiviai ir valdytojas.",
+      "b": "Prekybininkai, kuriuos Jėzus išvijo iš šventyklos.",
+      "c": "Aukštieji kunigai ir Rašto aiškintojai.",
+      "d": "Paprasti žmonės, nepatenkinti Jėzaus mokymu."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_008",
+    "question": "Kas nutiko figmedžiui kitą rytą, kai mokiniai su Jėzumi ėjo pro šalį?",
+    "options": {
+      "a": "Jis subrandino daugybę vaisių.",
+      "b": "Jis nudžiūvo iš pat šaknų.",
+      "c": "Jis atsigavo ir sužaliavo.",
+      "d": "Ant jo buvo paukščių lizdas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_009",
+    "question": "Ką Jėzus mokė apie tikėjimą ir kalno perkėlimą į jūrą?",
+    "options": {
+      "a": "Tai įmanoma tik su angelų pagalba.",
+      "b": "Tai įmanoma tik Dievo sūnui.",
+      "c": "Tai įvyktų, jei kas tikėtų ir nesvyruotų širdyje.",
+      "d": "Tai tik palyginimas, o ne tiesioginis pažadas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_010",
+    "question": "Kokia sąlyga Jėzus paminėjo, kad Dievas atleistų nusižengimus, kai einama melstis?",
+    "options": {
+      "a": "Atsisakyti visų savo nuosavybių.",
+      "b": "Atleisti tiems, kurie turi ką nors prieš kitus.",
+      "c": "Paaukoti didelę auką šventykloje.",
+      "d": "Pasisninkauti visą dieną."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_011",
+    "question": "Kuo Jėzus atsikirto aukštiesiems kunigams, Rašto aiškintojams ir seniūnams, kai jie paklausė apie jo galią?",
+    "options": {
+      "a": "Paklausė, ar jie tiki į Mesiją.",
+      "b": "Paklausė apie Jono krikšto kilmę.",
+      "c": "Pasiūlė jiems prisijungti prie jo mokinių.",
+      "d": "Iškart pasakė, kad jo galia yra iš Dievo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  }
+]

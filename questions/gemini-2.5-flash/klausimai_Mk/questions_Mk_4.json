@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Mk_4_001",
+    "question": "Kur Jėzus mokė minios prieš įlipdamas į valtį?",
+    "options": {
+      "a": "Paežerėje",
+      "b": "Miesto aikštėje",
+      "c": "Ant kalno",
+      "d": "Sinagogoje"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_002",
+    "question": "Kas nutiko grūdams, kurie nukrito į uolėtą dirvą ir neturėjo gilesnio žemės sluoksnio?",
+    "options": {
+      "a": "Davė trisdešimteriopą derlių",
+      "b": "Atskridę paukščiai juos sulesė",
+      "c": "Greit sudygo, bet saulei užtekėjus nuvyto ir sudžiūvo",
+      "d": "Išaugo ir nusmelkė erškėčiai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_003",
+    "question": "Kokį derlių davė grūdai, kurie nukrito į gerą žemę?",
+    "options": {
+      "a": "Visi davė šimteriopą derlių",
+      "b": "Davė derlių: vieni trisdešimteriopą, kiti šešiasdešimteriopą, treti šimteriopą",
+      "c": "Davė dešimteriopą derlių",
+      "d": "Nedavė jokio derliaus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_004",
+    "question": "Kodėl Jėzus pašaliniams kalbėjo palyginimais?",
+    "options": {
+      "a": "Kad jie geriau suprastų Dievo karalystės paslaptis",
+      "b": "Kad regėtų regėtų, bet nematytų, girdėtų girdėtų, bet nesuprastų",
+      "c": "Kad jiems būtų atleista ir jie atsiverstų",
+      "d": "Kad patikrintų jų tikėjimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_005",
+    "question": "Kas, pasak Jėzaus, simbolizuoja „sėjėją“ palyginime?",
+    "options": {
+      "a": "Dievas Tėvas",
+      "b": "Sėjantis žodį",
+      "c": "Jėzus Kristus",
+      "d": "Žmogus, kuris dalija išmintį"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_006",
+    "question": "Ką simbolizuoja tie, kurie yra „pasėti uolynėje“ palyginimo išaiškinime?",
+    "options": {
+      "a": "Žmonės, kuriems šėtonas išplėšia žodį",
+      "b": "Žmonės, kurie išgirsta žodį, priima su džiaugsmu, bet neturi šaknų ir atkrinta ištikus negandai",
+      "c": "Žmonės, kurių žodį nusmelkia pasaulio rūpesčiai ir turto apgaulė",
+      "d": "Žmonės, kurie išgirsta žodį ir duoda daug vaisių"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_007",
+    "question": "Ką Jėzus sakė apie tai, kas yra slapta ar paslėpta, palyginime su žibintu?",
+    "options": {
+      "a": "Nėra nieko slapta, kas neturėtų būti atidengta, ir nieko paslėpta, kas neišeitų aikštėn",
+      "b": "Slapti dalykai turi likti paslėpti nuo pašalinių",
+      "c": "Tik Dievas žino visas paslaptis",
+      "d": "Paslaptys bus atskleistos tik po pasaulio pabaigos"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_008",
+    "question": "Kokį principą Jėzus išdėstė kalbėdamas apie saiką?",
+    "options": {
+      "a": "Kiekvienam bus duota pagal jo poreikius",
+      "b": "Ką pasėsi, tą ir pjausi",
+      "c": "Kokiu saiku seikėjate, tokiu ir jums bus atseikėta ir dar pridėta",
+      "d": "Dievas mato visų širdis ir atlygina teisingai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_009",
+    "question": "Kaip, pasak palyginimo apie savaiminį augimą, sėkla dygsta ir auga?",
+    "options": {
+      "a": "Žmogus turi ją nuolat prižiūrėti ir laistyti",
+      "b": "Žemė savaime duoda vaisių, žmogui visiškai nežinant kaip",
+      "c": "Dievo angelas ją augina per naktį",
+      "d": "Tik dieviška intervencija gali priversti sėklą augti"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_010",
+    "question": "Su kuo Jėzus palygino Dievo karalystę, paminėdamas mažiausią sėklą?",
+    "options": {
+      "a": "Su rugio grūdu",
+      "b": "Su kviečio grūdu",
+      "c": "Su garstyčios grūdeliu",
+      "d": "Su smėlio smiltimi"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_011",
+    "question": "Kaip Jėzus skelbė žodį žmonėms ir kaip jis išaiškindavo savo mokiniams?",
+    "options": {
+      "a": "Visada atvirai visiems, bet mokiniams duodavo daugiau detalių",
+      "b": "Žmonėms palyginimais, kiek jie sugebėjo suprasti, o mokiniams skyrium viską išaiškindavo",
+      "c": "Žmonėms tiesiai šviesiai, o mokiniams – tik palyginimais",
+      "d": "Tik mokiniams skelbė žodį, o minios tik stebėjo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_012",
+    "question": "Ką Jėzus darė valties gale, kai kilo didžiulė vėtra?",
+    "options": {
+      "a": "Meldeisi už mokinius",
+      "b": "Miegojo ant pagalvės",
+      "c": "Bandė suvaldyti valtį",
+      "d": "Mokė mokinius apie tikėjimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_013",
+    "question": "Koks buvo mokinių atsakymas, kai Jėzus nuramino audrą?",
+    "options": {
+      "a": "Jie džiaugėsi, kad išsigelbėjo ir dėkojo Jam",
+      "b": "Jie nustebo ir klausė: „Kas gi jis toks? Net vėjas ir marios jo klauso!“",
+      "c": "Jie išsigando ir liepė Jėzui palikti valtį",
+      "d": "Jie paklausė, kodėl Jis tiek ilgai laukė"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  }
+]

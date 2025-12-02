@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Mk_10_001",
+    "question": "Su kokiu klausimu fariziejai kreipėsi į Jėzų, norėdami jam spęsti pinkles?",
+    "options": {
+      "a": "Ar galima atleisti žmoną?",
+      "b": "Koks yra didžiausias įsakymas?",
+      "c": "Ar galima mokėti mokesčius Cezariui?",
+      "d": "Kieno sūnus yra Mesijas?"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_002",
+    "question": "Dėl kokios priežasties, pasak Jėzaus, Mozė parašė nuostatą dėl skyrybų rašto?",
+    "options": {
+      "a": "Dėl tautos klusnumo.",
+      "b": "Dėl vyrų širdies kietumo.",
+      "c": "Dėl Dievo valios.",
+      "d": "Dėl moterų teisių apsaugos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_003",
+    "question": "Ką Jėzus pabrėžė apie santuoką, remdamasis sukūrimo pradžia?",
+    "options": {
+      "a": "Kad ji yra laikina.",
+      "b": "Kad ji yra tarpusavio susitarimas.",
+      "c": "Kad Dievas sujungė vyrą ir moterį į vieną kūną.",
+      "d": "Kad vyras turi teisę atleisti žmoną."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_004",
+    "question": "Pasak Jėzaus, kas nutinka, jei vyras atleidžia savo žmoną ir veda kitą?",
+    "options": {
+      "a": "Jis nusideda pagonims.",
+      "b": "Jis nusikalsta pirmajai svetimavimu.",
+      "c": "Jis pažeidžia tradicijas.",
+      "d": "Jis įgyja teisę į naują šeimą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_005",
+    "question": "Kaip Jėzus reagavo, kai mokiniai draudė nešti jam vaikučius?",
+    "options": {
+      "a": "Jis juos nubaudė.",
+      "b": "Jis užsirūstino ant mokinių.",
+      "c": "Jis pasitraukė į šalį.",
+      "d": "Jis ignoravo situaciją."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_006",
+    "question": "Ką Jėzus sakė apie Dievo karalystę ir mažutėlius?",
+    "options": {
+      "a": "Tokiems sunku įeiti į ją.",
+      "b": "Tokių yra Dievo karalystė.",
+      "c": "Jie yra tik ateities karalystės dalis.",
+      "d": "Jie turi būti pirmieji."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_007",
+    "question": "Ką turtingas jaunuolis paklausė Jėzaus, pribėgęs ir puolęs ant kelių?",
+    "options": {
+      "a": "Kaip tapti turtingesniu?",
+      "b": "Ką turiu daryti, kad laimėčiau amžinąjį gyvenimą?",
+      "c": "Ar aš esu geras?",
+      "d": "Kokie įsakymai svarbiausi?"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_008",
+    "question": "Koks vienas dalykas, pasak Jėzaus, trūko turtingam jaunuoliui?",
+    "options": {
+      "a": "Tikėjimo.",
+      "b": "Meilės artimui.",
+      "c": "Parduoti visa, ką turi, išdalyti vargšams ir sekti Jėzumi.",
+      "d": "Didesnės išminties."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_009",
+    "question": "Su kuo Jėzus palygino sunkumą turtuoliams įeiti į Dievo karalystę?",
+    "options": {
+      "a": "Su kupranugariu, išlįstančiu pro adatos ausį.",
+      "b": "Su kalno perkėlimu.",
+      "c": "Su smėlio smiltelės suradimu jūroje.",
+      "d": "Su akmens pakėlimu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_010",
+    "question": "Ką Jėzus atsakė mokiniams, paklaustiems, kas tada galės išsigelbėti?",
+    "options": {
+      "a": "Tai neįmanoma niekam.",
+      "b": "Tai įmanoma tik tiems, kas tiki.",
+      "c": "Tai neįmanoma žmonėms, bet ne Dievui: Dievui viskas įmanoma.",
+      "d": "Tai priklauso nuo jų pastangų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_011",
+    "question": "Ką Jėzus pažadėjo tiems, kurie dėl Jo ir Evangelijos paliks viską?",
+    "options": {
+      "a": "Didelę šlovę žmonių akyse.",
+      "b": "Šimteriopai namų, brolių, seserų ir amžinąjį gyvenimą.",
+      "c": "Lengvą ir nerūpestingą gyvenimą.",
+      "d": "Tiesioginį pakilimą į dangų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_012",
+    "question": "Kas, pagal Jėzaus pranašystę, pasmerks jį mirti?",
+    "options": {
+      "a": "Romėnų valdytojas.",
+      "b": "Jo paties mokiniai.",
+      "c": "Aukštieji kunigai ir Rašto aiškintojai.",
+      "d": "Erodas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_013",
+    "question": "Kas, pasak Jėzaus, išjuoks, apspjaudys, nuplaks ir nužudys jį po išdavystės?",
+    "options": {
+      "a": "Fariziejai.",
+      "b": "Pagonys.",
+      "c": "Samarai.",
+      "d": "Jo giminės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_014",
+    "question": "Ko Jokūbas ir Jonas prašė Jėzaus, susitikus su juo?",
+    "options": {
+      "a": "Kad Jėzus paaiškintų jiems Raštus.",
+      "b": "Kad jie galėtų sėdėti vienas Jėzaus dešinėje, kitas – kairėje jo šlovės.",
+      "c": "Kad Jėzus nubaustų tuos, kurie juos persekiojo.",
+      "d": "Kad jie galėtų tapti galingiausiais tarp mokinių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_015",
+    "question": "Kaip reagavo kiti dešimt mokinių, išgirdę Jokūbo ir Jono prašymą?",
+    "options": {
+      "a": "Jie nustebo.",
+      "b": "Jie džiaugėsi.",
+      "c": "Jie supyko.",
+      "d": "Jie pritarė."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_016",
+    "question": "Ką Jėzus nurodė, kas norėtų tapti didžiausias tarp jo mokinių?",
+    "options": {
+      "a": "Turi būti jų valdovas.",
+      "b": "Turi būti jų tarnas.",
+      "c": "Turi būti išmintingiausias.",
+      "d": "Turi būti turtingiausias."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_017",
+    "question": "Koks buvo aklas elgeta, sėdėjęs prie kelio, kai Jėzus su mokiniais iškeliavo iš Jericho?",
+    "options": {
+      "a": "Zebediejus.",
+      "b": "Timiejus.",
+      "c": "Bartimiejus.",
+      "d": "Simonas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  }
+]

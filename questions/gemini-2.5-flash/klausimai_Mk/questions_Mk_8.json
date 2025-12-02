@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mk_8_001",
+    "question": "Kiek dienų minia pasiliko su Jėzumi, kol Jis pasigailėjo jų ir nusprendė pamaitinti?",
+    "options": {
+      "a": "Vieną dieną",
+      "b": "Dvi dienas",
+      "c": "Tris dienas",
+      "d": "Keturias dienas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_002",
+    "question": "Kiek duonos kepalėlių mokiniai turėjo, kai Jėzus paklausė per antrąjį duonos padauginimą?",
+    "options": {
+      "a": "Penkis",
+      "b": "Septynis",
+      "c": "Dvylika",
+      "d": "Du"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_003",
+    "question": "Kiek žmonių buvo pamaitinta per antrąjį duonos padauginimą?",
+    "options": {
+      "a": "Apie penkis tūkstančius",
+      "b": "Apie keturis tūkstančius",
+      "c": "Apie septynis tūkstančius",
+      "d": "Apie tris tūkstančius"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_004",
+    "question": "Kiek pilnų krepšių likučių buvo surinkta po antrojo duonos padauginimo?",
+    "options": {
+      "a": "Penkis",
+      "b": "Septynis",
+      "c": "Dvylika",
+      "d": "Tris"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_005",
+    "question": "Kur Jėzus su mokiniais nuplaukė po antrojo duonos padauginimo?",
+    "options": {
+      "a": "Į Kapernaumą",
+      "b": "Į Dalmanutos sritį",
+      "c": "Į Betsaidą",
+      "d": "Į Jeruzalę"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_006",
+    "question": "Ko fariziejai reikalavo iš Jėzaus ginčydamiesi su juo?",
+    "options": {
+      "a": "Dar vieno pamokymo",
+      "b": "Ženklo iš dangaus",
+      "c": "Kad išgydytų jų ligonius",
+      "d": "Kad paaiškintų savo mokymą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_007",
+    "question": "Kiek duonos kepalėlių mokiniai turėjo su savimi valtyje, kai Jėzus juos įspėjo apie fariziejų ir Erodo raugą?",
+    "options": {
+      "a": "Vieną",
+      "b": "Septynis",
+      "c": "Dvylika",
+      "d": "Penkis"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_008",
+    "question": "Ko Jėzus įspėjo mokinius saugotis?",
+    "options": {
+      "a": "Audros ir vėjo",
+      "b": "Romos kareivių",
+      "c": "Fariziejų raugo ir Erodo raugo",
+      "d": "Alkio ir troškulio"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_009",
+    "question": "Kur Jėzus išgydė neregį?",
+    "options": {
+      "a": "Dalmanutoje",
+      "b": "Pilypo Cezarėjoje",
+      "c": "Betsoidoje",
+      "d": "Kapernaume"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_010",
+    "question": "Ką Petras išpažino Jėzų esant, kai Jėzus paklausė mokinių, kuo jie jį laiko?",
+    "options": {
+      "a": "Didžiu pranašu",
+      "b": "Mesiju",
+      "c": "Geru mokytoju",
+      "d": "Jono Krikštytojo sūnumi"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_011",
+    "question": "Ką Petras padarė, kai Jėzus ėmė atvirai kalbėti apie savo kančią ir prisikėlimą?",
+    "options": {
+      "a": "Jį pagyrė",
+      "b": "Jį paliko",
+      "c": "Jį sudraudė",
+      "d": "Jį palaikė"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_012",
+    "question": "Ką turi daryti tas, kuris nori eiti paskui Jėzų?",
+    "options": {
+      "a": "Parduoti visą savo turtą",
+      "b": "Atsižadėti pats savęs, imti savo kryžių ir sekti Jėzumi",
+      "c": "Atlikti stebuklus",
+      "d": "Tapti kunigu"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  }
+]

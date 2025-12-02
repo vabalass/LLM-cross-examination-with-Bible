@@ -1,0 +1,80 @@
+[
+  {
+    "id": "Mk_16_001",
+    "question": "Kurios moterys anksti rytą ėjo prie Jėzaus kapo pirmąją savaitės dieną?",
+    "options": {
+      "a": "Marija Magdalietė, Marija, Jokūbo motina, ir Salomė",
+      "b": "Marija Magdalietė, Morta ir Salomė",
+      "c": "Marija, Jokūbo motina, ir Marija, Kleopo žmona",
+      "d": "Marija Magdalietė ir Joana"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_002",
+    "question": "Kokia buvo didžiausia moterų baimė artėjant prie kapo, kurią jos išsakė tarpusavyje?",
+    "options": {
+      "a": "Kad kapas bus tuščias.",
+      "b": "Kas joms nuritins akmenį nuo kapo angos?",
+      "c": "Kad romėnų kareiviai saugos kapą.",
+      "d": "Kad jos bus persekiojamos už Jėzaus palaikų patepimą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_003",
+    "question": "Ką moterys pamatė įėjusios į kapo rūsį ir ką joms pasakė?",
+    "options": {
+      "a": "Jaunuolį baltais drabužiais, kuris pranešė, kad Jėzus prisikėlė ir laukia Galilėjoje.",
+      "b": "Du angelus, kurie paaiškino pranašystes apie prisikėlimą.",
+      "c": "Patį Jėzų, kuris liepė joms eiti ir pranešti mokiniams.",
+      "d": "Romėnų sargybinį, kuris miegojo prie tuščio kapo."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_004",
+    "question": "Kam pirmiausia pasirodė prisikėlęs Jėzus pagal šį tekstą?",
+    "options": {
+      "a": "Petrui.",
+      "b": "Dviem mokiniams kelyje į kaimą.",
+      "c": "Marijai Magdalietei.",
+      "d": "Visiems Vienuolikai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_005",
+    "question": "Kokiu priekaištu Jėzus kreipėsi į Vienuolika, kai jiems pasirodė sėdint už stalo?",
+    "options": {
+      "a": "Už tai, kad pabėgo per jo suėmimą.",
+      "b": "Už netikėjimą ir širdies kietumą, kad netikėjo tais, kurie buvo matę jį prisikėlusį.",
+      "c": "Už tai, kad neįvykdė jo nurodymų.",
+      "d": "Už tai, kad ginčijosi dėl didžiausios vietos karalystėje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_006",
+    "question": "Kokie ženklai, pagal Jėzaus žodžius, lydės tuos, kurie įtikės?",
+    "options": {
+      "a": "Jie statys šventoves ir mokys Rašto.",
+      "b": "Jie išvarinės demonus, kalbės naujomis kalbomis, ims plikomis rankomis gyvates ir neapsinuodys.",
+      "c": "Jie skirstys duoną ir dalins vyną miniai.",
+      "d": "Jie bus gerbiami visų tautų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  }
+]

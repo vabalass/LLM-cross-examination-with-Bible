@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Mk_5_001",
+    "question": "Kurio krašto ežero krantą priplaukė Jėzus ir Jo mokiniai?",
+    "options": {
+      "a": "Galilėjos",
+      "b": "Geraziečių",
+      "c": "Dekapolio",
+      "d": "Nazareto"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_002",
+    "question": "Kur gyveno netyrosios dvasios apsėstas vyras, prieš kurį atbėgo Jėzus?",
+    "options": {
+      "a": "Mieste",
+      "b": "Kaime",
+      "c": "Kapų rūsiuose",
+      "d": "Kalnuose"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_003",
+    "question": "Kaip netyrosios dvasios apsėstas vyras save žalodavo, bastydamasis po kapines ir kalnus?",
+    "options": {
+      "a": "Šakomis",
+      "b": "Kojomis",
+      "c": "Rankomis",
+      "d": "Akmenimis"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_004",
+    "question": "Kuo vardu buvo apsėdusios dvasios, kurios kalbėjo per žmogų?",
+    "options": {
+      "a": "Liuciferis",
+      "b": "Legionas",
+      "c": "Šėtonas",
+      "d": "Baltazaras"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_005",
+    "question": "Kiek maždaug kiaulių buvo kaimenėje, į kurias buvo pasiųstos netyrosios dvasios?",
+    "options": {
+      "a": "Apie šimtą",
+      "b": "Apie penkis šimtus",
+      "c": "Apie tūkstantį",
+      "d": "Apie du tūkstančius"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_006",
+    "question": "Kas nutiko kiaulėms, kai į jas suėjo netyrosios dvasios?",
+    "options": {
+      "a": "Jos sugrįžo į tvartus",
+      "b": "Jos išsilakstė po kalnus",
+      "c": "Jos metėsi nuo skardžio į ežerą ir prigėrė",
+      "d": "Jos tapo ramios ir ganėsi toliau"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_007",
+    "question": "Kaip reagavo žmonės iš miesto ir kaimų, pamatę išgydytąjį ir sužinoję apie kiaules?",
+    "options": {
+      "a": "Jie džiaugėsi ir dėkojo Jėzui",
+      "b": "Jie prašė Jėzaus pasilikti su jais",
+      "c": "Juos apėmė baimė ir prašė Jėzų išeiti iš jų krašto",
+      "d": "Jie siūlė Jėzui dovanų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_008",
+    "question": "Ką Jėzus liepė daryti buvusiam apsėstajam po išgydymo?",
+    "options": {
+      "a": "Sekti paskui Jį",
+      "b": "Eiti namo pas saviškius ir papasakoti, ką Viešpats jam padarė",
+      "c": "Tapti Jo mokiniu",
+      "d": "Tylėti ir niekam nieko nesakyti"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_009",
+    "question": "Kuo vardu buvo sinagogos vyresnysis, kuris kreipėsi į Jėzų dėl savo dukrelės?",
+    "options": {
+      "a": "Zacharijas",
+      "b": "Nikodemas",
+      "c": "Jajiras",
+      "d": "Bartimiejus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_010",
+    "question": "Kokia liga sirgo moteris, kuri prisilietė prie Jėzaus apsiausto?",
+    "options": {
+      "a": "Karščiavimu",
+      "b": "Kraujoplūdžiu",
+      "c": "Raudomis",
+      "d": "Aklumu"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_011",
+    "question": "Kiek metų moteris, serganti kraujoplūdžiu, kentėjo nuo savo ligos?",
+    "options": {
+      "a": "Penkerius metus",
+      "b": "Aštuonerius metus",
+      "c": "Dvylika metų",
+      "d": "Penkiolika metų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_012",
+    "question": "Ką Jėzus pasakė moteriai po to, kai ji prisipažino palietusi Jo apsiaustą?",
+    "options": {
+      "a": "„Tavo drąsa išgelbėjo tave.“",
+      "b": "„Tavo nuopelnai išgelbėjo tave.“",
+      "c": "„Tavo tikėjimas išgelbėjo tave.“",
+      "d": "„Tavo pinigai išgelbėjo tave.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_013",
+    "question": "Kuriuos mokinius Jėzus pasiėmė kartu su savimi į sinagogos vyresniojo namus?",
+    "options": {
+      "a": "Andrių, Filipą ir Baltramiejų",
+      "b": "Petrą, Jokūbą ir Joną",
+      "c": "Matą, Simoną ir Judą",
+      "d": "Tomą, Tadą ir Jokūbą Alfiejaus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_014",
+    "question": "Ką Jėzus ištarė mergaitei aramėjiškai, ją prikeldamas?",
+    "options": {
+      "a": "„Effatá“",
+      "b": "„Talitá kum“",
+      "c": "„Kefas“",
+      "d": "„Abba“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  }
+]

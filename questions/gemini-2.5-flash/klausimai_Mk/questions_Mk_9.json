@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Mk_9_001",
+    "question": "Kas iš mokinių buvo su Jėzumi, kai jis atsimainė ant aukšto kalno?",
+    "options": {
+      "a": "Petras, Jokūbas ir Jonas",
+      "b": "Petras, Andrius ir Jokūbas",
+      "c": "Andrius, Filipas ir Baltramiejus",
+      "d": "Matas, Tomas ir Simonas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_002",
+    "question": "Ką Petras siūlė pastatyti po to, kai jam pasirodė Elijas ir Mozė?",
+    "options": {
+      "a": "Tris palapines",
+      "b": "Vieną aukurą",
+      "c": "Dvi šventyklas",
+      "d": "Auką Dievui"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_003",
+    "question": "Koks balsas nuskambėjo iš debesies Jėzaus atsimainymo metu?",
+    "options": {
+      "a": "„Šitas mano mylimasis Sūnus. Klausykite jo!“",
+      "b": "„Pas jus yra Mesijas. Tikėkite juo!“",
+      "c": "„Štai karalystė ateina. Pasiruoškite!“",
+      "d": "„Aš esu, kas esu. Sekite manimi!“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_004",
+    "question": "Ką Jėzus liepė mokiniams nepasakoti niekam, kol Žmogaus Sūnus prisikels iš numirusių?",
+    "options": {
+      "a": "Ką jie buvo matę",
+      "b": "Apie Elijo ir Mozės pasirodymą",
+      "c": "Apie Petro pasiūlymą",
+      "d": "Apie Dievo karalystės atėjimą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_005",
+    "question": "Kaip Jėzus atsakė į klausimą apie Elijo atėjimą ir Žmogaus Sūnaus kančią?",
+    "options": {
+      "a": "Elijas ateis ir viską atitaisys, bet Žmogaus Sūnus daug iškentės ir bus paniekintas.",
+      "b": "Elijas jau buvo atėjęs, o Žmogaus Sūnus tuoj pat karaliaus.",
+      "c": "Elijas ateis po Žmogaus Sūnaus prisikėlimo, kad jį paskelbtų.",
+      "d": "Elijo atėjimas neturi nieko bendra su Žmogaus Sūnaus likimu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_006",
+    "question": "Kas ginčijosi su mokiniais, kai Jėzus sugrįžo su Petru, Jokūbu ir Jonu nuo kalno?",
+    "options": {
+      "a": "Romos kariai",
+      "b": "Rašto aiškintojai",
+      "c": "Erodas su savo sargybiniais",
+      "d": "Vietiniai prekybininkai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_007",
+    "question": "Kuo pasireiškė berniuko, kurį tėvas atvedė pas Jėzų, apsėdimas?",
+    "options": {
+      "a": "Jis kliedėdavo ir matydavo vizijas.",
+      "b": "Jis tapdavo kurčias ir aklas.",
+      "c": "Jis būdavo tąsomas, jam eidavo putos iš burnos ir jis grieždavo dantimis.",
+      "d": "Jis negalėdavo kalbėti ir judėti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_008",
+    "question": "Ką sušuko vaiko tėvas, išgirdęs Jėzaus žodžius „Tikinčiam viskas galima“?",
+    "options": {
+      "a": "„Aš tikiu tavimi, Mokytojau!“",
+      "b": "„Tikiu! Padėk mano netikėjimui!“",
+      "c": "„Parodyk man stebuklą ir aš įtikėsiu!“",
+      "d": "„Esu vertas tavo pagalbos!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_009",
+    "question": "Kodėl mokiniai negalėjo išvaryti dvasios iš berniuko?",
+    "options": {
+      "a": "Jie neturėjo pakankamai tikėjimo.",
+      "b": "Ši veislė išvaroma tik malda.",
+      "c": "Jėzus dar nebuvo prisikėlęs.",
+      "d": "Jie nebuvo gavę Jėzaus leidimo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_010",
+    "question": "Ką Jėzus pranašavo nutiksiant Žmogaus Sūnui po trijų dienų, kai jis bus nužudytas?",
+    "options": {
+      "a": "Jis vėl pasirodys mokiniams.",
+      "b": "Jis prisikels.",
+      "c": "Jis bus paimtas į dangų.",
+      "d": "Jis įkurs Dievo karalystę žemėje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_011",
+    "question": "Apie ką mokiniai ginčijosi kelyje į Kafarnaumą?",
+    "options": {
+      "a": "Apie Elijo pranašystę.",
+      "b": "Apie tai, kodėl jiems nepavyko išvaryti dvasios.",
+      "c": "Kuris iš jų didžiausias.",
+      "d": "Apie Jėzaus kančios pranašystę."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_012",
+    "question": "Ką Jėzus paėmė ir pastatė tarp mokinių, mokydamas apie tai, kas didžiausias?",
+    "options": {
+      "a": "Duonos kepalą.",
+      "b": "Mažą avinėlį.",
+      "c": "Monetą.",
+      "d": "Mažą vaiką."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_013",
+    "question": "Koks buvo Jėzaus atsakymas mokiniams, kai jie bandė sutrukdyti žmogui, kuris nebuvo su jais, bet Jo vardu išvarinėjo demonus?",
+    "options": {
+      "a": "„Nedrauskite jam! Kas ne prieš mus, tas už mus!“",
+      "b": "„Tegul jis ateina ir prisijungia prie mūsų.“",
+      "c": "„Jis negali daryti tokių dalykų be mano leidimo.“",
+      "d": "„Aš susidorosiu su juo pats.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_014",
+    "question": "Kas būtų daug geriau tam, kuris papiktintų vieną iš tikinčių mažutėlių?",
+    "options": {
+      "a": "Kad jis būtų nubaustas viešai sinagogoje.",
+      "b": "Kad jam užkabintų asilo sukamų girnų akmenį ir įmestų į jūrą.",
+      "c": "Kad jis atiduotų visą savo turtą vargšams.",
+      "d": "Kad jis būtų išvarytas iš Dievo karalystės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_015",
+    "question": "Ką Jėzus patarė daryti su ranka, koja ar akimi, jei jos gundo nusidėti?",
+    "options": {
+      "a": "Paslėpti jas nuo Dievo.",
+      "b": "Sutramdyti jas malda.",
+      "c": "Nusikirpti arba išsilupti.",
+      "d": "Prašyti Dievo atleidimo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_016",
+    "question": "Kokį paskutinį patarimą Jėzus davė mokiniams, kalbėdamas apie druską?",
+    "options": {
+      "a": "Turėkite savyje druskos ir visada būkite dosnūs.",
+      "b": "Turėkite savyje druskos ir taikiai sugyvenkite tarp savęs.",
+      "c": "Išsaugokite druskos skonį ir būkite šviesa pasauliui.",
+      "d": "Druska yra geras daiktas, todėl visada ja dalinkitės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  }
+]

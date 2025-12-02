@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Mk_6_001",
+    "question": "Kur Jėzus parkeliavo išvykęs iš ten, mokinių lydimas?",
+    "options": {
+      "a": "Į Kaparnaumą",
+      "b": "Į Jeruzalę",
+      "c": "Į savo tėviškę",
+      "d": "Į Betsaidą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_002",
+    "question": "Koks Jėzaus amatas buvo minimas, kai jis mokė sinagogoje savo tėviškėje?",
+    "options": {
+      "a": "Žvejys",
+      "b": "Dailidė",
+      "c": "Ūkininkas",
+      "d": "Audėjas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_003",
+    "question": "Kuo Jėzus stebėjosi savo tėviškėje, kur negalėjo padaryti daug stebuklų?",
+    "options": {
+      "a": "Jų turtais",
+      "b": "Jų išsilavinimu",
+      "c": "Jų netikėjimu",
+      "d": "Jų svetingumu"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_004",
+    "question": "Kaip Jėzus pasišaukė Dvylika ir ėmė siuntinėti juos?",
+    "options": {
+      "a": "Po vieną",
+      "b": "Po du",
+      "c": "Po tris",
+      "d": "Po keturis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_005",
+    "question": "Ko Jėzus draudė mokiniams imti į kelionę, išskyrus lazdą ir kurpes?",
+    "options": {
+      "a": "Šarvų",
+      "b": "Vyno",
+      "c": "Duonos, krepšio ir pinigų",
+      "d": "Papildomų drabužių"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_006",
+    "question": "Ką turėjo daryti mokiniai, jei kurioje vietovėje jų nepriimtų ir neklausytų?",
+    "options": {
+      "a": "Pamokyti juos griežtai",
+      "b": "Pasilikti ir bandyti dar kartą",
+      "c": "Nusikratyti dulkes nuo kojų kaip liudijimą prieš juos",
+      "d": "Ieškoti pagalbos iš valdžios"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_007",
+    "question": "Kokią nuomonę karalius Erodas turėjo apie Jėzų, išgirdęs apie jį?",
+    "options": {
+      "a": "Kad tai prisikėlęs Elijas",
+      "b": "Kad tai prisikėlęs Jonas Krikštytojas",
+      "c": "Kad tai naujas pranašas",
+      "d": "Kad tai sukčius"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_008",
+    "question": "Dėl ko Erodas buvo įsakęs suimti Joną Krikštytoją ir laikyti jį kalėjime?",
+    "options": {
+      "a": "Už maišto kurstymą",
+      "b": "Dėl savo brolio Pilypo žmonos Erodiados",
+      "c": "Už melagingų pranašysčių skelbimą",
+      "d": "Už mokesčių nemokėjimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_009",
+    "question": "Kodėl Erodas iš pradžių nenorėjo nužudyti Jono Krikštytojo, nors Erodiada to troško?",
+    "options": {
+      "a": "Erodas bijojo Jono, žinodamas jį esant teisų ir šventą vyrą",
+      "b": "Erodas manė, kad Jonas gali būti jam naudingas",
+      "c": "Erodas laukė tinkamos progos viešam teismui",
+      "d": "Jonas buvo Erodo giminaitis"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_010",
+    "question": "Ko Erodiados duktė, šokusi Erodo gimtadienio pokylyje, paprašė iš karaliaus?",
+    "options": {
+      "a": "Pusės karalystės",
+      "b": "Turtingo vyro",
+      "c": "Jono Krikštytojo galvos dubenyje",
+      "d": "Aukso ir brangenybių"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_011",
+    "question": "Kas atsitiko Jono Krikštytojo kūnui po jo nužudymo?",
+    "options": {
+      "a": "Jis buvo paliktas kalėjime",
+      "b": "Mokiniai atėjo, pasiėmė jo kūną ir palaidojo kape",
+      "c": "Jis buvo įmestas į upę",
+      "d": "Jis buvo sudegintas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_012",
+    "question": "Kiek kepaliukų duonos ir žuvies turėjo mokiniai, kai Jėzus ruošėsi pamaitinti minią?",
+    "options": {
+      "a": "Du kepaliukus ir penkias žuvis",
+      "b": "Penkis kepaliukus ir dvi žuvis",
+      "c": "Septynis kepaliukus ir tris žuvis",
+      "d": "Dešimt kepaliukų ir vieną žuvį"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_013",
+    "question": "Kaip Jėzus įsakė susodinti žmones ant žalios vejos prieš duonos padauginimą?",
+    "options": {
+      "a": "Atsitiktinai, bet tvarkingai",
+      "b": "Būrys prie būrio, po šimtą ir po penkiasdešimt žmonių",
+      "c": "Atskirai vyrus ir moteris",
+      "d": "Po dešimt žmonių kiekviename rate"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_014",
+    "question": "Kiek pilnų pintinių duonos kąsnelių ir žuvies likučių buvo surinkta po to, kai visi pavalgė iki soties?",
+    "options": {
+      "a": "Septynios",
+      "b": "Dešimt",
+      "c": "Dvylika",
+      "d": "Penkiolika"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_015",
+    "question": "Kiek vyrų pavalgė duonos padauginimo metu, neskaičiuojant moterų ir vaikų?",
+    "options": {
+      "a": "Apie tris tūkstančius",
+      "b": "Apie penkis tūkstančius",
+      "c": "Apie septynis tūkstančius",
+      "d": "Apie dešimt tūkstančių"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_016",
+    "question": "Kur Jėzus užkopė melstis po to, kai atleido minią po duonos padauginimo?",
+    "options": {
+      "a": "Į namus",
+      "b": "Į kalną",
+      "c": "Į sinagogą",
+      "d": "Į dykumą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_017",
+    "question": "Kaip mokiniai sureagavo pamatę Jėzų einantį ežero paviršiumi?",
+    "options": {
+      "a": "Jie tuojau jį atpažino ir džiaugėsi",
+      "b": "Jie pamanė, jog tai šmėkla, ir ėmė šaukti",
+      "c": "Jie bandė patys išlipti ant vandens",
+      "d": "Jie liko ramūs ir kantriai laukė"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_018",
+    "question": "Ką žmonės Genezareto krašte maldaudavo Jėzaus, kad išgytų?",
+    "options": {
+      "a": "Kad jis kalbėtų jiems žodį",
+      "b": "Kad jis paliestų juos rankomis",
+      "c": "Kad leistų jiems paliesti bent savo drabužio apvadą",
+      "d": "Kad ateitų į jų namus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  }
+]

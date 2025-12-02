@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mk_7_001",
+    "question": "Kas susirinko pas Jėzų ir pradėjo ginčą dėl papročių?",
+    "options": {
+      "a": "Fariziejai ir Rašto aiškintojai iš Jeruzalės",
+      "b": "Erodas ir jo dvariškiai",
+      "c": "Romos valdininkai ir kariai",
+      "d": "Samariečiai ir žydai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_002",
+    "question": "Koks Jėzaus mokinių veiksmas papiktino fariziejus?",
+    "options": {
+      "a": "Jie valgė suterštomis (nemazgotomis) rankomis.",
+      "b": "Jie nebuvo pasninkavę, kaip reikalavo įstatymas.",
+      "c": "Jie atsisakė mokėti dešimtinę šventyklai.",
+      "d": "Jie bendravo su muitininkais ir nusidėjėliais."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_003",
+    "question": "Ką Jėzus citavo iš pranašo Izaijo, priekaištaudamas fariziejams?",
+    "options": {
+      "a": "Apie tautą, kuri šlovina Dievą lūpomis, bet jos širdis toli nuo jo.",
+      "b": "Apie būsimą Mesijo atėjimą ir jo karalystę.",
+      "c": "Apie atleidimą nusidėjėliams ir ligonių išgydymą.",
+      "d": "Apie Dievo įsakymų laikymosi svarbą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_004",
+    "question": "Kokį Mozės įsakymą fariziejai apeidavo per tradiciją, vadinamą „Korban“?",
+    "options": {
+      "a": "Gerbti savo tėvą ir motiną.",
+      "b": "Nežudyti.",
+      "c": "Nevogti.",
+      "d": "Laikytis Sabato dienos."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_005",
+    "question": "Ką reiškia žodis „Korban“?",
+    "options": {
+      "a": "Auka Dievui.",
+      "b": "Šventas Raštas.",
+      "c": "Aukojimo altorius.",
+      "d": "Malda."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_006",
+    "question": "Kas, pasak Jėzaus, sutepa žmogų?",
+    "options": {
+      "a": "Tai, kas išeina iš žmogaus.",
+      "b": "Tai, kas patenka į žmogų iš lauko.",
+      "c": "Nešvarus maistas.",
+      "d": "Fizinis kontaktas su nešvariu daiktu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_007",
+    "question": "Kas, pagal Jėzų, yra tikrasis žmogaus susitepimo šaltinis, kylantis iš širdies?",
+    "options": {
+      "a": "Pikti sumanymai ir blogi darbai.",
+      "b": "Neplauti indai ir maisto likučiai.",
+      "c": "Nešvarūs drabužiai.",
+      "d": "Bendravimas su tam tikrais žmonėmis."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_008",
+    "question": "Į kokias sritis nukeliavo Jėzus, kur susidūrė su sirofenikiete moterimi?",
+    "options": {
+      "a": "Tyro sritis.",
+      "b": "Sidono sritis.",
+      "c": "Galilėjos sritis.",
+      "d": "Dekapolio kraštą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_009",
+    "question": "Kokia buvo moters, prašiusios išgydyti dukrą, kilmė?",
+    "options": {
+      "a": "Sirofenikietė graikė.",
+      "b": "Romėnė.",
+      "c": "Samarėnė.",
+      "d": "Jeruzalės žydė."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_010",
+    "question": "Kaip sirofenikietė moteris atsakė Jėzui, kai jis palygino ją su „šunyčiais“?",
+    "options": {
+      "a": "Sutiko, kad ir šunyčiai po stalu ėda vaikų trupinius.",
+      "b": "Paprašė Jėzų atleisti už įžūlumą.",
+      "c": "Atsisakė toliau maldauti ir išėjo.",
+      "d": "Pasipiktino Jėzaus žodžiais."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_011",
+    "question": "Koks žmogus buvo atvestas Jėzui į Dekapolio kraštą?",
+    "options": {
+      "a": "Kurčias nebylis.",
+      "b": "Aklas elgeta.",
+      "c": "Paralyžiuotas vyras.",
+      "d": "Apsėstas žmogus."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_012",
+    "question": "Kokį žodį Jėzus ištarė gydydamas kurčią nebylį, kuris reiškia „Atsiverk!“?",
+    "options": {
+      "a": "Efatá!",
+      "b": "Šalom!",
+      "c": "Amen!",
+      "d": "Hosana!"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  }
+]

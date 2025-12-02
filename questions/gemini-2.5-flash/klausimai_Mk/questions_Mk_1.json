@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mk_1_001",
+    "question": "Kaip pranašo Izaijo parašyta, kas turėjo nutiesti kelią Viešpačiui?",
+    "options": {
+      "a": "Mozė",
+      "b": "Savo pasiuntinys",
+      "c": "Elijas",
+      "d": "Pats Viešpats"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_002",
+    "question": "Kokie du patiekalai buvo Jono Krikštytojo maistas?",
+    "options": {
+      "a": "Duona ir vynas",
+      "b": "Žuvis ir medus",
+      "c": "Skėriai ir lauko medus",
+      "d": "Pienas ir figos"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_003",
+    "question": "Ką Jonas Krikštytojas pasakė apie ateinantįjį po jo?",
+    "options": {
+      "a": "Kad jis bus silpnesnis už jį",
+      "b": "Kad jis krikštys vandeniu, kaip ir Jonas",
+      "c": "Kad jis nevertas nusilenkęs atrišti ateinančiojo kurpių dirželio",
+      "d": "Kad jis atneš ugnį į žemę"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_004",
+    "question": "Iš kurios vietovės atėjo Jėzus, kad būtų pakrikštytas Jordane?",
+    "options": {
+      "a": "Betliejaus",
+      "b": "Galilėjos Nazareto",
+      "c": "Jeruzalės",
+      "d": "Kafarnaumo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_005",
+    "question": "Kas įvyko Jėzaus krikšto metu, vos jam išbridus iš vandens?",
+    "options": {
+      "a": "Griaustinis nuskambėjo danguje",
+      "b": "Dvasia, tarsi balandis, nusileido ant jo",
+      "c": "Pasirodė angelas",
+      "d": "Visi susirinkusieji puolė žemėn"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_006",
+    "question": "Ką išgirdo Jėzus iš dangaus po savo krikšto?",
+    "options": {
+      "a": "„Eik ir skelbk karalystę!“",
+      "b": "„Tu mano mylimasis Sūnus, tavimi aš gėriuosi“",
+      "c": "„Šiandien aš tave pagimdžiau“",
+      "d": "„Tavo nuodėmės atleistos“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_007",
+    "question": "Kiek dienų Jėzus praleido dykumoje, gundomas šėtono?",
+    "options": {
+      "a": "Septynias dienas",
+      "b": "Trisdešimt dienų",
+      "c": "Keturiasdešimt dienų",
+      "d": "Dvi dienas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_008",
+    "question": "Koks įvykis paskatino Jėzų grįžti į Galilėją ir pradėti skelbti gerąją Dievo naujieną?",
+    "options": {
+      "a": "Romos valdžios įsakymas",
+      "b": "Jono suėmimas",
+      "c": "Savo mokinių prašymas",
+      "d": "Sapnas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_009",
+    "question": "Kokį kvietimą Jėzus adresavo Simonui ir Andriejui?",
+    "options": {
+      "a": "„Eikite paskui mane! Aš padarysiu jus kareivių vadais“",
+      "b": "„Eikite paskui mane! Aš padarysiu jus žmonių žvejais“",
+      "c": "„Eikite paskui mane! Aš padarysiu jus didžiais mokytojais“",
+      "d": "„Eikite paskui mane! Aš padarysiu jus išminčiais“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_010",
+    "question": "Kuo stebėjosi žmonės Kafarnaumo sinagogoje, klausydami Jėzaus mokslo?",
+    "options": {
+      "a": "Jo jaunu amžiumi",
+      "b": "Kad jis mokė kaip turintis galią, o ne kaip Rašto aiškintojai",
+      "c": "Jo iškalba",
+      "d": "Jo naujais palyginimais"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_011",
+    "question": "Kaip netyroji dvasia sinagogoje identifikavo Jėzų?",
+    "options": {
+      "a": "Kaip Eliją",
+      "b": "Kaip pranašą",
+      "c": "Kaip Dievo šventąjį",
+      "d": "Kaip Pasaulio gelbėtoją"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_012",
+    "question": "Kuo sirgo Simono uošvė, kai Jėzus atvyko į jų namus?",
+    "options": {
+      "a": "Raupsais",
+      "b": "Paralyžiumi",
+      "c": "Karščiu",
+      "d": "Akmenlige"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_013",
+    "question": "Ką Jėzus darė labai anksti, dar neprašvitus, prieš išvykdamas iš Kafarnaumo?",
+    "options": {
+      "a": "Valgė pusryčius su mokiniais",
+      "b": "Išėjo į turgų",
+      "c": "Nuėjo į negyvenamą vietą ir tenai meldėsi",
+      "d": "Rašė laiškus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_014",
+    "question": "Ką Jėzus liepė raupsuotajam, kurį pagydė, prieš išsiųsdamas jį?",
+    "options": {
+      "a": "Eiti į Jeruzalę aukoti",
+      "b": "Niekam nieko nepasakoti, eiti pasirodyti kunigui ir paaukoti Mozės įsakytą atnašą",
+      "c": "Tapti jo mokiniu",
+      "d": "Paskelbti visame mieste apie pagijimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_015",
+    "question": "Kas nutiko po to, kai raupsuotasis nepaklausė Jėzaus įsakymo ir pradėjo plačiai skelbti apie pagijimą?",
+    "options": {
+      "a": "Jėzus jį vėl sutiko ir sudraudė",
+      "b": "Jėzus nebegalėjo viešai pasirodyti mieste",
+      "c": "Daugiau raupsuotųjų atėjo pas Jėzų",
+      "d": "Raupsuotasis vėl susirgo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  }
+]
