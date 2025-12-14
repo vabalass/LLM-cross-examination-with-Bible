@@ -30,7 +30,6 @@ def get_bible_question_from_llm(model, bible_text, max_retries=1, number_of_ques
                     bible_text
                 )
                 message = [{ "content": message_content,"role": "user"}]
-                print(message)
                 response = completion(model=model, messages=message)
                 print("Atsakymas gautas.")
                 if response.choices:
@@ -355,14 +354,15 @@ def json_to_csv(input_json_path: str, output_csv_path: str):
 def main():
     read_and_save_API_keys("API_keys.txt")
     
-    book_path = Path(__file__).parent / "Bible" / "testiniai_skyriai"
+    book_path = Path(__file__).parent / "Bible" / "test"
     
     models = [
-        "gemini/gemini-2.5-flash",
-        #"gemini/gemini-2.5-pro",
+        #"gemini/gemini-2.5-flash",
+        #"gemini/gemini-2.5-flash-lite",
         #"groq/llama-3.3-70b-versatile",
         #"groq/llama-3.1-8b-instant",
         #"openai/gpt-5"
+        "mistral/ministral-14b-2512"
     ]
     
     if not book_path.exists():
@@ -401,10 +401,10 @@ def main():
             #    csv_path = f"evaluations_{chapter_name}.csv"
             #    json_to_csv(evaluations_file, csv_path)
             
-            print(f"✓ Failas {chapter_name} apdorotas sėkmingai.")
+            print(f"Failas {chapter_name} apdorotas sėkmingai.")
             
         except Exception as e:
-            print(f"✗ Klaida apdorojant {bible_path.name}: {e}")
+            print(f"Klaida apdorojant {bible_path.name}: {e}")
 
 if __name__ == "__main__":
     main()
