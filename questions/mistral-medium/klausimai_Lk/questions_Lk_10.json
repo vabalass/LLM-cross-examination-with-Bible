@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Lk_10_001",
+    "question": "Kiek mokinių paskyrė Jėzus ir išsiuntė po du į miestus prieš pats ten vykstant?",
+    "options": {
+      "a": "Dvylika",
+      "b": "Septyniasdešimt du",
+      "c": "Šimtas dvidešimt",
+      "d": "Penkiasdešimt"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_002",
+    "question": "Ką Jėzus liepė mokiniams nešioti keliaujant į miestus?",
+    "options": {
+      "a": "Piniginę, krepšį ir autuvą",
+      "b": "Ginklus ir maistą",
+      "c": "Aukso ir sidabrą",
+      "d": "Nieką iš aukščiau paminėtų"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_003",
+    "question": "Ką reikėjo pasakyti įeidami į namus, pagal Jėzaus instrukcijas?",
+    "options": {
+      "a": "„Laimė šiam namui!“",
+      "b": "„Ramybėšiems namams!“",
+      "c": "„Dievas su jumis!“",
+      "d": "„Dangus jums malonus!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_004",
+    "question": "Ką reikėjo daryti, jei miestelis nepriimtų mokinių?",
+    "options": {
+      "a": "Pasilikti ir mokyti, kol priims",
+      "b": "Nukratyti miesto dulkes nuo kojų ir pasakyti apie Dievo karalystę",
+      "c": "Pasakyti, kad miestelis bus sunaikintas",
+      "d": "Grįžti atgal ir nieko nedaryti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_005",
+    "question": "Kuriam miestui Jėzus pasakė, kad jis „nugarms iki pragaro“?",
+    "options": {
+      "a": "Jeruzalei",
+      "b": "Betsaidai",
+      "c": "Kafarnaumui",
+      "d": "Tyrui"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_006",
+    "question": "Ką sakė mokiniai, grįžę pas Jėzų po misijos?",
+    "options": {
+      "a": "„Visi mums tikėjo!“",
+      "b": "„Mums paklūsta net demonai dėl tavo vardo!“",
+      "c": "„Mes išgydome visus ligonius!“",
+      "d": "„Mes pamokėme visus miestus!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_007",
+    "question": "Kuo Jėzus liepė džiaugtis mokiniams, kai jie grįžo su džiaugsmu dėl demonų pavaldumo?",
+    "options": {
+      "a": "Tuo, kad jie gali gydyti ligonius",
+      "b": "Tuo, kad jų vardai įrašyti danguje",
+      "c": "Tuo, kad jie turi didelę galybę",
+      "d": "Tuo, kad jie bus palaiminti žemėje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_008",
+    "question": "Kas, pagal Jėzaus žodžius, yra paslėpta nuo išmintingųjų ir gudriųjų, bet apreiškiama mažutėliams?",
+    "options": {
+      "a": "Dievo karalystės paslaptys",
+      "b": "Amžinybės gyvenimo kelias",
+      "c": "Stebuklų galybė",
+      "d": "Gailestingumo dėsnis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_009",
+    "question": "Ką Jėzus sakė apie pranašus ir karalius, kurie troško matyti ir girdėti tai, ką matė ir girdėjo mokiniai?",
+    "options": {
+      "a": "Jie matė ir girdėjo daugiau negu mokiniai",
+      "b": "Jie niekada neįgijo tokios privilegijos",
+      "c": "Jie troško, bet neišvydo ir neišgirdo",
+      "d": "Jie buvo pasiūlyti, bet atsisakė"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_010",
+    "question": "Ką Įstatymo mokytojas pasakė Jėzui, kai šis paklausė, ką reikia daryti, kad laimėtų amžinąjį gyvenimą?",
+    "options": {
+      "a": "Laikytis visų Dievo įsakymų",
+      "b": "Mylėti Viešpatį visa širdimi ir artimą kaip save patį",
+      "c": "Aukoti viską Dievui",
+      "d": "Keliauti ir skelbti Evangeliją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_011",
+    "question": "Kas iš trijų žmonių, minėtų Jėzaus palyginime, padėjo sumuštam keliautojui?",
+    "options": {
+      "a": "Kunigas",
+      "b": "Levitas",
+      "c": "Samarietis",
+      "d": "Plėšikas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_012",
+    "question": "Ką Jėzus pasakė Mortai, kai ši skundėsi, kad Marija nepadeda patarnauti?",
+    "options": {
+      "a": "„Marija turi man padėti!“",
+      "b": "„Tu rūpiniesi per daug dalykų, o reikia tik vieno“",
+      "c": "„Patarnavimas yra svarbiau negu klausymasis“",
+      "d": "„Aš pats padėsiu tau“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_013",
+    "question": "Ką Jėzus sakė apie Mariją, kai Morta skundėsi, kad ši neslaugia, o tik klausosi?",
+    "options": {
+      "a": "„Marija elgiasi blogai“",
+      "b": "„Marija išsirinko geriausiąją dalį, kuri nebus iš jos atimta“",
+      "c": "„Marija turi mokytis patarnauti“",
+      "d": "„Marija turi eiti ir skelbti Evangeliją“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_014",
+    "question": "Ką Jėzus sakė apie tuos, kurie niekina mokinius?",
+    "options": {
+      "a": "Jie niekina Dievą",
+      "b": "Jie niekina tą, kuris siuntė Jėzų",
+      "c": "Jie bus palaiminti",
+      "d": "Jie turi būti išvyti iš bendruomenės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_10"
+  }
+]

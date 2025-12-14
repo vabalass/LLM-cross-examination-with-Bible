@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_8_001",
+    "question": "Kas buvo išgydyta iš Marijos Magdalietės pagal Lukos 8:2?",
+    "options": {
+      "a": "Trys demonai",
+      "b": "Septyni demonai",
+      "c": "Dešimt ligų",
+      "d": "Vienas demonas ir ligos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_002",
+    "question": "Kas iš šių moterų *nebuvo* minėta kaip vieną iš Jėzaus talkininkių Lukos 8 skyriuje?",
+    "options": {
+      "a": "Marija Magdalietė",
+      "b": "Marta",
+      "c": "Joana",
+      "d": "Zuzana"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_003",
+    "question": "Ką darė moterys, kurios lydėjo Jėzų pagal Lukos 8:3?",
+    "options": {
+      "a": "Mokė žmones apie Dievo karalystę",
+      "b": "Šelpė Jėzų ir apaštalus savo turtu",
+      "c": "Gydė ligonius",
+      "d": "Rengė paskaitas sinagogose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_004",
+    "question": "Kur nukrito sėklos, kurias sulesė paukščiai sėjėjo palyginime (Lk 8:5)?",
+    "options": {
+      "a": "Ant uolų",
+      "b": "Tarp erškėčių",
+      "c": "Pakelėje",
+      "d": "Į gerą žemę"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_005",
+    "question": "Ką reiškė sėklos, nukritusios ant uolų, sėjėjo palyginimo aiškinime (Lk 8:13)?",
+    "options": {
+      "a": "Žmonės, kurie netiki Dievo žodžio",
+      "b": "Žmonės, kurie su džiaugsmu priima žodį, bet neturi šaknų ir atkrinta gundymo metu",
+      "c": "Žmonės, kurie iškart duoda vaisių",
+      "d": "Žmonės, kurie pasidaro velnio tarnai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_006",
+    "question": "Ką Jėzus sakė apie žiburį, kurį uždega žmogus (Lk 8:16)?",
+    "options": {
+      "a": "Jis turi būti uždengtas, kad neprarastų šviesos",
+      "b": "Jis turi būti pastatytas į žibintuvą, kad ateinantys matytų šviesą",
+      "c": "Jis turi būti nešiojamas visur, kad šviestų kelią",
+      "d": "Jis turi būti užkastas žemėje, kad nepasidarytų pavojingas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_007",
+    "question": "Kas atėjo pas Jėzų, kai jis mokė, ir negalėjo prasimušti pro minią (Lk 8:19)?",
+    "options": {
+      "a": "Jo tėvas ir seserys",
+      "b": "Jo motina ir broliai",
+      "c": "Jo draugai iš Nasareto",
+      "d": "Fariziejai ir rabinai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_008",
+    "question": "Ką Jėzus atsakė, kai jam pranešta, kad jo motina ir broliai nori jį matyti (Lk 8:21)?",
+    "options": {
+      "a": "„Jie turi palaukti, kol baigsiu mokyti“",
+      "b": "„Mano motina ir broliai – tai tie, kurie klausosi Dievo žodžio ir jį vykdo“",
+      "c": "„Aš juos pasitiksiu vėliau, kai bus laikas“",
+      "d": "„Jie netinkami Dievo karalystėje“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_009",
+    "question": "Ką Jėzus sakė mokiniams, kai jie išsigando audros ežere (Lk 8:25)?",
+    "options": {
+      "a": "„Kodėl bijote, jei esate su manim?“",
+      "b": "„Kurgi jūsų tikėjimas?!“",
+      "c": "„Ši audra yra Dievo bausmė“",
+      "d": "„Mūsų laivas niekada nenuskends“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_010",
+    "question": "Kur Jėzus ir mokiniai atplaukė po audros ežere (Lk 8:26)?",
+    "options": {
+      "a": "Į Jeruzalę",
+      "b": "Į geraziečių kraštą",
+      "c": "Į Betaniją",
+      "d": "Į Samariją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_011",
+    "question": "Ką šaukė demonų apsėstas vyras, kai pamatė Jėzų (Lk 8:28)?",
+    "options": {
+      "a": "„Aš esu tavo tarnas!“",
+      "b": "„Ko tau iš manęs reikia, Jėzau, Aukščiausiojo Dievo Sūnau?!“",
+      "c": "„Išvaduok mane iš šio kūno!“",
+      "d": "„Tu esi mesijas!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_012",
+    "question": "Ką prašė demonai, kai Jėzus liepė jiems išeiti iš vyro (Lk 8:31-32)?",
+    "options": {
+      "a": "Leisti jiems išeiti į dykumą",
+      "b": "Leisti jiems sueiti į kiaules",
+      "c": "Leisti jiems likti dar vieną dieną",
+      "d": "Leisti jiems apsigyventi kapinėse"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_013",
+    "question": "Ką padarė kiaulės, kai į jas įsikibė demonai (Lk 8:33)?",
+    "options": {
+      "a": "Jos pradėjo bėgti po miestą",
+      "b": "Jos metėsi nuo skardžio į ežerą ir prigėrė",
+      "c": "Jos užmigo ir nebekilno",
+      "d": "Jos pradėjo kalbėti žmonių kalba"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_014",
+    "question": "Ką Jėzus liepė padaryti išgydytam vyrui iš geraziečių krašto (Lk 8:39)?",
+    "options": {
+      "a": "Likti su Jėzumi ir tapti jo mokiniu",
+      "b": "Grįžti namo ir pasakoti, kokių didžių dalykų jam padarė Dievas",
+      "c": "Išeiti į dykumą ir ten gyventi vienam",
+      "d": "Tapti kunigu ir skelbti Dievo žodį sinagogose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_015",
+    "question": "Ką sirgo moteris, kuri prisilietė prie Jėzaus drabužio (Lk 8:43)?",
+    "options": {
+      "a": "Džiova",
+      "b": "Kraujoplūdis",
+      "c": "Aklumas",
+      "d": "Paralyzius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_016",
+    "question": "Ką Jėzus pasakė moteriai, kuri buvo išgijusi, prisilietusi prie jo drabužio (Lk 8:48)?",
+    "options": {
+      "a": "„Tavo meilė mane išgelbėjo“",
+      "b": "„Tavo tikėjimas išgelbėjo tave. Eik rami!“",
+      "c": "„Tu turi pasakyti visiems, kas čia įvyko“",
+      "d": "„Dangus tau atleidė visus nuodėmes“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_017",
+    "question": "Kiek metų buvo Jairo dukrelė, kurią Jėzus prikėlė (Lk 8:42)?",
+    "options": {
+      "a": "Septyneri",
+      "b": "Dešimt",
+      "c": "Dvylika",
+      "d": "Penkeri"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_018",
+    "question": "Ką Jėzus sakė, kai žmonės juokėsi iš jo, sakydami, kad mergaitė mirusi (Lk 8:52-53)?",
+    "options": {
+      "a": "„Ji tikrai mirusi, bet aš ją prikelsiu“",
+      "b": "„Ji nėra mirusi, o tik miega“",
+      "c": "„Jūsų netikėjimas trukdo man padaryti stebuklą“",
+      "d": "„Dievas gali padaryti viską, net jei žmonės netiki“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_8"
+  }
+]

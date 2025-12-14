@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mt_21_001",
+    "question": "Kur Jėzus pasiuntė du mokinius ieškoti asilos su asilaičiu, artėjant Jeruzalei?",
+    "options": {
+      "a": "Betfagė prie Alyvų kalno",
+      "b": "Betanija",
+      "c": "Nazaretas",
+      "d": "Jericonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_002",
+    "question": "Ką Jėzus sakė mokiniams, jei kas nors teirautųsi dėl asilos ir asilaičio atėmimo?",
+    "options": {
+      "a": "'Jų reikia Viešpačiui'",
+      "b": "'Jie priklauso man'",
+      "c": "'Tai mano tėvo valia'",
+      "d": "'Jie bus atiduoti šventykloje'"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_003",
+    "question": "Ką minia darė, kai Jėzus įžengė į Jeruzalę ant asilės?",
+    "options": {
+      "a": "Tiesė drabužius ir šakas ant kelio",
+      "b": "Metė akmenis",
+      "c": "Dainavo psalmes",
+      "d": "Šventino karves"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_004",
+    "question": "Ką šaukė minia, einanti prieš ir paskui Jėzų, įžengiant į Jeruzalę?",
+    "options": {
+      "a": "'Osana Dovydo Sūnui!'",
+      "b": "'Garbė karaliui!'",
+      "c": "'Laimė Dievo Tautai!'",
+      "d": "'Viešpatis su mumis!'"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_005",
+    "question": "Ką Jėzus padarė šventykloje, pamatęs ten prekybą?",
+    "options": {
+      "a": "Išvarė parduodančius ir perkančius, išvartė pinigų keitėjų stalus",
+      "b": "Pasakė pamaldą",
+      "c": "Pirko karvelius",
+      "d": "Pasodino medį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_006",
+    "question": "Ką Jėzus sakė, pamatęs, kad šventykla paverta plėšikų lindyne?",
+    "options": {
+      "a": "'Mano namai vadinsis maldos namai'",
+      "b": "'Šventykla bus sugriauta'",
+      "c": "'Jūsų laikai baigiasi'",
+      "d": "'Dievas jūsų nesupras'"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_007",
+    "question": "Ką Jėzus padarė su pasmerktu figmedžiu, kai nerado ant jo vaisių?",
+    "options": {
+      "a": "Pasakė: 'Tegul per amžius ant tavęs nemegs vaisiai!'",
+      "b": "Nupjovė visas šakas",
+      "c": "Pasodino naują figmedį",
+      "d": "Paskelbė jį šventu"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_008",
+    "question": "Ką Jėzus pasakė mokiniams apie tikėjimo galią, matydamas, kaip nudžiūvo figmedis?",
+    "options": {
+      "a": "Jeigu turėtumėte tikėjimo ir nesvyruotumėte, galėtumėte pasakyti kalnui: 'Pasikelk ir meskis į jūrą!'",
+      "b": "Tikėjimas gali išgydyti tik ligonius",
+      "c": "Tikėjimas reikalingas tik šventykloje",
+      "d": "Tikėjimas nėra svarbus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_009",
+    "question": "Ką Jėzus paklausė aukštųjų kunigų ir tautos seniūnų, kai jie klausė, kokia galia jis tai daro?",
+    "options": {
+      "a": "'Iš kur buvo Jono krikštas? Iš dangaus ar iš žmonių?'",
+      "b": "'Kur yra jūsų tikėjimas?'",
+      "c": "'Ar tikrai norite žinoti?'",
+      "d": "'Kas jums svarbiau – galia ar ištikimybė?'"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_010",
+    "question": "Ką atsakė aukštieji kunigai ir seniūnai, kai Jėzus paklausė apie Jono krikšto kilmę?",
+    "options": {
+      "a": "'Mes nežinome'",
+      "b": "'Iš dangaus'",
+      "c": "'Iš žmonių'",
+      "d": "'Tai pranašo reikalas'"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_011",
+    "question": "Kas iš dviejų sūnų Jėzaus pasakojame palyginime įvykdė tėvo valią?",
+    "options": {
+      "a": "Pirmasis, kuris pradžioje atsisakė, bet vėliau nuėjo dirbti",
+      "b": "Antrasis, kuris pažadėjo, bet nenuėjo",
+      "c": "Abu atliko valią",
+      "d": "Nė vienas neįvykdė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_012",
+    "question": "Kas, Jėzaus žodžiais, greičiau pateks į Dievo karalystę negu aukštieji kunigai ir fariziejai?",
+    "options": {
+      "a": "Muitininkai ir ištvirkėlės",
+      "b": "Karaliai ir valdovai",
+      "c": "Kariai ir žvejai",
+      "d": "Vaikai ir senoliai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_013",
+    "question": "Ką vynininkai padarė su šeimininko sūnumi, kai jis atėjo atsiimti vaisių dalies?",
+    "options": {
+      "a": "Užmušė jį ir išmetė iš vynuogyno",
+      "b": "Atidavė jam visus vaisius",
+      "c": "Pabėgo iš vynuogyno",
+      "d": "Pasodino naują vynuogyną"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_014",
+    "question": "Ką Jėzus sakė apie akmenį, kurį statytojai atmetė, palyginime apie vynuogyną?",
+    "options": {
+      "a": "'Tapo kertiniu akmeniu'",
+      "b": "'Jis bus panaudotas statybose'",
+      "c": "'Akmuo bus išmestas'",
+      "d": "'Jis bus pakeistas auksu'"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_015",
+    "question": "Kam Jėzus pasakė, kad Dievo karalystė bus atimta ir atiduota?",
+    "options": {
+      "a": "Tautai, kuri duos vaisių",
+      "b": "Aukštiesiems kunigams",
+      "c": "Romos imperijai",
+      "d": "Fariziejams"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_21"
+  }
+]

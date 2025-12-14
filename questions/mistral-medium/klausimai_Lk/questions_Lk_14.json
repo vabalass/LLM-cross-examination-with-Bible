@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Lk_14_001",
+    "question": "Ką Jėzus padarė vandenlige sergančiam žmogui, kai šis pasirodė šabo dieną fariziejaus namuose?",
+    "options": {
+      "a": "Pasakė, kad šabo dieną negydoma, ir liepė laukti kitą dieną.",
+      "b": "Išgydė jį ir paleido, nors fariziejai ir Įstatymo mokytojai tylėjo.",
+      "c": "Paklausė, ar žmogus tikrai nori būti išgydytas, ir paliko jį be pagalbos.",
+      "d": "Nusiuntė jį į sinagogą, kad ten būtų pagydytas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_002",
+    "question": "Kokį pavyzdį Jėzus panaudoja, kalbėdamas apie pagalbą šabo dieną?",
+    "options": {
+      "a": "Jei žmogus praranda pinigus šabo dieną, reikia juos ieškoti.",
+      "b": "Jei sūnus ar galvijai įkris į šulinį, juos reikia ištraukti net šabo dieną.",
+      "c": "Jei namas užsidega, reikia greitai blėsti ugnį, net jei tai šaba.",
+      "d": "Jei žmogus susirga, reikia laukti, kol praeis šaba, ir tik tada gydyti."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_003",
+    "question": "Ką Jėzus pataria žmonėms, kai jie rinkosi vietas prie stalo vestuvėse?",
+    "options": {
+      "a": "Sėstis kuo arčiau šeimininko, kad būtų pastebėti.",
+      "b": "Sėstis į pirmąsias vietas, nes tai rodo pasitikėjimą savimi.",
+      "c": "Sėstis į paskutines vietas, kad būtų pakviestas aukščiau ir gautų garbę.",
+      "d": "Sėstis vienas šalia kito, kad būtų lengviau bendrauti."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_004",
+    "question": "Ką Jėzus siūlo daryti, kai rengiama puota (vaišė)?",
+    "options": {
+      "a": "Kviesti tik turtingus ir įtakingus žmones, kad būtų didesnė nauda.",
+      "b": "Kviesti draugus, brolius ir giminaičius, kad būtų šventė šeimos rate.",
+      "c": "Kviesti vargšus, paliegėlius, luošus ir aklus, nes jie neturi kuo atsilyginti, o atlygis bus Dievo karalystėje.",
+      "d": "Kviesti tik tuos, kurie gali atsilyginti dideliais dovanais."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_005",
+    "question": "Ką atsakė svečiai, pakviesti į didelę puotą, kai tarnas pasakė, kad viskas jau parengta?",
+    "options": {
+      "a": "Jie visi atvyko be vilkimo ir džiaugėsi puota.",
+      "b": "Jie atsiprašė dėl užimtumų: vienas nusipirko dirvą, kitas – galvijus, trečias – vedė.",
+      "c": "Jie pasiūlė atidėti puotą kitam metui, kai bus patogesniu.",
+      "d": "Jie atsiuntė savo tarnus vietoje savęs."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_006",
+    "question": "Ką šeimininkas liepė daryti tarnui, kai pakviestieji atsisakė atvykti į puotą?",
+    "options": {
+      "a": "Atšaukti puotą ir grąžinti paruoštus maisto produktus.",
+      "b": "Pakviesti tik šeimos narius ir artimus draugus.",
+      "c": "Skubiai pakviesti vargšus, paliegėlius, aklus ir luošus iš miesto, o vėliau – žmones iš kelių ir patvorių.",
+      "d": "Parduoti maistą turgaus pirkliams."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_007",
+    "question": "Ką Jėzus sakė apie tai, ką reikia padaryti, norint būti jo mokiniais?",
+    "options": {
+      "a": "Reikia turėti daug pinigų, kad galėtų remti vargšus.",
+      "b": "Reikia atsižadėti visos nuosavybės, nešioti savo kryžių ir nemėgti savo šeimos daugiau nei Jėzaus.",
+      "c": "Reikia mokytis Raštų ir būti labai išsilavinusiam žmogui.",
+      "d": "Reikia gyventi vienuolių bendruomenėje ir atsisakyti visų pasaulietinių malonių."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_008",
+    "question": "Kokį pavyzdį Jėzus panaudoja, kalbėdamas apie planavimą ir išsižadėjimą?",
+    "options": {
+      "a": "Žmogus, kuris nori tapti gydytoju, turi mokytis daug metų.",
+      "b": "Karalius, einantis į karą, turi įvertinti savo pajėgumus prieš pradedant kovą.",
+      "c": "Valdininkas, norintis tapti teisėju, turi išlaikyti egzaminus.",
+      "d": "Ūkininkas, norintis auginti dervą, turi pirkti gerus sėklus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_009",
+    "question": "Ką Jėzus sakė apie druską, kai ji praranda sūrumą?",
+    "options": {
+      "a": "Ji tinka tik statyboms kaip statybinė medžiaga.",
+      "b": "Ji nebetinka nei dirvai, nei mėšlui, o išberiama laukan.",
+      "c": "Ji gali būti panaudota kaip vaistinis priemonės komponentas.",
+      "d": "Ji tampa vertinga kolekcionieriams."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_010",
+    "question": "Ką Jėzus pasakė apie žmones, kurie atsisakė atvykti į šeimininko puotą?",
+    "options": {
+      "a": "Jie bus pakviesti į kitą puotą, kai tik atsiraks laiko.",
+      "b": "Nė vienas iš jų nebus pakviestas į Dievo karalystės puotą.",
+      "c": "Jie bus bausti už savo nepasitenkinimą ir neatsakingumą.",
+      "d": "Jie turės sumokėti kompensaciją už prarastą maistą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_011",
+    "question": "Ką Jėzus pataria daryti, kai norima pastatyti bokštą?",
+    "options": {
+      "a": "Pirmiausia surinkti visus draugus, kad jie padėtų statyti.",
+      "b": "Pirmiausia atsisėsti ir apskaičiuoti išlaidas, ar pakaks pinigų baigti statybą.",
+      "c": "Pirmiausia pasamdyti geriausių statybininkų, nes jie greičiau pastatys.",
+      "d": "Pirmiausia pasikonsultuoti su architektu, kad bokštas būtų gražus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_14"
+  }
+]

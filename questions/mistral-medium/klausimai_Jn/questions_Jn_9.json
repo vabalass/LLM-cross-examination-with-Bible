@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Jn_9_001",
+    "question": "Ką Jėzaus mokiniai klausė apie aklą žmogų, kurį pamatė Jėzus?",
+    "options": {
+      "a": "Kas nusidėjo, kad jis gimė neregys – jis pats ar jo tėvai?",
+      "b": "Kodėl jis elgetauja vietoje to, kad dirbtų?",
+      "c": "Ar jis tikrai gimė aklas, ar tik prisiima?",
+      "d": "Kodėl Jėzus pasirinko būtent jį pagydyti?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_002",
+    "question": "Ką Jėzus atsakė, kai mokiniai klausė, kas nusidėjo, kad žmogus gimė aklas?",
+    "options": {
+      "a": "Tik jo tėvai nusidėjo, o jis ne.",
+      "b": "Nei jis, nei jo tėvai nenusidėjo, bet jame turi apsireikšti Dievo darbai.",
+      "c": "Jis nusidėjo savo praeities nuodėmėmis.",
+      "d": "Dievas nubaudė jį dėl jo tėvų nuodėmių."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_003",
+    "question": "Ką Jėzus padarė, norėdamas pagydyti aklą žmogų?",
+    "options": {
+      "a": "Jis palietė jo akis savo ranka ir pasakė: „Praregėk!“",
+      "b": "Jis spjovė žemėn, padarė purvo iš seilių, patepė juo neregio akis ir pasakė eiti nusiprausti į Siloamo tvenkinį.",
+      "c": "Jis pasakė jam pasimelsti ir melstis trys dienas.",
+      "d": "Jis pasakė jam eiti į sinagogą ir ten laukti stebuklo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_004",
+    "question": "Ką reiškia žodis „Siloamas“?",
+    "options": {
+      "a": "Gydymas",
+      "b": "Šviesa",
+      "c": "Siųstasis",
+      "d": "Stébuklas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_005",
+    "question": "Ką kaimynai ir kiti žmonės klausė pagydyto ajo, kai jie pamatė jį regintį?",
+    "options": {
+      "a": "Kur jis buvo visą tą laiką?",
+      "b": "Ar čia ne tas, kuris sėdėdavo elgetaudamas?",
+      "c": "Kas jam davė pinigų, kad jis galėjo gydytis?",
+      "d": "Kodėl jis nepasakė niekam apie savo gydymą?"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_006",
+    "question": "Ką pagydytasis žmogus pasakė fariziejams apie tai, kaip praregėjo?",
+    "options": {
+      "a": "Jis pasakė, kad Jėzus padarė purvo, patepė jo akis ir pasakė eiti nusiprausti.",
+      "b": "Jis pasakė, kad Jėzus tik pasiliepsnojo jam akimis ir jis praregėjo.",
+      "c": "Jis pasakė, kad Jėzus jam davė stebuklingų vaistų.",
+      "d": "Jis pasakė, kad Jėzus jam pasakė tikėti ir jis praregėjo."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_007",
+    "question": "Kodėl fariziejai nesutarė dėl Jėzaus?",
+    "options": {
+      "a": "Kai kurie sakė, kad Jėzus ne iš Dievo, nes nesilaiko šabo, o kiti sakė, kad nusidėjėlis negalėtų daryti tokių ženklų.",
+      "b": "Jie nesutarė dėl to, ar Jėzus tikrai yra pranašas.",
+      "c": "Jie nesutarė dėl to, ar Jėzus turi teisę gydyti žmones.",
+      "d": "Jie nesutarė dėl to, ar Jėzus turi būti priimtas kaip karalius."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_008",
+    "question": "Ką pagydytasis žmogus atsakė fariziejams, kai jie klausė, ką jis manai apie Jėzų?",
+    "options": {
+      "a": "Jis pranašas.",
+      "b": "Jis Mesijas.",
+      "c": "Jis Dievo Sūnus.",
+      "d": "Jis tik gydytojas."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_009",
+    "question": "Kodėl pagydytojo tėvai atsisakė atsakyti fariziejams, kaip jų sūnus praregėjo?",
+    "options": {
+      "a": "Jie bijojo žydų, nes žydai buvo nutarę išmesti iš sinagogos tuos, kurie išpažįsta Jėzų esant Mesiją.",
+      "b": "Jie nebuvo patys žinoję, kaip tai įvyko.",
+      "c": "Jie nebuvo norėję, kad jų sūnus būtų pagydytas.",
+      "d": "Jie buvo pasiryžę niekada nekalbėti su fariziejais."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_010",
+    "question": "Ką pagydytasis žmogus pasakė fariziejams, kai jie sakė, kad Jėzus yra nusidėjėlis?",
+    "options": {
+      "a": "Jis atsakė: „Ar jis nusidėjėlis, aš nežinau. Viena žinau: buvau aklas, o dabar regiu.“",
+      "b": "Jis atsakė: „Jis ne nusidėjėlis, nes Dievas su juo.“",
+      "c": "Jis atsakė: „Jis yra Dievo Sūnus, todėl negali būti nusidėjėlis.“",
+      "d": "Jis atsakė: „Jūs turite tikėti Jėzumi, nes jis yra Mesijas.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_011",
+    "question": "Ką pagydytasis žmogus pasakė fariziejams, kai jie klausė, kaip Jėzus jam atvėrė akis?",
+    "options": {
+      "a": "Jis pasakė: „Aš jau sakiau, tik jūs neklausote. Ką dar norite išgirsti? Gal ir jūs norite tapti jo mokiniais?“",
+      "b": "Jis pasakė: „Jis mane palietė ir aš praregėjau.“",
+      "c": "Jis pasakė: „Jis mane pasiuntė į sinagogą, ir ten aš praregėjau.“",
+      "d": "Jis pasakė: „Jis mane pasiuntė į kalną, ir ten aš praregėjau.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_012",
+    "question": "Ką Jėzus pasakė pagydytajam žmogui, kai susitikęs su juo po to, kai fariziejai jį išvarė?",
+    "options": {
+      "a": "„Ar tiki Žmogaus Sūnų?“",
+      "b": "„Tu esi laimingas, nes praregėjai.“",
+      "c": "„Eik ir pasakyk fariziejams, kad aš esu Mesijas.“",
+      "d": "„Tu turi pasakyti visiems, kad aš esu Dievo Sūnus.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_013",
+    "question": "Ką Jėzus pasakė fariziejams, kai jie klausė, ar jie akli?",
+    "options": {
+      "a": "„Jei būtumėte akli, neturėtumėte nuodėmės, bet štai jūs sakote: 'Mes neakli!' – Taigi jūs kalti.“",
+      "b": "„Jūs esate akli, nes nematote tiesos.“",
+      "c": "„Jūs turite atverti akis ir pamatyti, kas yra tiesą.“",
+      "d": "„Jūs turite tikėti mane, kad praregėtumėte.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_9"
+  }
+]

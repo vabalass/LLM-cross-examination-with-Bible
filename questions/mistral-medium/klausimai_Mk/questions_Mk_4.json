@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Mk_4_001",
+    "question": "Kur Jėzus mokė minią, kai pasakojo palyginimą apie sėjėją?",
+    "options": {
+      "a": "Sinagogos viduje",
+      "b": "Ant kalno",
+      "c": "Paežerėje, sėdėdamas valtyje ant vandens",
+      "d": "Dykumoje"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_002",
+    "question": "Ką nutiko su grūdais, nukritusiais palei kelią palyginime apie sėjėją?",
+    "options": {
+      "a": "Jie sudygo, bet buvo nusmelkti erškėčių",
+      "b": "Juos sulesė paukščiai",
+      "c": "Jie davė didelį derlių",
+      "d": "Jie išdžiūvo dėl saulės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_003",
+    "question": "Kokį derlių davė grūdai, nukritę į gerą žemę?",
+    "options": {
+      "a": "Septyniasdešimteriopą, aštuoniasdešimteriopą ir devyniasdešimteriopą",
+      "b": "Trisdešimteriopą, šešiasdešimteriopą ir šimteriopą",
+      "c": "Penkiasdešimteriopą ir šimteriopą",
+      "d": "Dešimteriopą ir dvidešimteriopą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_004",
+    "question": "Ką Jėzus atsakė mokiniams, kai jie klausė, kodėl jis mokė palyginimais?",
+    "options": {
+      "a": "„Norėdamas, kad visi suprastų Dievo karalystės paslaptis“",
+      "b": "„Jums atiduota Dievo karalystės paslaptis, o pašaliniams viskas sakoma palyginimais“",
+      "c": "„Palyginimai yra lengviau suprantami nei tiesioginės išpažintys“",
+      "d": "„Dievas man liepė mokyti tik palyginimais“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_005",
+    "question": "Kas simbolizuoja grūdus, nukritusius tarp erškėčių?",
+    "options": {
+      "a": "Žmonės, kurių tikėjimą sunaikina pasaulio rūpesčiai, turto apgaulė ir aistros",
+      "b": "Žmonės, kurie greitai atkrenta dėl persekiojimo",
+      "c": "Žmonės, kuriems žodis iškart išplėšiamas šėtono",
+      "d": "Žmonės, kurie priima žodį su džiaugsmu, bet neturi šaknų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_006",
+    "question": "Ką Jėzus pasakojo apie žiburį palyginime su žibintu?",
+    "options": {
+      "a": "„Žiburys turi šviesti tik naktį“",
+      "b": "„Argi žiburys atnešamas pakišti po indu ar po lova? Argi ne įstatyti į žibintuvą?!“",
+      "c": "„Žiburys turi būti uždegamas tik šventadieniais“",
+      "d": "„Žiburys simbolizuoja tikėjimą, kuris turi būti slepiamas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_007",
+    "question": "Ką reiškia Jėzus sakydamas: „Kokiu saiku seikėjate, tokiu ir jums bus atseikėta“?",
+    "options": {
+      "a": "Kiek daugiau duosi, tiek daugiau gausi",
+      "b": "Kiek daugiau meluoji, tiek daugiau bus atimta",
+      "c": "Kiek daugiau klausai, tiek daugiau suprasi",
+      "d": "Kiek daugiau sėji, tiek daugiau pjauti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_008",
+    "question": "Ką Jėzus pasakojo apie Dievo karalystės augimą palyginime su sėja?",
+    "options": {
+      "a": "Žmogus turi nuolat prižiūrėti sėklą, kad ji augtų",
+      "b": "Sėkla auga savaime, nepriklausomai nuo žmogaus pastangų",
+      "c": "Sėkla turi būti sėjama tik tam tikru metu",
+      "d": "Sėkla neauga, jei žmogus miega"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_009",
+    "question": "Su kuo Jėzus palygino Dievo karalystę, sakydamas, kad ji „mažiausia iš visų sėklų, bet užauga didesnė už visas daržoves“?",
+    "options": {
+      "a": "Su kviečiu",
+      "b": "Su garstyčios grūdeliu",
+      "c": "Su miežiu",
+      "d": "Su rugiu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_010",
+    "question": "Ką Jėzus padarė, kai mokiniai jį pažadino per audrą?",
+    "options": {
+      "a": "Jis pasakė: „Tikėkit, ir audra nutilks“",
+      "b": "Jis sudraudė vėtrą ir įsakė ežerui: „Nutilk, nusiramink!“",
+      "c": "Jis pasakė: „Mes žūvame, bet Dievas mus išgelbės“",
+      "d": "Jis pasakė: „Mūsų laikas dar neatejo“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_011",
+    "question": "Ką Jėzus klausė mokinių po to, kai jie pagavo baimės audros metu?",
+    "options": {
+      "a": "„Kodėl jūs man nepasitikėjote?“",
+      "b": "„Kodėl jūs tokie bailūs? Argi jums tebestinga tikėjimo?!“",
+      "c": "„Kodėl jūs man nešaukėte anksčiau?“",
+      "d": "„Kodėl jūs nepasiruošėte audrai?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_012",
+    "question": "Ką mokiniai pasakė vieni kitams po to, kai Jėzus nusramino audrą?",
+    "options": {
+      "a": "„Jis yra Dievo Sūnus!“",
+      "b": "„Kas gi jis toks? Net vėjas ir marios jo klauso!“",
+      "c": "„Mes turime didesnį tikėjimą“",
+      "d": "„Jis gali daryti stebuklus, bet mes vis dar bijome“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_013",
+    "question": "Ką Jėzus sakė apie tai, kodėl jis mokė palyginimais (remiantis 12 eilute)?",
+    "options": {
+      "a": "„Norėdamas, kad visi suprastų“",
+      "b": "„Kad pašaliniai regėtų, bet nematytų, girdėtų, bet nesuprastų“",
+      "c": "„Palyginimai yra paprasčiausia mokymo forma“",
+      "d": "„Dievas man įsakė mokyti tik palyginimais“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_4"
+  }
+]

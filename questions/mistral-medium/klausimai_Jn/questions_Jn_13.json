@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Jn_13_001",
+    "question": "Ką Jėzus padarė mokiniams prieš vakarienę, rodydamas savo meilę iki galo?",
+    "options": {
+      "a": "Numazgo jų kojas ir šluostė rankšluosčiu",
+      "b": "Pasidalino su jais savo drabužiais",
+      "c": "Pasakė ilgą maldą už juos",
+      "d": "Išmokė juos naujos giesmės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_002",
+    "question": "Kas Jėzus atsakė Petrui, kai šis atsisakė leisti numazgoti savo kojų?",
+    "options": {
+      "a": "„Jei tavęs nenumazgosiu, neturėsi dalies su manimi“",
+      "b": "„Tavo troškimas yra man patikimas“",
+      "c": "„Tu esi švarus, todėl to nereikia“",
+      "d": "„Tavo kojos jau praustos vandens šaltinyje“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_003",
+    "question": "Ką Jėzus pasakė mokiniams, kai baigė mazgoti jų kojas?",
+    "options": {
+      "a": "„Jūs turite vieni kitiems kojas mazgoti, kaip aš padariau jums“",
+      "b": "„Dabar jūs esate pasiruošę keliauti su manim“",
+      "c": "„Šis veiksmas simbolizuoja jūsų naująjį gyvenimą“",
+      "d": "„Mazgokite kojas kasdien, kad būtumėte švarūs“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_004",
+    "question": "Kas Jėzus pasakė apie tarno ir šeimininko santykį?",
+    "options": {
+      "a": "„Tarnas ne didesnis už savo šeimininką“",
+      "b": "„Tarnas turi būti lygus šeimininkui“",
+      "c": "„Tarnas gali tapti šeimininku, jei tikrai pasitiki“",
+      "d": "„Šeimininkas turi tarno garbei atiduoti savo turtą“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_005",
+    "question": "Ką Jėzus pasakė apie vieną iš mokinių, kuris jį išduos?",
+    "options": {
+      "a": "„Tas, kuris valgė mano duoną, taikėsi mane sutrypti“",
+      "b": "„Jis bus paskutinis, kuris mane paliks“",
+      "c": "„Šis mokinys yra mano artimiausias draugas“",
+      "d": "„Jis niekada neįvykdys savo ketinimo“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_006",
+    "question": "Kaip Jėzus identifikavo savo išdavėją per vakarienę?",
+    "options": {
+      "a": "Padavė kąsnį Judui, Simono Iskarijoto sūnui",
+      "b": "Pasakė, kad išdavėjas bus tas, kuris pirmas išeis",
+      "c": "Nurodė Petrui pasakyti, kas tai yra",
+      "d": "Pasakė, kad išdavėjas bus tas, kuris nevalgys duonos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_007",
+    "question": "Ką Jėzus pasakė Judui, kai šis nurijo kąsnį?",
+    "options": {
+      "a": "„Ką darai, daryk greičiau!“",
+      "b": "„Tavo laikas dar neatejo“",
+      "c": "„Tu esi mano mokinys, net jei ir klysti“",
+      "d": "„Atsigyk ir grįšk“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_008",
+    "question": "Ką Jėzus pasakė apie savo pašlovinimą po Judo išėjimo?",
+    "options": {
+      "a": "„Dabar Žmogaus Sūnus pašlovintas, ir Dievas pašlovintas per jį“",
+      "b": "„Mano laikas dar neatejo, bet jis artėja“",
+      "c": "„Šis išdavystės aktas bus mano didžiausias triumfas“",
+      "d": "„Jūs visi busite pašlovinti kartu su manim“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_009",
+    "question": "Kokį naują įsakymą Jėzus davė mokiniams?",
+    "options": {
+      "a": "„Kad jūs vienas kitą mylėtumėte, kaip aš jus mylėjau“",
+      "b": "„Kad jūs keliautumėte po pasaulį skelbdami Evangeliją“",
+      "c": "„Kad jūs kasdien maldautumėte už savo priešus“",
+      "d": "„Kad jūs atiduotumėte savo turtą vargšams“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_010",
+    "question": "Ką Jėzus pasakė Petrui, kai šis klausė, kur Jėzus eina?",
+    "options": {
+      "a": "„Kur aš einu, tu dabar negali manęs palydėti, bet vėliau palydėsi“",
+      "b": "„Tu niekada negali su manim eiti“",
+      "c": "„Tu esi pasiruošęs, bet dar nesi paruošęs“",
+      "d": "„Tavo kelias yra skirtingas, negali su manim būti“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_011",
+    "question": "Ką Jėzus pranašavo apie Petro atmetimą?",
+    "options": {
+      "a": "„Dar gaidžiams nepragydus, tu tris kartus manęs išsiginsi“",
+      "b": "„Tu mane paliksi, kai aš busiu sulaikytas“",
+      "c": "„Tu tapsi mano išdavėju, kaip ir Judas“",
+      "d": "„Tu niekada neatsisakysi manęs, net jei ir busi bandytas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_012",
+    "question": "Ką Jėzus pasakė apie tai, kaip visi pažins, kad mokiniai yra jo?",
+    "options": {
+      "a": "„Iš to visi pažins, kad esate mano mokiniai, jei mylėsite vieni kitus“",
+      "b": "„Jūsų tikėjimas bus jūsų ženklas“",
+      "c": "„Jūsų stiprybė bus jūsų įrodymas“",
+      "d": "„Jūsų žodžiai bus mano žodžiai“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_13"
+  }
+]

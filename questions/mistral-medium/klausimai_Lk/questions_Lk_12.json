@@ -1,0 +1,275 @@
+[
+  {
+    "id": "Lk_12_001",
+    "question": "Ką Jėzus įspėjo savo mokinius saugotis pirmiausia Lk 12,1?",
+    "options": {
+      "a": "Fariziejų raugo (veidmainystės)",
+      "b": "Romos valdžios persekiojimo",
+      "c": "Turtuolių godumo",
+      "d": "Pagonų keršto"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_002",
+    "question": "Ką, pasak Jėzaus Lk 12,2-3, bus atskleista ir skelbiama viešai?",
+    "options": {
+      "a": "Visos žmonių nuodėmės",
+      "b": "Kas kalbėta patamsyje ir šnibždėta į ausį",
+      "c": "Dievo paslaptys apie pasaulio pabaigą",
+      "d": "Fariziejų malonės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_003",
+    "question": "Ką Jėzus Lk 12,4-5 įsako bijoti – ne tų, kurie žudo kūną, bet...?",
+    "options": {
+      "a": "Tų, kurie gali įstumti į pragarą",
+      "b": "Romos imperijos kariuomenės",
+      "c": "Satanos gundymų",
+      "d": "Badų ir ligų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_004",
+    "question": "Kiek, pasak Jėzaus Lk 12,6, kainuoja penki žvirbliai?",
+    "options": {
+      "a": "Vieną skatiką",
+      "b": "Du skatikus",
+      "c": "Tris sidabrinius",
+      "d": "Jie nemokami, nes Dievo sukurti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_005",
+    "question": "Ką Jėzus sakė apie žmones, kurie jo išsigins žmonių akivaizdoje (Lk 12,9)?",
+    "options": {
+      "a": "Jie bus atleisti, jei atsiprašys",
+      "b": "Jis juos išsigins Dievo angelų akivaizdoje",
+      "c": "Jie taps jo mokiniais slaptai",
+      "d": "Jie bus paskelbti teisingais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_006",
+    "question": "Ką, pasak Jėzaus Lk 12,10, **nebus** atleista?",
+    "options": {
+      "a": "Nusikalimai prieš žmones",
+      "b": "Piktžodžiavimas Šventajai Dvasiai",
+      "c": "Melas apie kitus",
+      "d": "Nepaklusnumas vyresnybėms"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_007",
+    "question": "Ką Jėzus pažadėjo mokiniams, kai jie bus vedami pas viršininkus (Lk 12,11-12)?",
+    "options": {
+      "a": "Jis pats gins juos teisme",
+      "b": "Šventoji Dvasia juos pamokys, ką kalbėti",
+      "c": "Jie bus išlaisvinti iš karto",
+      "d": "Jie gaus atlygį danguje tą pačią dieną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_008",
+    "question": "Ką Jėzus Lk 12,15 įspėjo saugotis labiausiai?",
+    "options": {
+      "a": "Vagysčių ir apiplėšimų",
+      "b": "Bet kokio godumo",
+      "c": "Fariziejų mokymo",
+      "d": "Savęs didinimo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_009",
+    "question": "Ką turtingas žemdirbys Lk 12,18-19 planavo padaryti su savo derlium?",
+    "options": {
+      "a": "Padovanoti jam viską vienuolynui",
+      "b": "Nugriauti senus klojimus, pastatyti didesnius ir ilsėtis",
+      "c": "Parduoti javus ir išvykti į kitą šalį",
+      "d": "Pasidalyti su vargšais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_010",
+    "question": "Ką Dievas pasakė turtingajam žemdirbiui Lk 12,20?",
+    "options": {
+      "a": "„Tu esi protingas ir sumanus tarnautojas!“",
+      "b": "„Kvaily, šiąnakt bus pareikalauta tavo gyvybės!“",
+      "c": "„Tavo turtas bus atimtas ir duotas vargšams!“",
+      "d": "„Išvyk iš šios žemės, nes čia tau nebus laimės!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_011",
+    "question": "Ką Jėzus Lk 12,23 teigia apie gyvybę ir kūną?",
+    "options": {
+      "a": "Jie yra svarbesni už maistą ir drabužį",
+      "b": "Jie priklauso nuo turto kiekio",
+      "c": "Jie turi būti aukojami Dievui",
+      "d": "Jie yra tik laikiniai dalykai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_012",
+    "question": "Ką Jėzus Lk 12,24 paminėjo kaip Dievo rūpesčio pavyzdį?",
+    "options": {
+      "a": "Lelijas laukuose",
+      "b": "Varnus, kurias Dievas maitina",
+      "c": "Bitės, kurios renka nektarą",
+      "d": "Ožys, kurios randą maistą kalnuose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_013",
+    "question": "Ką Jėzus sakė apie Saliamoną ir lelijas Lk 12,27?",
+    "options": {
+      "a": "Saliamonas buvo puošnesnis už lelijas",
+      "b": "Nė Saliamonas nebuvo taip puošnus kaip lelija",
+      "c": "Lelijos yra Dievo kūriniai, o Saliamonas – žmonių",
+      "d": "Saliamonas turėjo daugiau turto nei lelijos vertė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_014",
+    "question": "Ką Jėzus Lk 12,31 įsako ieškoti pirmiausia?",
+    "options": {
+      "a": "Turtą ir gerovę",
+      "b": "Dievo karalystės",
+      "c": "Žmonių pagarbos",
+      "d": "Ilgaamžystės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_015",
+    "question": "Ką Jėzus Lk 12,33 pataria padaryti su turtu?",
+    "options": {
+      "a": "Išparduoti ir išdalyti išmaldai",
+      "b": "Saugoti sau, nes ateis badas",
+      "c": "Panaudoti statant šventyklą",
+      "d": "Paslėpti, kad nevogtų vagys"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_016",
+    "question": "Kur, pasak Jėzaus Lk 12,34, yra žmogaus širdis?",
+    "options": {
+      "a": "Kur jo šeima",
+      "b": "Kur jo lobis",
+      "c": "Kur jo namai",
+      "d": "Kur jo darbas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_017",
+    "question": "Ką Jėzus Lk 12,35-36 lygina su žmonėmis, laukiančiais šeimininko grįžimo?",
+    "options": {
+      "a": "Tarnai, ruošiantys vestuves",
+      "b": "Žmonės su sujuostomis strėnomis ir uždegtais žiburiais",
+      "c": "Sargybiniai prie miesto vartų",
+      "d": "Žvejai, laukiantys žuvų gaudynės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_018",
+    "question": "Ką Jėzus pažadėjo tarnai, kuriuos šeimininkas ras budinčius (Lk 12,37)?",
+    "options": {
+      "a": "Jie gaus didelį atlygį pinigais",
+      "b": "Šeimininkas juos patarnaus ir pasodins prie stalo",
+      "c": "Jie taps šeimininko paveldėtojais",
+      "d": "Jie bus paleisti į laisvę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_019",
+    "question": "Ką Jėzus sakė apie Žmogaus Sūnaus atėjimą Lk 12,40?",
+    "options": {
+      "a": "Jis ateis, kai žmonės tikėsis",
+      "b": "Jis ateis, kai nesitikėsite",
+      "c": "Jis ateis su didele kariuomene",
+      "d": "Jis ateis tik po 1000 metų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_020",
+    "question": "Ką Jėzus Lk 12,49 sakė apie ugnį, kurią jis atėjo įžiebti žemėje?",
+    "options": {
+      "a": "Tai yra teisės ugnis, skirta nusikaltėliams",
+      "b": "Tai yra Šventosios Dvasios ugnis, skirta krikštui",
+      "c": "Tai yra nesantarvės ugnis tarp žmonių",
+      "d": "Tai yra malonės ugnis, skirta šildyti širdis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_021",
+    "question": "Ką Jėzus Lk 12,51 teigia apie savo misiją žemėje?",
+    "options": {
+      "a": "Jis atėjo atnešti ramybę",
+      "b": "Jis atėjo atnešti nesantarvę",
+      "c": "Jis atėjo suvienyti šeimas",
+      "d": "Jis atėjo panaikinti įstatymus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_12"
+  }
+]

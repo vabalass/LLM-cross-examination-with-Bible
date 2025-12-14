@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Lk_4_001",
+    "question": "Kiek dienų Jėzus buvo gundomas dykumoje?",
+    "options": {
+      "a": "10 dienų",
+      "b": "40 dienų",
+      "c": "7 dienų",
+      "d": "3 dienų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_002",
+    "question": "Ką velnias pasiūlė Jėzui pirmame gundyme?",
+    "options": {
+      "a": "Pavirsti akmenį duona",
+      "b": "Šokti nuo šventyklos šelmens",
+      "c": "Garbinti jį kaip valdovą",
+      "d": "Duoti jam visą pasaulio valdžią"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_003",
+    "question": "Ką Jėzus atsakė velniui, kai šis pasiūlė jam pavirsti akmenį duona?",
+    "options": {
+      "a": "„Žmogus gyvas ne viena duona!“",
+      "b": "„Negundyk Viešpaties, savo Dievo!“",
+      "c": "„Viešpatį, savo Dievą, tegarbink!“",
+      "d": "„Aš esu Dievo Sūnus, man nieko nereikia!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_004",
+    "question": "Ką velnias parodė Jėzui antrojo gundymo metu?",
+    "options": {
+      "a": "Visas pasaulio karalystes",
+      "b": "Jeruzalės šventyklą",
+      "c": "Dykumos kraštovaizdį",
+      "d": "Savo karalystę pragare"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_005",
+    "question": "Ką velnias reikalavo nuo Jėzaus, norėdamas jam duoti pasaulio valdžią?",
+    "options": {
+      "a": "Kad Jėzus atiduotų jam savo galybes",
+      "b": "Kad Jėzus parpuolęs ant žemės jį pagarbintų",
+      "c": "Kad Jėzus atsižadėtų savo dieviškumo",
+      "d": "Kad Jėzus pasiimtų jį į dangų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_006",
+    "question": "Kur velnias nusivedė Jėzų trečiajame gundyme?",
+    "options": {
+      "a": "Ant kalno",
+      "b": "Ant šventyklos šelmens Jeruzalėje",
+      "c": "Į dykumą",
+      "d": "Į Galilėjos ežerą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_007",
+    "question": "Ką velnias pasakė Jėzui, ragindamas jį pulkti nuo šventyklos šelmens?",
+    "options": {
+      "a": "„Tu esi Dievo Sūnus, nieko tau nebūs!“",
+      "b": "„Jei tu Dievo Sūnus, pulk nuo čia žemyn!“",
+      "c": "„Aš tau padės, jei tik pasitiki mane!“",
+      "d": "„Čia tavo laikas įrodyti savo galybę!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_008",
+    "question": "Ką Jėzus atsakė velniui, kai šis citavo Raštą apie angelus, saugančius Jėzų?",
+    "options": {
+      "a": "„Aš tau nepatiksiu!“",
+      "b": "„Negundyk Viešpaties, savo Dievo!“",
+      "c": "„Tu meluoji, man angelų nereikia!“",
+      "d": "„Aš pats saugosiu save!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_009",
+    "question": "Ką Jėzus skaitė sinagogoje, atėjęs į Nazaretą?",
+    "options": {
+      "a": "Mozės įstatymus",
+      "b": "Pranašo Izaijo knygą apie Viešpaties Dvasią ir malonės metus",
+      "c": "Davido psalmes",
+      "d": "Apokrifinius raštus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_010",
+    "question": "Ką Jėzus pasakė, užvėręs Izaijo knygą sinagogoje?",
+    "options": {
+      "a": "„Šis žodis yra manę!“",
+      "b": "„Šiandien išsipildė ką tik jūsų girdėti Rašto žodžiai!“",
+      "c": "„Jūsų tikėjimas yra silpnas!“",
+      "d": "„Aš esu Mesijas, kurio laukėte!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_011",
+    "question": "Ką žmonės atsakė, išgirdę Jėzaus žodžius sinagogoje?",
+    "options": {
+      "a": "Jie pasitikėjo jį kaip Mesiją",
+      "b": "Jie klausė: „Argi jis ne Juozapo sūnus?“",
+      "c": "Jie iškvietė jį iš miesto",
+      "d": "Jie pradėjo jį garbinti kaip karalių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_012",
+    "question": "Ką Jėzus padarė, kai žmonės norėjo jį nustumti nuo kalno?",
+    "options": {
+      "a": "Jis pasidavė jų valiai",
+      "b": "Jis praėjo tarp jų ir pasišalino",
+      "c": "Jis pasakė: „Jūs esate blogi!“",
+      "d": "Jis pakvietė angelus apsaugoti jį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_013",
+    "question": "Ką Jėzus padarė Simono uošvei, kai ši karščiavo?",
+    "options": {
+      "a": "Jis sudraudė karštinę, ir toji pasiliovė",
+      "b": "Jis pasakė: „Tiki, ir bus tau!“",
+      "c": "Jis davė jai stebuklingą žolelę",
+      "d": "Jis pasiuntė angelus gydyti ją"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_014",
+    "question": "Ką Jėzus sakė žmonėms, kai jie mėgino jį sulaikyti Kafarnaume?",
+    "options": {
+      "a": "„Aš turiu skelbti gerąją naujieną ir kitiems miestams!“",
+      "b": "„Aš čia liksi su jumis amžinai!“",
+      "c": "„Jūsų tikėjimas yra mažas!“",
+      "d": "„Aš esu atėjęs tik šiam miestui!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_4"
+  }
+]

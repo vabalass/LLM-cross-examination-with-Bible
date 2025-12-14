@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Jn_12_001",
+    "question": "Kiek dienų liko iki Velykų, kai Jėzus atėjo į Betaniją, kur gyveno Lozorius?",
+    "options": {
+      "a": "Trys dienos",
+      "b": "Šešios dienos",
+      "c": "Dešimt dienų",
+      "d": "Viena savaitė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_002",
+    "question": "Ką Marija panaudojo, kad pateptų Jėzui kojas Betanijoje?",
+    "options": {
+      "a": "Alyvuogių aliejų",
+      "b": "Brangius tepalus iš gryno nardo",
+      "c": "Mirtų aliejų",
+      "d": "Vandens ir rožių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_003",
+    "question": "Kas pasakė: „Kodėl to tepalo neparduoda už tris šimtus denarų ir pinigų neatiduoda vargšams?!“?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas Iskarijotas",
+      "c": "Andriejus",
+      "d": "Lozorius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_004",
+    "question": "Kodėl Judas Iskarijotas norėjo parduoti tepalus, kuriais Marija patepė Jėzui kojas?",
+    "options": {
+      "a": "Jis rūpinosi vargšais",
+      "b": "Jis buvo vagis ir grobstė pinigus iš kasos",
+      "c": "Jis norėjo nupirkti maisto",
+      "d": "Jis norėjo padovanoti pinigus šventyklai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_005",
+    "question": "Ką Jėzus atsakė, kai Judas kritikavo Mariją dėl tepalų panaudojimo?",
+    "options": {
+      "a": "„Ji padarė gerai, nes tai buvo man skirta“",
+      "b": "„Palik ją ramybėje. Ji tai laikė mano laidotuvių dienai“",
+      "c": "„Vargšai turi būti maitinami, bet ne šiuo metu“",
+      "d": "„Tepalus parduokite ir duokite pinigus vargšams“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_006",
+    "question": "Ką žmonės šaukė, kai Jėzus įžengė į Jeruzalę?",
+    "options": {
+      "a": "„Šlovė Dievui aukščiausiuose!“",
+      "b": "„Osana! Garbė tam, kuris ateina Viešpaties vardu – Izraelio Karaliui!“",
+      "c": "„Mesijas atėjo!“",
+      "d": "„Laikykitės, karalius važiuoja!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_007",
+    "question": "Ant ko Jėzus jojo, įžengdamas į Jeruzalę?",
+    "options": {
+      "a": "Ant arklio",
+      "b": "Ant asilo",
+      "c": "Ant asilaičio",
+      "d": "Ant kupranugario"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_008",
+    "question": "Ką Jėzus pasakė apie kviečių grūdą, kuris apmirs?",
+    "options": {
+      "a": "Jis bus prarastas",
+      "b": "Jis duos gausių vaisių",
+      "c": "Jis taps stipresnis",
+      "d": "Jis bus pakeistas nauju"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_009",
+    "question": "Ką Jėzus sakė apie savo sielą, kai artėjo jo kančios valanda?",
+    "options": {
+      "a": "„Mano siela džiaugiasi“",
+      "b": "„Mano siela sukrėsta“",
+      "c": "„Mano siela ramu“",
+      "d": "„Mano siela laukia“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_010",
+    "question": "Ką Jėzus prašė Tėvo, kai kalbėjo apie savo paaukštinimą?",
+    "options": {
+      "a": "„Tėve, gelbėk mane nuo šios valandos!“",
+      "b": "„Tėve, pašlovink savo vardą!“",
+      "c": "„Tėve, duok man jėgų!“",
+      "d": "„Tėve, išgelbėk žmones!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_011",
+    "question": "Kas išgirdo balsą iš dangaus, kai Jėzus prašė Tėvo pašlovinti savo vardą?",
+    "options": {
+      "a": "„Tai buvo angelas“",
+      "b": "„Tai buvo griaustinis“",
+      "c": "„Tai buvo Jėzaus balsas“",
+      "d": "„Tai buvo Tėvo balsas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_012",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnų, kai žmonės klausė, kas tas yra?",
+    "options": {
+      "a": "„Jis bus karalius amžinai“",
+      "b": "„Jis turės būti iškeltas aukštyn“",
+      "c": "„Jis bus žemėje visados“",
+      "d": "„Jis bus paskutinis teisėjas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_013",
+    "question": "Ką Jėzus pasakė apie šviesą, kurią turi žmonės?",
+    "options": {
+      "a": "„Vaikščiokite, kol turite šviesą“",
+      "b": "„Šviesa bus visados su jumis“",
+      "c": "„Šviesa bus tik šventykloje“",
+      "d": "„Šviesa bus tik teisingiems“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_014",
+    "question": "Kodėl kai kurie žydų vyresnybės nariai netikėjo Jėzumi viešai?",
+    "options": {
+      "a": "Jie bijojo būti pašalinti iš sinagogos",
+      "b": "Jie nebuvo įtikę jo stebuklų",
+      "c": "Jie buvo fariziejų draugai",
+      "d": "Jie nesuprato jo mokymo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_015",
+    "question": "Ką Jėzus pasakė apie savo misiją pasaulio atžvilgiu?",
+    "options": {
+      "a": "„Aš atėjau teisti pasaulį“",
+      "b": "„Aš atėjau gelbėti pasaulį“",
+      "c": "„Aš atėjau valdyti pasaulį“",
+      "d": "„Aš atėjau mokyti pasaulį“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_016",
+    "question": "Kas, Jėzaus žodžiais, nuteis žmones paskutiniąją dieną?",
+    "options": {
+      "a": "Dievas Tėvas",
+      "b": "Jėzus pats",
+      "c": "Žodis, kurį Jėzus kalbėjo",
+      "d": "Šventieji raštai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_12"
+  }
+]

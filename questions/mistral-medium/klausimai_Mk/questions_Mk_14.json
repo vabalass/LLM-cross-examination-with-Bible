@@ -1,0 +1,314 @@
+[
+  {
+    "id": "Mk_14_001",
+    "question": "Ką aukštieji kunigai ir Rašto aiškintojai planavo padaryti su Jėzumi, bet norėjo tai padaryti ne per Velykas?",
+    "options": {
+      "a": "Jį išvyti iš miesto",
+      "b": "Sugauti klasta ir nužudyti",
+      "c": "Paskelbti jį karaliumi",
+      "d": "Pasiūlyti jam aukšto pareigybės postą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_002",
+    "question": "Ką moteris, atėjus į Simoną Raupsuotoją, padarė Jėzui?",
+    "options": {
+      "a": "Padovanojo brangią apyrankę",
+      "b": "Išpylė brangų nardo tepalą ant jo galvos",
+      "c": "Nupiešė jo portretą",
+      "d": "Atnešė jam naują apsiaustą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_003",
+    "question": "Kiek denarų, pagal ten buvusius žmones, galėjo būti gauta už parduodamą nardo tepalą?",
+    "options": {
+      "a": "Daugiau negu 100 denarų",
+      "b": "Daugiau negu 200 denarų",
+      "c": "Daugiau negu 300 denarų",
+      "d": "Daugiau negu 500 denarų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_004",
+    "question": "Ką Jėzus pasakė apie moterį, patepusią jį nardo tepalu?",
+    "options": {
+      "a": "„Ji padarė, ką galėjo. Ji iš anksto patepė mano kūną laidotuvėms.“",
+      "b": "„Ji turėjo šį tepalą parduoti ir pinigus duoti vargšams.“",
+      "c": "„Ji turėjo pasilikti namuose ir nemelstis viešumoje.“",
+      "d": "„Ji turėjo paskambinti visiems, kad visi žinotų, ką ji daro.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_005",
+    "question": "Kas iš Jėzaus mokinių pasiryžo išduoti Jėzų aukštiesiems kunigams?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Judas Iskarijotas",
+      "d": "Jokūbas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_006",
+    "question": "Ką aukštieji kunigai pažadėjo Judui už Jėzaus išdavimą?",
+    "options": {
+      "a": "Aukštą pareigybę",
+      "b": "Pinigų",
+      "c": "Naują namą",
+      "d": "Laisvę iš kalėjimo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_007",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie klausė, kur paruošti Velykų vakarienę?",
+    "options": {
+      "a": "„Eikite į miestą ir ieškokite didžiojo namo.“",
+      "b": "„Eikite į miestą. Ten jus sutiks žmogus, vandens ąsočiu nešinas. Sekite iš paskos.“",
+      "c": "„Eikite į šventyklą ir ten paruoškite vakarienę.“",
+      "d": "„Eikite į kalną ir ten paruoškite vakarienę.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_008",
+    "question": "Ką Jėzus pasakė apie vieną iš Dvylikos, valgančių su juo, vakarienės metu?",
+    "options": {
+      "a": "„Jis bus didžiausias iš visų.“",
+      "b": "„Jis išduos mane.“",
+      "c": "„Jis taps naujuoju lyderiu.“",
+      "d": "„Jis bus paskutinis, kuris mane paliks.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_009",
+    "question": "Ką Jėzus padarė su duona, kai vakarieniaudavo su mokinių?",
+    "options": {
+      "a": "Jis ją suėdė vienas",
+      "b": "Jis ją sukalbėjo palaiminimą, laužė ir davė mokiniams, sakydamas: „Imkite, tai mano kūnas!“",
+      "c": "Jis ją išmestė, nes buvo per senai kepinta",
+      "d": "Jis ją padalino su vargšais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_010",
+    "question": "Ką Jėzus pasakė apie vyną, kurį gėrė su mokinių?",
+    "options": {
+      "a": "„Tai mano kraujas, sandoros kraujas, kuris išliejamas už daugelį.“",
+      "b": "„Tai bus paskutinis kartas, kai gersime vyną.“",
+      "c": "„Šis vynas yra pernelyg stiprus.“",
+      "d": "„Šis vynas bus gertas tik šventėse.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_011",
+    "question": "Ką Jėzus pasakė Petrui, kai šis tvirtino, kad niekada jo neišsigins?",
+    "options": {
+      "a": "„Tu busi mano dešinėje rankoje.“",
+      "b": "„Dar šiandien, jau šią naktį, gaidžiui nė dukart nepragydus, tu manęs tris kartus išsiginsi.“",
+      "c": "„Tu busi vienintelis, kuris mane nepaliks.“",
+      "d": "„Tu tapsi naujuoju mokinių lyderiu.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_012",
+    "question": "Kur Jėzus nuėjo melstis po Velykų vakarienės?",
+    "options": {
+      "a": "Į šventyklą",
+      "b": "Į Getsemanės sodą",
+      "c": "Į kalną",
+      "d": "Į ežero pakrantę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_013",
+    "question": "Ką Jėzus prašė Dievo, meldamasis Getsemanės sode?",
+    "options": {
+      "a": "„Padaryk mane karaliumi.“",
+      "b": "„Atitolink nuo manęs šitą taurę!“",
+      "c": "„Duok man daugiau mokinių.“",
+      "d": "„Padaryk, kad mano mokiniai mane suprastų.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_014",
+    "question": "Ką Jėzus pasakė mokiniams, kai juos rado miegančius Getsemanės sode?",
+    "options": {
+      "a": "„Budėkite ir melskitės, kad nepatektumėt į pagundą.“",
+      "b": "„Jūs esate silpni ir nemokate melstis.“",
+      "c": "„Jums reikia daugiau miego.“",
+      "d": "„Jums reikia pasilikti čia ir saugotis.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_015",
+    "question": "Kas buvo Judo išdavystės ženklas, pagal kurį Jėzus turėjo būti suimtas?",
+    "options": {
+      "a": "Judas turėjo pasakyti: „Čia jis!“",
+      "b": "Judas turėjo pabučiuoti Jėzų",
+      "c": "Judas turėjo rodyti į jį ranka",
+      "d": "Judas turėjo pasakyti: „Šis yra Jėzus.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_016",
+    "question": "Ką vienas iš mokinių padarė, kai Jėzus buvo suimamas?",
+    "options": {
+      "a": "Jis pabėgo į šventyklą",
+      "b": "Jis nukirto vyriausiojo kunigo tarno ausį",
+      "c": "Jis pasidavė kartu su Jėzumi",
+      "d": "Jis pradėjo ginti Jėzų žodžiais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_017",
+    "question": "Ką Jėzus pasakė, kai jį suėmė su kalavijais ir vėzdais?",
+    "options": {
+      "a": "„Jūs esate nusikaltėliai.“",
+      "b": "„Tarsi plėšiko išėjote sugauti manęs su kalavijais ir vėzdais.“",
+      "c": "„Jūs niekada mane nesuprasite.“",
+      "d": "„Jūs esate blogi žmonės.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_018",
+    "question": "Ką padarė visi mokiniai, kai Jėzus buvo suimtas?",
+    "options": {
+      "a": "Jie liko ginti jį",
+      "b": "Jie pabėgo",
+      "c": "Jie ėmė melstis",
+      "d": "Jie ėmė kaltinti Judą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_019",
+    "question": "Ką Petras padarė, kai buvo klausiamas, ar jis priklauso Jėzui?",
+    "options": {
+      "a": "Jis prisipažino, kad yra Jėzaus mokinys",
+      "b": "Jis išsigynė tris kartus",
+      "c": "Jis pasakė, kad jis yra Jėzaus brolis",
+      "d": "Jis pasakė, kad jis nieko nežino apie Jėzų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_020",
+    "question": "Ką Jėzus atsakė, kai vyriausiasis kunigas klausė: „Ar tu esi Mesijas, Šlovingojo Sūnus?“",
+    "options": {
+      "a": "„Aš ne Mesijas.“",
+      "b": "„Taip, Aš Esu.“",
+      "c": "„Aš esu tik žmogus.“",
+      "d": "„Aš esu pranašas, ne Mesijas.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_021",
+    "question": "Ką padarė vyriausiasis kunigas, kai išgirdo Jėzaus atsakymą apie tai, kad jis yra Mesijas?",
+    "options": {
+      "a": "Jis pasakė: „Tu esi mūsų karalius.“",
+      "b": "Jis persiplėšė drabužius, šaukdamas: „Kam dar mums liudytojai?“",
+      "c": "Jis pasakė: „Tu esi mūsų išvaduotojas.“",
+      "d": "Jis pasakė: „Tu esi mūsų naujasis lyderis.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_022",
+    "question": "Ką darė kai kurie žmonės Jėzui, kai jis buvo aukščiausiojo teismo rūmuose?",
+    "options": {
+      "a": "Jie jam padovanojo brangius dovanų",
+      "b": "Jie ėmė į jį spjaudyti, dangstė jam veidą, mušė kumščiais",
+      "c": "Jie jam pasiūlė laisvę",
+      "d": "Jie jam pasakė, kad jis yra neteisiamas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_023",
+    "question": "Ką Petras padarė, kai antrą kartą išgirdo gaidžio giedojimą?",
+    "options": {
+      "a": "Jis ėmė šokti",
+      "b": "Jis ėmė giedoti",
+      "c": "Jis pravirko",
+      "d": "Jis ėmė kaltinti kitus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_024",
+    "question": "Ką Jėzus pasakė apie tai, kada jis vėl gers vyną?",
+    "options": {
+      "a": "„Aš gersiu jį kartu su jums šiandien.“",
+      "b": "„Aš jau nebegersiu vynmedžio vaisiaus iki tos dienos, kada gersiu jį naują Dievo karalystėje.“",
+      "c": "„Aš gersiu jį tik su savo šeima.“",
+      "d": "„Aš gersiu jį tik su aukščiausiaisiais kunigais.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_14"
+  }
+]

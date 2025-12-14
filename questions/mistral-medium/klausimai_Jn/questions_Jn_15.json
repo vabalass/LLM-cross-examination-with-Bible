@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Jn_15_001",
+    "question": "Kas Jėzus pavadina savęs ir savo Tėvą Jn 15,1?",
+    "options": {
+      "a": "Vynmedis ir vynininkas",
+      "b": "Šakelė ir vynmedis",
+      "c": "Vynininkas ir šakelė",
+      "d": "Medis ir sodininkas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_002",
+    "question": "Ką Tėvas daro su nevaisingomis šakelėmis, pagal Jn 15,2?",
+    "options": {
+      "a": "Apvalo jas, kad duotų vaisių",
+      "b": "Išpjauna jas",
+      "c": "Perkelia jas į kitą vietą",
+      "d": "Palaiko jas, kol subrandins"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_003",
+    "question": "Ką Jėzus sakė apie šakeles, kurios nepasilieka jame (Jn 15,6)?",
+    "options": {
+      "a": "Jos bus išmestos laukan ir sudegs",
+      "b": "Jos bus persodintos į kitą vynmedyną",
+      "c": "Jos taps vaisingesnės",
+      "d": "Jos bus užmirštos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_004",
+    "question": "Ką Jėzus žada, jei jo mokiniai pasiliks jame ir jo žodžiai pasiliks juose (Jn 15,7)?",
+    "options": {
+      "a": "Jie taps turtingi",
+      "b": "Jie prašys, ko norės, ir bus suteikta",
+      "c": "Jie gaus naują vardą",
+      "d": "Jie bus išgelbėti nuo kančių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_005",
+    "question": "Ką Jėzus nurodo kaip savo įsakymą (Jn 15,12)?",
+    "options": {
+      "a": "Vienas kitą mylėti",
+      "b": "Kasdien malduoti",
+      "c": "Daugiau dirbti",
+      "d": "Vengti pasaulio"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_006",
+    "question": "Ką Jėzus sakė apie didžiausią meilę (Jn 15,13)?",
+    "options": {
+      "a": "Meilė yra didžiausia, kai atiduodama gyvybė už draugus",
+      "b": "Meilė yra didžiausia, kai dalijamasi turtais",
+      "c": "Meilė yra didžiausia, kai malda už kitus",
+      "d": "Meilė yra didžiausia, kai aukojama laikas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_007",
+    "question": "Ką Jėzus pasakė apie pasaulio santykį su jo mokiniais (Jn 15,18-19)?",
+    "options": {
+      "a": "Pasaulis juos mylės kaip savuosius",
+      "b": "Pasaulis juos nekenčia, nes jie nepasaulio",
+      "c": "Pasaulis juos pripažins savo lyderiais",
+      "d": "Pasaulis juos pamirš"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_008",
+    "question": "Kas, Jėzaus žodžiais, turėjo išsipildyti (Jn 15,25)?",
+    "options": {
+      "a": "Jie manęs mylės be sąlygų",
+      "b": "Jie manęs pripažins savo karaliumi",
+      "c": "Jie manęs nekentė be priežasties",
+      "d": "Jie manęs pamirš"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_009",
+    "question": "Kas bus atsiųstas nuo Tėvo, pagal Jn 15,26?",
+    "options": {
+      "a": "Naujas karalius",
+      "b": "Tiesos Dvasia (Globėjas)",
+      "c": "Naujas pranašas",
+      "d": "Naujas įstatymas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_15"
+  }
+]

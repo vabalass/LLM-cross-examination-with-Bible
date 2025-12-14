@@ -1,0 +1,262 @@
+[
+  {
+    "id": "Mt_13_001",
+    "question": "Kur sėdėjo Jėzus, kai kalbėjo miniai prie ežero?",
+    "options": {
+      "a": "Ant kalno viršūnės",
+      "b": "Ant ežero kranto",
+      "c": "Valtyje, atsisėdęs nuo kranto",
+      "d": "Sinagogoje"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_002",
+    "question": "Ką padarė paukščiai su grūdais, nukritusiais prie kelio palyginime apie sėjėją?",
+    "options": {
+      "a": "Jų nepalietė",
+      "b": "Sulesė juos",
+      "c": "Nunešė į savo lizdus",
+      "d": "Jų neįpastebėjo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_003",
+    "question": "Ką lėmė grūdų sudžiūvimą, nukritusių ant uolų?",
+    "options": {
+      "a": "Per daug vandens",
+      "b": "Trūko saulės šviesos",
+      "c": "Neturėjo gilesnio žemės sluoksnio ir šaknų",
+      "d": "Jų suėdo gyvūnai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_004",
+    "question": "Koks buvo didžiausias derlingumas, minėtas palyginime apie sėjėją?",
+    "options": {
+      "a": "Penkiasdešimteriopas",
+      "b": "Šešiasdešimteriopas",
+      "c": "Šimteriopas",
+      "d": "Dvišimteriopas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_005",
+    "question": "Kodėl Jėzus kalbėjo palyginimais, pagal 13-ąjį posmą?",
+    "options": {
+      "a": "Norėdamas būti suprastas visų",
+      "b": "Todėl, kad minia buvo per didelė",
+      "c": "Jie žiūrėdami nemato, klausydami negirdi ir nesupranta",
+      "d": "Tai buvo tradicinė mokymo forma"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_006",
+    "question": "Kas buvo Izaijo pranašystės žodžių esmė, paminėta 14-ame posme?",
+    "options": {
+      "a": "Jie bus išgirsti ir suprasti",
+      "b": "Girdėti girdės, bet nesupras",
+      "c": "Jie bus išvaduoti nuo blogio",
+      "d": "Jie bus paskelbti visam pasauliui"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_007",
+    "question": "Kas buvo pagrindinė priežastis, kodėl žmonės, minėti 15-ame posme, nesuprato Jėzaus žodžių?",
+    "options": {
+      "a": "Jie buvo per daug užimti savo darbais",
+      "b": "Jie nebuvo išsilavinę",
+      "c": "Jų širdis aptuko, jie užmerkė akis ir prastai girdėjo ausimis",
+      "d": "Jie buvo per toli nuo Jėzaus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_008",
+    "question": "Kas buvo palaiminta, pagal 16-ąjį posmą?",
+    "options": {
+      "a": "Tie, kurie turėjo daug turto",
+      "b": "Tie, kurių akys mato ir ausys girdi",
+      "c": "Tie, kurie buvo išminti",
+      "d": "Tie, kurie buvo kilmingos kilmės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_009",
+    "question": "Kas buvo pasėlys prie kelio palyginime apie sėjėją, aiškinant 19-ame posme?",
+    "options": {
+      "a": "Tas, kuris girdi žodį ir supranta",
+      "b": "Tas, kuris girdi žodį, bet nesupranta, ir piktasis išplėšia, kas buvo pasėta širdyje",
+      "c": "Tas, kuris girdi žodį ir jį atmeta",
+      "d": "Tas, kuris girdi žodį ir jį užrašo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_010",
+    "question": "Kas buvo pasėlys ant uolų palyginime apie sėjėją?",
+    "options": {
+      "a": "Tas, kuris girdi žodį ir jį atmeta",
+      "b": "Tas, kuris girdi žodį, priima su džiaugsmu, bet yra nepastovus ir atkrinta, kai ištinka neganda",
+      "c": "Tas, kuris girdi žodį ir jį užmiršta",
+      "d": "Tas, kuris girdi žodį ir jį ignoruoja"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_011",
+    "question": "Kas buvo pasėlys tarp erškėčių palyginime apie sėjėją?",
+    "options": {
+      "a": "Tas, kuris girdi žodį, bet šio pasaulio rūpesčiai ir turto apgaulė nustelbia žodį",
+      "b": "Tas, kuris girdi žodį ir jį priima su džiaugsmu",
+      "c": "Tas, kuris girdi žodį ir jį atmeta",
+      "d": "Tas, kuris girdi žodį ir jį užrašo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_012",
+    "question": "Kas buvo pasėlys geroje žemėje palyginime apie sėjėją?",
+    "options": {
+      "a": "Tas, kuris girdi žodį ir supranta, duoda derlių",
+      "b": "Tas, kuris girdi žodį, bet nesupranta",
+      "c": "Tas, kuris girdi žodį ir jį atmeta",
+      "d": "Tas, kuris girdi žodį ir jį užrašo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_013",
+    "question": "Kas pasėjo raugių kviečiuose palyginime apie rauges?",
+    "options": {
+      "a": "Savininkas",
+      "b": "Priešas",
+      "c": "Tarnai",
+      "d": "Pjovėjai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_014",
+    "question": "Ką pasiūlė tarnai šeimininkui, kai pastebėjo rauges?",
+    "options": {
+      "a": "Iškasti visą lauką",
+      "b": "Išravėti rauges",
+      "c": "Palikti rauges augti",
+      "d": "Paskelbti apie tai visiems"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_015",
+    "question": "Ką šeimininkas liepė padaryti su raugėmis pjūties metu?",
+    "options": {
+      "a": "Palikti jas lauke",
+      "b": "Išrinkti ir sudeginti",
+      "c": "Panaudoti kaip pašarą",
+      "d": "Parduoti jas turguje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_016",
+    "question": "Su kuo buvo palyginama dangaus karalystė palyginime apie garstyčios grūdelį?",
+    "options": {
+      "a": "Su dideliu medžiu",
+      "b": "Su mažiausiu sėklų, kuris užauga į didelį medelį",
+      "c": "Su greitai augančiu krūmu",
+      "d": "Su daržove, kuri greitai subrandina vaisius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_017",
+    "question": "Su kuo buvo palyginama dangaus karalystė palyginime apie raugą?",
+    "options": {
+      "a": "Su miltais, kurie išrūgo nuo raugo",
+      "b": "Su miltais, kurie buvo išmesti",
+      "c": "Su miltais, kurie buvo suvalgyti",
+      "d": "Su miltais, kurie buvo parduoti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_018",
+    "question": "Kas buvo sėjantysis gerą sėklą palyginime apie rauges, aiškinant 37-ame posme?",
+    "options": {
+      "a": "Priešas",
+      "b": "Žmogaus Sūnus",
+      "c": "Angelas",
+      "d": "Tarnas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_019",
+    "question": "Kas buvo raugės palyginime apie rauges?",
+    "options": {
+      "a": "Karalystės vaikai",
+      "b": "Piktojo vaikai",
+      "c": "Angelai",
+      "d": "Tarnai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_020",
+    "question": "Kas bus pasaulio pabaigoje su piktaisiais ir nedorėliais, pagal 42-ąjį posmą?",
+    "options": {
+      "a": "Jie bus palikti gyventi žemėje",
+      "b": "Jie bus išsiųsti į kitą pasaulį",
+      "c": "Jie bus įmesti į žioruojančią krosnį",
+      "d": "Jie bus paverti teisiaisiais"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_13"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "Jn_11_001",
+    "question": "Kurio kaimo gyventojas buvo Lozorius, pagal Jn 11 skyrių?",
+    "options": {
+      "a": "Nazareto",
+      "b": "Betanijos",
+      "c": "Jeruzalės",
+      "d": "Galilėjos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_002",
+    "question": "Kas buvo Marijos ir Lozoriaus sesuo, pagal tekstą?",
+    "options": {
+      "a": "Salomė",
+      "b": "Morta",
+      "c": "Elizabetė",
+      "d": "Ana"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_003",
+    "question": "Ką Marija padarė Viešpačiui, kaip minima Jn 11:2?",
+    "options": {
+      "a": "Nupirko jam brangius drabužius",
+      "b": "Patepė kvepalais ir nušluostė plaukais jo kojas",
+      "c": "Paruošė puotą jam garbei",
+      "d": "Padovanojo brangakmenius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_004",
+    "question": "Ką Jėzus pasakė apie Lozoriaus ligą, kai gavo žinią apie jo sergėjimą (Jn 11:4)?",
+    "options": {
+      "a": "„Šita liga mirčiai, nes jis nusižengė“",
+      "b": "„Šita liga ne mirčiai, bet Dievo garbei“",
+      "c": "„Lozorius turi išgyti savo nuodėmes“",
+      "d": "„Ši liga bus gydoma tik stebuklingai“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_005",
+    "question": "Kiek dienų Jėzus užtruko vietoje, išgirdęs apie Lozoriaus ligą, prieš nusiėmęs į Judėją (Jn 11:6)?",
+    "options": {
+      "a": "Vieną dieną",
+      "b": "Dvi dienas",
+      "c": "Tris dienas",
+      "d": "Keturias dienas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_006",
+    "question": "Ką Jėzus pasakė mokiniams apie Lozorių, kai jie manė, kad jis kalba apie miegą (Jn 11:14)?",
+    "options": {
+      "a": "„Lozorius tikrai miegoja“",
+      "b": "„Lozorius mirė“",
+      "c": "„Lozorius greit pasveiks“",
+      "d": "„Lozorius turi gauti malonę“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_007",
+    "question": "Ką Tomas, vadinamas Dvyniu, pasakė mokiniams, kai Jėzus pasakė eiti pas Lozorių (Jn 11:16)?",
+    "options": {
+      "a": "„Eikime ir mes numirti su juo!“",
+      "b": "„Mes turime pasilikti čia saugiai“",
+      "c": "„Jis jau miręs, nieko padaryti negalime“",
+      "d": "„Mes turime pasiduoti Dievo valiai“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_008",
+    "question": "Kiek dienų Lozorius jau buvo kapo rūsyje, kai atėjo Jėzus (Jn 11:17)?",
+    "options": {
+      "a": "Vieną dieną",
+      "b": "Dvi dienas",
+      "c": "Tris dienas",
+      "d": "Keturias dienas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_009",
+    "question": "Kas pirmoji iš seserų išėjo pasitikti Jėzų, kai jis atėjo (Jn 11:20)?",
+    "options": {
+      "a": "Marija",
+      "b": "Morta",
+      "c": "Abiejos kartu",
+      "d": "Nė viena neišėjo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_010",
+    "question": "Ką Morta pasakė Jėzui, kai jį sutiko (Jn 11:21)?",
+    "options": {
+      "a": "„Viešpatie, padėk mums!“",
+      "b": "„Viešpatie, jei būtum čia buvęs, mano brolis nebūtų miręs“",
+      "c": "„Viešpatie, mes visada tikėjome tau“",
+      "d": "„Viešpatie, mes esame nelaimingi“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_011",
+    "question": "Ką Jėzus atsakė Mortai, kai ji sakė, kad Lozorius prisikels paskutinę dieną (Jn 11:25-26)?",
+    "options": {
+      "a": "„Aš esu prisikėlimas ir gyvenimas“",
+      "b": "„Tavo tikėjimas tave išgelbės“",
+      "c": "„Dievas turi savo planus“",
+      "d": "„Lozorius jau sulaukė savo atlygio“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_012",
+    "question": "Ką Morta atsakė Jėzui, kai jis paklausė: „Ar tai tiki?“ (Jn 11:27)?",
+    "options": {
+      "a": "„Taip, Viešpatie! Aš tikiu, jog tu Mesijas, Dievo Sūnus“",
+      "b": "„Aš tikiu, kad Dievas mane išgelbės“",
+      "c": "„Aš tikiu, kad Lozorius prisikels“",
+      "d": "„Aš tikiu, kad viskas bus gerai“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_013",
+    "question": "Ką Jėzus padarė, kai pamatė Mariją ir žydus verkiančius (Jn 11:33, 35)?",
+    "options": {
+      "a": "Jis juos paguodė",
+      "b": "Jis susigraudino ir pravirko",
+      "c": "Jis pasakė, kad Lozorius jau laimingas",
+      "d": "Jis pasakė, kad reikia tikėti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_014",
+    "question": "Ką Jėzus pasakė, kai Morta įspėjo, kad Lozorius jau dvokia (Jn 11:40)?",
+    "options": {
+      "a": "„Jei tikėsi, pamatysi Dievo šlovę“",
+      "b": "„Dievas viską sureguliuos“",
+      "c": "„Lozorius turi būti palaidotas“",
+      "d": "„Mes turime pasiduoti likimui“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_015",
+    "question": "Ką Jėzus padarė prieš iškviečiamas Lozorių iš kapo (Jn 11:41)?",
+    "options": {
+      "a": "Jis pasakė maldą Dievui",
+      "b": "Jis pasakė, kad Lozorius turi būti palaidotas",
+      "c": "Jis pasakė, kad reikia laukti stebuklo",
+      "d": "Jis pasakė, kad viskas baigėsi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_016",
+    "question": "Ką Jėzus sušuko, norėdamas, kad Lozorius prisikeltų (Jn 11:43)?",
+    "options": {
+      "a": "„Lozoriau, kelkis!“",
+      "b": "„Lozoriau, išeik!“",
+      "c": "„Lozoriau, atgyvenk!“",
+      "d": "„Lozoriau, atidaryk akis!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_017",
+    "question": "Kaip Lozorius atrodė, kai išėjo iš kapo (Jn 11:44)?",
+    "options": {
+      "a": "Jo rankos ir kojos buvo suvystytos aprišalais, o veidas apvyniotas drobule",
+      "b": "Jis buvo visiškai sveikas",
+      "c": "Jis buvo apsivilkęs baltus drabužius",
+      "d": "Jis buvo su knyga rankose"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_018",
+    "question": "Ką Jėzus įsakė padaryti su Lozorium, kai šis išėjo iš kapo (Jn 11:44)?",
+    "options": {
+      "a": "„Atraišiokite jį ir leiskite jam eiti“",
+      "b": "„Duokite jam valgio“",
+      "c": "„Veskite jį į namus“",
+      "d": "„Mokykite jį maldautis“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_019",
+    "question": "Kas buvo vienas iš pagrindinių fariziejų ir aukštųjų kunigų baimių dėl Jėzaus stebuklų (Jn 11:48)?",
+    "options": {
+      "a": "Jie bijojo, kad romėnai sunaikins šventąją vietą ir tautą",
+      "b": "Jie bijojo, kad Jėzus taps karaliumi",
+      "c": "Jie bijojo, kad žmonės nebeduos aukojimų",
+      "d": "Jie bijojo, kad Jėzus pakeis įstatymus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_020",
+    "question": "Ką Kajafas pasakė apie Jėzų mirtį (Jn 11:50)?",
+    "options": {
+      "a": "„Geriau, kad vienas žmogus mirtų už tautą“",
+      "b": "„Jis turi būti ištremtas“",
+      "c": "„Jis turi būti nubaustas mirtimi už savo nuodėmes“",
+      "d": "„Jis turi būti palaidotas gyvas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_11"
+  }
+]

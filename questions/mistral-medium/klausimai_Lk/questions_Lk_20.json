@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Lk_20_001",
+    "question": "Kas klausė Jėzaus: *„Sakyk, kokia galia tai darai? Kas tau davė šitą galią?!“*?",
+    "options": {
+      "a": "Fariziejai ir mylininkai",
+      "b": "Aukštieji kunigai, Rašto aiškintojai ir seniūnai",
+      "c": "Romos kariuomenės karininkai",
+      "d": "Pranašai ir apostalai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_002",
+    "question": "Ką Jėzus paklausė savo klausėjų, norėdamas atsakyti į jų klausimą apie savo galią?",
+    "options": {
+      "a": "„Ar tikrai norite žinoti tiesą?“",
+      "b": "„Ar Jono krikštas buvo iš dangaus, ar iš žmonių?“",
+      "c": "„Kur yra jūsų širdys – pasaulėje ar danguje?“",
+      "d": "„Ar tikėtete Mozės įstatymu?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_003",
+    "question": "Kodėl aukštieji kunigai ir Rašto aiškintojai atsisakė atsakyti, ar Jono krikštas buvo iš dangaus, ar iš žmonių?",
+    "options": {
+      "a": "Jie nebuvo įsitikinę, kad Jonas buvo pranašas",
+      "b": "Jie bijojo, kad Jėzus juos įkalbės priimti krikštą",
+      "c": "Jei pasakytų „iš dangaus“, Jėzus juos kaltintų, o jei „iš žmonių“ – žmonės juos užsvaidytų akmenimis",
+      "d": "Jie nesuprato klausimo prasmės"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_004",
+    "question": "Ką Jėzus pasakojo palyginime apie vynuogyno savininką ir vynininkus?",
+    "options": {
+      "a": "Vynuogyno savininkas atleidė vynininkams visus skolus",
+      "b": "Vynininkai nužudė savininko sūnų, norėdami paveldėti vynuogyną",
+      "c": "Savininkas pasiuntė kariuomenę apsaugoti vynuogyną",
+      "d": "Vynininkai pasidavė ir atidavė visą derlių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_005",
+    "question": "Ką Jėzus paklausė klausytojų, pasakojęs palyginimą apie vynuogyną?",
+    "options": {
+      "a": "„Ką darysite, jei ir jūsų vynuogynus apiplės?“",
+      "b": "„Ką reiškia šitas Rašto posakis: *Akmuo, kurį statytojai atmetė, tapo kertiniu akmeniu*?“",
+      "c": "„Ar tikrai manote, kad vynininkai buvo kaltu?“",
+      "d": "„Kur bus jūsų tikėjimo derlius?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_006",
+    "question": "Ką reiškė Jėzaus žodžiai: *„Kas ciesoriaus, atiduokite ciesoriui, o kas Dievo – Dievui“*?",
+    "options": {
+      "a": "Reikia mokėti mokesčius tik Dievui",
+      "b": "Valstybiniai pareigūnai turi būti atleisti nuo mokesčių",
+      "c": "Reikia vykdyti savo pareigas ir prieš valstybę, ir prieš Dievą",
+      "d": "Mokesčiai yra neteisėti ir juos reikia boikotuoti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_007",
+    "question": "Ką sadukiejai klausė Jėzaus, norėdami įrodyti, kad prisikėlimas iš numirusių yra absurdiškas?",
+    "options": {
+      "a": "„Kur bus mirusieji, jei pasaulis baigsis?“",
+      "b": "„Kieno žmona bus moteris, kuri buvo ištekėjusi už septynių brolių, jei jie visi prisikels?“",
+      "c": "„Ar mirusieji galės priimti krikštą?“",
+      "d": "„Ką darys Dievas su blogiaisiais žmonėmis po mirties?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_008",
+    "question": "Ką Jėzus atsakė sadukiejams apie santuoką po prisikėlimo?",
+    "options": {
+      "a": "„Visi prisikėlę vėl ves ir tekės, kaip šiame pasaulyje“",
+      "b": "„Jie nebes vės ir neteks, nes bus tolygūs angelams“",
+      "c": "„Tik teisingi žmonės galės vesti po prisikėlimo“",
+      "d": "„Santykis bus leistas tik su vienu žmogumi“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_009",
+    "question": "Ką Jėzus paminėjo kaip įrodymą, kad mirusieji prisikels?",
+    "options": {
+      "a": "Jono krikšto liudijimą",
+      "b": "Mozės pasakojimą apie krūmą, kuriame Dievas vadintas Abraomo, Izaoko ir Jokūbo Dievu",
+      "c": "Pranašų regėjimus apie paskutinius laikus",
+      "d": "Apostalų stebėjimus apie Jėzaus prisikėlimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_010",
+    "question": "Ką Jėzus paklausė Rašto aiškintojų apie Mesiją?",
+    "options": {
+      "a": "„Kodėl jūs neigiate, kad Mesijas bus iš Nazareto?“",
+      "b": "„Kodėl sakoma, jog Mesijas esąs Dovydo sūnus, jei Dovydas jį vadina Viešpačiu?“",
+      "c": "„Ar Mesijas atvyks kaip karalius, ar kaip pranašas?“",
+      "d": "„Kada Mesijas atvyks paskutiniame amžiuje?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_011",
+    "question": "Ką Jėzus pasakė apie Rašto aiškintojus, kurie mėgsta garbę ir ilgus drabužius?",
+    "options": {
+      "a": "„Jie bus apdovanoti danguje“",
+      "b": "„Jie suryja našlių namus ir dangstosi ilgomis maldomis“",
+      "c": "„Jie yra tikrieji Dievo tarnai“",
+      "d": "„Jie turi būti pavyzdys visiems tikintiesiems“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_012",
+    "question": "Ką Jėzus sakė apie akmenį, kurį statytojai atmetė?",
+    "options": {
+      "a": "„Jis taps pagrindiniu šventyklos akmeniu“",
+      "b": "„Kas kris ant šito akmens, suduš, o ant ko tas akmuo užgrius, tą sutriuškins“",
+      "c": "„Akmuo bus panaudotas statant Jeruzalės sienas“",
+      "d": "„Akmuo simbolizuoja tikėjimo stiprybę“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_013",
+    "question": "Kodėl aukštieji kunigai ir Rašto aiškintojai nebedrįso klausinėti Jėzaus po jo atsakymo apie prisikėlimą?",
+    "options": {
+      "a": "Jie buvo nustebę jo išmintimi",
+      "b": "Jie bijojo, kad žmonės juos užsvaigs akmenimis",
+      "c": "Jie suprato, kad Jėzaus atsakymai yra neįveikiami",
+      "d": "Jie turėjo skubų susirinkti su valdytoju"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_014",
+    "question": "Ką Jėzus sakė apie tai, kad Dovydas vadina Mesiją „Viešpačiu“?",
+    "options": {
+      "a": "„Tai rodo, kad Mesijas bus aukštesnis už Dovydą“",
+      "b": "„Dovydas klydo, kalbėdamas apie Mesiją“",
+      "c": "„Mesijas bus Dovydo įpėdinis, bet ne jo sūnus“",
+      "d": "„Dovydas turėjo regėjimą apie ateitį“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_015",
+    "question": "Ką Jėzus įspėjo mokiniams apie Rašto aiškintojus?",
+    "options": {
+      "a": "„Jie yra tikrieji Dievo žinovai“",
+      "b": "„Jų laukia itin griežtas teismas“",
+      "c": "„Jie turi būti garbinami kaip mokytojai“",
+      "d": "„Jie bus atleisti dėl savo žinojimo“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_20"
+  }
+]

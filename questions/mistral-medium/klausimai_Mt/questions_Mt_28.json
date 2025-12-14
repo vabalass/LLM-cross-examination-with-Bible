@@ -1,0 +1,80 @@
+[
+  {
+    "id": "Mt_28_001",
+    "question": "Kas buvo pirmosios, kurios aplankė Jėzaus kapą po šabo?",
+    "options": {
+      "a": "Marija Magdalietė ir Marija, Jokūbo ir Jozės motina",
+      "b": "Marija Magdalietė ir Salomė",
+      "c": "Marija Magdalietė ir kitos moterys su aromatais",
+      "d": "Marija Magdalietė ir kitos Marija"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_002",
+    "question": "Ką padarė Viešpaties angelas, kai atėjo prie Jėzaus kapo?",
+    "options": {
+      "a": "Jis iškvietė sargybinius pasakyti apie prisikėlimą",
+      "b": "Nurito šalin akmenį nuo kapo ir atsisėdo ant jo",
+      "c": "Jis pakėlė Jėzų iš kapo ir parodė moterims",
+      "d": "Jis uždegė ugnį virš kapo ir šaukė žmones"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_003",
+    "question": "Ką angelas pasakė moterims, kai jos atėjo prie kapo?",
+    "options": {
+      "a": "„Jis prisikėlė ir jau keliauja į Jeruzalę“",
+      "b": "„Jis čia nebėra, jis prisikėlė, kaip buvo sakęs“",
+      "c": "„Jis mirė už jūsų nuodėmes, bet dabar yra su Dievu“",
+      "d": "„Jis bus su jumis visą laiką, kol nepasikeis dangus“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_004",
+    "question": "Ką Jėzus liepė moterims pasakyti savo mokiniams, kai susitiko su jomis?",
+    "options": {
+      "a": "„Pasakykite, kad jie turi likti Jeruzalėje ir laukti Šventosios Dvasios“",
+      "b": "„Pasakykite, kad jie turi keliauti į Galilėją, ten jie mane pamatys“",
+      "c": "„Pasakykite, kad jie turi grįžti į savo namus ir melstis“",
+      "d": "„Pasakykite, kad jie turi ieškoti manęs Romos imperijoje“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_005",
+    "question": "Ką aukštiesieji kunigai ir seniūnai padarė, kai sužinojo apie Jėzaus prisikėlimo liudijimą?",
+    "options": {
+      "a": "Jie patikėjo ir pradėjo skelbti apie Jėzų",
+      "b": "Jie įsakė sargybiniams pasakyti, kad mokiniai naktį išvogė Jėzaus kūną",
+      "c": "Jie nubaudė sargybinius už melagingą pranešimą",
+      "d": "Jie paskelbė, kad Jėzus buvo dieviškas ir prisikėlęs"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_006",
+    "question": "Ką Jėzus pasakė mokiniams, kai susitiko su jais Galilėjoje?",
+    "options": {
+      "a": "„Jūsų tikėjimas yra silpnas, todėl turite melstis daugiau“",
+      "b": "„Man duota visa valdžia danguje ir žemėje. Eikite ir padarykite mano mokiniais visų tautų žmones“",
+      "c": "„Jūs turite likti čia ir statyti bažnyčią mano garbei“",
+      "d": "„Jūsų užduotis yra rašyti apie mane ir skelbti mano žodį“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_28"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Jn_14_001",
+    "question": "Ką Jėzus pasakė savo mokiniams, norėdamas juos paguodyti, kai kalbėjo apie savo grįžimą pas Tėvą (Jn 14,1)?",
+    "options": {
+      "a": "„Tegul neišsigąsta jūsų širdys! Tikite Dievą – tikėkite ir mane!“",
+      "b": "„Jūsų tikėjimas yra silpnas, todėl turite daugiau melstis.“",
+      "c": "„Pasaulis jus nebeatpažins, jei nebusite stipri.“",
+      "d": "„Laukite manęs trys dienas, ir aš sugrįšiu.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_002",
+    "question": "Ką Jėzus pažadėjo padaryti, kai paruoš vietas savo mokiniams pas Tėvą (Jn 14,3)?",
+    "options": {
+      "a": "Jis juos pamokslinės per sapną.",
+      "b": "Jis sugrįš ir juos pas save pasiims.",
+      "c": "Jis juos paliks čia gyventi amžinai.",
+      "d": "Jis juos pavers dievais."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_003",
+    "question": "Ką Jėzus atsakė Tomui, kai šis paklausė, kaip žinoti kelią, kur eina Jėzus (Jn 14,6)?",
+    "options": {
+      "a": "„Sekite mane, ir rasite tiesa.“",
+      "b": "„Aš esu kelias, tiesa ir gyvenimas. Niekas nenueina pas Tėvą kitaip, kaip tik per mane.“",
+      "c": "„Kelias yra ilgas, bet jūsų tikėjimas jus vestų.“",
+      "d": "„Tik Tėvas žino kelią, klausykite Jo.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_004",
+    "question": "Ką Jėzus pasakė Pilypui, kai šis prašė parodyti Tėvą (Jn 14,9)?",
+    "options": {
+      "a": "„Tėvas yra danguje, jį nemato žmogus.“",
+      "b": "„Kas yra matęs mane, yra matęs Tėvą.“",
+      "c": "„Tėvas atsiskleidžia tik šventiesiems.“",
+      "d": "„Jūs dar nesate pasiruošę pamatyti Tėvą.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_005",
+    "question": "Ką Jėzus pažadėjo savo mokiniams, jei jie mylės Jį ir laikysis Jo įsakymų (Jn 14,16)?",
+    "options": {
+      "a": "Jis juos padarys nemirtingais.",
+      "b": "Jis paprašys Tėvą duoti jiems kitą Globėją – Tiesos Dvasią, kuri liks su jais amžinai.",
+      "c": "Jis juos pavers karaliais.",
+      "d": "Jis juos išvaduos iš visų kančių."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_006",
+    "question": "Ką Jėzus pasakė apie Tiesos Dvasią, kurią pasaulis neįstengia priimti (Jn 14,17)?",
+    "options": {
+      "a": "Ji bus suteikta tik išrinktiesiems.",
+      "b": "Pasaulis jos nemato ir nepažįsta, bet mokiniai ją pažįsta, nes ji yra pas juos ir bus jumyse.",
+      "c": "Ji atėjus pas mus, pasaulis bus sunaikintas.",
+      "d": "Ji bus suteikta tik po Jėzaus prisikėlimo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_007",
+    "question": "Ką Jėzus pažadėjo daryti, jei mokiniai ko nors prašys Jo vardo (Jn 14,14)?",
+    "options": {
+      "a": "Jis atsiųs angelus pagelbėti.",
+      "b": "Jis padarys, ko jie prašys.",
+      "c": "Jis juos išgirs tik po metų.",
+      "d": "Jis atsiųs juos į kitą šalį."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_008",
+    "question": "Ką Jėzus pasakė apie savo ir Tėvo santykį (Jn 14,10)?",
+    "options": {
+      "a": "„Aš esu Tėvas, ir Tėvas yra aš.“",
+      "b": "„Aš esu Tėve ir Tėvas yra manyje; Tėvas daro savo darbus per mane.“",
+      "c": "„Tėvas yra aukštesnis už mane, todėl turite tikėti tik Juo.“",
+      "d": "„Tėvas mane paliko vieną, bet aš grįšiu pas Jį.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_009",
+    "question": "Ką Jėzus pažadėjo mokiniams, jei jie mylės Jį ir laikysis Jo žodžio (Jn 14,23)?",
+    "options": {
+      "a": "Jis juos padarys turtingais.",
+      "b": "Jis ir Tėvas ateis pas juos ir apsigyvens.",
+      "c": "Jis juos pavers nematomais.",
+      "d": "Jis juos išgelbės nuo visų ligų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_010",
+    "question": "Ką Jėzus paliko savo mokiniams, kai kalbėjo apie savo grįžimą pas Tėvą (Jn 14,27)?",
+    "options": {
+      "a": "Jis paliko jiems auksą ir sidabrą.",
+      "b": "Jis paliko jiems savo ramybę, kuri skiriasi nuo pasaulio ramybės.",
+      "c": "Jis paliko jiems karaliaus titulus.",
+      "d": "Jis paliko jiems raktus į dangų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_14"
+  }
+]

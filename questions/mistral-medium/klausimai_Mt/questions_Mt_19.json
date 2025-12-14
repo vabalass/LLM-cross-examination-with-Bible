@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Mt_19_001",
+    "question": "Kur Jėzus pasitraukė po savo kalbų Galilėjoje, pagal Matą 19:1?",
+    "options": {
+      "a": "Į Judėjos sritį, anapus Jordano",
+      "b": "Į Samarijos miestą Nazaretą",
+      "c": "Į Jeruzalės šventyklą",
+      "d": "Į Dekapolio miestus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_002",
+    "question": "Ką Jėzus atsakė fariziejams apie santuokos neišardomumą, remdamasis Kūrėjo žodžiais (Mt 19:5-6)?",
+    "options": {
+      "a": "„Vyras ir moteris gali susituokti ir išsituokti, jei tai abiejų noras“",
+      "b": "„Ką Dievas sujungė, žmogus teneperskiria“",
+      "c": "„Santuoka gali būti nutraukta, jei vienas iš poros nusižengia“",
+      "d": "„Mozės įstatymai yra aukštesni už Dievo valią“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_003",
+    "question": "Kodėl, pagal Jėzų, Mozė leido žmonėms atleisti savo žmonas (Mt 19:8)?",
+    "options": {
+      "a": "Dėl žmonių širdies kietumo",
+      "b": "Dėl pernelyg didelės meilės vienas kitam",
+      "c": "Dėl Dievo tiesioginio įsakymo",
+      "d": "Dėl ekonominių sunkumų šeimoje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_004",
+    "question": "Ką Jėzus sakė apie tuos, kurie atsisako vesti dėl „dangaus karalystės“ (Mt 19:12)?",
+    "options": {
+      "a": "Jie bus prakeikti",
+      "b": "Jie yra eunuchai, kurie patys save tokius padarė",
+      "c": "Jie turi susituokti būtinai",
+      "d": "Jie neturės vietos karalystėje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_005",
+    "question": "Ką Jėzus padarė, kai atvedė vaikus pas jį (Mt 19:13-15)?",
+    "options": {
+      "a": "Jis juos išvijo, nes buvo užimtas mokymu",
+      "b": "Uždėjo ant jų rankas ir pasimeldė",
+      "c": "Pasakė, kad vaikai negali priartėti prie Dievo",
+      "d": "Pasakė, kad vaikai turi pirma išmokti įsakymų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_006",
+    "question": "Ką turtingas jaunuolis paklausė Jėzaus, norėdamas įgauti amžinąjį gyvenimą (Mt 19:16)?",
+    "options": {
+      "a": "„Ką turiu padaryti, kad taptų pranašu?“",
+      "b": "„Ką gera turiu daryti, kad įgyčiau amžinąjį gyvenimą?“",
+      "c": "„Kokius stebuklus turiu atlikti, kad būčiau išgelbėtas?“",
+      "d": "„Ką turiu aukoti, kad Dievas mane pamylėtų?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_007",
+    "question": "Ką Jėzus pasiūlė turtingam jaunuoliui, norint jam būti tobulam (Mt 19:21)?",
+    "options": {
+      "a": "Aukoti vieną dešimtadalį savo turto",
+      "b": "Parduoti viską, ką turi, išdalyti vargšams ir sekti Jėzui",
+      "c": "Tapti kunigu šventykloje",
+      "d": "Vesti neturtingą merginą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_008",
+    "question": "Ką Jėzus palygino su kupranugario praėjimu pro adatos ausį (Mt 19:24)?",
+    "options": {
+      "a": "Vargšo žmogaus įstojimą į dangų",
+      "b": "Turtingo žmogaus patekimą į Dievo karalystę",
+      "c": "Fariziejaus pasitikėjimą Dievu",
+      "d": "Mokinio supratimą apie Dievo valią"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_009",
+    "question": "Ką Jėzus atsakė mokiniams, kai jie sumišo dėl turto pavojų (Mt 19:26)?",
+    "options": {
+      "a": "„Žmonėms tai galimas daiktas, jei tik stengsis“",
+      "b": "„Žmonėms tai negalimas daiktas, o Dievui viskas galima“",
+      "c": "„Turtingi žmonės niekada nepateks į dangų“",
+      "d": "„Tik vargšai bus išgelbėti“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_010",
+    "question": "Ką Jėzus pažadėjo tiem, kas palieka viską dėl jo ir sekasi (Mt 19:29)?",
+    "options": {
+      "a": "Jie gaus šimteriopai ir paveldės amžinąjį gyvenimą",
+      "b": "Jie taps karaliais ant žemės",
+      "c": "Jie gaus turto dvigubai daugiau",
+      "d": "Jie bus išvengę visų kančių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_19"
+  }
+]

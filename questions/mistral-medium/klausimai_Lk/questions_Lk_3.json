@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Lk_3_001",
+    "question": "Kur ir kada, pagal tekstą, Viešpaties žodis pasigirdo Jonui Krikštytojui?",
+    "options": {
+      "a": "Jeruzalės šventykloje, Herodo Antipo valdymo metais",
+      "b": "Dykumoje, penkioliktais cėsoriaus Tiberijaus viešpatavimo metais",
+      "c": "Galilėjos kalnuose, Poncijaus Piloto valdymo pradžioje",
+      "d": "Jordano upės pakrantėje, Herodo Didžiojo laikais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_002",
+    "question": "Ką, pagal Izaijo pranašystę (Lk 3:4-6), turėjo padaryti, kad visi žmonės išvystų Dievo išgelbėjimą?",
+    "options": {
+      "a": "Statyti naujus šventyklos pastatus",
+      "b": "Aukoti avinus ir veršius",
+      "c": "Ištiesinti Viešpačiui kelią ir nulyginti kalnus",
+      "d": "Laikytis griežtos gėrimo ir valgio draudimo"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_003",
+    "question": "Ką Jonas Krikštytojas sakė minioms, ateinančioms pas jį krikštytis (Lk 3:7-8)?",
+    "options": {
+      "a": "„Jūsų tėvai jau už jus atsiskyrė nuo nuodėmių“",
+      "b": "„Duokite tikrų atsivertimo vaisių ir nesitikėkite, kad Abraomo palikuonys išsivaduos“",
+      "c": "„Atsineškite aukų ir apsišventinkite šventykloje“",
+      "d": "„Meldkitės triskart per dieną ir laikykitės sabato“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_004",
+    "question": "Ką Jonas patarė daryti žmonėms, turintiems dvejus marškinius (Lk 3:11)?",
+    "options": {
+      "a": "Parduoti vieną ir už tai nupirkti auką Dievui",
+      "b": "Pasidalyti su neturinčiu",
+      "c": "Naudoti juos kaip pagalvę saugoti pinigus",
+      "d": "Juos užkasti žemėje kaip lobį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_005",
+    "question": "Ką Jonas Krikštytojas įsakyma muitininkams, ateinančiams pas jį krikštytis (Lk 3:12-13)?",
+    "options": {
+      "a": "„Nebūkite muitininkais, nes tai nuodėmingas amatas“",
+      "b": "„Nereikalaukite daugiau, negu jums nustatyta“",
+      "c": "„Krikštykite visus nemokamai“",
+      "d": "„Atsisakykite savo pareigų ir tapkite pranašais“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_006",
+    "question": "Ką Jonas patarė kariams, klausiusiems, ką jiems daryti (Lk 3:14)?",
+    "options": {
+      "a": "„Palikite kariuomenę ir tapkite vienuoliais“",
+      "b": "„Nieko neskriauskite, neįdavinėkite dėl pelno ir tenkinkitės savo alga“",
+      "c": "„Kovokite tik šventąjį karą“",
+      "d": "„Meldkitės už savo priešus“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_007",
+    "question": "Ką Jonas sakė apie ateinantįjį po jo (Lk 3:16)?",
+    "options": {
+      "a": "„Jis bus karalius, valdys visą Izraelį“",
+      "b": "„Aš krikštiju vandeniu, bet jis krikštys Šventąja Dvasia ir ugnimi“",
+      "c": "„Jis atneš naują Įstatymo lentelę“",
+      "d": "„Jis išvaduos žmones nuo Romos valdžios“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_008",
+    "question": "Ką Jonas Krikštytojas sakė apie kviečius ir pelus (Lk 3:17)?",
+    "options": {
+      "a": "„Kviečiai bus išmesti, o pelai – pasodinti“",
+      "b": "„Jis surinks kviečius į klėtį, o pelus sudegins neužgesinama ugnimi“",
+      "c": "„Kviečiai ir pelai bus panaudoti vienodai“",
+      "d": "„Kviečiai taps duona, o pelai – šiaudais“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_009",
+    "question": "Kodėl, pagal tekstą, Erodas Antipas uždarė Joną į kalėjimą (Lk 3:19-20)?",
+    "options": {
+      "a": "Dėl to, kad Jonas neleido jam valdyti Galilėjos",
+      "b": "Dėl Erodiados, savo brolio žmonos, ir dėl visų Erodo piktadarybių",
+      "c": "Dėl to, kad Jonas atmetė Erodo aukas",
+      "d": "Dėl to, kad Jonas skelbė apie Romos imperijos žlugimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_010",
+    "question": "Ką matė ir girdėjo žmonės, kai Jėzus krikštijosi (Lk 3:21-22)?",
+    "options": {
+      "a": "Dangus pasidengė debesimis, o žemė sukrėtė",
+      "b": "Šventoji Dvasia nusileido ant Jėzaus kūnišku pavidalu tarsi balandis, o balsas iš dangaus prabilo: „Tu mano mylimasis Sūnus“",
+      "c": "Jonas Krikštytojas paskelbė Jėzų karaliumi",
+      "d": "Jordano vandenys pasidarys raudoni kaip kraujas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_011",
+    "question": "Kiek metų, pagal tekstą, buvo Jėzui, kai jis pradėjo veikti (Lk 3:23)?",
+    "options": {
+      "a": "Dvidešimt metų",
+      "b": "Trisdešimt metų",
+      "c": "Keturiasdešimt metų",
+      "d": "Penkiasdešimt metų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_012",
+    "question": "Kas, pagal Jėzaus kilmės sąrašą (Lk 3:38), buvo Adomo tėvas?",
+    "options": {
+      "a": "Eva",
+      "b": "Dievas",
+      "c": "Henochas",
+      "d": "Nojus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_3"
+  }
+]

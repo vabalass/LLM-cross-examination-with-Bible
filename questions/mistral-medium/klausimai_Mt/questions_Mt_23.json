@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Mt_23_001",
+    "question": "Ką Jėzus sakė apie fariziejų ir Rašto aiškintojų elgesį su žmonėmis, kurie nori įeiti į dangaus karalystę?",
+    "options": {
+      "a": "Jie atveria duris visiems, kurie nori įeiti.",
+      "b": "Jie užrakiną dangaus karalystę ir neleidžia žmonėms į ją patekti.",
+      "c": "Jie skatina žmones gyventi pagal savo nuostatas, o ne pagal Įstatymą.",
+      "d": "Jie patys pirmieji vedą žmones į dangaus karalystę."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_002",
+    "question": "Ką Jėzus sakė apie fariziejų ir Rašto aiškintojų pastangas versti naujatikius?",
+    "options": {
+      "a": "Jie padaro iš jų dvigubai geresnius nei patys yra.",
+      "b": "Jie juos palieka vienus, nes nesirūpina jų ateitimi.",
+      "c": "Jie padaro iš jų pragaro vaikus, dvigubai blogesnius už juos pačius.",
+      "d": "Jie juos mokytoja tik gerų dalykų."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_003",
+    "question": "Ką Jėzus pasakė apie prisiekimą šventykla ir šventyklos auksu?",
+    "options": {
+      "a": "Prisiekimas auksu yra svarbesnis nei prisiekimas šventykla.",
+      "b": "Prisiekimas šventykla yra nieko, o auksu – svarbus.",
+      "c": "Šventovė, kuri pašventina auksą, yra didesnė už auksą.",
+      "d": "Auksas yra šventesnis už šventovę."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_004",
+    "question": "Ką Jėzus kritikuoja fariziejus, kalbėdamas apie dešimtines nuo mėtų, krapų ir kmynų?",
+    "options": {
+      "a": "Jie pamiršta duoti dešimtines.",
+      "b": "Jie pamiršta svarbiausius dalykus – teisingumą, gailestingumą ir ištikimybę.",
+      "c": "Jie duoda dešimtines tik iš turtingų žmonių.",
+      "d": "Jie nepriima dešimtinių iš vargingų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_005",
+    "question": "Ką Jėzus palyginą fariziejus, kalbėdamas apie jų išvaizdą ir vidų?",
+    "options": {
+      "a": "Su švariais drabužiais, bet nešvariais širdimis.",
+      "b": "Su pabaltintais antkapiais, kurie išorėje gražūs, o viduje pilni nešvarumų.",
+      "c": "Su švariais namais, bet nešvariais kiemais.",
+      "d": "Su švariais veidais, bet nešvariais rankomis."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_006",
+    "question": "Ką Jėzus sakė apie fariziejų ir Rašto aiškintojų elgesį su pranašų paminklais?",
+    "options": {
+      "a": "Jie juos griovė, nes neigė pranašų autoritetą.",
+      "b": "Jie statė pranašams antkapius ir puošė teisiųjų paminklus, bet patys buvo pranašų žudytojų vaikai.",
+      "c": "Jie nekreipė dėmesio į pranašų paminklus.",
+      "d": "Jie tikėjo, kad pranašai bus priimti į dangų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_007",
+    "question": "Ką Jėzus pasakė apie tai, kaip fariziejai ir Rašto aiškintojai elgiasi su naujais pasekėjais?",
+    "options": {
+      "a": "Jie juos mokytoja tik gerų dalykų.",
+      "b": "Jie juos vedą į teisingumą ir meilę.",
+      "c": "Jie juos padaro dvigubai blogesniais už save.",
+      "d": "Jie juos palieka vienus, nes nesirūpina jų ateitimi."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_008",
+    "question": "Ką Jėzus pasakė apie fariziejų ir Rašto aiškintojų valdymo stilių?",
+    "options": {
+      "a": "Jie yra geriausi tarnai savo žmonėms.",
+      "b": "Jie riša sunkias naštas žmonėms, bet patys jų nenori pajudinti.",
+      "c": "Jie viską daro, kad būtų Dievo patikėtiniai.",
+      "d": "Jie viską daro slaptai, nes nenori būti matomi."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_009",
+    "question": "Ką Jėzus pasakė apie tai, kaip fariziejai ir Rašto aiškintojai nori būti vadinami?",
+    "options": {
+      "a": "Jie nenori būti vadinami jokiais vardais.",
+      "b": "Jie mėgsta būti vadinami 'rabi'.",
+      "c": "Jie mėgsta būti vadinami 'karaliais'.",
+      "d": "Jie mėgsta būti vadinami 'pranašais'."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_010",
+    "question": "Ką Jėzus pasakė apie tai, kaip fariziejai ir Rašto aiškintojai elgiasi su taurėmis ir dubenimis?",
+    "options": {
+      "a": "Jie valo tik jų išorę, o viduje esą pilni gobšumo.",
+      "b": "Jie valo tik jų vidų, o išorę palieka nešvarią.",
+      "c": "Jie visiškai nevalo nei išorės, nei vidaus.",
+      "d": "Jie valo ir išorę, ir vidų."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_011",
+    "question": "Ką Jėzus pasakė apie Jeruzalę, kalbėdamas apie jos ateitį?",
+    "options": {
+      "a": "Jeruzalė bus visada saugoma Dievo.",
+      "b": "Jeruzalės namai bus palikti tušti, kol žmonės nepripažins Mesijo.",
+      "c": "Jeruzalė bus sugriauta ir niekada nebeatstatyta.",
+      "d": "Jeruzalė bus paversta naująja sostine."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_012",
+    "question": "Ką Jėzus pasakė apie tai, kaip fariziejai ir Rašto aiškintojai elgiasi su pranašais ir teisiaisiais?",
+    "options": {
+      "a": "Jie juos garbina ir gerbia.",
+      "b": "Jie juos persekioja ir žudo, kaip jų tėvai.",
+      "c": "Jie juos ignoruoja, nes nesutinka su jų mokymu.",
+      "d": "Jie juos priima kaip savo mokytojus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_013",
+    "question": "Ką Jėzus pasakė apie tai, kaip turi elgtis jo pasekėjai, norint būti didesni?",
+    "options": {
+      "a": "Jie turi būti didesni už visus.",
+      "b": "Jie turi būti tarnai vieni kitams.",
+      "c": "Jie turi būti aukštesni už savo mokytojus.",
+      "d": "Jie turi būti lygūs savo mokytojams."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_23"
+  }
+]

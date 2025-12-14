@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mt_22_001",
+    "question": "Ką karalius parengė savo sūnui, pagal Jėzaus palyginimą apie karalaičio vestuves?",
+    "options": {
+      "a": "Karo žygį",
+      "b": "Vestuvių pokylį",
+      "c": "Didįjį šventę",
+      "d": "Laidotuves"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_002",
+    "question": "Ką pirmieji pakviestieji atsakė karaliaus tarnams, kai šie juos kvietė į vestuves?",
+    "options": {
+      "a": "Jie atėjo su dovanomis",
+      "b": "Jie nepanorėjo eiti",
+      "c": "Jie paprašė atidėti vestuves",
+      "d": "Jie atėjo, bet vėluodami"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_003",
+    "question": "Ką karalius padarė su žmonėmis, kurie nužudė jo tarnus?",
+    "options": {
+      "a": "Jis juos pasodino į kalėjimą",
+      "b": "Jis juos padegė kartu su miestu",
+      "c": "Jis juos ištremė iš karalystės",
+      "d": "Jis juos priverstinai įdarbino"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_004",
+    "question": "Kur karalius liepė tarnams ieškoti naujų svečių vestuvėms?",
+    "options": {
+      "a": "Rūmuose",
+      "b": "Šventyklose",
+      "c": "Kryžkelėse",
+      "d": "Turgaus aikštėje"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_005",
+    "question": "Ką karalius pamatė vienam iš svečių, kai atėjo pasižiūrėti vestuvių menės?",
+    "options": {
+      "a": "Jis buvo apsirengęs karaliaus drabužiais",
+      "b": "Jis nebuvo apsirengęs vestuvių drabužiu",
+      "c": "Jis buvo girtas",
+      "d": "Jis buvo atėjęs be pakvietimo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_006",
+    "question": "Ką karalius liepė padaryti su žmogumi, kuris nebuvo apsirengęs vestuvių drabužiu?",
+    "options": {
+      "a": "Jį išvaryti iš rūmų",
+      "b": "Jį surišti ir išmesti į tamsybes",
+      "c": "Jį priversti keisti drabužius",
+      "d": "Jį pasodinti prie karaliaus stalo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_007",
+    "question": "Ką Jėzus atsakė fariziejams ir Erodo šalininkams apie mokesčių mokėjimą ciesoriui?",
+    "options": {
+      "a": "„Nemokėkite mokesčių!“",
+      "b": "„Atiduokite, kas ciesoriaus, ciesoriui, o kas Dievo – Dievui“",
+      "c": "„Mokėkite tik Dievui“",
+      "d": "„Mokėkite dvigubai“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_008",
+    "question": "Ką sadukiejai klausė Jėzaus, norėdami jį išbandyti?",
+    "options": {
+      "a": "Apie karalystės atėjimą",
+      "b": "Apie mirusiųjų prisikėlimą",
+      "c": "Apie Dievo vardą",
+      "d": "Apie malonę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_009",
+    "question": "Ką Jėzus atsakė sadukiejams apie mirusiųjų prisikėlimą?",
+    "options": {
+      "a": "„Jie prisikels kaip žmonės“",
+      "b": "„Prisikėlę nei ves, nei tekės, bet bus kaip Dievo angelai“",
+      "c": "„Jie nebeprisikels“",
+      "d": "„Jie prisikels tik po tūkstantme metų“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_010",
+    "question": "Koks įsakymas, pagal Jėzaus atsakymą, yra didžiausias?",
+    "options": {
+      "a": "„Negirdėk kito dievo vardu“",
+      "b": "„Mylėk savo artimą kaip save patį“",
+      "c": "„Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela ir visu protu“",
+      "d": "„Garink savo tėvus“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_011",
+    "question": "Ką Jėzus pasakė apie antrąjį didžiausią įsakymą?",
+    "options": {
+      "a": "Jis yra mažesnis už pirmąjį",
+      "b": "Jis yra panašus į pirmąjį: „Mylėk savo artimą kaip save patį“",
+      "c": "Jis yra tik fariziejams",
+      "d": "Jis yra tik sadukiejams"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_012",
+    "question": "Ką Jėzus paklausė fariziejų apie Mesiją?",
+    "options": {
+      "a": "„Kada jis atės?“",
+      "b": "„Kieno jis sūnus?“",
+      "c": "„Ką jis padarys?“",
+      "d": "„Kur jis gimė?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_013",
+    "question": "Ką fariziejai atsakė Jėzui, kai jis paklausė, kieno Mesijas yra sūnus?",
+    "options": {
+      "a": "Abraomo",
+      "b": "Mozės",
+      "c": "Dovydo",
+      "d": "Adomo"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_014",
+    "question": "Ką Jėzus pasakė apie tai, kad Dovydas vadina Mesiją „Viešpačiu“?",
+    "options": {
+      "a": "„Dovydas klydo“",
+      "b": "„Dovydas buvo pranašas“",
+      "c": "„Jei Dovydas vadina jį Viešpačiu, kaipgi tada jis gali būti jo sūnus?“",
+      "d": "„Mesijas bus Dovydo tėvas“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_015",
+    "question": "Ką padarė fariziejai ir Erodo šalininkai, kai išgirdo Jėzaus atsakymą apie mokesčius?",
+    "options": {
+      "a": "Jie pradėjo ginčytis su Jėzumi",
+      "b": "Jie stebėjosi ir paliko jį",
+      "c": "Jie pasidavė į Jėzaus mokinius",
+      "d": "Jie iškvietė kariuomenę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_22"
+  }
+]

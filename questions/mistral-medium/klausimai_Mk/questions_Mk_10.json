@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Mk_10_001",
+    "question": "Ką fariziejai klausė Jėzaus, norėdami jį išbandyti?",
+    "options": {
+      "a": "Ar galima atleisti žmoną?",
+      "b": "Ar reikia mokėti mokesčius Cezariui?",
+      "c": "Kiek kartų reikia maldautis per dieną?",
+      "d": "Ką reiškia Dievo karalystė?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_002",
+    "question": "Ką Mozė, pagal fariziejų teigimą, leidė padaryti su skyrybomis?",
+    "options": {
+      "a": "Leido iškart susituokti su kita",
+      "b": "Leido parašyti skyrybų raštą ir atleisti žmoną",
+      "c": "Leido grąžinti kraitį",
+      "d": "Leido išvyti žmoną iš namų be jokių formalumų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_003",
+    "question": "Kodėl, Jėzaus teigimu, Mozė leidė parašyti skyrybų raštą?",
+    "options": {
+      "a": "Dėl žmonių širdies kietumo",
+      "b": "Dėl tradicinės įstatymo interpretacijos",
+      "c": "Dėl Dievo tiesioginio įsakymo",
+      "d": "Dėl moterų prašymo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_004",
+    "question": "Ką Jėzus sakė apie santuoką nuo „sukūrimo pradžios“?",
+    "options": {
+      "a": "Vyras ir moteris turi būti atskirti",
+      "b": "Dievas sukūrė juos kaip vyrą ir moterį, ir jie taps vienu kūnu",
+      "c": "Santuoka yra tik žmonių išradimas",
+      "d": "Skyrybos leidžiamos, jei vienas iš poros nusikalto"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_005",
+    "question": "Ką Jėzus sakė apie tai, kas sujungta Dievo?",
+    "options": {
+      "a": "Žmogus gali perskirti, jei tai reikalinga",
+      "b": "Žmogus teneperskiria",
+      "c": "Tai gali būti perskirta tik per teismą",
+      "d": "Dievas pats perskiria, jei reikia"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_006",
+    "question": "Ką Jėzus sakė apie vyrą, kuris atleidžia žmoną ir veda kitą?",
+    "options": {
+      "a": "Jis elgiasi kaip tikėtinas",
+      "b": "Jis nusikalsto pirmajai svetimavimu",
+      "c": "Jis turi sumokėti baudą",
+      "d": "Jis praranda teisę į Dievo karalystę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_007",
+    "question": "Ką Jėzus darė su vaikais, kai mokiniai jiems draudė ateiti?",
+    "options": {
+      "a": "Jis juos ignoravo",
+      "b": "Jis užsirūstino ir leido jiems ateiti, laimino juos",
+      "c": "Jis pasakė, kad vaikai turi mokytis pirmiau",
+      "d": "Jis pasiuntė juos namo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_008",
+    "question": "Ką Jėzus pasakė apie Dievo karalystę ir vaikus?",
+    "options": {
+      "a": "Vaikai negali įeiti į Dievo karalystę",
+      "b": "Dievo karalystė priklauso tokiems, kaip vaikai",
+      "c": "Vaikai turi mokytis, kad įeitų į Dievo karalystę",
+      "d": "Dievo karalystė yra tik suaugusiems"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_009",
+    "question": "Ką turtingas jaunuolis klausė Jėzaus, norėdamas laimėti amžinąjį gyvenimą?",
+    "options": {
+      "a": "Ką reikia aukoti Dievui?",
+      "b": "Ką turiu daryti, kad laimėčiau amžinąjį gyvenimą?",
+      "c": "Kiek reikia duoti vargšams?",
+      "d": "Ką reikia padaryti, kad būtų priimtas į dangų?"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_010",
+    "question": "Ką Jėzus atsakė turtingam jaunuoliui, kai šis sakė, kad laikosi visų įsakymų nuo jaunystės?",
+    "options": {
+      "a": "Tu jau esi toks, kokį Dievas nori",
+      "b": "Vieno dalyko tau trūksta: parduok viską, išdalyk vargšams ir sek paskui mane",
+      "c": "Tu turi mokytis dar daugiau",
+      "d": "Tau reikia tapti kunigu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_011",
+    "question": "Kodėl turtingas jaunuolis nusiminęs pasitraukė nuo Jėzaus?",
+    "options": {
+      "a": "Jis nepatikėjo Jėzumi",
+      "b": "Jis turėjo daug turto ir negalėjo jo palikti",
+      "c": "Jis bijojo, kad bus persekiojamas",
+      "d": "Jis nenorėjo tapti Jėzaus mokinys"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_012",
+    "question": "Ką Jėzus pasakė apie tai, kaip sunku turtingiems įeiti į Dievo karalystę?",
+    "options": {
+      "a": "Tai neįmanoma",
+      "b": "Lengviau kupranugariui išlįsti pro adatos ausį, negu turtuoliui įeiti į Dievo karalystę",
+      "c": "Turtingiems reikia daugiau maldautis",
+      "d": "Turtingiems reikia aukoti daugiau"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_013",
+    "question": "Ką Jėzus atsakė mokiniams, kai jie klausė, kas gali išsigelbėti?",
+    "options": {
+      "a": "Tik turtingi gali išsigelbėti",
+      "b": "Tai neįmanoma žmonėms, bet ne Dievui: Dievui viskas įmanoma",
+      "c": "Tik tie, kurie laikosi visų įsakymų, gali išsigelbėti",
+      "d": "Tik mokiniai gali išsigelbėti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_014",
+    "question": "Ką Jėzus pažadėjo Petrui ir kitims, kurie paliko viską ir sekė jo pakeliui?",
+    "options": {
+      "a": "Jie gaus šimteriopai namų, brolių, seserų, motinų, vaikų ir laukų šiuo metu, ir amžinąjį gyvenimą būsimajame pasaulyje",
+      "b": "Jie taps valdovais Dievo karalystėje",
+      "c": "Jie gaus visus turtingų žmonių turtus",
+      "d": "Jie bus apsaugoti nuo visų kančių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_015",
+    "question": "Ką Jėzus pasakė apie pirmuosius ir paskutinius Dievo karalystėje?",
+    "options": {
+      "a": "Pirmieji visada bus pirmieji",
+      "b": "Daugel pirmųjų bus paskutiniai ir daugel paskutinių – pirmi",
+      "c": "Paskutiniai niekada nebus pirmieji",
+      "d": "Pirmieji turi tarnauti paskutiniams"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_016",
+    "question": "Ką Jėzus pasakė Zebediejaus sūnums, kai jie prašė sėdėti šlovės dešinėje ir kairėje?",
+    "options": {
+      "a": "Jūs galite, jei tikėsite",
+      "b": "Patys nežinote, ko prašote; ar galite gerti taurę, kurią aš gersiu?",
+      "c": "Jums tai bus duota, jei busite ištikimi",
+      "d": "Tai nepriklauso nuo manęs"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_017",
+    "question": "Ką Jėzus pasakė apie tarnavimą tarp savo mokinių?",
+    "options": {
+      "a": "Kas norėtų būti didžiausias, tebus jūsų valdovas",
+      "b": "Kas norėtų tapti didžiausias, tebus jūsų tarnas",
+      "c": "Kas norėtų būti pirmas, tebus jūsų mokytojas",
+      "d": "Kas norėtų būti didžiausias, tebus jūsų karalius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_10"
+  }
+]

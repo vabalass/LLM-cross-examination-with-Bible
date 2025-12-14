@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Mt_15_001",
+    "question": "Ką fariziejai ir rašto aiškintojai Jėzui pasakė dėl jo mokinių?",
+    "options": {
+      "a": "Kodėl jie laužo prosenių paprotį, nesimazgodami rankų prieš valgymą?",
+      "b": "Kodėl jie nepasirodo sinagogose šventadieniais?",
+      "c": "Kodėl jie neaukoja aukojimų šventykloje?",
+      "d": "Kodėl jie negerbia vyresniųjų?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_002",
+    "question": "Ką Jėzus atsakė fariziejams, kai jie apkaltino jo mokinius dėl nesilaikymo papročio?",
+    "options": {
+      "a": "Jūs esate teisūs, bet jūsų paprotys netinka Dievo žemei.",
+      "b": "Kodėl jūs laužote Dievo įsakymą dėl savojo papročio?",
+      "c": "Mano mokiniai elgiasi pagal Dievo valią, o ne pagal žmonių įstatymus.",
+      "d": "Jūsų paprotys yra šventesni už Dievo įsakymus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_003",
+    "question": "Ką Jėzus pasakė apie tai, kas suteršia žmogų, kalbėdamas su minia?",
+    "options": {
+      "a": "Ne kas patenka į burną, bet kas išeina iš burnos, tai suteršia žmogų.",
+      "b": "Tik blogi mintys suteršia žmogų, o ne jo veiksmai.",
+      "c": "Tik kūno skriauda suteršia žmogų, o ne jo žodžiai.",
+      "d": "Tik nešvarus maistas suteršia žmogų."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_004",
+    "question": "Ką Jėzus pasakė apie fariziejus, kai mokiniai pranešė, kad jie pasipiktino dėl jo žodžių?",
+    "options": {
+      "a": "Jie yra Dievo pasiuntiniečiai, todėl turite juos klausyti.",
+      "b": "Palikite juos: jie akli aklųjų vadovai.",
+      "c": "Jie turi teisę, nes jie gerai žino Raštą.",
+      "d": "Jie bus išgelbėti dėl savo ištikimybės."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_005",
+    "question": "Ką Jėzus pasakė Petrui, kai šis paprašė išaiškinti palyginimą apie tai, kas suteršia žmogų?",
+    "options": {
+      "a": "Tu esi be protinčio, nes nesupranti paprastų dalykų.",
+      "b": "Ar ir jūs vis dar esate be nuovokos?",
+      "c": "Tavo širdis yra uždara, todėl nesupranti mano žodžių.",
+      "d": "Tik tikintieji supranta mano mokymą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_006",
+    "question": "Ką Jėzus pasakė apie tai, kas išeina iš burnos ir suteršia žmogų?",
+    "options": {
+      "a": "Tai yra tik blogi žodžiai, bet ne mintys.",
+      "b": "Tai išeina iš širdies ir suteršia žmogų.",
+      "c": "Tai yra tik kūno skriauda, o ne dvasios.",
+      "d": "Tai yra Dievo bausmė už nuodėmes."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_007",
+    "question": "Kas iš šių dalykų, Jėzaus žodžiais, **ne**suteršia žmogaus?",
+    "options": {
+      "a": "Pikti sumanymai",
+      "b": "Valgymas nemazgotomis rankomis",
+      "c": "Svetimavimai",
+      "d": "Šmeižtai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_008",
+    "question": "Kur Jėzus pasitraukė po ginčo su fariziejais ir rašto aiškintojais?",
+    "options": {
+      "a": "Į Judėjos dykumą",
+      "b": "Į Tyro ir Sidono sritį",
+      "c": "Į Jeruzalę",
+      "d": "Į Samarijos miestą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_009",
+    "question": "Ką kananietė moteris prašė Jėzaus?",
+    "options": {
+      "a": "Išgydyti jos sūnų nuo ligos",
+      "b": "Padaryti stebuklą, kad ji taptų turtinga",
+      "c": "Išvaduoti jos dukterį nuo demonų kankinimo",
+      "d": "Padaryti, kad jos vyras pasitiktų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_010",
+    "question": "Ką Jėzus atsakė kananietei, kai ji prašė pagalbos?",
+    "options": {
+      "a": "Tavo tikėjimas tave išgelbėjo.",
+      "b": "Aš esu siųstas tik pas pražuvusias Izraelio namų avis.",
+      "c": "Tavo nuodėmės yra per didelės, kad aš galėčiau padėti.",
+      "d": "Tavo duktė jau yra išgydyta."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_011",
+    "question": "Ką kananietė atsakė Jėzui, kai jis pasakė, kad „nedera imti vaikų duonos ir mesti šunyčiams“?",
+    "options": {
+      "a": "Aš esu ne šuo, bet žmogus, turintis teisę į malonę.",
+      "b": "Taip, Viešpatie, bet ir šunyčiai ėda trupinius, nukritusius nuo šeimininko stalo.",
+      "c": "Mano duktė yra nekaltas kūdikis, todėl turi būti išgelbėta.",
+      "d": "Aš tikiu, kad tu esi Dievo Sūnus, todėl gali išgydyti manę."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_012",
+    "question": "Kiek duonos kepaliukų ir žuvų turėjo mokiniai, kai Jėzus norėjo pasotinti minią antrojo duonos padauginimo metu?",
+    "options": {
+      "a": "Penki kepaliukai ir dvi žuvys",
+      "b": "Septynios duonos pyragai ir trys žuvys",
+      "c": "Septynis kepaliukus ir kelias žuvis",
+      "d": "Dvi duonos ir penkios žuvys"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_013",
+    "question": "Kiek krepšių nulikusius kąsnelius surinko po antrojo duonos padauginimo?",
+    "options": {
+      "a": "Dvylika krepšių",
+      "b": "Septynis pilnus krepšius",
+      "c": "Penkis krepšius",
+      "d": "Tris krepšius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_15"
+  }
+]

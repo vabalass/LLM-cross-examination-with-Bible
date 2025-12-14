@@ -1,0 +1,353 @@
+[
+  {
+    "id": "Lk_1_001",
+    "question": "Kas buvo Lukos evangelijos autoriaus tikslas rašant Teofiliui?",
+    "options": {
+      "a": "Patvirtinti, kad Jėzus buvo tikras žmogus, o ne dievybė.",
+      "b": "Suteikti jam įsitikinimo apie mokslo, kurio jis buvo išmokytas, tikrumą.",
+      "c": "Pateikti detalią Judėjos karaliaus Erodo biografiją.",
+      "d": "Aprašyti visus pranašus, kurie gyveno prieš Jėzų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_002",
+    "question": "Koks buvo Zacharijo ir Elzbietos santykis su Dievu, pagal tekstą?",
+    "options": {
+      "a": "Jie buvo nuolat nusižengę ir prašė atleidimo.",
+      "b": "Jie buvo teisūs Dievo akyse ir nepriekaištingai vykdė visus Viešpaties įsakymus bei nuostatus.",
+      "c": "Jie buvo kunigai, bet nepasitikėjo Dievo žodžiais.",
+      "d": "Jie buvo turtingi ir aukojo daugiau nei kiti."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_003",
+    "question": "Ką Zacharijas darė šventykloje, kai jam pasirodė angelas?",
+    "options": {
+      "a": "Jis skaitė šventąjį raštą.",
+      "b": "Jis aukojo smilkalus.",
+      "c": "Jis maldavo už visą tautą.",
+      "d": "Jis valė šventykloje."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_004",
+    "question": "Kas buvo angelo Gabrieliaus žinutė Zacharijui?",
+    "options": {
+      "a": "Jo žmona Elzbieta pagimdys dukterį, kuri taps pranaše.",
+      "b": "Jo žmona Elzbieta pagimdys sūnų, kurį reikia pavadinti Jonu.",
+      "c": "Jis turi pasitraukti iš kunigystės, nes Dievas nebepasitiki jam.",
+      "d": "Jis turi išvykti į dykumą ir ten laukti Viešpaties atėjimo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_005",
+    "question": "Kodėl Zacharijas tapo nebylu?",
+    "options": {
+      "a": "Dievas norėjo jį nubausti už nuodėmes.",
+      "b": "Jis nepatikėjo angelo žodžiais, kurie turėjo išsipildyti savo metu.",
+      "c": "Jis buvo per senas, kad galėtų kalbėti.",
+      "d": "Angelas Gabrielius jam užkerėjo burną, kad nepraneštų žinių."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_006",
+    "question": "Kiek laiko Elzbieta slėpėsi, kai tapo nėščia?",
+    "options": {
+      "a": "Tris mėnesius.",
+      "b": "Penkis mėnesius.",
+      "c": "Septynis mėnesius.",
+      "d": "Iki pat gimdymo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_007",
+    "question": "Kur angelas Gabrielius pasirodė Marijai?",
+    "options": {
+      "a": "Jeruzalėje, šventykloje.",
+      "b": "Galilėjos mieste, vadinamame Nazaretu.",
+      "c": "Betliejuje, karčemoje.",
+      "d": "Dykumoje, kur ji lydėjo avis."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_008",
+    "question": "Ką angelas Gabrielius pasakė Marijai apie jos sūnų?",
+    "options": {
+      "a": "Jis taps didžiu karaliumi ir užkariaus visą pasaulį.",
+      "b": "Jis bus didis ir vadinsis Aukščiausiojo Sūnus, jam bus duotas Dovydo sostas.",
+      "c": "Jis bus pranašas, bet niekada nebus pripažintas karaliumi.",
+      "d": "Jis bus paprastas žvejas, kaip ir jo tėvas Juozapas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_009",
+    "question": "Kaip Marija atsakė angelui Gabrieluiši, kai sužinojo apie savo būsimą vaiką?",
+    "options": {
+      "a": "Ji išgąstė ir pabėgo iš namų.",
+      "b": "Ji pasakė: „Štai aš Viešpaties tarnaitė, tebūna man, kaip tu pasakei“.",
+      "c": "Ji prašė laiko svarstyti, ar sutiks.",
+      "d": "Ji nepatikėjo ir paprašė ženklo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_010",
+    "question": "Ką Marija padarė, kai sužinojo apie Elzbietos nėštumą?",
+    "options": {
+      "a": "Ji iškeliavo pas Elzbietą ir pasveikino ją.",
+      "b": "Ji pasiliko namuose ir niekam nepasakė apie tai.",
+      "c": "Ji parašė laišką Elzbietai, bet nevyko pas ją.",
+      "d": "Ji paprašė Juozapo, kad jis nuėjtų pas Zachariją."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_011",
+    "question": "Ką Elzbieta pasakė Marijai, kai ši ją pasveikino?",
+    "options": {
+      "a": "„Tu esi mano Viešpaties motina, ir aš tau nevertinga“.",
+      "b": "„Tu labiausiai palaiminta iš visų moterų ir palaimintas tavo įsčių vaisius!“.",
+      "c": "„Kodėl tu atėjai, kai aš esu tokia senia?“.",
+      "d": "„Tavo vaikas bus didesnis už mano Joną“."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_012",
+    "question": "Ką Marija sakė savo giesmėje apie Dievą?",
+    "options": {
+      "a": "Jis numeta galiūnus nuo sostų ir išaukština mažuosius.",
+      "b": "Jis atnešė karą ir nelaimę pasaulio galiūnams.",
+      "c": "Jis pasirinko tik turtingus ir juos apdovanojo.",
+      "d": "Jis užmiršo savo pažadus Izraelio tautai."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_013",
+    "question": "Kiek laiko Marija prabuvo pas Elzbietą?",
+    "options": {
+      "a": "Vieną mėnesį.",
+      "b": "Tris mėnesius.",
+      "c": "Penkis mėnesius.",
+      "d": "Iki pat Jono gimimo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_014",
+    "question": "Ką norėjo daryti kaimynai, kai gimė Jono Krikštytojas?",
+    "options": {
+      "a": "Jie norėjo jį pavadinti Zachariju, pagal tėvo vardą.",
+      "b": "Jie norėjo jį pavadinti Gabrieliumi, pagal angelo vardą.",
+      "c": "Jie norėjo jį pavadinti Eliju, pagal pranašo vardą.",
+      "d": "Jie norėjo jį pavadinti Dovydu, pagal karaliaus vardą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_015",
+    "question": "Kaip Zacharijas patvirtino, kad sūnus turi būti pavadintas Jonu?",
+    "options": {
+      "a": "Jis pasakė žodžiais, kai atsivėrė jo lūpos.",
+      "b": "Jis parašė ant lentelės: „Jo vardas – Jonas“.",
+      "c": "Jis padarė ženklą ranka, kad sutinka su Elzbietos pasiūlymu.",
+      "d": "Jis paprašė kunigo, kad šis pasakytų vardą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_016",
+    "question": "Ką Zacharijas ėmė daryti, kai atsivėrė jo lūpos?",
+    "options": {
+      "a": "Jis ėmė giedoti giesmę Viešpačiui.",
+      "b": "Jis ėmė kalbėti šlovindamas Dievą.",
+      "c": "Jis ėmė skųstis dėl savo nebylumo.",
+      "d": "Jis ėmė mokyti žmones apie Dievo įsakymus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_017",
+    "question": "Ką Zacharijas pranašavo apie savo sūnų Joną?",
+    "options": {
+      "a": "Jis taps didžiu karaliumi ir valdys Izraelį.",
+      "b": "Jis bus vadinamas Aukščiausiojo pranašu ir eis pirma Viešpaties jam kelio nutiesti.",
+      "c": "Jis bus kunigas, kaip ir jo tėvas.",
+      "d": "Jis bus paskutinis pranašas prieš pasaulio pabaigą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_018",
+    "question": "Ką Zacharijas sakė apie Dievo gailestingumą savo giesmėje?",
+    "options": {
+      "a": "Jis pasakė, kad Dievas atnešė karą ir kerštą.",
+      "b": "Jis pasakė, kad Dievas rodo gailestingumą protėviams ir atsimena savo šventąją sandorą su Abraomu.",
+      "c": "Jis pasakė, kad Dievas užmiršo savo pažadus ir nebe mylėjo Izraelio.",
+      "d": "Jis pasakė, kad Dievas išgelbės tik turtingus ir galiūnus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_019",
+    "question": "Kur Jono Krikštytojas augo ir tvirtėjo?",
+    "options": {
+      "a": "Jeruzalės šventykloje.",
+      "b": "Nazareto mieste.",
+      "c": "Dykumoje.",
+      "d": "Betliejuje."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_020",
+    "question": "Kas buvo Zacharijo ir Elzbietos profesijos?",
+    "options": {
+      "a": "Jie buvo žvejai.",
+      "b": "Zacharijas buvo kunigas, Elzbieta – jo žmona.",
+      "c": "Jie buvo mokytojai.",
+      "d": "Jie buvo karaliaus Erodo patarėjai."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_021",
+    "question": "Ką angelas Gabrielius pasakė Marijai apie Šventąją Dvasią?",
+    "options": {
+      "a": "Šventoji Dvasia nužengs ant jos, ir Aukščiausiojo galybė pridengs ją savo šešėliu.",
+      "b": "Šventoji Dvasia pasiliks su ja iki pat mirties.",
+      "c": "Šventoji Dvasia duos jai galybę gydyti ligonius.",
+      "d": "Šventoji Dvasia mokys ją kalbėti visomis pasaulio kalbomis."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_022",
+    "question": "Ką Elzbieta pasakė apie Marijos tikėjimą?",
+    "options": {
+      "a": "„Laiminga įtikėjusi, jog išsipildys, kas Viešpaties jai pasakyta“.",
+      "b": "„Tu turi būti atsargi, nes Dievas gali pakeisti savo planus“.",
+      "c": "„Tavo tikėjimas yra silpnas, todėl Dievas pats turi įvykdyti savo žadė“.",
+      "d": "„Tavo tikėjimas yra per didelis, todėl Dievas pats žavisi tau“."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_023",
+    "question": "Ką Zacharijas sakė apie savo sūnų Jono Krikštytojo misiją?",
+    "options": {
+      "a": "Jis mokys žmones apie karą su romėnais.",
+      "b": "Jis mokysi žmones pažinti išganymą iš nuodėmių atleidimo.",
+      "c": "Jis taps didžiu karaliumi ir valdys Izraelį.",
+      "d": "Jis bus vienintelis, kuris galės atleisti nuodėmes."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_024",
+    "question": "Ką Marija sakė apie Dievo malonę savo giesmėje?",
+    "options": {
+      "a": "Dievas maloningas tik turtingiems.",
+      "b": "Dievas maloningas iš kartos į kartą tiems, kurie jo klauso.",
+      "c": "Dievas maloningas tik karaliams ir pranašams.",
+      "d": "Dievas maloningas tik moterims, kurios turi vaikus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_025",
+    "question": "Ką Zacharijas sakė apie Dievo šviesą savo giesmėje?",
+    "options": {
+      "a": "Šviesa bus tik turtingiems.",
+      "b": "Šviesa bus tik karaliams.",
+      "c": "Šviesa aplankė mus dėl Dievo gailestingumo, kad apšviestų tūnančius tamsoje ir mirties ūksmėje.",
+      "d": "Šviesa bus tik pranašams."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_026",
+    "question": "Ką Marija sakė apie savo palyginimą su kitomis kartomis?",
+    "options": {
+      "a": "„Štai nuo dabar palaiminta mane vadins visos kartos“.",
+      "b": "„Aš esu blogiausia iš visų moterų“.",
+      "c": "„Mano siela džiaugiasi, nes aš esu turtingesnė už visas kitas kartas“.",
+      "d": "„Aš esu vienintelė, kurią Dievas pasirinko iš visų kartų“."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_027",
+    "question": "Ką Zacharijas sakė apie savo sūnų Jono Krikštytojo ateitį?",
+    "options": {
+      "a": "Jis bus didis karvedys ir kovos su romėnais.",
+      "b": "Jis bus vienintelis, kuris galės atleisti nuodėmes.",
+      "c": "Jis eis pirma Viešpaties jam kelio nutiesti ir mokysi žmones pažinti išganymą.",
+      "d": "Jis taps karaliumi ir valdys Izraelį 40 metų."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_1"
+  }
+]

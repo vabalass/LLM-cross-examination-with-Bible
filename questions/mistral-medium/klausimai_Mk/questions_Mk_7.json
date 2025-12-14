@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mk_7_001",
+    "question": "Ką fariziejai ir Rašto aiškintojai pastebėjo pas Jėzaus mokinius, kai šie valgė?",
+    "options": {
+      "a": "Jie valgė nemazgotomis (suterštomis) rankomis.",
+      "b": "Jie valgė nešventintus duonos gabalus.",
+      "c": "Jie nepasidalino maistu su vargšais.",
+      "d": "Jie valgė draudžiamą mėsą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_002",
+    "question": "Ką Jėzus cituodamas Izaiją sakė apie fariziejus ir Rašto aiškintojus?",
+    "options": {
+      "a": "„Jie yra tikrieji Dievo šventieji, laikantys įsakymus iš širdies.“",
+      "b": "„Ši tauta šlovina mane lūpomis, bet jos širdis toli nuo manęs.“",
+      "c": "„Jie yra Dievo ištikimi tarnai, nes laikosi visų papročių.“",
+      "d": "„Jie yra šventesni už prosenius, nes gerbia Dievo namus.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_003",
+    "question": "Ką Jėzus sakė apie tai, kas žmogų suteršia?",
+    "options": {
+      "a": "Žmogų suteršia tai, kas į jį įeina iš lauko (pvz., maistas).",
+      "b": "Žmogų suteršia tik tai, kas iš jo išeina (pvz., pikti sumanymai).",
+      "c": "Žmogų suteršia tik netinkamas drabužių pasirinkimas.",
+      "d": "Žmogų suteršia tik netinkamas bendravimas su svetimšaliais."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_004",
+    "question": "Ką Jėzus paskelbė apie visus valgius, remdamasis savo mokymu?",
+    "options": {
+      "a": "Jis paskelbė, kad visi valgiai yra nešvarūs, jei nepašventinti.",
+      "b": "Jis paskelbė, kad visi valgiai yra švarūs.",
+      "c": "Jis paskelbė, kad tik žydų virtas valgiai yra švarūs.",
+      "d": "Jis paskelbė, kad valgiai turi būti valgyti tik šventadieniais."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_005",
+    "question": "Ką Jėzus nurodė kaip blogybės, kurios suteršia žmogų?",
+    "options": {
+      "a": "Tik vagystę ir žmogžudystę.",
+      "b": "Tik netinkamą drabužių dėvimą ir nešvarumą.",
+      "c": "Pikčius sumanymus, paleistuvystę, vagystę, žmogžudystę, svetimavimus, godumą, klastą ir kt.",
+      "d": "Tik nepasitenkinimą savo turimu ir pavydą."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_006",
+    "question": "Kur Jėzus nukeliavo po ginčo su fariziejais ir Rašto aiškintojais?",
+    "options": {
+      "a": "Į Jeruzalę.",
+      "b": "Į Tyro sritis.",
+      "c": "Į Nazaretą.",
+      "d": "Į Romą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_007",
+    "question": "Kas prašė Jėzaus pagalbos, kai jo dukra buvo apsėsta netyrosios dvasios?",
+    "options": {
+      "a": "Žydė moteris iš Galilėjos.",
+      "b": "Graikė, kilimo sirofenikietė.",
+      "c": "Romietė, kilusi iš Dekapolio.",
+      "d": "Samarietė, kilusi iš Sidono."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_008",
+    "question": "Ką Jėzus atsakė moteriai, kai ši prašė išvaryti demoną iš jos dukters?",
+    "options": {
+      "a": "„Tavo dukra jau išgydyta, eik namo.“",
+      "b": "„Leisk pirmiau pasisotinti vaikams. Juk negražu imti vaikų duoną ir mesti šunyčiams.“",
+      "c": "„Tavo tikėjimas tave išgelbėjo.“",
+      "d": "„Aš negaliu padėti svetimšalėms.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_009",
+    "question": "Ką atsakė moteris Jėzui, kai jis palygino pagalbą žmonėms ir šunims?",
+    "options": {
+      "a": "„Aš nėra šuo, o žmogus.“",
+      "b": "„Bet ir šunyčiai po stalu ėda vaikų trupinius.“",
+      "c": "„Mano dukra nėra apsėsta, tu klysti.“",
+      "d": "„Aš tikiu, kad tu gali išvaryti demoną.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_010",
+    "question": "Ką Jėzus padarė nebylio žmogui, kad išgydytų jį?",
+    "options": {
+      "a": "Jis uždėjo rankas ant jo galvos ir pasakė: „Gydykis!“.",
+      "b": "Jis įleido pirštus į jo ausis, palietė seilėmis liežuvį ir pasakė: „Efatá!“ (Atsiverk!).",
+      "c": "Jis liepė jam apsipiršti šventu vandeniu.",
+      "d": "Jis pasakė: „Tavo tikėjimas tave išgelbėjo.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_011",
+    "question": "Ką žmonės sakė apie Jėzų po to, kai jis išgydė nebylį?",
+    "options": {
+      "a": "„Jis yra Dievo Sūnus, mes tikime.“",
+      "b": "„Jis visa gerai padarė! Jis daro, kad kurtieji girdi ir nebyliai kalba.“",
+      "c": "„Jis turi demonišką galią.“",
+      "d": "„Jis yra tik pranašas, o ne Mesijas.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_012",
+    "question": "Ką Jėzus liepė žmonėms po nebylio išgydymo?",
+    "options": {
+      "a": "Jis liepė jiems skelbti apie stebuklą visur.",
+      "b": "Jis liepė jiems niekam nepasakoti apie tai, kas įvyko.",
+      "c": "Jis liepė jiems atnešti dar daugiau ligonių.",
+      "d": "Jis liepė jiems apsikrikštyti."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_7"
+  }
+]

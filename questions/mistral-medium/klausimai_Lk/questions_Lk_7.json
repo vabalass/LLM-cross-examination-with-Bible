@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Lk_7_001",
+    "question": "Kur Jėzus grįžo po pamokų klausytojams, kai susirgo šimtininko tarnas?",
+    "options": {
+      "a": "Jeruzalę",
+      "b": "Betaniją",
+      "c": "Kafarnaumą",
+      "d": "Najiną"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_002",
+    "question": "Ką šimtininkas pasiuntė pas Jėzų prašydamas pagelbėti sirgusiam tarnui?",
+    "options": {
+      "a": "Kareivius",
+      "b": "Kilminguosius žydus",
+      "c": "Fariziejus",
+      "d": "Muitininkus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_003",
+    "question": "Ką šimtininkas pasakė Jėzui, kai šis artėjo prie jo namų?",
+    "options": {
+      "a": "„Aš nesu vertas, kad užeitum po mano stogu“",
+      "b": "„Prašau, pasveikink mano tarną už pinigus“",
+      "c": "„Aš esu didis kariuomenės vadas“",
+      "d": "„Aš tikiu, kad tu esi Mesijas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_004",
+    "question": "Ką Jėzus pasakė minioms, stebėdamas šimtininko tikėjimą?",
+    "options": {
+      "a": "„Nė Izraelyje neradau tokio didelio tikėjimo“",
+      "b": "„Jūsų tikėjimas yra silpnas kaip vėjas“",
+      "c": "„Šimtininkas turi didelę kariuomenę“",
+      "d": "„Tikėkite, ir viskas bus jums duota“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_005",
+    "question": "Kur Jėzus susitiko su laidotuvių procesija, kai prikėlė numirėlį?",
+    "options": {
+      "a": "Prie miesto vartų",
+      "b": "Sinagogos aikštėje",
+      "c": "Dykumoje",
+      "d": "Prie ežero"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_006",
+    "question": "Ką Jėzus pasakė našlei, kuri verko dėl savo sūnaus?",
+    "options": {
+      "a": "„Neverk!“",
+      "b": "„Tavo sūnus bus su manimais danguje“",
+      "c": "„Jis mirė dėl savo nuodėmių“",
+      "d": "„Aš esu gyvybė ir prisikėlimas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_007",
+    "question": "Ką Jėzus padarė, kad prikeltų numirėlį?",
+    "options": {
+      "a": "Palietė neštuvus ir prabilo: „Jaunuoli, sakau tau: kelkis!“",
+      "b": "Pasikvietė 12 apačialapių ir maldos",
+      "c": "Pasakė: „Tėve, atleidk šiam jo nuodėmes“",
+      "d": "Paskambino trimitui"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_008",
+    "question": "Ką žmonės sakė, kai Jėzus prikėlė numirėlį?",
+    "options": {
+      "a": "„Didis pranašas atsirado tarp mūsų“",
+      "b": "„Jis turi demonų jėgą“",
+      "c": "„Tai tik atsitiktinė sutapatančia“",
+      "d": "„Mes turime ieškoti kito Mesijo“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_009",
+    "question": "Ką Jonas Krikštytojas nusiuntė savo mokinius klausyti Jėzaus?",
+    "options": {
+      "a": "„Ar tu esi tas, kuris turi ateiti, ar mums laukti kito?“",
+      "b": "„Kada ateis Dievo karalystė?“",
+      "c": "„Kodėl tu neatsiduodi krikštui?“",
+      "d": "„Ar tu esi karalius?“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_010",
+    "question": "Ką Jėzus atsakė Jono pasiuntiniams apie savo veiklą?",
+    "options": {
+      "a": "„Aklieji praregi, raišieji vaikščioja, kurtieji girdi, mirusieji prikeliami“",
+      "b": "„Aš esu kelias, tiesa ir gyvybė“",
+      "c": "„Jūsų tikėjimas yra per mažas“",
+      "d": "„Aš ateinu, kad paskutinis būtų pirmasis“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_011",
+    "question": "Ką Jėzus pasakė apie Joną Krikštytojį, kalbėdamas su minia?",
+    "options": {
+      "a": "„Tarp gimusių iš moteries nėra buvę didesnio už Joną“",
+      "b": "„Jonas yra mažesnis už manimais“",
+      "c": "„Jonas yra krikščionių pirmtakas“",
+      "d": "„Jonas turi būti išvytas iš šalies“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_012",
+    "question": "Ką Jėzus palygino savo kartos žmones?",
+    "options": {
+      "a": "Vaikais, kurie groja ir gieda, bet niekas neatsako",
+      "b": "Avių bandai be piemenio",
+      "c": "Medžiais, kurie nepriveda vaisių",
+      "d": "Vėjai, kurie pučia, bet nieko nepasieki"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_013",
+    "question": "Ką fariziejus Simonas samprotavo, kai nusidėjėlė liovė Jėzaus kojas?",
+    "options": {
+      "a": "„Jeigu šitas būtų pranašas, jis žinotų, kas tokia ši moteris“",
+      "b": "„Ši moteris turi būti išvesta iš miesto“",
+      "c": "„Jėzus turi būti apdovanotas už savo darbus“",
+      "d": "„Aš taip pat turiu atlaidą nuodėmėms“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_014",
+    "question": "Ką Jėzus pasakė Simonui apie skolininkus, kad iliustruotų atleidimą?",
+    "options": {
+      "a": "„Vienas skolingas 500 denarų, kitas – 50; kam daugiau atleista, tas labiau myli“",
+      "b": "„Skolos turi būti grąžintos iki paskutinio cento“",
+      "c": "„Skolintojas turi būti griežtas su skolininkais“",
+      "d": "„Nuodėmės turi būti atpirktos aukomis“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_015",
+    "question": "Ką Jėzus pasakė nusidėjėlei, kai atleidė jos nuodėmes?",
+    "options": {
+      "a": "„Tavo tikėjimas išgelbėjo tave. Eik rami!“",
+      "b": "„Dangus džiaugsis tavo atgaila“",
+      "c": "„Tu turi grįžti į savo namus ir melstis“",
+      "d": "„Nuodėmės atleidžiamos tik krikštui priėmus“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_016",
+    "question": "Ką sėdintieji prie stalo galvojo, kai Jėzus atleidė nusidėjėlei nuodėmes?",
+    "options": {
+      "a": "„Kas gi jis toks, kad net ir nuodėmes atleidžia?!“",
+      "b": "„Jis turi Dievo galios“",
+      "c": "„Mums taip pat reikia atleidimo“",
+      "d": "„Ši moteris turi būti išvesta iš miesto“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_7"
+  }
+]

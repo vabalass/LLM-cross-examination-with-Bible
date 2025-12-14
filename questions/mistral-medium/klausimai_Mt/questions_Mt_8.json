@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_8_001",
+    "question": "Ką Jėzus pasakė raupsuotajam, kai šis prašė būti išgydytas?",
+    "options": {
+      "a": "„Noriu, būk švarus!“",
+      "b": "„Tikėk ir bus tau padaryta!“",
+      "c": "„Eik pas kunigą, jis tave pagydys.“",
+      "d": "„Tavo tikėjimas tave išgelbėjo.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_002",
+    "question": "Ką Jėzus liepė raupsuotajam padaryti po išgydymo, pagal Mozės įsakymą?",
+    "options": {
+      "a": "Pasirodyti kunigui ir paaukokti atnašą",
+      "b": "Išeiti į dykumą ir maldauti",
+      "c": "Skelbti apie stebuklą visiems miestui",
+      "d": "Grįžti namo ir niekam nepasakoti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_003",
+    "question": "Kodėl šimtininkas sakė Jėzui, kad nereikia užeiti po jo stogu, kad pagydytų tarną?",
+    "options": {
+      "a": "Jis tikėjo, kad Jėzaus žodis pakaks pagydymui",
+      "b": "Jis bijojo, kad Jėzus užsikrės ligą",
+      "c": "Jis norėjo išbandyti Jėzaus galios",
+      "d": "Jis manė, kad tarnas jau be vilties"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_004",
+    "question": "Ką Jėzus pasakė apie šimtininko tikėjimą?",
+    "options": {
+      "a": "„Nieko tokio didelio tikėjimo Izraelyje neradau.“",
+      "b": "„Tavo tikėjimas yra silpnas, reikia daugiau maldauti.“",
+      "c": "„Tavo tikėjimas tave išgelbės, bet ne tarną.“",
+      "d": "„Tikėk dar stipresniau, ir stebuklai vyks.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_005",
+    "question": "Ką Jėzus padarė, kai atėjo į Petro namus ir pamatė ligonę uošvę?",
+    "options": {
+      "a": "Palietė jos ranką, ir karštis paliovė",
+      "b": "Pasakė: „Tikėk, ir bus tau padaryta!“",
+      "c": "Įsakė jai gulti dar dieną",
+      "d": "Pasakė: „Tavo nuodėmės atleistos.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_006",
+    "question": "Ką Jėzus atsakė Rašto aiškintojui, kuris norėjo sekti už Jėzaus?",
+    "options": {
+      "a": "„Lapės turi urvus, padangių sparnuočiai – lizdus, o Žmogaus Sūnus neturi kur galvos priglausti.“",
+      "b": "„Sek paskui mane, ir bus tau duota amžinybė.“",
+      "c": "„Pirmiau parduok savo turtą ir duok neturtingiems.“",
+      "d": "„Tavo širdis nėra teisinga, todėl negali sekti.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_007",
+    "question": "Ką Jėzus atsakė mokiniui, kuris prašė pirmiau palaidoti tėvą?",
+    "options": {
+      "a": "„Sek paskui mane ir palik mirusiems laidoti savo numirėlius.“",
+      "b": "„Eik ir palaidojimo metu skelbk Dievo žodį.“",
+      "c": "„Tavo tėvas jau miręs, todėl tau reikia grįžti namo.“",
+      "d": "„Jei tikrai norai sekti, tai dabar palik viską.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_008",
+    "question": "Ką Jėzus padarė, kai mokiniai jį žadino per audrą ežere?",
+    "options": {
+      "a": "Atsikėlė, sudraudė vėjus bei ežerą, ir pasidarė ramu",
+      "b": "Pasakė: „Jūsų tikėjimas silpnas, todėl bijote.“",
+      "c": "Įsakė mokiniams šokti iš valties",
+      "d": "Pasakė: „Ši audra yra Dievo bausmė už jūsų nuodėmes.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_009",
+    "question": "Ką prašė demonai, kai Jėzus juos išvarė iš apsėstųjų gadariečių krašte?",
+    "options": {
+      "a": "„Jeigu mus išvarysi, tai siųsk kiaulių kaimenėn.“",
+      "b": "„Leisk mums likti dar vieną dieną šiame žmoguje.“",
+      "c": "„Neišvaryk mus, mes busime tau pavaldūs.“",
+      "d": "„Leisk mums įeiti į kitus žmones.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_010",
+    "question": "Ką padarė kiaulės, kai demonai įsikūrė jose?",
+    "options": {
+      "a": "Metėsi nuo skardžio į ežerą ir gavo galą vilnyse",
+      "b": "Pabėgo į miestą ir pradėjo šaukti",
+      "c": "Gulėjo ant žemės ir nieko nedarė",
+      "d": "Grįžo atgal į kiaulidę ir guldėsi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_011",
+    "question": "Ką prašė gadariečių miestiečiai, kai pamatė Jėzų po įvykio su apsėstaisiais?",
+    "options": {
+      "a": "Prašė pasišalinti iš jų krašto",
+      "b": "Prašė išgydyti visus jų ligonius",
+      "c": "Prašė mokyti juos apie Dievo karalystę",
+      "d": "Prašė atleisti jų nuodėmes"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_8"
+  }
+]

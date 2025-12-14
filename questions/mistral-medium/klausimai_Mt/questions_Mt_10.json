@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Mt_10_001",
+    "question": "Ką Jėzus suteikė dvylikai mokinių, pasišaukęs juos? (Mt 10,1)",
+    "options": {
+      "a": "Valdžią netyrosioms dvasioms išvarinėti ir gydyti ligas bei negales",
+      "b": "Gausų turto ir materialinių dovanų",
+      "c": "Galios valdyti žmones ir teisti juos",
+      "d": "Žodžio supratimo ir kalbėjimo savaime visomis kalbomis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_002",
+    "question": "Kas iš šių **nėra** vienas iš dvylikos apaštalų, paminėtų Mt 10,2-4?",
+    "options": {
+      "a": "Baltramiejus",
+      "b": "Pilypas",
+      "c": "Lukas",
+      "d": "Tadas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_003",
+    "question": "Kur Jėzus **draudė** apaštalams eiti skelbti Evangeliją? (Mt 10,5)",
+    "options": {
+      "a": "Į Jeruzalę ir šventyklą",
+      "b": "Pas pagonis ir į samariečių miestus",
+      "c": "Į Romos imperijos sostinę",
+      "d": "Į dykumą, kur gyveno anachoretai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_004",
+    "question": "Ką Jėzus liepė apaštalams neįsigyti keliaujant? (Mt 10,9-10)",
+    "options": {
+      "a": "Maisto ir vandens",
+      "b": "Aukso, sidabro, variokų, kelionmaišio, dvejų marškinių, kurpių ir lazdos",
+      "c": "Aukų Dievui ir degintinių",
+      "d": "Raštų ir knygų su Šventuoju Raštu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_005",
+    "question": "Ką reikėjo padaryti, jei namai, į kuriuos įeita, **nebus verti** pasveikinimo? (Mt 10,13)",
+    "options": {
+      "a": "Juos pasmerkti ir palikti prakeiksmo žodžius",
+      "b": "Nusikratyti dulkes nuo kojų, išėję iš namų",
+      "c": "Grįžti atgal ir bandyti dar kartą",
+      "d": "Jų nebeįžvelgti ir eiti toliau tyliai"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_006",
+    "question": "Ką Jėzus sakė apie miestą, kuris nepriimtų apaštalų ir jų žodžių? (Mt 10,15)",
+    "options": {
+      "a": "Jis bus sugriautas ir sudegtas",
+      "b": "Sodomos ir Gomoros žemei bus lengviau teismo dieną negu tokiam miestui",
+      "c": "Apaštalai turės ten grįžti ir bandyti dar septynis kartus",
+      "d": "Ten bus pasiųsti angeliškieji bausmės vykdytojai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_007",
+    "question": "Kokiu palyginimu Jėzus apibūdino, kaip turi būti apaštalai? (Mt 10,16)",
+    "options": {
+      "a": "Stiprūs kaip liūtai ir ištvermingi kaip uolys",
+      "b": "Gudrūs kaip žalčiai ir neklastingi kaip balandžiai",
+      "c": "Greiti kaip elniai ir drąsūs kaip liūtai",
+      "d": "Ramūs kaip karvės ir klusni kaip avys"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_008",
+    "question": "Ką Jėzus pažadėjo apaštalams, kai jie bus vedžiojami pas valdovus ir karalius? (Mt 10,19-20)",
+    "options": {
+      "a": "Jie gaus ginklus ir kariuomenę, kuri juos apsaugos",
+      "b": "Jie turės kalbėti tik lotynų kalba",
+      "c": "Tą valandą jiems bus duota, ką turi sakyti, ir kalbės Tėvo Dvasia",
+      "d": "Jie bus išlaisvinti per tris dienas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_009",
+    "question": "Ką Jėzus sakė apie šeimos santykius dėl Jo vardo? (Mt 10,21)",
+    "options": {
+      "a": "Šeimos taps tvirtesnės ir meilės pilnesnės",
+      "b": "Brolis išduos mirti brolį, tėvas – sūnų, vaikai sukils prieš tėvus",
+      "c": "Visos šeimos priims krikštą ir taps vieningesnės",
+      "d": "Tėvai bus garbinami kaip karaliai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_010",
+    "question": "Ką Jėzus sakė apie plaukų skaičių žmonių galvose? (Mt 10,30)",
+    "options": {
+      "a": "Jie yra be galo, todėl negalima juos suskaičiuoti",
+      "b": "Visų žmonių plaukai yra vienodos spalvos",
+      "c": "Net visi galvos plaukai suskaityti (t. y., Dievas juos žino)",
+      "d": "Plaukai yra nereikšmingi Dievo akims"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_011",
+    "question": "Ką Jėzus pažadėjo tam, kas išpažins Jį žmonių akivaizdoje? (Mt 10,32)",
+    "options": {
+      "a": "Jis duos jam materialinį turtingumą",
+      "b": "Jis jį išpažins savo dangiškojo Tėvo akivaizdoje",
+      "c": "Jis padarys jį karaliumi",
+      "d": "Jis suteiks jam nemirtingumą žemėje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_012",
+    "question": "Ką Jėzus sakė apie tai, ką jis **ne**atėjo nešti žemei? (Mt 10,34)",
+    "options": {
+      "a": "Teisingumo",
+      "b": "Meilės",
+      "c": "Ramybės",
+      "d": "Vilties"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_013",
+    "question": "Ką Jėzus sakė apie tą, kas myli tėvą, motiną, sūnų ar dukterį **labiau negu Jėų**? (Mt 10,37)",
+    "options": {
+      "a": "Jis bus apdovanotas dvigubai",
+      "b": "Jis taps šventuoju",
+      "c": "Jis nevertas Jėaus",
+      "d": "Jis bus atleistas nuo nuodėmių"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_014",
+    "question": "Ką Jėzus sakė apie tą, kas praranda savo gyvybę **dėl Jo**? (Mt 10,39)",
+    "options": {
+      "a": "Jis taps nemirtingas",
+      "b": "Jis atras savo gyvybę",
+      "c": "Jis bus užmirštas visam laikui",
+      "d": "Jis taps angelu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_10"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mt_25_001",
+    "question": "Kiek mergaičių buvo pačios protingiausių palyginime apie dešimt mergaičių?",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "7",
+      "d": "10"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_002",
+    "question": "Ką paikosios mergaitės nepasiėmė kartu su žibintais?",
+    "options": {
+      "a": "indus",
+      "b": "alyvos",
+      "c": "žvakių",
+      "d": "vestuvių drabužius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_003",
+    "question": "Kada pasigirdo balsai apie jaunikiui artėjant?",
+    "options": {
+      "a": "ryte",
+      "b": "vidurdienį",
+      "c": "vidurnaktį",
+      "d": "prieš pat saulėlydį"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_004",
+    "question": "Ką protingosios mergaitės pasiūlė paikiosioms, kai šios prašė alyvos?",
+    "options": {
+      "a": "dalintis savo alyva",
+      "b": "eiti pas prekiautojus pirkti",
+      "c": "uždegti žibintus be alyvos",
+      "d": "palaukti, kol jaunikis atvyks"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_005",
+    "question": "Ką jaunikis atsakė vėlavusioms mergaitėms, kai jos prašė atidaryti duris?",
+    "options": {
+      "a": "„Eikite į vestuves!“",
+      "b": "„Aš jūsų nepažįstu!“",
+      "c": "„Laukite, kol atvyks kiti“",
+      "d": "„Jūsų žibintai gėso“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_006",
+    "question": "Kiek talentų šeimininkas davė tarnui, kuris buvo mažiausias pagal gabumus?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "5"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_007",
+    "question": "Ką padarė tarnas, gavęs vieną talentą?",
+    "options": {
+      "a": "nupirko auksą",
+      "b": "paslėpė žemėje",
+      "c": "paskolino draugui",
+      "d": "nusipirko namą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_008",
+    "question": "Ką šeimininkas liepė padaryti su vieno talento tarno talentu?",
+    "options": {
+      "a": "atiduoti bažnyčiai",
+      "b": "padalinti tarp kitų tarnų",
+      "c": "atiduoti tam, kuris turi dešimt talentų",
+      "d": "sunaikinti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_009",
+    "question": "Kur šeimininkas pasiuntė netinkamą tarną, kuris nepasinaudojo talentu?",
+    "options": {
+      "a": "į kalėjimą",
+      "b": "į tamsybes",
+      "c": "į dykumą",
+      "d": "į svetimą šalį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_010",
+    "question": "Ką Žmogaus Sūnus padarys, kai ateis savo šlovėje?",
+    "options": {
+      "a": "paskelbs naują įstatymą",
+      "b": "perskirs žmones kaip avis ir ožius",
+      "c": "paskirs naujus karalius",
+      "d": "sugriaus senąjį pasaulį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_011",
+    "question": "Ką teisieji klausė Žmogaus Sūnaus, kai jis pasakė, kad jie padarė jam gerą?",
+    "options": {
+      "a": "„Kada mes tave matėme?“",
+      "b": "„Kur tu buvai?“",
+      "c": "„Ką mes dar turime daryti?“",
+      "d": "„Kodėl mes nebuvome pasirengę?“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_012",
+    "question": "Ką Žmogaus Sūnus atsakė teisiesiems apie tai, kada jie padarė jam gerą?",
+    "options": {
+      "a": "„Jūs padarete tai sau“",
+      "b": "„Jūs padarėte tai vienam iš mažiausiųjų mano brolių“",
+      "c": "„Jūs padarėte tai man patiems“",
+      "d": "„Jūs nieko nedarėte“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_013",
+    "question": "Kur Žmogaus Sūnus pasiuntė prakeiktuosius?",
+    "options": {
+      "a": "į amžinąjį gyvenimą",
+      "b": "į amžinąją ugnį",
+      "c": "į dykumą",
+      "d": "į kitą pasaulį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_014",
+    "question": "Ką prakeiktieji klausė Žmogaus Sūnaus, kai jis juos nuteisė?",
+    "options": {
+      "a": "„Kada mes tave matėme?“",
+      "b": "„Kodėl mes turime būti nuteisti?“",
+      "c": "„Ką mes dar turime daryti?“",
+      "d": "„Kur tu buvai, kai mes tau reikėjo?“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_015",
+    "question": "Ką Žmogaus Sūnus pasakė apie tai, ką prakeiktieji *nepadarė* vienam iš mažiausiųjų?",
+    "options": {
+      "a": "„Jūs nepadarėte man“",
+      "b": "„Jūs nepadarėte sau“",
+      "c": "„Jūs nepadarėte savo šeimai“",
+      "d": "„Jūs nepadarėte savo draugams“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_25"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Mk_5_001",
+    "question": "Kur Jėzus išsilaipino, kai priplaukė ežero krantą, pasitaikius demonų apsėstam vyrui?",
+    "options": {
+      "a": "Galilėjos krašte",
+      "b": "Geraziečių krašte",
+      "c": "Judejos dykumoje",
+      "d": "Jeruzalės apylinkėse"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_002",
+    "question": "Kur gyveno demonų apsėstas vyras, kurį Jėzus sutiko?",
+    "options": {
+      "a": "Miško urvuose",
+      "b": "Kapinių rūsiuose",
+      "c": "Sinagogos kiemelyje",
+      "d": "Ežero pakrantės smėlyje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_003",
+    "question": "Ką darė demonų apsėstas vyras, kai niekas negalėjo jo suvaldyti?",
+    "options": {
+      "a": "Giedodavo dieviškus himnus",
+      "b": "Bastydavosi po kapines ir daužė save akmenimis",
+      "c": "Mokė kaimo vaikus rašyti",
+      "d": "Statė namus iš akmenų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_004",
+    "question": "Ką demonų apsėstas vyras šaukė, kai pamatė Jėzų?",
+    "options": {
+      "a": "„Aš esu tavo tarnas, Viešpatie!“",
+      "b": "„Ko tau iš manęs reikia, Jėzau, aukščiausiojo Dievo Sūnau?“",
+      "c": "„Duok man laiko, kad aš pasitaisytų!“",
+      "d": "„Aš noriu tapti tavo mokinys!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_005",
+    "question": "Kuo demonai atsakė, kai Jėzus paklausė jų vardų?",
+    "options": {
+      "a": "„Mes esame angelių kariuomenė“",
+      "b": "„Mūsų vardas – Legionas, nes mūsų daug“",
+      "c": "„Mes esame bevardžiai dvasios“",
+      "d": "„Mes esame tik viena dvasia“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_006",
+    "question": "Ką demonai paprašė Jėzaus, kai šis norėjo juos išvaryti iš krašto?",
+    "options": {
+      "a": "Leisti jiems įeiti į žmones",
+      "b": "Leisti jiems pasilikti dar vieną dieną",
+      "c": "Pasiųsti juos į kiaules, ganėjas atkalnėje",
+      "d": "Duoti jiems galimybę pasikąsti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_007",
+    "question": "Ką nutiko su kiaulėmis, kai į jas įsikibę demonai?",
+    "options": {
+      "a": "Jos pradėjo šokti ir džiaugtis",
+      "b": "Jos apniko ir ūmai metėsi nuo skardžio į ežerą",
+      "c": "Jos pradėjo kalbėti žmonių kalba",
+      "d": "Jos iškart pabėgo į mišką"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_008",
+    "question": "Ką žmonės prašė Jėzaus, kai pamatė, kas nutiko su demonų apsėstuoju ir kiaulėmis?",
+    "options": {
+      "a": "Pasilikti ir mokyti juos",
+      "b": "Išeiti iš jų krašto",
+      "c": "Pagydyti visus jų ligonius",
+      "d": "Padaryti stebuklų dar kartą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_009",
+    "question": "Ką Jėzus liepė buvusiam demonų apsėstajam, kai šis norėjo pasilikti su Jėzumi?",
+    "options": {
+      "a": "„Eik ir mokyk kitus stebuklus“",
+      "b": "„Eik namo pas saviškius ir papasakok, kokių nuostabių dalykų Viešpats tau padarė“",
+      "c": "„Lauk manęs čia, kol aš sugrįšiu“",
+      "d": "„Eik ir paskelbk apie mane visame pasaulyje“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_010",
+    "question": "Ką darė moteris, kuri sergė kraujoplūdžiu, kai pamatė Jėzų?",
+    "options": {
+      "a": "Jis šaukė ir prašė pagalbos",
+      "b": "Ji prisilietė prie Jėzaus apsiausto iš užpakalio",
+      "c": "Ji pasidavė ant kelių ir pradėjo verkti",
+      "d": "Ji atnešė Jėzui dovanas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_011",
+    "question": "Ką Jėzus pasakė moteriai, kuri buvo išgijusi nuo kraujoplūdžio?",
+    "options": {
+      "a": "„Tavo tikėjimas išgelbėjo tave, eik rami“",
+      "b": "„Tu esi didingiausia iš visų moterų“",
+      "c": "„Dėkinga Dievui, kad esi sveika“",
+      "d": "„Eik ir pasakok visiems apie mane“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_012",
+    "question": "Ką Jėzus pasakė sinagogos vyresniajam Jajirai, kai šis sužinojo, kad jo duktė numirė?",
+    "options": {
+      "a": "„Nenusigąsk, vien tikėk!“",
+      "b": "„Aš galiu ją prikelti, bet reikia laiko“",
+      "c": "„Tavo duktė jau yra danguje“",
+      "d": "„Tu turi tikėti stipresnėmis maldomis“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_013",
+    "question": "Ką Jėzus sakė, kai įėjo į namus, kur gulėjo mirusi mergaitė?",
+    "options": {
+      "a": "„Vaikas nėra miręs, o miega“",
+      "b": "„Ši mergaitė bus aukojama Dievui“",
+      "c": "„Jūs turite pasiduoti likimui“",
+      "d": "„Aš čia esu, kad prikeltų ją iš mirusiųjų“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_014",
+    "question": "Ką Jėzus pasakė mergaičiai, kai ją prikėlė?",
+    "options": {
+      "a": "„Talitá kum“ (Mergaite, sakau tau, kelkis!)",
+      "b": "„Tu esi mano mylimiausia“",
+      "c": "„Eik ir pasakok visiems, kad aš esu Dievo Sūnus“",
+      "d": "„Dabar tu turi gyventi šventai“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_5"
+  }
+]

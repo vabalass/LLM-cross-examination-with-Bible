@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Mk_12_001",
+    "question": "Ką vynuogyno savininkas padarė, kai vynininkai nužudė jo sūnų?",
+    "options": {
+      "a": "Išžudė vynininkus ir atidavė vynuogyną kitiems.",
+      "b": "Pardavė vynuogyną ir išvyko į kitą šalį.",
+      "c": "Pasilikė gyventi kartu su vynininkais.",
+      "d": "Atleido vynininkams jų nusikaltimus."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_002",
+    "question": "Ką Jėzus atsakė fariziejams ir erodininkams apie mokestį ciesoriui?",
+    "options": {
+      "a": "„Nemokėkite ciesoriui, nes tai yra neteisybė.“",
+      "b": "„Kas ciesoriaus, atiduokite ciesoriui, o kas Dievo – Dievui.“",
+      "c": "„Mokėkite tik Dievui, nes cezaris neturi jokių teisių.“",
+      "d": "„Mokėkite tik pusę mokesčio, nes tai yra kompromisas.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_003",
+    "question": "Ką sadukiejai klausė Jėzaus, norėdami išbandyti jo išmintį?",
+    "options": {
+      "a": "Kurio iš septynių brolių žmona bus moteris, kai mirusieji prisikels?",
+      "b": "Kodėl Mozė įsakė aukotis gyvulius?",
+      "c": "Kiek kartų reikia maldautis per dieną?",
+      "d": "Kodėl Dievas leidžia ligas ir kančias?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_004",
+    "question": "Ką Jėzus atsakė sadukiejams apie mirusiųjų prisikėlimą?",
+    "options": {
+      "a": "„Jie vesis ir tekės, kaip ir šiame pasaulyje.“",
+      "b": "„Jie bus kaip angelai danguje ir nei vesis, nei tekės.“",
+      "c": "„Jie prisikels tik po tūkstantmečių.“",
+      "d": "„Mirusiųjų prisikėlimas yra tik simbolis, o ne realybė.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_005",
+    "question": "Ką Jėzus pasakė apie Dievą, remdamasis Mozės knyga (kad „Jis yra Abraomo, Izaoko ir Jokūbo Dievas“)?",
+    "options": {
+      "a": "„Jis yra mirusiųjų Dievas, bet jie vėl gyvens.“",
+      "b": "„Jis yra gyvųjų Dievas, nes mirusieji jam gyvi.“",
+      "c": "„Jis yra tik ateities Dievas, o ne dabarties.“",
+      "d": "„Jis yra tik senovės Dievas, o ne dabarties.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_006",
+    "question": "Koks yra didžiausias įsakymas, pagal Jėzaus atsakymą Rašto aiškintojui?",
+    "options": {
+      "a": "„Mylėk savo Dievą visa širdimi, visa siela, visu protu ir visomis jėgomis.“",
+      "b": "„Nebūk svetingas ir nedaryk kitų dievų.“",
+      "c": "„Laikykis šabatų ir švenk jį.“",
+      "d": "„Mokyk savo vaikus Dievo keliu.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_007",
+    "question": "Ką Jėzus pasakė apie antrąjį didžiausią įsakymą?",
+    "options": {
+      "a": "„Mylėk savo tėvus virš visko.“",
+      "b": "„Mylėk savo artimą kaip save patį.“",
+      "c": "„Gerok savo priešus.“",
+      "d": "„Nesakyk melo.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_008",
+    "question": "Ką Jėzus pasakė apie Mesiją, remdamasis Dovydo žodžiais?",
+    "options": {
+      "a": "„Mesijas yra tik Dovydo sūnus, o ne Dievo Sūnus.“",
+      "b": "„Mesijas yra Dovydo Viešpats, o ne tik sūnus.“",
+      "c": "„Mesijas bus tik ateityje, o ne dabartyje.“",
+      "d": "„Mesijas yra tik simbolis, o ne reali asmenybė.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_009",
+    "question": "Ką Jėzus įspėjo apie Rašto aiškintojus?",
+    "options": {
+      "a": "„Jie yra puikūs mokytojai ir pavyzdys visiems.“",
+      "b": "„Jie mėgsta garbę, suryja našlių namus ir bus griežtai nubausti.“",
+      "c": "„Jie yra Dievo pasiuntiniai ir turi būti garbinami.“",
+      "d": "„Jie turi būti paklūstami be klausimų.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_010",
+    "question": "Ką Jėzus pasakė apie našlę, kuri įmetė du pinigėlius į aukų skrynią?",
+    "options": {
+      "a": "„Ji aukojo per mažai, todėl tai neturi vertės.“",
+      "b": "„Ji aukojo daugiau nei visi kiti, nes davė viską, ką turėjo.“",
+      "c": "„Ji turėjo aukotis tik šventykloje, o ne viešumoje.“",
+      "d": "„Ji turėjo palikti sau pinigus, nes Dievas nenori, kad žmonės liktų be turto.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_011",
+    "question": "Ką Jėzus pasakė apie denarą, kai fariziejai ir erodininkai klausė apie mokesčius?",
+    "options": {
+      "a": "„Šis denaras yra netinkamas mokėti mokesčių.“",
+      "b": "„Kieno čia atvaizdas ir įrašas?“",
+      "c": "„Šis pinigas turi būti panaudotas tik Dievui.“",
+      "d": "„Mokesčiai yra neteisėti, todėl juos nemokėkite.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_012",
+    "question": "Ką Jėzus pasakė apie akmenį, kurį statytojai atmetė?",
+    "options": {
+      "a": "„Jis bus sunaikintas ir užmirštas.“",
+      "b": "„Jis tapo kertiniu akmeniu, ir tai yra Viešpaties padaryta.“",
+      "c": "„Jis bus panaudotas tik statybose, bet ne kaip pagrindas.“",
+      "d": "„Jis simbolizuoja žmonių nepasitikėjimą Dievu.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_013",
+    "question": "Kodėl Rašto aiškintojai ir fariziejai bijojo suimti Jėzų po palyginimo apie vynuogyną?",
+    "options": {
+      "a": "„Jie bijojo, kad Jėzus pabėgs į kitą šalį.“",
+      "b": "„Jie bijojo minios, nes žmonės suprato, kad palyginimas buvo jiems taikomas.“",
+      "c": "„Jie nebuvo įsitikinę, kad Jėzus yra kaltas.“",
+      "d": "„Jie laukė, kol Jėzus pats pasiduos.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_014",
+    "question": "Ką Jėzus pasakė Rašto aiškintojui, kuris teisingai atsakė apie didžiausią įsakymą?",
+    "options": {
+      "a": "„Tu esi tolimas nuo Dievo karalystės.“",
+      "b": "„Tu netoli nuo Dievo karalystės.“",
+      "c": "„Tu esi Dievo karalystėje.“",
+      "d": "„Tu turi dar daug mokytis, kol suprasi Dievo kelio.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_12"
+  }
+]

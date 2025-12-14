@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_6_001",
+    "question": "Ką Jėzus pataria daryti, dalijant išmaldą, kad ji liktų slaptoje?",
+    "options": {
+      "a": "Trimituoti sinagogose ir gatvėse, kad būtų žmonių giriami",
+      "b": "Leisti, kad kairė ranka nežinotų, ką daro dešinė",
+      "c": "Pasakyti visiems, kiek duodama, kad būtų žinoma visai bendruomenei",
+      "d": "Dalinti išmaldą tik šeimos nariams, o ne svetimams"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_002",
+    "question": "Kur Jėzus pataria melstis, kad būtų išgirstas?",
+    "options": {
+      "a": "Sinagogose ir aikštėse, kad būtų matomi visiems",
+      "b": "Kambaryje, užsirakinus, savo Tėvui slaptoje",
+      "c": "Kalnuose, kad būtų artimesni dangui",
+      "d": "Viešose vietose, su kitais tikintaisiais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_003",
+    "question": "Ką Jėzus sakė apie daugiažodį meldimąsi, kaip pagonys?",
+    "options": {
+      "a": "Kad Dievas labiau klauso, kai daug melstasi",
+      "b": "Kad Dievas jau žino, ko reikia, dar neprašius",
+      "c": "Kad reikia kartoti tas pačias maldas, kol bus išklausyti",
+      "d": "Kad reikia melstis tik vieną kartą per dieną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_004",
+    "question": "Ką reiškia frazė „Tėve mūsų, kuris esi danguje, teesie šventas tavo vardas“?",
+    "options": {
+      "a": "Dievo vardas turi būti paslaptis",
+      "b": "Dievo vardas turi būti garbinamas ir šventinamas",
+      "c": "Dievo vardas turi būti užmirštas",
+      "d": "Dievo vardas turi būti rašomas tik šventose knygose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_005",
+    "question": "Ką Jėzus pataria daryti su savo veidu, pasninkaujant?",
+    "options": {
+      "a": "Perkreipti veidą, kad žmonės matytų pasninkavimą",
+      "b": "Nusiprausti veidą ir pasitepti galvą aliejumi",
+      "c": "Dėvėti juodus drabužius, kad būtų aiškiai matoma",
+      "d": "Pasninkauti tik šventadieniais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_006",
+    "question": "Kur Jėzus pataria krauti savo lobį ir kodėl?",
+    "options": {
+      "a": "Žemėje, nes ten jis saugesnis",
+      "b": "Danguje, nes ten jis nepasiekiamas vagims ir niekšojimui",
+      "c": "Bankuose, nes ten jis pelningiausias",
+      "d": "Pas draugus, nes jie padės saugoti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_007",
+    "question": "Ką Jėzus sakė apie akį kaip kūno žiburį?",
+    "options": {
+      "a": "Jei akis sveika, visam kūnui bus šviesu; jei nesveika – skends tamsoje",
+      "b": "Akių spalva lemia žmogaus charakterį",
+      "c": "Akių regėjimas priklauso nuo Dievo valios",
+      "d": "Akių sveikata priklauso nuo maisto, kurį valgyti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_008",
+    "question": "Ką Jėzus sakė apie tarnaujant dviem šeimininkams (Dievui ir Mamonai)?",
+    "options": {
+      "a": "Galima tarnauti abiem, jei stengiatės",
+      "b": "Negalima tarnauti abiem, nes vienas bus mylimas, o kitas nekenčiamas",
+      "c": "Tarnauti Mamonai yra svarbiau, nes ji garantuoja turtingumą",
+      "d": "Dievas leidžia tarnauti Mamonai, jei tai daroma geram tikslui"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_009",
+    "question": "Ką Jėzus pataria daryti, norint, kad Dievas užtikrintų maistą ir drabužius?",
+    "options": {
+      "a": "Dirbti naktį ir dieną, kad užsidirbti pinigų",
+      "b": "Pirmiausia ieškoti Dievo karalystės ir jo teisumo",
+      "c": "Kaupti atsargas, kad būtų kuo maitintis",
+      "d": "Meldžiotis kas valandą, prašant Dievo pagalbos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_010",
+    "question": "Ką Jėzus sakė apie lauko lelijas, norėdamas pamokyti apie pasitikėjimą Dievu?",
+    "options": {
+      "a": "Lelijos turi būti auginamos, kad būtų gražios",
+      "b": "Nė Saliamonas nebuvo taip puošnus kaip lauko lelijos, kurias Dievas aprengia",
+      "c": "Lelijos turi būti pjaunamos ir parduodamos, kad užsidirbti pinigų",
+      "d": "Lelijos yra svetingos ir negali būti naudojamos puošyboje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_011",
+    "question": "Ką Jėzus pataria apie rūpesčius dėl rytojaus?",
+    "options": {
+      "a": "Reikia planuoti viską iš anksto, kad būtų saugu",
+      "b": "Kiekvienai dienai gana savo vargo; nesirūpinkite rytdiena",
+      "c": "Reikia kaupti pinigus, kad būtų kuo gyventi rytoj",
+      "d": "Rytojaus rūpesčius reikia dalinti su kaimynais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_6"
+  }
+]

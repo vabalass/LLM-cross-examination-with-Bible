@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Lk_2_001",
+    "question": "Kas buvo ciesoriaus Augusto įsakymo tikslas, pagal Lk 2:1?",
+    "options": {
+      "a": "Surinkti mokesčius iš gyventojų",
+      "b": "Surašyti visus valstybės gyventojus",
+      "c": "Paskelbti naują karalių",
+      "d": "Statyti naują šventyklą Jeruzalėje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_002",
+    "question": "Kur Juozapas ir Marija keliavo užsirašyti, pagal Lk 2:4?",
+    "options": {
+      "a": "Į Galilėjos miestą Kafarnaumą",
+      "b": "Į Judėjos miestą Betliejų",
+      "c": "Į Samarijos miestą Sichemą",
+      "d": "Į Dovydo miestą Jeruzalę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_003",
+    "question": "Kur Marija paguldė naujagimį Jėzų, nes nebuvo vietos užeigoje (Lk 2:7)?",
+    "options": {
+      "a": "Ant šieno krūvos",
+      "b": "Ėdžiose",
+      "c": "Ant akmens",
+      "d": "Mokytojo rankose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_004",
+    "question": "Kas pasirodė piemenims, kai jie nakvojo laukuose (Lk 2:9)?",
+    "options": {
+      "a": "Šviesulys iš dangaus",
+      "b": "Viešpaties angelas, apsuptas šviesos",
+      "c": "Mozė ir Ilija",
+      "d": "Dangaus kareivijos vadas Mykolas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_005",
+    "question": "Ką angelas paskelbė piemenims kaip „didį džiaugsmą visai tautai“ (Lk 2:10-11)?",
+    "options": {
+      "a": "Naują karalių Herodą",
+      "b": "Mesiją, Išganytoją, gimusią Dovydo mieste",
+      "c": "Naują šventyklą, kuri bus pastatyta",
+      "d": "Gausią derlių ir klestėjimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_006",
+    "question": "Ką piemenys rado Betliejuje, kai atėjo ten pagal angelo žinutę (Lk 2:16)?",
+    "options": {
+      "a": "Tuščią ėdžią su vystyklais",
+      "b": "Mariją, Juozapą ir kūdikį, paguldytą ėdžiose",
+      "c": "Aukso, smilkalų ir mirros dovanas",
+      "d": "Naują karalių Herodą su jo kariuomene"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_007",
+    "question": "Ką Marija darė su visais įvykiais, kuriuos girdėjo apie Jėzų (Lk 2:19)?",
+    "options": {
+      "a": "Juos užrašinėjo į knygą",
+      "b": "Pasakojo visiems kaimynams",
+      "c": "Dėmėjosi ir svarstė juos savo širdyje",
+      "d": "Juos pamiršo po kelių dienų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_008",
+    "question": "Ką padarė piemenys, kai pamatė Jėzų ir girdėjo, ką angelas pasakė (Lk 2:20)?",
+    "options": {
+      "a": "Jie išsigando ir pabėgo",
+      "b": "Jie grįžo atgal, garbindami ir šlovindami Dievą",
+      "c": "Jie pasiliko gyventi Betliejuje",
+      "d": "Jie pradėjo statyti naują šventyklą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_009",
+    "question": "Koks vardas buvo suteiktas kūdikiui po aštuonių dienų, pagal angelo nurodymą (Lk 2:21)?",
+    "options": {
+      "a": "Juozapas",
+      "b": "Jonas",
+      "c": "Jėzus",
+      "d": "Dovydas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_010",
+    "question": "Ką Juozapas ir Marija nunešė į Jeruzalę paaukoti Viešpačiui (Lk 2:22-24)?",
+    "options": {
+      "a": "Aukso, smilkalus ir mirrą",
+      "b": "Porą purplelių arba du balandžiukus",
+      "c": "Vieną aviną ir du karves",
+      "d": "Vyną ir duoną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_011",
+    "question": "Kas buvo pažadėta Simeonui, kol jis nemirs (Lk 2:26)?",
+    "options": {
+      "a": "Jis pamatys naują šventyklą",
+      "b": "Jis pamatys Viešpaties Mesiją",
+      "c": "Jis taps Izraelio karaliumi",
+      "d": "Jis gaus gausią turtą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_012",
+    "question": "Ką Simeonas sakė, kai paėmė Jėzų į rankas (Lk 2:29-32)?",
+    "options": {
+      "a": "„Šis vaikas taps didžiu karaliumi“",
+      "b": "„Dabar gali leisti savo tarnui ramiai iškeliauti, nes mano akys išvydo Tavo išgelbėjimą“",
+      "c": "„Šis vaikas bus nukryžiuotas“",
+      "d": "„Šis vaikas atstatys Izraelio karalystę“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_013",
+    "question": "Ką Simeonas pranašavo Marijai apie Jėzų (Lk 2:34-35)?",
+    "options": {
+      "a": "Jis taps turtingu ir garsiu",
+      "b": "Jis bus prieštaravimo ženklas, ir Marijos sielą pervers kalavijas",
+      "c": "Jis gyvens ilgiau nei visi kitų karalių vaikai",
+      "d": "Jis niekada nepatirs skausmo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_014",
+    "question": "Kas buvo pranašė Ona, aprašyta Lk 2:36-38?",
+    "options": {
+      "a": "Ji buvo jauna mergina, gyvenusi tik 12 metų",
+      "b": "Ji buvo Fanuelio duktė, sulaukusi 84 metų, visą laiką tarnaudama Dievui šventykloje",
+      "c": "Ji buvo karalienė, atvykusi iš tolimos šalies",
+      "d": "Ji buvo Juozapo sesuo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_015",
+    "question": "Ką Ona darė, kai pamatė kūdikį Jėzų (Lk 2:38)?",
+    "options": {
+      "a": "Ji pradėjo verkti ir raudoti",
+      "b": "Ji šlovino Dievą ir kalbėjo apie kūdikį visiems, kurie laukė Jeruzalės išvadavimo",
+      "c": "Ji paslėpė kūdikį nuo Herodo karių",
+      "d": "Ji pasiūlė Marijai ir Juozapui pinigų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_016",
+    "question": "Kur Jėzus buvo rastas po trijų dienų, kai jo ieškojo gimdytojai (Lk 2:46)?",
+    "options": {
+      "a": "Jis žaidė su vaikais mieste",
+      "b": "Jis sėdėjo šventykloje tarp mokytojų, besiklausantis ir juos beklausinantis",
+      "c": "Jis buvo grįžęs į Nazaretą vienas",
+      "d": "Jis buvo pas Herodo rūmus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_017",
+    "question": "Ką Jėzus atsakė Marijai ir Juozapui, kai jie jį radę šventykloje (Lk 2:49)?",
+    "options": {
+      "a": "„Aš čia esu, nes čia saugus“",
+      "b": "„Kam gi manęs ieškojote? Argi nežinojote, kad man reikia būti savo Tėvo reikaluose?“",
+      "c": "„Aš norėjau pamatyti šventyklą“",
+      "d": "„Aš baiminosi grįžti vienas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_2"
+  }
+]

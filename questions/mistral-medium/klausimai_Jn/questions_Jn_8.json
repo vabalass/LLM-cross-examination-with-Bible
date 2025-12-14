@@ -1,0 +1,262 @@
+[
+  {
+    "id": "Jn_8_001",
+    "question": "Kur Jėzus mokė žmones, kai atvedė nusidėjėlę moterį?",
+    "options": {
+      "a": "Alyvų kalne",
+      "b": "Šventykloje",
+      "c": "Sinagogoje",
+      "d": "Pilies kiemelyje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_002",
+    "question": "Ką Rašto aiškintojai ir fariziejai norėjo padaryti su sugauta svetimaujančia moterimi pagal Mozės Įstatymą?",
+    "options": {
+      "a": "Ištrėmti iš miesto",
+      "b": "Užmušti akmenimis",
+      "c": "Įkalinti kalėjime",
+      "d": "Nubausti piniginėmis baudomis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_003",
+    "question": "Ką Jėzus ėmė daryti, kai fariziejai atvedė nusidėjėlę moterį ir klastino jį?",
+    "options": {
+      "a": "Girtas šaukė į dangų",
+      "b": "Pasilenkęs rašė pirštu ant žemės",
+      "c": "Pabėgo iš šventyklos",
+      "d": "Įsakė moterį išlaisvinti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_004",
+    "question": "Ką Jėzus pasakė žmonėms, kurie norėjo akmenimis užmušti nusidėjėlę moterį?",
+    "options": {
+      "a": "„Tas, kuris nėra nusidėjęs, tegu pirmas metą akmenį“",
+      "b": "„Kas iš jūsų be nuodėmės, tegu pirmas sviedžia į ją akmenį“",
+      "c": "„Moteris jau patyrė pakankamai kančių“",
+      "d": "„Dievas teis jus už šį nusižengimą“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_005",
+    "question": "Kas nutiko, kai Jėzus pasakė: „Kas iš jūsų be nuodėmės, tegu pirmas sviedžia į ją akmenį“?",
+    "options": {
+      "a": "Žmonės pradėjo šviesti akmenis",
+      "b": "Visi išsisklaidė, pradedant nuo vyresniųjų",
+      "c": "Moteris pabėgo",
+      "d": "Fariziejai pradėjo ginčyti tarpusavyje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_006",
+    "question": "Ką Jėzus pasakė nusidėjėlės moters, kai liko vienas su ja?",
+    "options": {
+      "a": "„Eik ir daugiau nebenusidėk“",
+      "b": "„Tavo nuodėmės atleistos, bet turi duoti auką“",
+      "c": "„Tu turi pasiglausti Dievo“",
+      "d": "„Niekada daugiau nebegrįš į šį miestą“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_007",
+    "question": "Ką Jėzus pasakė apie save, kalbėdamas su fariziejais po nusidėjėlės moters įvykių?",
+    "options": {
+      "a": "„Aš esu pasaulio šviesa“",
+      "b": "„Aš esu pasaulio teisėjas“",
+      "c": "„Aš esu pasaulio karalius“",
+      "d": "„Aš esu pasaulio išganytojas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_008",
+    "question": "Kodėl fariziejai sakė, kad Jėzaus liudijimas apie save netikras?",
+    "options": {
+      "a": "Nes jis buvo samarietis",
+      "b": "Nes jis pats liudijo apie save",
+      "c": "Nes jis buvo velnio apsėstas",
+      "d": "Nes jis neturėjo šviesos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_009",
+    "question": "Ką Jėzus atsakė fariziejams, kai jie abejojo jo liudijimu?",
+    "options": {
+      "a": "„Mano liudijimas yra tikras, nes aš žinau, iš kur esu atėjęs ir kur einu“",
+      "b": "„Jūsų liudijimai yra melagingi“",
+      "c": "„Aš esu Dievo Sūnus, todėl mano žodis yra įstatymas“",
+      "d": "„Jūsų nuodėmės neleidžia jums suprasti tiesos“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_010",
+    "question": "Ką Jėzus pasakė apie savo teisėjų ir Tėvo vaidmenį?",
+    "options": {
+      "a": "„Aš teisiu vienas, nes Tėvas mane paliko“",
+      "b": "„Jeigu aš teisčiau, mano sprendimas būtų teisingas, nes aš ne vienas, bet esu aš ir mane siuntęs Tėvas“",
+      "c": "„Tėvas teisėja, o aš tik vykdu jo nurodymus“",
+      "d": "„Mano teisė yra aukštesnė už Mozės įstatymą“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_011",
+    "question": "Ką Jėzus pasakė fariziejams apie jų kilmę ir savo kilmę?",
+    "options": {
+      "a": "„Jūs esate iš dangaus, o aš iš žemės“",
+      "b": "„Jūs esate iš pažemių, o aš esu iš aukštybės“",
+      "c": "„Jūs esate iš šviesos, o aš iš tamsos“",
+      "d": "„Jūs esate iš Dievo, o aš iš žmonių“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_012",
+    "question": "Ką Jėzus pasakė žydams apie savo pasitraukimą ir jų likimą?",
+    "options": {
+      "a": "„Jūs seksite mane, bet niekada nerasite“",
+      "b": "„Aš pasitrauksiu, o jūs ieškosite manęs ir numirsite savo nuodėmėje“",
+      "c": "„Jūs busite su manim danguje“",
+      "d": "„Jūsų nuodėmės bus atleistos, jei tikėsite“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_013",
+    "question": "Ką žydai galvojo apie Jėzaus žodžius „Kur aš einu, jūs negalite nueiti“?",
+    "options": {
+      "a": "Jie manė, kad jis ketina nusižudyti",
+      "b": "Jie manė, kad jis ketina pasitraukti į dykumą",
+      "c": "Jie manė, kad jis ketina tapti karaliumi",
+      "d": "Jie manė, kad jis ketina palikti žemę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_014",
+    "question": "Ką Jėzus pasakė apie savo ir žydų kilmę, kalbėdamas su jais?",
+    "options": {
+      "a": "„Jūs esate iš šio pasaulio, o aš – ne iš šio pasaulio“",
+      "b": "„Jūs esate iš Dievo, o aš iš žmonių“",
+      "c": "„Jūs esate iš tamsos, o aš iš šviesos“",
+      "d": "„Jūs esate iš žemės, o aš iš dangaus“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_015",
+    "question": "Ką Jėzus pasakė žydams apie jų mirtį, jei jie netikės, kad „Aš Esu“?",
+    "options": {
+      "a": "„Jūs busite amžinai gyvi“",
+      "b": "„Jūs numirsite savo nuodėmėse“",
+      "c": "„Jūs busite atskirti nuo Dievo“",
+      "d": "„Jūs tapsite velnio vergais“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_016",
+    "question": "Ką Jėzus pasakė apie savo Siuntėją, kai žydai klausė „Kas gi tu toks esi?“?",
+    "options": {
+      "a": "„Mano Siuntėjas yra Tėvas“",
+      "b": "„Mano Siuntėjas yra Dievas“",
+      "c": "„Tiesą kalbantis yra mano Siuntėjas“",
+      "d": "„Mano Siuntėjas yra Dvasia“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_017",
+    "question": "Ką Jėzus pasakė apie savo iškėlimą aukštyn?",
+    "options": {
+      "a": "„Kai Žmogaus Sūnų būsite aukštyn iškėlę, suprasite, kad Aš Esu“",
+      "b": "„Kai aš busiu aukštyn pakeltas, visi įtikės“",
+      "c": "„Kai aš busiu aukštyn pakeltas, visi bus teisiami“",
+      "d": "„Kai aš busiu aukštyn pakeltas, visi bus išgelbėti“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_018",
+    "question": "Ką Jėzus pasakė žydams, kurie tikėjo jį?",
+    "options": {
+      "a": "„Jei laikysitės mano mokslo, jūs iš tikro būsite mano mokiniai“",
+      "b": "„Jūs esate mano mokiniai, nes esate iš Dievo“",
+      "c": "„Jūs esate laisvi, nes esate Abraomo palikuonys“",
+      "d": "„Jūs esate šviesos vaikai“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_019",
+    "question": "Ką Jėzus pasakė apie tiesą ir laisvę?",
+    "options": {
+      "a": "„Tiesa padarys jus laisvus“",
+      "b": "„Tiesa bus jums atskleista, kai busite laisvi“",
+      "c": "„Laisvė bus jums duota, kai suprasite tiesą“",
+      "d": "„Tiesa ir laisvė yra vienas ir tas pats“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_020",
+    "question": "Ką Jėzus pasakė žydams apie jų tėvą, kai jie teigė, kad jų tėvas yra Abraomas?",
+    "options": {
+      "a": "„Jūsų tėvas yra velnias“",
+      "b": "„Jūsų tėvas yra Mozė“",
+      "c": "„Jūsų tėvas yra Dievas“",
+      "d": "„Jūsų tėvas yra Adomas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_8"
+  }
+]

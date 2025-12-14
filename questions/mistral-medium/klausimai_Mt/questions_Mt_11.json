@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Mt_11_001",
+    "question": "Ką Jėzus pasakė Jono Krikštytojo mokiniams, kai šie klausė, ar Jėzus yra tas, kuris turi ateiti?",
+    "options": {
+      "a": "„Keliaukite ir apsakykite Jonui, ką čia girdite ir matote: aklieji praregi, raišieji vaikščioja, raupsuotieji apvalomi, kurtieji girdi, mirusieji prikeliami, vargdieniams skelbiama geroji naujiena.“",
+      "b": "„Aš esu kelias, tiesa ir gyvenimas; niekas neateina pas Tėvą, tik per mane.“",
+      "c": "„Jūsų tikėjimas jus išgelbėjo; keliaukite taika.“",
+      "d": "„Dangaus karalystė artėja; atsiverkite ir tikėkite!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_002",
+    "question": "Ką Jėzus sakė apie Joną Krikštytoją, lygindamas jį su „švelniais drabužiais vilkinčiais žmonėmis“?",
+    "options": {
+      "a": "Jis yra didesnis negu visi karaliai ir pranašai.",
+      "b": "Švelniais drabužiais vilkintys gyvena karaliaus rūmuose, o Jonas neieško pasaulio malonės.",
+      "c": "Jis yra mažesnis negu bet kuris kitas pranašas.",
+      "d": "Jis turi ateiti kaip karalius, o ne kaip pranašas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_003",
+    "question": "Kas, Jėzaus žodžiais, yra didesnis už Joną Krikštytoją?",
+    "options": {
+      "a": "Pranašai ir Įstatymo mokytojai.",
+      "b": "Mirusieji, kurie prikeliami.",
+      "c": "Mažiausias dangaus karalystėje.",
+      "d": "Karaliai ir valdovai, kurie pripažįsta Jėzų."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_004",
+    "question": "Ką Jėzus sakė apie dangaus karalystę nuo Jono Krikštytojo dienų?",
+    "options": {
+      "a": "Ji yra pasiekiama tik per maldas ir aukas.",
+      "b": "Ji jėga puolama, ir smarkieji ją sau grobia.",
+      "c": "Ji bus atidaryta tik paskutinėje dienoje.",
+      "d": "Ji priklauso tik izraelitams, kurie laiko Įstatymą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_005",
+    "question": "Ką Jėzus pasakė apie savo kartą, lygindamas ją su vaikais, žaidžiančiais prekyvietėje?",
+    "options": {
+      "a": "Jie visada nori šokti, bet niekada negiedoti.",
+      "b": "Jie niekada neatsako, kai juos kviečia draugai.",
+      "c": "„Mes jums grojome, o jūs nešokote. Mes giedojome raudas, o jūs nerypavote...‘",
+      "d": "Jie visada laukia stebuklų, bet niekada neatsiverčia."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_006",
+    "question": "Kokį įvardiją Jėzus gavosi, kai jį kankino už valgyto ir gertą (pagal fariziejų nuomonę)?",
+    "options": {
+      "a": "Muitininkų ir nusidėjėlių bičiulis.",
+      "b": "Demonų valdovas.",
+      "c": "Paskutinis pranašas.",
+      "d": "Karaliaus sūnus, kuris nepažįsta vargo."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_007",
+    "question": "Ką Jėzus pasakė apie Choraziną, Betsaidą ir Kafarnaumą, kur buvo padaryta daug stebuklų?",
+    "options": {
+      "a": "Jie bus išaukštinti iki dangaus už savo tikėjimą.",
+      "b": "Jie bus palaiminti kaip pirmieji dangaus karalystėje.",
+      "c": "Tyre ir Sidonei bus lengviau teismo dieną negu jiems.",
+      "d": "Jie taps pavyzdžiu kitoms miestų kartoms."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_008",
+    "question": "Kam Jėzus šlovino Tėvą, sakydamas: „Aš šlovinu tave, Tėve, dangaus ir žemės Viešpatie“?",
+    "options": {
+      "a": "Už tai, kad Tėvas atskleidė paslaptis išmintingiesiems.",
+      "b": "Už tai, kad paslėpė tai nuo išmintingųjų ir gudriųjų, o apreiškė mažutėliams.",
+      "c": "Už tai, kad išgelbėjo visus, kurie tikėjo.",
+      "d": "Už tai, kad nubaudė neatsivertusius miestus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_009",
+    "question": "Ką Jėzus kviečia padaryti visus, kurie vargsta ir yra prislėgti?",
+    "options": {
+      "a": "Ieškoti stebuklų ir ženklų.",
+      "b": "Ateiti pas Jėzų, kad jis juos atgaivintų.",
+      "c": "Laikytis griežtai Įstatymo ir pranašų mokymo.",
+      "d": "Pasiduoti karaliaus valdžiai ir mokėti mokestį."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_010",
+    "question": "Ką Jėzus sakė apie savo jungą ir naštą?",
+    "options": {
+      "a": "Jie yra sunkūs, bet vedą į garbę.",
+      "b": "Mano jungas švelnus, mano našta lengva.",
+      "c": "Jie turi būti nešami tik išrinktiesiems.",
+      "d": "Jie bus pakeisti nauja sandora ateityje."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_11"
+  }
+]

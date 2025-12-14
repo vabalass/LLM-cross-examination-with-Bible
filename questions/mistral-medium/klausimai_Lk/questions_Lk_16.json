@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Lk_16_001",
+    "question": "Ką apskūstas prievaizdas padarė, kai sužinojo, kad bus atleistas iš tarnybos?",
+    "options": {
+      "a": "Jis paslėpė šeimininko pinigus ir pabėgo į kitą miestą.",
+      "b": "Jis sumazinė skolininkų skolas, kad šie jį priimtų į savo namus vėliau.",
+      "c": "Jis nusiuntė laišką šeimininkui prašydamas antros galimybės.",
+      "d": "Jis pardavė šeimininko turtą ir pasidalino pelnu su skolininkais."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_002",
+    "question": "Ką šeimininkas padarė, kai sužinojo apie prievaizdo elgesį su skolininkais?",
+    "options": {
+      "a": "Jis iškvietė prievaizdą į teismą dėl apgavystės.",
+      "b": "Jis pagyrė prievaizdą už jo gudrumą.",
+      "c": "Jis atėmė visą turtą iš skolininkų ir juos ištremtė.",
+      "d": "Jis atleido prievaizdą ir davė jam didesnę algą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_003",
+    "question": "Ką Jėzus patarė daryti su „apgaulinga Mamona“ (turtu)?",
+    "options": {
+      "a": "Jį reikia visiškai atmeti ir gyventi skurde.",
+      "b": "Reikia darytis bičiulių su turtingais, kad jie padėtų ateityje.",
+      "c": "Reikia viską duoti vargšams ir pats likti be nieko.",
+      "d": "Reikia slėpti pinigus, kad niekas jų nerastų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_004",
+    "question": "Ką Jėzus sakė apie žmogų, kuris nėra ištikimas mažose dalyse?",
+    "options": {
+      "a": "Jis bus ištikimas didelėse dalyse, jei tik stengsis.",
+      "b": "Jis nebus ištikimas net didelėse dalyse.",
+      "c": "Dievas jam duos antrą galimybę pasirodyti gerai.",
+      "d": "Toks žmogus turi būti iškart atleistas iš darbo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_005",
+    "question": "Ką Jėzus sakė apie tarnaujant dviem šeimininkams (Dievui ir Mamonai)?",
+    "options": {
+      "a": "Galima tarnauti abiem, jei tik stengiatės.",
+      "b": "Negalima tarnauti abiem – vieną mylės, kitą nekenks.",
+      "c": "Tarnauti Mamonai yra svarbiau, nes reikia pragiri.",
+      "d": "Dievas leidžia tarnauti Mamonai, jei tai daroma gerai."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_006",
+    "question": "Kas buvo Lozoriaus padėtis gyvendamas prie turtuolio vartų?",
+    "options": {
+      "a": "Jis buvo sveikas ir dirbo pas turtuolį kaip vergas.",
+      "b": "Jis buvo aptekęs votimis ir troško numarinti alkį nuo turtuolio stalo.",
+      "c": "Jis buvo turtingas, bet pasirinko gyventi skurde dėl savęlavos.",
+      "d": "Jis buvo ligotas ir turtuolis jam kasdien davė maisto."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_007",
+    "question": "Kur Lozorius pateko po mirties, o kur – turtuolis?",
+    "options": {
+      "a": "Lozorius – į pragarą, turtuolis – į Abraomo prieglobstį.",
+      "b": "Lozorius – į Abraomo prieglobstį, turtuolis – į pragaro kančias.",
+      "c": "Abu pateko į pragarą, nes abu buvo nusikaltęliai.",
+      "d": "Abu pateko į Dievo karalystę, nes abu buvo gerų darbų atlikę."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_008",
+    "question": "Ką turtuolis paprašė Abraomo, kai matė Lozorių prieglobstyje?",
+    "options": {
+      "a": "Prašė, kad Lozorius grįžtų į žemę ir atkeršytų turtuoliui.",
+      "b": "Prašė, kad Lozorius atneštų jam vandenį, nes jis degė pragare.",
+      "c": "Prašė, kad Abraomas jį išgelbėtų iš pragaro.",
+      "d": "Prašė, kad Lozorius pasakytų, kaip patekti į Abraomo prieglobstį."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_009",
+    "question": "Kodėl, Abraomo teigimu, turtuolis kento pragare, o Lozorius susilaukė paguodos?",
+    "options": {
+      "a": "Turtuolis buvo blogas, o Lozorius – geras.",
+      "b": "Turtuolis dar gyvas atsiėmė savo gėrybes, o Lozorius – tik nelaimes.",
+      "c": "Lozorius buvo turtuolio giminaitis, todėl gavo privilegiją.",
+      "d": "Dievas atsitiktinai pasirinko Lozorių, o turtuolis buvo nelaimingas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_010",
+    "question": "Ką Abraomas atsakė turtuoliui, kai šis paprašė, kad Lozorius įspėtų jo brolius?",
+    "options": {
+      "a": "„Jie turi Mozę ir pranašus – tegul jų klauso.“",
+      "b": "„Aš pats nueisiu ir juos įspėsiu.“",
+      "c": "„Lozorius negali grįžti, nes jis jau miręs.“",
+      "d": "„Jie jau žino tiesą, bet nesiklauso.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_16"
+  }
+]

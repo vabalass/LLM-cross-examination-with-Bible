@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_10_001",
+    "question": "Kas, pagal Jėzaus palyginimą (Jn 10,1), į avių gardą neina pro vartus, bet įkopia pro kur kitur?",
+    "options": {
+      "a": "Ganytojas",
+      "b": "Vagis ir plėšikas",
+      "c": "Sargas",
+      "d": "Samdinys"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_002",
+    "question": "Ką daro ganytojas, kai išsiveda savąsias avis (Jn 10,3-4)?",
+    "options": {
+      "a": "Jis jas varo iš užpakalio",
+      "b": "Jis šaukia jas vardais ir eina priešakyje",
+      "c": "Jis jas palieka vienas",
+      "d": "Jis jas vedžia per tamsią vietą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_003",
+    "question": "Ką sakė Jėzus apie save, kalbėdamas su žydais (Jn 10,7)?",
+    "options": {
+      "a": "Aš esu avių ganytojas",
+      "b": "Aš esu avių vartai",
+      "c": "Aš esu avių sargas",
+      "d": "Aš esu vilkas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_004",
+    "question": "Kas, pagal Jėzaus žodžius (Jn 10,10), ateina tik vogti, žudyti ir naikinti?",
+    "options": {
+      "a": "Ganytojas",
+      "b": "Samdinys",
+      "c": "Vagis",
+      "d": "Sargas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_005",
+    "question": "Ką Jėzus pareiškė apie savo misiją (Jn 10,10)?",
+    "options": {
+      "a": "Aš atėjau, kad žmonės turėtų turtingumą",
+      "b": "Aš atėjau, kad žmonės turėtų gyvenimą, – kad apsčiai jo turėtų",
+      "c": "Aš atėjau, kad žmonės turėtų valdžią",
+      "d": "Aš atėjau, kad žmonės turėtų žemę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_006",
+    "question": "Ką daro gerasis ganytojas, pagal Jėzaus žodžius (Jn 10,11)?",
+    "options": {
+      "a": "Palieka avis ir pabėga",
+      "b": "Už avis guldo savo gyvybę",
+      "c": "Vedžia jas į kitą ganyklą",
+      "d": "Skundžiasi Tėvui"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_007",
+    "question": "Ką daro samdinys, kai pamato sėlinantį vilką (Jn 10,12)?",
+    "options": {
+      "a": "Kovoja su vilku",
+      "b": "Palieka avis ir pabėga",
+      "c": "Šaukia pagalbą",
+      "d": "Guli už avis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_008",
+    "question": "Ką Jėzus sakė apie savo ryšį su Tėvu (Jn 10,15)?",
+    "options": {
+      "a": "Tėvas mane nemyli",
+      "b": "Aš pažįstu Tėvą, ir Tėvas pažįsta mane",
+      "c": "Tėvas man nepasitikėjo",
+      "d": "Aš esu Tėvo priešininkas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_009",
+    "question": "Ką Jėzus pareiškė apie savo galį (Jn 10,18)?",
+    "options": {
+      "a": "Aš neturiu jokių galių",
+      "b": "Aš turiu galią atiduoti savo gyvybę ir vėl ją atsiimti",
+      "c": "Aš turiu galią valdyti pasaulį",
+      "d": "Aš turiu galią pakeisti žmones"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_010",
+    "question": "Ką žydai sakė apie Jėzaus kalbas (Jn 10,20)?",
+    "options": {
+      "a": "Jis kalba kaip pranašas",
+      "b": "Jis velnio apsėstas ir šėlsta",
+      "c": "Jis kalba kaip karalius",
+      "d": "Jis kalba kaip mokslininkas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_011",
+    "question": "Ką kiti žydai atsakė apie Jėzaus kalbas (Jn 10,21)?",
+    "options": {
+      "a": "Tai ne apsėstojo kalbos",
+      "b": "Jis kalba kaip vagis",
+      "c": "Jis kalba kaip klastotojas",
+      "d": "Jis kalba kaip plėšikas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_012",
+    "question": "Ką Jėzus atsakė žydams, kai jie klausė, ar jis yra Mesijas (Jn 10,25)?",
+    "options": {
+      "a": "Aš esu Mesijas, tikėkite mane",
+      "b": "Aš jums pasakiau, tik jūs netikite",
+      "c": "Aš ne Mesijas, bet pranašas",
+      "d": "Aš esu karalius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_013",
+    "question": "Ką Jėzus pasakė apie savo darbus (Jn 10,25)?",
+    "options": {
+      "a": "Mano darbai liudija apie mane",
+      "b": "Mano darbai yra paslaptūs",
+      "c": "Mano darbai yra bevertiški",
+      "d": "Mano darbai yra neįmanomi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_014",
+    "question": "Ką Jėzus pareiškė apie savo vienybę su Tėvu (Jn 10,30)?",
+    "options": {
+      "a": "Aš ir Tėvas esame skirtingi",
+      "b": "Aš ir Tėvas esame viena",
+      "c": "Aš esu aukščiau už Tėvą",
+      "d": "Tėvas mane nepažįsta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_10"
+  }
+]

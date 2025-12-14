@@ -1,0 +1,301 @@
+[
+  {
+    "id": "Mt_27_001",
+    "question": "Kas buvo pagrindinė priežastis, dėl ko aukštieji kunigai ir seniūnai nusprendė nužudyti Jėzų?",
+    "options": {
+      "a": "Jėzus sugriovė šventyklą ir nebegalėjo atstatyti per tris dienas.",
+      "b": "Jie pavydėjo Jėzui dėl jo populiarumo tarp žmonių.",
+      "c": "Jėzus atsisakė mokyti žydų įstatymų.",
+      "d": "Jėzus paskelbė save Romos imperijos karaliumi."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_002",
+    "question": "Ką padarė Judas, kai suprato, kad Jėzus pasmerktas mirti?",
+    "options": {
+      "a": "Jis pasitraukė į dykumą ir ten praleido likusį gyvenimą.",
+      "b": "Jis grįžo pas aukštuosius kunigus, grąžino pinigus ir pasikorė.",
+      "c": "Jis bandė išlaisvinti Jėzų iš kalėjimo.",
+      "d": "Jis paskelbė viešai, kad Jėzus yra Dievo Sūnus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_003",
+    "question": "Ką aukštieji kunigai nupirko už trisdešimt sidabrinių, kuriuos grąžino Judas?",
+    "options": {
+      "a": "Naują šventyklos altorių.",
+      "b": "Puodžiaus dirvą ateiviams laidoti.",
+      "c": "Brangius drabužius Jėzui.",
+      "d": "Maistą vargšams."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_004",
+    "question": "Kas buvo pranašo Jeremijo pranašystės įsipildymas, minėtas tekste?",
+    "options": {
+      "a": "Jėzaus gimimas Betliejuje.",
+      "b": "Trisdešimt sidabrinių sumokėjimas už puodžiaus dirvą.",
+      "c": "Jėzaus prisikėlimas iš numirusių.",
+      "d": "Jėzaus krikštas Jordano upėje."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_005",
+    "question": "Ką Pilotas klausė Jėzaus, kai šis stovėjo prieš jį?",
+    "options": {
+      "a": "„Ar tu esi Dievo Sūnus?“",
+      "b": "„Ar tu esi žydų karalius?“",
+      "c": "„Kodėl tu sugriovai šventyklą?“",
+      "d": "„Ką tu padarei su trimisdešimtis sidabrinių?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_006",
+    "question": "Kaip Jėzus reagavo į aukštųjų kunigų ir seniūnų kaltinimus Piloto teisme?",
+    "options": {
+      "a": "Jis garsiai ginėsi ir kaltino kunigus melagystėmis.",
+      "b": "Jis neatsakė nė į vieną kaltinimą.",
+      "c": "Jis paprašė Piloto paleisti jį laisvę.",
+      "d": "Jis pasakė, kad jis yra Dievo Sūnus ir turi dievišką galią."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_007",
+    "question": "Ką Pilotas paprotė padaryti šventės proga, pagal tekstą?",
+    "options": {
+      "a": "Paleisti vieną kalinį, kurį minia norėdavo.",
+      "b": "Suteikti malonę visiems kaliniams.",
+      "c": "Surengti viešą teismo posėdį.",
+      "d": "Atleisti visus mokesčius šventės metu."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_008",
+    "question": "Kas buvo Barabos, minėtas tekste?",
+    "options": {
+      "a": "Aukštasis kunigas, kaltinęs Jėzų.",
+      "b": "Garsus kalinys, kurį minia norėjo paleisti.",
+      "c": "Romos kariuomenės vadas.",
+      "d": "Jėzaus mokinys, išdavęs jį."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_009",
+    "question": "Ką Piloto žmona pasakė jam sapne apie Jėzų?",
+    "options": {
+      "a": "„Jis bus nukryžiuotas ir prisikels iš numirusių.“",
+      "b": "„Nieko nedaryk šiam teisiajam! Šiąnakt labai dėl jo kentėjau.“",
+      "c": "„Jis yra Dievo Sūnus ir turi būti paleistas.“",
+      "d": "„Jis sugriaus šventyklą ir atstatys ją per tris dienas.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_010",
+    "question": "Ką šaukė minia, kai Pilotas klausė, ką daryti su Jėzumi?",
+    "options": {
+      "a": "„Paleisk jį laisvę!“",
+      "b": "„Ant kryžiaus jį!“",
+      "c": "„Nukirsdink jam galvą!“",
+      "d": "„Ištrėmink jį iš miesto!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_011",
+    "question": "Ką Pilotas padarė, norėdamas parodyti, kad jis „nekaltas dėl šio teisiojo kraujo“?",
+    "options": {
+      "a": "Jis paskelbė viešai, kad Jėzus yra nekaltas.",
+      "b": "Jis nusimazgojo rankas minios akivaizdoje.",
+      "c": "Jis atidavė Jėzų aukštiesiems kunigams.",
+      "d": "Jis pasitraukė iš teismo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_012",
+    "question": "Ką minia atsakė, kai Pilotas sakė: „Jo kraujas [tekrinta] ant mūsų“?",
+    "options": {
+      "a": "„Mes nekalti!“",
+      "b": "„Jo kraujas [tekrinta] ant mūsų ir mūsų vaikų!“",
+      "c": "„Mes nepriimame jo kraujo!“",
+      "d": "„Paleisk mūsų karalių!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_013",
+    "question": "Ką kareiviai uždėjo Jėzui ant galvos, tyčiojantisi iš jo?",
+    "options": {
+      "a": "Aukso vainiką.",
+      "b": "Erškėčių vainiką.",
+      "c": "Kryžiaus fragmentą.",
+      "d": "Raudoną skraistę."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_014",
+    "question": "Kas buvo užrašas virš Jėzaus galvos, kai jis buvo ant kryžiaus?",
+    "options": {
+      "a": "„Šitas yra Dievo Sūnus“.",
+      "b": "„Šitas yra žydų karalius“.",
+      "c": "„Šitas yra pasaulio išganytojas“.",
+      "d": "„Šitas yra pranašas iš Nazareto.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_015",
+    "question": "Ką Jėzui davė gerti, kai jis buvo ant kryžiaus?",
+    "options": {
+      "a": "Vandens.",
+      "b": "Vyno, sumaišyto su tulžimi.",
+      "c": "Pieno.",
+      "d": "Medaus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_016",
+    "question": "Ką praeiviai ir aukštieji kunigai sakė Jėzui, tyčiojantisi iš jo ant kryžiaus?",
+    "options": {
+      "a": "„Tu esi Dievo Sūnus, todėl negali numirti!“",
+      "b": "„Gelbėkis pats! Jei esi Dievo Sūnus, nuženk nuo kryžiaus!“",
+      "c": "„Mes tikime tau, todėl išgelbėk mus!“",
+      "d": "„Tu esi mesijas, todėl turi atstatyti šventyklą.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_017",
+    "question": "Ką sakė Jėzus skundžiamasis Dievui ant kryžiaus?",
+    "options": {
+      "a": "„Mano Dieve, kodėl mane apleidai?“",
+      "b": "„Mano Dieve, atleisk jiems, nes jie nežino, ką daro.“",
+      "c": "„Mano Dieve, priimk manę dvasią.“",
+      "d": "„Mano Dieve, tebūnie tavo valia.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_018",
+    "question": "Kas įvyko, kai Jėzus atidavė dvasią ant kryžiaus?",
+    "options": {
+      "a": "Šventykla perplyšo pusiau, žemė sudrebėjo, uolos ėmė skeldėti.",
+      "b": "Dangus užsidegė ugnimi.",
+      "c": "Visi žmonės aplink kryžių mirė.",
+      "d": "Jėzus prisikėlė iš numirusių tuoj pat."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_019",
+    "question": "Kas pasirodė mieste po Jėzaus prisikėlimo, pagal tekstą?",
+    "options": {
+      "a": "Trys angelai, skelbę Dievo žodį.",
+      "b": "Daug užmigusių šventųjų, kurie prisikėlė iš numirusių.",
+      "c": "Jėzus, einantis su mokiniais.",
+      "d": "Pilotas, prašantis atleidimo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_020",
+    "question": "Kas buvo šimtininko ir kareivių reakcija, pamatę Jėzaus mirtį ir įvykius aplink ją?",
+    "options": {
+      "a": "Jie pradėjo šokti ir džiaugtis.",
+      "b": "Jie labai išsigando ir sakė: „Tikrai šitas buvo Dievo Sūnus!“",
+      "c": "Jie pasitraukė iš vietos ir nieko nepasakė.",
+      "d": "Jie pradėjo kaltinti aukštuosius kunigus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_021",
+    "question": "Kas buvo Juozapo, minėto tekste, profesija ir jo ryšys su Jėzumi?",
+    "options": {
+      "a": "Jis buvo turtingas žmogus iš Arimatėjos ir Jėzaus mokinys.",
+      "b": "Jis buvo aukštasis kunigas, kaltinęs Jėzų.",
+      "c": "Jis buvo romėnų kariuomenės vadas.",
+      "d": "Jis buvo vienas iš dvylikos apaštalų."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_022",
+    "question": "Kur Juozapas paguldė Jėzaus kūną?",
+    "options": {
+      "a": "Savo naujame kapo rūsyje, išsikaldintame uoloje.",
+      "b": "Šventykloje, prie altoriaus.",
+      "c": "Dykumoje, po medžiu.",
+      "d": "Jūroje, ant laivo."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_023",
+    "question": "Ką aukštieji kunigai ir fariziejai paprašė Piloto padaryti su Jėzaus kapu?",
+    "options": {
+      "a": "Jį paženklinti antspaudu ir pastatyti sargybą.",
+      "b": "Jį atidaryti, kad visi galėtų pamatyti Jėzaus kūną.",
+      "c": "Jį užpilti akmenimis.",
+      "d": "Jį perkelti į šventyklos kiemą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_27"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Jn_16_001",
+    "question": "Kodėl Jėzus pasakė mokiniams, kad jie bus išvaryti iš sinagogų (Jn 16,2)?",
+    "options": {
+      "a": "Nes jie nebedalyvaus bendruomenės apeigose savo valia.",
+      "b": "Nes žmonės, juos persekiojantys, manys atliekantys šventą Dievo pareigą, nors pažįstami nei Tėvą, nei Jėų.",
+      "c": "Nes mokiniai atsisakė laikytis Mozės įstatymo.",
+      "d": "Nes Jėzus norėjo, kad jie taptų atskira religine grupe."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_002",
+    "question": "Ką Jėzus sakė apie Šventąją Dvasią, kai kalbėjo, kad ji „parodys pasauliui, kaip jis klysta“ (Jn 16,8)?",
+    "options": {
+      "a": "Ji parodys, kad visi žmonės yra blogi nuo gimimo.",
+      "b": "Ji įrodys pasaulio klystį dėl nuodėmės (netikėjimas Jėumi), teisybės (Jėzus eina pas Tėvą) ir teismo (pasaulio kunigaikštis pasmerktas).",
+      "c": "Ji atskleis visus žmonių slaptus nusikalstamus planus.",
+      "d": "Ji pakeis visus įstatymus ir įveds naują tvarką."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_003",
+    "question": "Kodėl Jėzus sakė, kad mokiniams „geriau, kad aš iškeliauju“ (Jn 16,7)?",
+    "options": {
+      "a": "Nes jo nebeįsižadės ir galės laisviau gyventi.",
+      "b": "Nes tik tada ateis Globėjas (Šventoji Dvasia), kuri juos vestų į tiesą.",
+      "c": "Nes jis norėjo, kad jie patys įveiktų pasaulio išbandymus.",
+      "d": "Nes jis turėjo grįžti į dangų ir nebegalėjo juos mokyti."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_004",
+    "question": "Ką Jėzus reiškė sakydamas: „Prabėgs valandėlė – ir manęs neregėsit, ir dar valandėlė – ir vėl mane pamatysit“ (Jn 16,16)?",
+    "options": {
+      "a": "Jis kalbėjo apie savo trumpą mirtį ir prisikėlimą.",
+      "b": "Jis pranašavo, kad mokiniai jį pamirs šiek tiek laiko, bet vėl susirinks po metų.",
+      "c": "Jis norėjo pasakyti, kad jis išvyks į tolimą šalį ir grįš po kurio laiko.",
+      "d": "Jis kalbėjo apie savo regėjimus, kuriuos mokiniai netrukus patirs."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_005",
+    "question": "Kokį palyginimą Jėzus panaudoja, norėdamas paaiškinti mokiniams jų būsimo liūdesio ir džiaugsmo kaitą (Jn 16,21)?",
+    "options": {
+      "a": "Laukų artojo, kuris sėja sėklas ir laukia derliaus.",
+      "b": "Gimdančios moters, kuri kančią pamiršta iš džiaugsmo, kad gimė kūdikis.",
+      "c": "Kario, kuris po kovos gauna pergalę.",
+      "d": "Žvejo, kuris ilgiai laukia žuvių, bet galiausiai gauna gausų gaudą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_006",
+    "question": "Ką Jėzus pažadėjo mokiniams apie jų būsimas maldas (Jn 16,23-24)?",
+    "options": {
+      "a": "Jie turės malduoti tik slaptai, kad niekas nematytų.",
+      "b": "Jie gaus, ko tik prašys Tėvą Jėzaus vardu, ir džiaugsmui nieko netrūks.",
+      "c": "Jie turės malduoti tik vieną kartą per dieną.",
+      "d": "Jie gaus atsakymą tik po metų laukimo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_007",
+    "question": "Ką Jėzus sakė apie savo ateitį pas Tėvą ir mokinių reakciją (Jn 16,17-19)?",
+    "options": {
+      "a": "Mokiniai suprato viską iš karto ir nedavė jokių klausimų.",
+      "b": "Mokiniai abejojo, ar jis tikrai eina pas Tėvą, ir klausinėjo vieni kitų, ką tai reiškia.",
+      "c": "Mokiniai pasiūlė eina su juo, bet Jėzus atsisakė.",
+      "d": "Mokiniai pradėjo ginčytis, kuris iš jų bus svarbiausias po Jėzaus išvyko."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_008",
+    "question": "Ką Jėzus sakė apie pasaulio kunigaikštį (Jn 16,11)?",
+    "options": {
+      "a": "Jis jau pasmerktas, ir Šventoji Dvasia tai parodys.",
+      "b": "Jis taps mokinių sąjungininku, kai jie taps stipresni.",
+      "c": "Jis bus išvaduotas, jei mokiniai tikrai tikės.",
+      "d": "Jis bus paskelbtas naujuoju pasaulio valdovu."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_009",
+    "question": "Ką Jėzus pažadėjo apie Šventąją Dvasią, kalbėdamas, kad ji „ves į tiesos pilnatvę“ (Jn 16,13)?",
+    "options": {
+      "a": "Ji mokys mokinius visko, ko jie norės žinoti apie ateitį.",
+      "b": "Ji nekalbės savo vardu, bet skelbs tai, ką išgirs iš Tėvo ir Sūnaus, ir praneš, kas turi įvykti.",
+      "c": "Ji pakeis visus senus įstatymus naujais.",
+      "d": "Ji suteiks mokiniams galybę daryti stebuklus be jokių apribojimų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_010",
+    "question": "Ką Jėzus sakė apie savo ryšį su Tėvu, kalbėdamas: „Visa, ką Tėvas turi, yra ir mano“ (Jn 16,15)?",
+    "options": {
+      "a": "Jis turi tas pačias galias kaip Tėvas, bet jas naudojas tik retai.",
+      "b": "Jis ir Tėvas yra vienybėje, ir Šventoji Dvasia skelbs apie tai, ką Jėzus turi nuo Tėvo.",
+      "c": "Jis turi daugiau galios nei Tėvas, nes atėjo į pasaulį.",
+      "d": "Jis turi mažiau galios nei Tėvas, nes dar negrįžo į dangų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_011",
+    "question": "Ką Jėzus sakė mokiniams apie jų būsimą drąsą pasaulio priespaudos metu (Jn 16,33)?",
+    "options": {
+      "a": "Jie turės pasitraukti į kalnus ir slėptis, kol priespauda baigsis.",
+      "b": "Jie turės kautis su pasauliu ginkluotai, kad išliktų ištikimi.",
+      "c": "Jie turi būti drąsūs, nes jis „nugalėjo pasaulį“.",
+      "d": "Jie turės aukoti savo turimą, kad išvengtų persekiojimo."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_16"
+  }
+]

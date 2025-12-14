@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Mt_12_001",
+    "question": "Ką Jėzaus mokiniai darė šabo dieną, kai ėjo per javų lauką?",
+    "options": {
+      "a": "Skynė varpas ir valgė, nes buvo išalkę.",
+      "b": "Rinko gėles ir puošėsi jomis.",
+      "c": "Ganė avis ir girdė jas.",
+      "d": "Meldėsi ir dainavo psalmes."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_002",
+    "question": "Ką fariziejai pasakė Jėzui, pamatę, ką daro jo mokiniai šabo dieną?",
+    "options": {
+      "a": "„Jūsų mokiniai pažeidžia šventąjį poilsį.“",
+      "b": "„Jūsų mokiniai vagia javus!“",
+      "c": "„Jūsų mokiniai nesilaiko šabo šventumo.“",
+      "d": "„Jūsų mokiniai daro, kas per šabą draudžiama.“"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_003",
+    "question": "Ką Jėzus paminėjo kaip pavyzdį, gindamas savo mokinius, kurie šabo dieną skynė varpas?",
+    "options": {
+      "a": "Mozės išėjimą iš Egiptui.",
+      "b": "Dovydo ir jo palydovų elgesį, kai jie valgė padėtinės duonos Dievo namuose.",
+      "c": "Elijos stebuklą, kai jis maitino badaujančius.",
+      "d": "Nojaus laivo statybą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_004",
+    "question": "Ką Jėzus sakė apie save, remdamasis šabo pažeidimų klausimu?",
+    "options": {
+      "a": "„Aš esu šabo karalius.“",
+      "b": "„Žmogaus Sūnus yra šabo Viešpats.“",
+      "c": "„Šabo dieną reikia tik meldžiotis.“",
+      "d": "„Šabo dieną draudžiama kalbėti.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_005",
+    "question": "Ką Jėzus padarė žmogui su padžiūvusia ranka sinagogoje šabo dieną?",
+    "options": {
+      "a": "Pasakė, kad šabo dieną negali gydyti.",
+      "b": "Uždraudė jam keliauti šabo dieną.",
+      "c": "Pagydė jį ir pasakė ištiesti ranką, kuri tapo sveika.",
+      "d": "Pasakė, kad tai yra bausmė už nuodėmes."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_006",
+    "question": "Ką Jėzus palygino su avimi, kalbėdamas apie gydymą šabo dieną?",
+    "options": {
+      "a": "„Žmogus yra brangesnis už avį.“",
+      "b": "„Avis yra šventesnė už žmogų.“",
+      "c": "„Avis ir žmogus turi būti gydomi vienodai.“",
+      "d": "„Šabo dieną reikia gydyti tik gyvulius.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_007",
+    "question": "Ką fariziejai planavo padaryti Jėzui, išėję iš sinagogos?",
+    "options": {
+      "a": "Jį apdovanoti.",
+      "b": "Jį paskelbti karaliumi.",
+      "c": "Jį pražudyti.",
+      "d": "Jį išsiųsti į kitą miestą."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_008",
+    "question": "Ką Jėzus darė, žinodamas apie fariziejų ketinimus jį pražudyti?",
+    "options": {
+      "a": "Jis pasitraukė ir gydė žmones, bet liepė, kad apie tai nekalbėtų.",
+      "b": "Jis susirinko su savo mokiniais ir paskelbė karą.",
+      "c": "Jis pasitraukė į dykumą ir ten gyveno vienas.",
+      "d": "Jis atsidavė fariziejų rankoms."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_009",
+    "question": "Ką pranašas Izaijas pranašavo apie Jėzų, pagal Matą?",
+    "options": {
+      "a": "„Jis bus karalius visam pasaului.“",
+      "b": "„Jis skelbs tautoms teisingumą ir nešauks gatvėse.“",
+      "c": "„Jis nugalės visus priešus kare.“",
+      "d": "„Jis bus aukščiausias kunigas.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_010",
+    "question": "Ką fariziejai sakė apie Jėzų, kai jis pagydė apsėstąjį, kuris buvo aklas ir nebylys?",
+    "options": {
+      "a": "„Jis yra Dievo Sūnus.“",
+      "b": "„Jis išvaro demonus Belzebulo galia.“",
+      "c": "„Jis yra pranašas.“",
+      "d": "„Jis yra šventasis.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_011",
+    "question": "Ką Jėzus pasakė apie karalystę, kuri yra suskilusi?",
+    "options": {
+      "a": "„Ji taps stipriausia.“",
+      "b": "„Ji bus nusiaubta.“",
+      "c": "„Ji bus palikta vieniša.“",
+      "d": "„Ji bus atnaujinta.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_012",
+    "question": "Ką Jėzus sakė apie nuodėmę, kuri nebus atleista?",
+    "options": {
+      "a": "Nuodėmė prieš Dievo Tėvą.",
+      "b": "Nuodėmė prieš Žmogaus Sūnų.",
+      "c": "Piktžodžiavimas Šventajai Dvasiai.",
+      "d": "Vagystė ir melas."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_013",
+    "question": "Ką Jėzus pasakė apie medį ir jo vaisius?",
+    "options": {
+      "a": "„Medis pažįstamas iš savo lapų.“",
+      "b": "„Medis pažįstamas iš savo šaknų.“",
+      "c": "„Medis pažįstamas iš savo vaisių.“",
+      "d": "„Medis pažįstamas iš savo aukščio.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_014",
+    "question": "Ką Jėzus pasakė apie tuščius žodžius teismo dieną?",
+    "options": {
+      "a": "„Tuščiai žodžiai bus pamiršti.“",
+      "b": "„Žmonės turės duoti apyskaitą už kiekvieną pasakytą tuščią žodį.“",
+      "c": "„Tuščiai žodžiai bus atleisti.“",
+      "d": "„Tuščiai žodžiai bus užrašyti knygoje.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_015",
+    "question": "Ką Jėzus pavadino „Jonos ženklu“, atsakydamas fariziejams?",
+    "options": {
+      "a": "Tris dienas ir tris naktis būti jūrų pabaisos pilve.",
+      "b": "Tris dienas ir tris naktis meldžioti kalno viršūnėje.",
+      "c": "Tris dienas ir tris naktis keliauti dykumoje.",
+      "d": "Tris dienas ir tris naktis statyti laivą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_016",
+    "question": "Ką Jėzus sakė apie „piktą kartą“, remdamasis Ninevės gyventojų pavyzdžiu?",
+    "options": {
+      "a": "„Jie bus apdovanoti.“",
+      "b": "„Jie bus pasmerkti teismo dieną, nes neatsivertė, nors turėjo daugiau negu Jona.“",
+      "c": "„Jie bus atleisti dėl savo tikėjimo.“",
+      "d": "„Jie bus palikti vieni.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_12"
+  }
+]

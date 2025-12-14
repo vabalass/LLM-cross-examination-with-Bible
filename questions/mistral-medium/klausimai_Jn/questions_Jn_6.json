@@ -1,0 +1,314 @@
+[
+  {
+    "id": "Jn_6_001",
+    "question": "Kur Jėzus padaugino duoną ir žuvis, kaip nurodyta Jn 6?",
+    "options": {
+      "a": "Prie Jordanės upės",
+      "b": "Anapus Galilėjos (Tiberiados) ežero",
+      "c": "Jeruzalės šventykloje",
+      "d": "Nazareto kalvoje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_002",
+    "question": "Ką sakė Pilypas, kai Jėzus paklausė, kur pirkti duonos daugybei žmonių?",
+    "options": {
+      "a": "„Mes turime pakankamai duonos, kad visi pavalgytų“",
+      "b": "„Už du šimtus denarų duonos neužteks, kad kiekvienas gautų bent po gabalėlį“",
+      "c": "„Mes galime surinkti duoną iš aplinkinių kaimų“",
+      "d": "„Žmonės turi patys pasirūpinti savo maistu“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_003",
+    "question": "Ką turėjo pasiūlyti Andriejus, kai Jėzus norėjo pamaitinti žmones?",
+    "options": {
+      "a": "Du milžiniškus duonos kepalus",
+      "b": "Penkis miežinės duonos kepaliukus ir dvi žuvis",
+      "c": "Vyno ir aliejaus",
+      "d": "Avinų ir ožkų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_004",
+    "question": "Kiek vyrų buvo susėdę ant žolės, kai Jėzus padaugino duoną?",
+    "options": {
+      "a": "Apie tūkstantį",
+      "b": "Apie penki tūkstančiai",
+      "c": "Apie dešimt tūkstančių",
+      "d": "Apie šimtą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_005",
+    "question": "Ką Jėzus padarė su duona, prieš ją išdalindamas žmonėms?",
+    "options": {
+      "a": "Jis ją pašventino",
+      "b": "Jis sukalbėjo padėkos maldą",
+      "c": "Jis ją padalijo į lygias dalis",
+      "d": "Jis ją iškepė naujai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_006",
+    "question": "Kiek pintinių gabaliukų liko, kai surinkė nepanaudotus duonos kąsnelius?",
+    "options": {
+      "a": "Septyni",
+      "b": "Dvylika",
+      "c": "Penki",
+      "d": "Trys"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_007",
+    "question": "Ką žmonės pasakė, pamatę Jėzaus stebuklą su duona?",
+    "options": {
+      "a": "„Jis yra Dievo Sūnus“",
+      "b": "„Jis tikrai yra tas pranašas, kuris turi ateiti į pasaulį“",
+      "c": "„Mes turime jį paskelbti karaliumi“",
+      "d": "„Tai yra blogas žmogus, nes naudoja magija“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_008",
+    "question": "Ką Jėzus padarė, supratęs, kad žmonės nori jį paskelbti karaliumi?",
+    "options": {
+      "a": "Jis pasitraukė į dykumą",
+      "b": "Jis pasitraukė pats vienas į kalną",
+      "c": "Jis pasakė, kad jis jau yra karalius",
+      "d": "Jis pasakė, kad tai Dievo valia"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_009",
+    "question": "Kur mokiniai plaukė, kai Jėzus pasitraukė į kalną?",
+    "options": {
+      "a": "Į Jeruzalę",
+      "b": "Į Nazaretą",
+      "c": "Į Kafarnaumą",
+      "d": "Į Betaniją"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_010",
+    "question": "Ką mokiniai pamatė, plaukdami ežeru?",
+    "options": {
+      "a": "Jėzus einantį ežero paviršiumi",
+      "b": "Didžiulę bangą, kuri juos užplūdo",
+      "c": "Angelą, kuris juos vedė",
+      "d": "Kitą valtį, plaukiantį jų link"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_011",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie išsigando pamatę jį einantį ežero paviršiumi?",
+    "options": {
+      "a": "„Tai aš. Nebijokite!“",
+      "b": "„Nebijokite, nes aš su jumis!“",
+      "c": "„Jūsų tikėjimas mane išgelbės!“",
+      "d": "„Šis stebuklas yra Dievo valia“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_012",
+    "question": "Ką žmonės sakė, kai surado Jėzų Kafarnaume?",
+    "options": {
+      "a": "„Kada tu atvykai čionai?“",
+      "b": "„Mūsų reikia pamokyti!“",
+      "c": "„Mes norime, kad tu būtum karalius!“",
+      "d": "„Mes norime, kad tu padarytum dar vieną stebuklą“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_013",
+    "question": "Ką Jėzus pasakė žmonėms, kai jie ieškojo jo dėl duonos?",
+    "options": {
+      "a": "„Jūs ieškote manęs ne todėl, kad esate matę ženklų, bet kad prisivalgėte duonos lig soties“",
+      "b": "„Jūs turite tikėti mane, kad gautumėte amžinąjį gyvenimą“",
+      "c": "„Jūs turite atlikti gerus darbus, kad gautumėte duonos“",
+      "d": "„Jūs turite pasiduoti man, kad gautumėte išganymą“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_014",
+    "question": "Ką Jėzus pasakė apie „tikrąją duoną iš dangaus“?",
+    "options": {
+      "a": "„Tai yra duona, kurią duoda Mozė“",
+      "b": "„Tai yra duona, kurią duoda mano Tėvas“",
+      "c": "„Tai yra duona, kurią turi tik žydai“",
+      "d": "„Tai yra duona, kurią turi tik šventieji“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_015",
+    "question": "Ką Jėzus pasakė apie save, kalbėdamas apie „gyvybės duoną“?",
+    "options": {
+      "a": "„Aš esu gyvybės duona!“",
+      "b": "„Aš esu gyvybės šaltinis!“",
+      "c": "„Aš esu gyvybės kelias!“",
+      "d": "„Aš esu gyvybės šviesa!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_016",
+    "question": "Ką Jėzus pasakė apie tuos, kurie tiki jį?",
+    "options": {
+      "a": "„Jie niekuomet nebealks“",
+      "b": "„Jie bus paskelbti šventaisiais“",
+      "c": "„Jie gaus viską, ko tik norės“",
+      "d": "„Jie taps dievais“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_017",
+    "question": "Ką Jėzus pasakė apie savo kūną, kalbėdamas su žmonėmis?",
+    "options": {
+      "a": "„Mano kūnas yra šventas“",
+      "b": "„Mano kūnas yra valgis“",
+      "c": "„Mano kūnas yra nemirtingas“",
+      "d": "„Mano kūnas yra Dievo namai“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_018",
+    "question": "Ką Jėzus pasakė apie savo kraują?",
+    "options": {
+      "a": "„Mano kraujas yra gėrimas“",
+      "b": "„Mano kraujas yra gyvybė“",
+      "c": "„Mano kraujas yra šventas“",
+      "d": "„Mano kraujas yra amžinybė“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_019",
+    "question": "Ką sakė daugelis mokinių, išgirdę Jėzaus žodžius apie savo kūną ir kraują?",
+    "options": {
+      "a": "„Mes supratome tavo žodžius“",
+      "b": "„Kieti jo žodžiai, kas gali jų klausytis!“",
+      "c": "„Mes norime toliau sekti tave“",
+      "d": "„Mes tikime tau“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_020",
+    "question": "Ką Jėzus pasakė apie Dvasią ir kūną?",
+    "options": {
+      "a": "„Dvasia teikia gyvybę, o kūnas nieko neduoda“",
+      "b": "„Kūnas yra svarbesnis už dvasią“",
+      "c": "„Dvasia ir kūnas yra vienas“",
+      "d": "„Dvasia yra tik žmonių suvokimas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_021",
+    "question": "Ką Jėzus pasakė Petro, kai šis atsakė: „Pas ką mes eisime?“?",
+    "options": {
+      "a": "„Tu esi uola, ant tavo pastatysiu savo bažnyčią“",
+      "b": "„Tu turi amžinojo gyvenimo žodžius“",
+      "c": "„Tu esi mano mylimiausias mokinys“",
+      "d": "„Tu esi teisus, nes aš esu kelias“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_022",
+    "question": "Ką Petras pasakė Jėzui, kai šis paklausė, ar jie nori pasitraukti?",
+    "options": {
+      "a": "„Mes niekada nepasitrauksime“",
+      "b": "„Viešpatie, pas ką mes eisime? Tu turi amžinojo gyvenimo žodžius“",
+      "c": "„Mes visada busime su tavimi“",
+      "d": "„Mes tikime tau, net jei kiti pasitrauks“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_023",
+    "question": "Ką Jėzus pasakė apie vieną iš Dvylikos, kuris jį išduos?",
+    "options": {
+      "a": "„Jis yra mano brolis“",
+      "b": "„Jis yra velnias“",
+      "c": "„Jis yra mano mokinys“",
+      "d": "„Jis yra mano draugas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_024",
+    "question": "Kas buvo Judo, kuris turėjo išduoti Jėzų, tėvas?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Simonas Iskariotas",
+      "c": "Juozapas",
+      "d": "Andriejus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_6"
+  }
+]

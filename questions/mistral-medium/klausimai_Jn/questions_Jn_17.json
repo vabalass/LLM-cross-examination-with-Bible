@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_17_001",
+    "question": "Ką Jėzus prašo Tėvo pašlovinti Jn 17,1?",
+    "options": {
+      "a": "Savo vardą",
+      "b": "Savo Sūnų",
+      "c": "Pasaulį",
+      "d": "Apostolus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_002",
+    "question": "Kas, pagal Jn 17,3, yra amžinasis gyvenimas?",
+    "options": {
+      "a": "Tikėjimas ir meilė",
+      "b": "Pažinti vienintelį tikrąjį Dievą ir Jėzų Mesiją",
+      "c": "Gerų darbų atlikimas",
+      "d": "Maldos ir aukojimai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_003",
+    "question": "Ką Jėzus sakė apie darbą, kurį atliko žemėje (Jn 17,4)?",
+    "options": {
+      "a": "Jis dar nebaigė darbo, kurį gavo nuo Tėvo",
+      "b": "Jis pašlovino Tėvą, atlikdamas jam pavedimą darbą",
+      "c": "Jis atmetė Tėvo pavedimą",
+      "d": "Jis prašė Tėvo padėti jam baigti darbą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_004",
+    "question": "Ką Jėzus prašo Tėvo daryti su jo mokiniais, kai jie dar yra pasaulyje (Jn 17,11)?",
+    "options": {
+      "a": "Juos išimti iš pasaulio",
+      "b": "Juos išlaikyti ištikimus Tėvo vardui ir vienyti juos",
+      "c": "Juos bausti už nuodėmes",
+      "d": "Juos paskelbti karaliais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_005",
+    "question": "Kas, pagal Jn 17,12, išsipildė, kai vienas iš mokinų „pražuvo“?",
+    "options": {
+      "a": "Pranašystė apie Mesiją",
+      "b": "Raštas (Šventasis Raštas)",
+      "c": "Tėvo žadas apie karalystę",
+      "d": "Jėzaus malda apie vienybę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_006",
+    "question": "Ką Jėzus prašo Tėvo daryti su mokiniais, kad jie būtų apsaugoti nuo piktojo (Jn 17,15)?",
+    "options": {
+      "a": "Juos išimti iš pasaulio",
+      "b": "Juos pašventinti tiesa (Tėvo žodžiu)",
+      "c": "Juos padaryti nematomais",
+      "d": "Juos apdovanoti galingumu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_007",
+    "question": "Ką Jėzus prašo Tėvo dėl visų, kurie per mokių žodį Jėzų įtikės (Jn 17,21)?",
+    "options": {
+      "a": "Jog jie turėtų daug turto",
+      "b": "Jog visi būtų viena, kaip Tėvas ir Sūnus",
+      "c": "Jog jie valdytų pasaulį",
+      "d": "Jog jie niekada nenukentėtų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_008",
+    "question": "Ką Jėzus nori, kad jo mokiniai pamatytų, būdami su juo (Jn 17,24)?",
+    "options": {
+      "a": "Tėvo karalystės paslaptis",
+      "b": "Jo šlovę, kurią Tėvas jam suteikė",
+      "c": "Pasaulio pabaigą",
+      "d": "Visų žmonių atgimimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_17"
+  }
+]

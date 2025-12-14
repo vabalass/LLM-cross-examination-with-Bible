@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_19_001",
+    "question": "Ką Pilotas padarė Jėzui, kai pradėjo jo patyčias?",
+    "options": {
+      "a": "Nupjovė jam plaukus",
+      "b": "Nuplakdino jį",
+      "c": "Nusmuklė į veidą",
+      "d": "Nužudė jį kardo smūgiu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_002",
+    "question": "Ką kareiviai uždėjo Jėzui ant galvos, norėdami jį išjuokti?",
+    "options": {
+      "a": "Karūną iš aukso",
+      "b": "Vainiką iš erškėčių",
+      "c": "Skrybėlę iš šiaudų",
+      "d": "Drabužį iš vilnos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_003",
+    "question": "Ką Pilotas parodė žydams, išvedęs Jėzų laukan ir sakęs: „Štai žmogus!“?",
+    "options": {
+      "a": "Jėzų su vainiku iš erškėčių ir purpurine skraiste",
+      "b": "Jėzų su kryžiumi ant peties",
+      "c": "Jėzų su grandine prie kojų",
+      "d": "Jėzų su žaibo formos ietimi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_004",
+    "question": "Ką žydai reikalavo Pilotui daryti su Jėzumi, kai jį pamatė išvestą?",
+    "options": {
+      "a": "Paleisti jį laisvu",
+      "b": "Nukryžiuoti jį",
+      "c": "Ištrėmti jį iš miesto",
+      "d": "Nubausti jį akmenimis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_005",
+    "question": "Kodėl Pilotas nusigando, išgirdęs žydų teigimą, kad Jėzus laikė save Dievo Sūnumi?",
+    "options": {
+      "a": "Jis pats tikėjo Dievo Sūnumi",
+      "b": "Jis bijojo, kad Jėzus gali būti tikrasis karalius",
+      "c": "Jis suprato, kad Jėzus gali būti nekaltas",
+      "d": "Jis girdėjo, kad Dievo Sūnus negali būti nukryžiuotas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_006",
+    "question": "Ką Jėzus atsakė Pilotui, kai šis sakė: „Ar nežinai, kad turiu galią tave paleisti ir turiu galią tave nukryžiuoti?!“?",
+    "options": {
+      "a": "„Tu neturėtum man jokios galios, jeigu tau nebūtų jos duota iš aukštybių“",
+      "b": "„Tu esi tik žmogus, o aš esu Dievo Sūnus“",
+      "c": "„Tavo galia yra silpna, o mano Tėvas visagalis“",
+      "d": "„Aš nesu kaltas, todėl tu privalai mane paleisti“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_007",
+    "question": "Ką žydai pasakė Pilotui, norėdami, kad šis neleistų paleisti Jėzų?",
+    "options": {
+      "a": "„Jei jį paleidi, mes visi mirsime“",
+      "b": "„Jei šitą paleidi, nebesi ciesoriaus draugas“",
+      "c": "„Jei jį paleisi, mes paskelbsime karą“",
+      "d": "„Jei jį paleisi, mes paskelbsime jį karaliumi“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_008",
+    "question": "Kur Jėzus buvo nukryžiuotas?",
+    "options": {
+      "a": "Ant kalno, vadinamo Taboru",
+      "b": "Vietovėje, vadinamoje Golgota (Kįukolės vieta)",
+      "c": "Prie Jeruzalės miesto sienos",
+      "d": "Ant šventyklos pastogės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_009",
+    "question": "Ką Pilotas liepė parašyti ant kryžiaus, kur buvo nukryžiuotas Jėzus?",
+    "options": {
+      "a": "„Šis yra Dievo Sūnus“",
+      "b": "„Jėzus Nazarietis, žydų karalius“",
+      "c": "„Šis žmogus mirė už mūsų nuodėmes“",
+      "d": "„Čia miršta žydų išdavikas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_010",
+    "question": "Ką kareiviai padarė su Jėzaus drabužiais po nukryžiavimo?",
+    "options": {
+      "a": "Juos sudegino",
+      "b": "Juos padalijo tarp savęs ir dėl tunikos metė burtą",
+      "c": "Juos atidavė Jėzaus motinai",
+      "d": "Juos paslėpė saugoti kaip relikviją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_011",
+    "question": "Kas stovėjo prie Jėzaus kryžiaus, kai jis buvo nukryžiuotas?",
+    "options": {
+      "a": "Petras, Jonas ir Juditas",
+      "b": "Jo motina, jo motinos sesuo Marija Klopienė ir Marija Magdalietė",
+      "c": "Pilotas, aukštieji kunigai ir kareiviai",
+      "d": "Juozapas iš Arimatėjos ir Nikodemas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_012",
+    "question": "Ką Jėzus pasakė mylimajam mokiniui, rodydamas jam savo motiną?",
+    "options": {
+      "a": "„Štai tavo sesuo!“",
+      "b": "„Štai tavo motina!“",
+      "c": "„Štai tavo karalienė!“",
+      "d": "„Štai tavo globėja!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_013",
+    "question": "Ką Jėzus pasakė prieš mirtį, paragavęs perrūgusio vyno?",
+    "options": {
+      "a": "„Tėve, atleisk jiems, nes jie nežino, ką daro“",
+      "b": "„Atlikta!“",
+      "c": "„Aš esu paskutinis žydų karalius“",
+      "d": "„Trokštu!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_014",
+    "question": "Kas padarė, kad Jėzaus kūnas būtų nuimtas nuo kryžiaus prieš šabatą?",
+    "options": {
+      "a": "Pilotas liepė kareiviams nuimti kūną",
+      "b": "Juozapas iš Arimatėjos paprašė Piloto leidimo nuimti kūną",
+      "c": "Žydai prašė Piloto, kad kūnai būtų nuimti",
+      "d": "Nikodemas atsigabeno kūną pas save"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_19"
+  }
+]

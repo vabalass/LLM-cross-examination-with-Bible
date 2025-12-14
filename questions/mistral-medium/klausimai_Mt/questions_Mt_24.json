@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Mt_24_001",
+    "question": "Ką Jėzus pasakė apie Jeruzalės šventyklą, kai mokiniai jam rodė jos rūmus?",
+    "options": {
+      "a": "„Čia neliks akmens ant akmens, viskas bus išgriauta“",
+      "b": "„Ši šventykla bus atstatyta per tris dienas“",
+      "c": "„Ši šventykla taps visų tautų maldos namais“",
+      "d": "„Šventykla bus apsaugota nuo visų karų ir nelaimių“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_002",
+    "question": "Ką klausė mokiniai Jėzaus, kai jis atsisėdo Alyvų kalne?",
+    "options": {
+      "a": "„Kada mūsų karalystė taps didžiausia?“",
+      "b": "„Kada tu atstatysi Izraelio karalystę?“",
+      "c": "„Pasakyk mums, kada tai įvyks? Ir koks tavo atėjimo ir pasaulio pabaigos ženklas?“",
+      "d": "„Kada mes tapsime tavo karalystės valdovais?“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_003",
+    "question": "Ką Jėzus įspėjo apie žmones, kurie ateis su jo vardu ir teigs, kad jie yra Mesijas?",
+    "options": {
+      "a": "Jie bus iškart atpažinti dėl savo šventumo",
+      "b": "Jie sukels didelius stebuklus, todėl juos reikia sekti",
+      "c": "Daug kas ateis su mano vardu ir sakys: 'Aš Mesijas!', ir daugelį suklaidins",
+      "d": "Jie bus pasiunti iš dangaus, kad paskelbtų tiesą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_004",
+    "question": "Ką Jėzus sakė apie karus, karų gandus ir natūralias nelaimes?",
+    "options": {
+      "a": "Tai bus pasaulio pabaiga",
+      "b": "Tai reiškia, kad Mesijas jau atėjo",
+      "c": "Tai dar ne galas, bet kentėjimų pradžia",
+      "d": "Tai bus Dievo bausmė už žmonių nuodėmes"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_005",
+    "question": "Ką Jėzus pasakė apie netikrus pranašus ir jų poveikį?",
+    "options": {
+      "a": "Jie atveria žmonėms akis ir vedą į tiesą",
+      "b": "Jie sukels didelius stebuklus, todėl juos reikia klausyti",
+      "c": "Atsiras daug netikrų pranašų, kurie daugelį suvedžios",
+      "d": "Jie bus pašalinti iš žemės prieš pasaulio pabaigą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_006",
+    "question": "Ką Jėzus pasakė apie meilę ir neteisybę pasaulio pabaigos laikotarpiu?",
+    "options": {
+      "a": "Meilė bus stipriauji, nes žmonės susivienys",
+      "b": "Kadangi įsigalės neteisybė, daugelio meilė atšals",
+      "c": "Neteisybė bus nugalėta gerumu",
+      "d": "Meilė bus tik tarp išrinktųjų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_007",
+    "question": "Ką Jėzus pasakė apie tai, kas bus paskelbta visame pasaulyje prieš pasaulio pabaigą?",
+    "options": {
+      "a": "Naujoji sąjunga tarp Dievo ir žmonių",
+      "b": "Karalystės Evangelija visoms tautoms",
+      "c": "Naujasis Įstatymas, kurį visi turės laikytis",
+      "d": "Paslaptis apie pasaulio sukūrimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_008",
+    "question": "Ką Jėzus įsakė daryti, kai pamatys „sunaikinimo pabaisą“ šventoje vietoje?",
+    "options": {
+      "a": "Susirinkti šventykloje maldai",
+      "b": "Bėgti į kalnus ir nesigrįžti pasiimti daiktų",
+      "c": "Ginti šventąją vietą nuo priešių",
+      "d": "Laukti, kol Mesijas atės ir išgelbės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_009",
+    "question": "Kam Jėzus pasakė, kad bus sunkiai pasaulio pabaigos dienomis?",
+    "options": {
+      "a": "Senoliams ir ligoniams",
+      "b": "Nėščioms ir žindančioms",
+      "c": "Vargšams ir skurdžiems",
+      "d": "Kariams ir valdovams"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_010",
+    "question": "Ką Jėzus pasakė apie „didį suspaudimą“, kuris bus pasaulio pabaigos dienomis?",
+    "options": {
+      "a": "Jis truks 40 dienų ir 40 naktų",
+      "b": "Jis bus toks, kokio nėra buvę nuo pasaulio pradžios iki dabar ir kokio daugiau nebebus",
+      "c": "Jis bus tik Jeruzalėje",
+      "d": "Jis bus trumpas ir nesunkus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_011",
+    "question": "Ką Jėzus pasakė apie netikrus mesijus ir pranašus, kurie rodys stebuklus?",
+    "options": {
+      "a": "Jie bus atpažinti iš karto ir nubausti",
+      "b": "Jie bus pasiunti iš dangaus, kad išgelbėtų žmones",
+      "c": "Jie mėgins suklaidinti, jei tai įmanoma, net išrinktuosius",
+      "d": "Jie bus tik tie, kurie tikrai myli Dievą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_012",
+    "question": "Ką Jėzus palygino su Žmogaus Sūnaus atėjimu?",
+    "options": {
+      "a": "Su saulės tekėjimu",
+      "b": "Su žaibu, tvykstelėjančiu iš rytų iki vakarų",
+      "c": "Su jūros bangomis",
+      "d": "Su ugnies liepsna"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_013",
+    "question": "Ką Jėzus pasakė apie tai, kas bus, kai Žmogaus Sūnus atės?",
+    "options": {
+      "a": "Visos tautos susirinks į maldas",
+      "b": "Visos žemės tautos ims raudoti ir pamatys Žmogaus Sūnų, ateinantį su didžia galybe",
+      "c": "Visos tautos bus pašalintos iš žemės",
+      "d": "Visos tautos taps vieningomis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_014",
+    "question": "Ką Jėzus pasakė apie angelius, kai Žmogaus Sūnus atės?",
+    "options": {
+      "a": "Jie bus pasiunti sunaikinti pasaulį",
+      "b": "Jie surinks išrinktuosius iš visų keturių šalių",
+      "c": "Jie bus paskelbę naująjį įstatymą",
+      "d": "Jie bus paslėpę nuo žmonių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_015",
+    "question": "Ką Jėzus pasakė apie pasaulio pabaigos dieną ir valandą?",
+    "options": {
+      "a": "Ją žino tik išrinktieji",
+      "b": "Ją žino tik dangaus angelai",
+      "c": "Jos nežino nei dangaus angelai, nei Sūnus, o vien tik Tėvas",
+      "d": "Ją žino visi, kurie tikrai tikėja"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_016",
+    "question": "Ką Jėzus pasakė apie tai, kaip bus, kai ateis Žmogaus Sūnus, lyginant su Nojaus laikais?",
+    "options": {
+      "a": "Žmonės bus pasiruošę ir laukę",
+      "b": "Žmonės, nieko nenumanydami, valgys, gers ir ves, kol ateis nelaimė",
+      "c": "Žmonės bus persikėlimo metu",
+      "d": "Žmonės bus susibūrę maldai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_017",
+    "question": "Ką Jėzus pasakė apie tarną, kuris gerai besidarboja, kai šeimininkas sugrįš?",
+    "options": {
+      "a": "Jis bus atleistas nuo darbo",
+      "b": "Jis bus paskirtas valdyti visų šeimininko turtų",
+      "c": "Jis bus pasiūlytas tapti šeimininko pavaduotoju",
+      "d": "Jis bus paskelbtas blogiausių tarnų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_24"
+  }
+]

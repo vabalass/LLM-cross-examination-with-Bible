@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_11_001",
+    "question": "Ką Jėzus atsakė mokiniui, kai šis paprašė išmokyti maldos?",
+    "options": {
+      "a": "„Kai melsitės, sakykite: 'Tėve, teesie šventas tavo vardas...'“",
+      "b": "„Melskitės slėpdami savo veidus, kad Dievas jūsų maldą išgirstų“",
+      "c": "„Maldos nereikia, Dievas žino, ko jums reikia“",
+      "d": "„Maldą turi mokyti tik kunigai, nes jie artimiausi Dievui“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_002",
+    "question": "Ką Jėzus sakė apie kasdienės duonos prašymą maldose?",
+    "options": {
+      "a": "„Prašykite duonos, ir gausite akmenis, kad išmoktumėte kantrybės“",
+      "b": "„Kasdienės mūsų duonos duok mums kasdien“",
+      "c": "„Duona nėra svarbi, prašykite tik dvasinių dovanų“",
+      "d": "„Duonos prašyti reikia tik šventadieniais“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_003",
+    "question": "Ką Jėzus pasakojo apie atleidimą maldose?",
+    "options": {
+      "a": "„Atleisk mums mūsų kaltes, nes ir mes atleidžiame kiekvienam, kuris mums kaltas“",
+      "b": "„Atleidimas nereikalingas, Dievas viską atleidžia be sąlygų“",
+      "c": "„Atleiskite tik tuos, kurie prašo atleidimo“",
+      "d": "„Atleidimas priklauso tik nuo kunigų“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_004",
+    "question": "Ką Jėzus palyginė parabolėje apie vidurnakčio draugą, kuris prašo duonos?",
+    "options": {
+      "a": "Draugas atiduos duoną dėl bičiulystės",
+      "b": "Draugas atiduos duoną dėl įkyrumo, jei ne dėl bičiulystės",
+      "c": "Draugas niekada neatsikels ir neatsiduos duonos",
+      "d": "Draugas duos tik pusę prašytos duonos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_005",
+    "question": "Ką Jėzus sakė apie prašymą, ieškojimą ir beldimą?",
+    "options": {
+      "a": "„Prašykite, ir jums bus duota; ieškokite, ir rasite; belskite, ir jums bus atidaryta“",
+      "b": "„Prašyti reikia tik vieną kartą, kad Dievas nepagalvotų, kad esate gobšūs“",
+      "c": "„Dievas duos tik tuos, kurie prašo per kunigus“",
+      "d": "„Prašymas ir ieškojimas nėra svarbūs, svarbiausia tikėti“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_006",
+    "question": "Ką Jėzus paminėjo apie tėvų elgesį su vaikais, kalbėdamas apie Dievo gerumą?",
+    "options": {
+      "a": "„Kur jūs matėte tokį tėvą, kad duonos prašančiam vaikui duotų akmenį?!“",
+      "b": "„Tėvai visada duoda vaikams, ko šie prašo, net jei tai yra žala“",
+      "c": "„Vaikai neturėtų nieko prašyti, tėvai žino, ko jiems reikia“",
+      "d": "„Dievas duos tik tuos, kurie prašo su ašaromis“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_007",
+    "question": "Ką Jėzus sakė apie Šventąją Dvasią, kalbėdamas apie Dievo gerumą?",
+    "options": {
+      "a": "„Jūsų Tėvas iš dangaus suteiks Šventąją Dvasią tiems, kurie jį prašo“",
+      "b": "„Šventoji Dvasia suteikiama tik kunigams ir pranašams“",
+      "c": "„Šventoji Dvasia ateis tik paskutinę dieną“",
+      "d": "„Šventosios Dvasios prašyti nereikia, ji ateina savanoriškai“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_008",
+    "question": "Ką žmonės sakė apie Jėzų, kai jis išvarė nebylumo demoną?",
+    "options": {
+      "a": "„Jis išvaro demonus demonų valdovo Belzebulo galia“",
+      "b": "„Jis yra Dievo Sūnus, todėl gali išvaryti demonus“",
+      "c": "„Jis naudojo magiją, kad išvarytų demoną“",
+      "d": "„Jis turi slaptą sutartį su angelais“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_009",
+    "question": "Ką Jėzus atsakė tie, kurie reikalavo iš jo ženklo iš dangaus?",
+    "options": {
+      "a": "„Ši karta bus duotas tik Jonos ženklas“",
+      "b": "„Aš duosiu jums ženklą, jei tik tikrai tikėsite“",
+      "c": "„Ženklai nėra svarbūs, svarbu tikėti širdyje“",
+      "d": "„Ženklai bus duoti tik po manęs atėjusiam“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_010",
+    "question": "Ką Jėzus pasakojo apie suskilusią karalystę?",
+    "options": {
+      "a": "„Kiekviena suskilusi karalystė bus sunaikinta“",
+      "b": "„Suskilusi karalystė taps stipresne“",
+      "c": "„Suskilusi karalystė bus vieninga Dievo valdžia“",
+      "d": "„Suskilusi karalystė bus atnaujinta per karą“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_011",
+    "question": "Ką Jėzus sakė apie tai, kas ne su juo?",
+    "options": {
+      "a": "„Kas ne su manimi, tas prieš mane“",
+      "b": "„Kas ne su manimi, tas bus atleidžiamas“",
+      "c": "„Kas ne su manimi, tas bus paskutinis“",
+      "d": "„Kas ne su manimi, tas bus pamirštas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_012",
+    "question": "Ką Jėzus pasakojo apie netyriąją dvasią, grįžtančią į žmogų?",
+    "options": {
+      "a": "„Sugrįžusi randa namus iššluotus ir išpuoštus, pasiima kitas septynias dvasias, dar piktesnes už save“",
+      "b": "„Netyroji dvasia grįžta ir tapata gerąja“",
+      "c": "„Netyroji dvasia grįžta, bet niekada nebeišėina“",
+      "d": "„Netyroji dvasia grįžta tik su viena kita dvasia“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_013",
+    "question": "Ką Jėzus atsakė moteriai, kuri šaukė: „Palaimintos įsčios, kurios tave nešiojo“?",
+    "options": {
+      "a": "„Dar labiau palaiminti tie, kurie klausosi Dievo žodžio ir jo laikosi“",
+      "b": "„Tavo žodžiai man patikimi, bet Dievas žino viską“",
+      "c": "„Moterys, kurios mane nešiojo, bus palaimintos tik danguje“",
+      "d": "„Tavo palaiminimas yra teisingas, bet reikia daugiau tikėti“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_014",
+    "question": "Ką Jėzus sakė apie Jonos ženklą šiai kartai?",
+    "options": {
+      "a": "„Ši karta reikalauja ženklo, bet jai nebus duota jokio kito ženklo, kaip tik Jonos ženklas“",
+      "b": "„Jonas bus atsiųstas dar kartą, kad išgelbėtų šią kartą“",
+      "c": "„Jonos ženklas bus duotas tik po manęs atėjusiam“",
+      "d": "„Jonas nebuvo ženklas, o tik pranašas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_015",
+    "question": "Ką Jėzus pasakojo apie Pietų šalies karalienę ir Ninevės gyventojus teismo dieną?",
+    "options": {
+      "a": "„Jie prisikels ir pasmerks šią kartą, nes jie atsivertė, o ši karta – ne“",
+      "b": "„Jie bus palaiminti, nes jie tikėjo Dievu“",
+      "c": "„Jie nebus pasmerkti, nes jie buvo svetimi“",
+      "d": "„Jie bus atleidžiami dėl savo nežinomybės“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_016",
+    "question": "Ką Jėzus sakė apie kūno žiburį?",
+    "options": {
+      "a": "„Kūno žiburys yra tavoji akis“",
+      "b": "„Kūno žiburys yra tavo širdis“",
+      "c": "„Kūno žiburys yra tavo protas“",
+      "d": "„Kūno žiburys yra tavo rankos“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_017",
+    "question": "Ką Jėzus pasakė fariziejams apie taures ir dubenius?",
+    "options": {
+      "a": "„Jūs valote taurės ir dubens išorę, o viduj esate pilni gobšumo ir nelabumo“",
+      "b": "„Jūs esate švarūs išorėje ir viduje“",
+      "c": "„Taurės ir dubenys nėra svarbūs, svarbu tik širdis“",
+      "d": "„Jūs turite valyti tik vidų, o išorė nesvarbi“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_018",
+    "question": "Ką Jėzus sakė apie fariziejų dešimtines?",
+    "options": {
+      "a": "„Jūs duodate dešimtinę iš mėtų, rūtų, o nepaisote teisingumo ir Dievo meilės“",
+      "b": "„Jūsų dešimtinės yra pakankamos Dievui“",
+      "c": "„Dešimtinės nereikalingos, svarbiau tikėti“",
+      "d": "„Dešimtinės turi būti duodamos tik šventykloje“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_11"
+  }
+]

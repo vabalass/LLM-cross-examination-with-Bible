@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Jn_18_001",
+    "question": "Kur Jėzus ir jo mokiniai susirinko prieš suėmimą?",
+    "options": {
+      "a": "Anapus Kedrono upelio, sode",
+      "b": "Jeruzalės šventykloje",
+      "c": "Betanijos kaimo namuose",
+      "d": "Galilėjos ežero pakrantėje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_002",
+    "question": "Kas išdavė Jėzų ir atvedė kareivius su ginklais?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Judas Iskariotas",
+      "c": "Jonas, vienas iš dvylikos",
+      "d": "Vyriausiasis kunigas Kajafas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_003",
+    "question": "Ką padarė kareiviai ir tarnai, kai Jėzus pasakė: „Tai aš“?",
+    "options": {
+      "a": "Jie išgąsdinti pabėgo",
+      "b": "Jie atšoko atgal ir parpuolė ant žemės",
+      "c": "Jie pradėjo šviesti žibintais",
+      "d": "Jie iškart surišo Jėzų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_004",
+    "question": "Ką Jėzus prašė, kai kareiviai suėmė jį?",
+    "options": {
+      "a": "Leisti mokiniams pasišalinti",
+      "b": "Duoti jam gėrimo",
+      "c": "Nebūti jį mušant",
+      "d": "Leisti jam paskutį kartą pamaldauti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_005",
+    "question": "Ką Petras padarė, kai kareiviai suėmė Jėzų?",
+    "options": {
+      "a": "Jis pabėgo iš sodo",
+      "b": "Jis nukirto tarno ausį",
+      "c": "Jis pradėjo girtis su kareiviais",
+      "d": "Jis ėmė šaukti, kad Jėzus yra nekalta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_006",
+    "question": "Kam Jėzus buvo pirmiausia atvestas po suėmimo?",
+    "options": {
+      "a": "Pas Herodą Antipą",
+      "b": "Pas Pončijų Pilotą",
+      "c": "Pas vyriausiąjį kunigą Aną",
+      "d": "Pas Romos imperatorių"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_007",
+    "question": "Ką Petras atsakė, kai durininkė paklausė, ar jis yra vienas iš Jėzaus mokinių?",
+    "options": {
+      "a": "„Taip, aš esu jo mokinys“",
+      "b": "„O, ne!“",
+      "c": "„Aš nieko nežinau“",
+      "d": "„Kas tu esi, kad mane klausi?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_008",
+    "question": "Ką Jėzus atsakė, kai vyriausiasis kunigas klausė apie jo mokslą?",
+    "options": {
+      "a": "„Aš nieko nesu mokęs“",
+      "b": "„Aš viešai kalbėjau pasauliui“",
+      "c": "„Mano mokslą supras tik Dievas“",
+      "d": "„Aš mokiau tik savo mokiniai“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_009",
+    "question": "Kas smogė Jėzui per veidą, kai jis kalbėjo su vyriausiuoju kunigu?",
+    "options": {
+      "a": "Vyriausiasis kunigas Kajafas",
+      "b": "Vienas iš tarnų",
+      "c": "Pilotas",
+      "d": "Judas Iskariotas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_010",
+    "question": "Ką Jėzus atsakė Pilotui, kai šis paklausė: „Ar tu esi žydų karalius?“",
+    "options": {
+      "a": "„Aš ne karalius, o pranašas“",
+      "b": "„Mano karalystė ne iš šio pasaulio“",
+      "c": "„Aš esu tik žmogus“",
+      "d": "„Aš esu Dievo Sūnus, ne karalius“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_011",
+    "question": "Ką Pilotas pasiūlė žydams Velykų proga?",
+    "options": {
+      "a": "Paleisti Jėzų ir Barabą",
+      "b": "Paleisti vieną suimtąjį – Jėzų ar Barabą",
+      "c": "Suteikti malonę visiems kaliniams",
+      "d": "Atleisti visus nuteistus mirtimi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_012",
+    "question": "Kas buvo Barabas, kurį žydai pasirinko paleisti vietoj Jėzaus?",
+    "options": {
+      "a": "Vagys",
+      "b": "Plėšikas",
+      "c": "Žudikas",
+      "d": "Išdavikas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_013",
+    "question": "Ką Jėzus sakė apie tiesą, kalbėdamas su Pilotu?",
+    "options": {
+      "a": "„Tiesa yra tik Dieve“",
+      "b": "„Aš esu tiesa“",
+      "c": "„Aš tam esu gimęs ir atėjęs į pasaulį, kad liudyčiau tiesą“",
+      "d": "„Tiesa yra nepasiekiama žmogui“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_18"
+  }
+]

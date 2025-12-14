@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Jn_7_001",
+    "question": "Kodėl Jėzus nenorėjo eiti į Judėją, kai artėjo Palapinių šventė?",
+    "options": {
+      "a": "Nes žydai jo tykojo nužudyti.",
+      "b": "Nes jis buvo susirgęs ir negalėjo keliauti.",
+      "c": "Nes jis turėjo likti Galilėjoje mokyti mokinių.",
+      "d": "Nes jis laukė Dievo žinutės, kada turi išvykti."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_002",
+    "question": "Ką Jėzaus broliai jam pasiūlė daryti, norėdami, kad jis pasirodytų viešumon?",
+    "options": {
+      "a": "Jie pasiūlė jam išvykti į Judėją, kad mokiniai pamatytų jo darbus.",
+      "b": "Jie pasiūlė jam pasitraukti į dykumą ir ten mokyti.",
+      "c": "Jie pasiūlė jam pradėti rašyti knygą apie savo mokymą.",
+      "d": "Jie pasiūlė jam imtis politinės veiklos."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_003",
+    "question": "Ką Jėzus atsakė savo broliams, kai jie ragino jį viešai pasirodyti?",
+    "options": {
+      "a": "„Mano metas dar neatėjo, o jums metas visada tinkamas.“",
+      "b": "„Aš jaučiu, kad dabar yra laikas išvykti į Jeruzalę.“",
+      "c": "„Jūs neteisingai suprantate mano misiją.“",
+      "d": "„Aš turiu likti čia ir mokyti žmones.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_004",
+    "question": "Ką žydai sakė apie Jėzų, kai jis pasirodė šventykloje ir ėmė mokyti?",
+    "options": {
+      "a": "„Iš kur jis išmano Raštą, visai nesimokęs?“",
+      "b": "„Jis yra tikrasis Mesijas, kurio mes laukiame.“",
+      "c": "„Jis turi būti išvytas iš miesto.“",
+      "d": "„Jis kalba kaip pranašas, bet mes jam netikime.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_005",
+    "question": "Ką Jėzus atsakė žydams, kai jie abejojo, iš kur jis turi žinias?",
+    "options": {
+      "a": "„Mano mokslas ne mano, bet to, kuris yra mane siuntęs.“",
+      "b": "„Aš mokausi iš senųjų raštų ir pranašų knygų.“",
+      "c": "„Aš esu Dievo Sūnus, todėl žinoju viską.“",
+      "d": "„Jūs neteisingai manę klausiate.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_006",
+    "question": "Ką Jėzus sakė apie žmones, kurie ieško savo garbės, o ne Dievo garbės?",
+    "options": {
+      "a": "Jie kalba iš savo galvos ir ieško savo garbės.",
+      "b": "Jie yra tikrieji Dievo tarnai.",
+      "c": "Jie turi būti pripažinti kaip teisūs.",
+      "d": "Jie yra paskutiniai, bet bus pirmieji."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_007",
+    "question": "Ką Jėzus paminėjo kaip vieną iš savo darbų, kuris sukėlė žydų pasipiktinimą?",
+    "options": {
+      "a": "Jis pagydė žmogų šabo dieną.",
+      "b": "Jis apipjaustė žmogų šabo dieną.",
+      "c": "Jis mokė žmones šabo dieną.",
+      "d": "Jis pardavė savo turimą turtą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_008",
+    "question": "Ką Jėzus pasakė apie teisingumą, kai žydai jam prieštaravo dėl šabo dienų darbų?",
+    "options": {
+      "a": "„Tad neteiskite pagal išorę, bet žiūrėkite teisingumo.“",
+      "b": "„Jūs turite laikytis Mozės įstatymo, bet ne savo nuomonės.“",
+      "c": "„Jūs esate hipokritai, nes nesilaikote patys savo taisyklių.“",
+      "d": "„Jūs turite atleisti žmones, kaip ir Dievas atleidžia jums.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_009",
+    "question": "Ką kai kurie Jeruzalės gyventojai abejojo dėl Jėzaus, kai jis viešai kalbėjo?",
+    "options": {
+      "a": "Jie abejojo, ar vyresnybė įsitikino, jog jis Mesijas.",
+      "b": "Jie abejojo, ar jis iš tikrųjų yra pranašas.",
+      "c": "Jie abejojo, ar jis turi teisę mokyti šventykloje.",
+      "d": "Jie abejojo, ar jis turi mokinių."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_010",
+    "question": "Ką Jėzus pasakė apie savo kilmę, kai žmonės abejojo dėl Mesijo atėjimo?",
+    "options": {
+      "a": "„Aš ne pats nuo savęs atėjau, bet tiesakalbis yra tas, kuris mane atsiuntė.“",
+      "b": "„Aš esu iš Dovydo palikuonių, kaip ir Raštas sako.“",
+      "c": "„Aš esu iš Galilėjos, bet tai nereiškia, kad aš ne Mesijas.“",
+      "d": "„Aš esu iš Betliejaus, kaip ir pranašai pranašavo.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_011",
+    "question": "Kodėl sargybiniai, pasiųsti suimti Jėzų, neatsivedė jo?",
+    "options": {
+      "a": "Niekados žmogus nėra taip kalbėjęs.",
+      "b": "Jie bijojo žydų, kurie galėjo juos užpulti.",
+      "c": "Jie buvo įtikėję Jėzaus mokymu ir nebe norėjo jį suimti.",
+      "d": "Jie negalėjo jį rasti šventykloje."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_012",
+    "question": "Ką Jėzus pasakė apie Dvasią, kurią turės gauti įtikėjusieji?",
+    "options": {
+      "a": "„Kas mane tiki, iš jo vidaus plūs gyvojo vandens srovės.“",
+      "b": "„Dvasia bus duodama tik išrinktiesiems.“",
+      "c": "„Dvasia ateis tik po mano mirties.“",
+      "d": "„Dvasia bus duodama tik šventykloje.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_013",
+    "question": "Ką kai kurie žmonės sakė apie Jėzų, išgirdę jo žodžius apie gyvojo vandens sroves?",
+    "options": {
+      "a": "„Jis iš tiesų pranašas!“",
+      "b": "„Jis yra Mesijas, kurio mes laukiame.“",
+      "c": "„Jis turi būti išvytas iš miesto.“",
+      "d": "„Jis kalba kaip velnias.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_014",
+    "question": "Ką kai kurie žmonės abejojo dėl Jėzaus kilmės, sakydami, kad Mesijas negali būti iš Galilėjos?",
+    "options": {
+      "a": "Raštas sako, jog Mesijas ateis iš Dovydo palikuonių, iš Betliejaus miestelio.",
+      "b": "Raštas sako, jog Mesijas turi būti iš Jeruzalės.",
+      "c": "Raštas sako, jog Mesijas turi būti iš Galilėjos.",
+      "d": "Raštas sako, jog Mesijas turi būti iš Nazareto."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_015",
+    "question": "Ką fariziejai pasakė sargybiniams, kai šie neatsivedė Jėzaus?",
+    "options": {
+      "a": "„Gal jau ir jūs leidotės suvedžiojami?“",
+      "b": "„Jūs esate nenaudeliautinai ir pavojingi.“",
+      "c": "„Jūs turite grįžti ir suimti jį jėga.“",
+      "d": "„Jūs neturite teisės abejoti mūsų įsakymų.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_016",
+    "question": "Ką Nikodemas pasakė fariziejams, gindamas Jėzų?",
+    "options": {
+      "a": "„Ar leidžia mūsų Įstatymas pasmerkti žmogų, jeigu jis pirmiau neištardytas ir nėra žinoma, ką jis padaręs?“",
+      "b": "„Jis yra nekalta auka, ir mes turime jį apsaugoti.“",
+      "c": "„Jis yra Mesijas, ir mes turime jam tikėti.“",
+      "d": "„Jis yra pranašas, ir mes turime klausyti jo žodžių.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_017",
+    "question": "Ką fariziejai atsakė Nikodemui, kai šis gynė Jėzų?",
+    "options": {
+      "a": "„Gal ir tu iš Galilėjos? Patyrinėk, ir pamatysi, kad joks pranašas nebuvo kilęs iš Galilėjos.“",
+      "b": "„Tu esi vienas iš jo mokinių, todėl gini jį.“",
+      "c": "„Tu neturėtum kalbėti prieš mūsų sprendimus.“",
+      "d": "„Tu turi pasitraukti iš mūsų tarpo.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_018",
+    "question": "Ką padarė žmonės, kai fariziejai ir aukštieji kunigai pasiuntė sargybinius suimti Jėzų?",
+    "options": {
+      "a": "Jie išsisklaidė, ir kiekvienas ėjo namo.",
+      "b": "Jie susirinko ir pradėjo kalbėti prieš Jėzų.",
+      "c": "Jie pradėjo ieškoti Jėzaus visame mieste.",
+      "d": "Jie pasitraukė į šventyklą ir pradėjo melstis."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_7"
+  }
+]

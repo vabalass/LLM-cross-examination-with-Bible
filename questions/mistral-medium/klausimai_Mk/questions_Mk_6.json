@@ -1,0 +1,249 @@
+[
+  {
+    "id": "Mk_6_001",
+    "question": "Kur Jėzus pradėjo mokyti, kai grįžo į savo tėviškę?",
+    "options": {
+      "a": "Sinagogoje",
+      "b": "Aikštėje",
+      "c": "Kalno viršūnėje",
+      "d": "Namų kiemelyje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_002",
+    "question": "Ką žmonės klausėsi, kai Jėzus mokė savo tėviškėje?",
+    "options": {
+      "a": "Jie džiaugėsi ir tikėjo jam",
+      "b": "Jie stebėjosi, iš kur jam tokia išmintis ir stebuklinga jėga",
+      "c": "Jie prašė jį tapti jų karaliumi",
+      "d": "Jie nieko nepasakė ir pasišlykštėjo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_003",
+    "question": "Ką Jėzus pasakė, kai žmonės jo tėviškėje netikėjo jam?",
+    "options": {
+      "a": "„Pranašas visur priimamas su garbe“",
+      "b": "„Niekur pranašas nebūna be pagarbos, nebent savo tėviškėje tarp savo giminių“",
+      "c": "„Jūsų netikėjimas bus jums nubauda“",
+      "d": "„Aš čia daugiau nebegrįšiu“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_004",
+    "question": "Kiek stebuklų Jėzus padarė savo tėviškėje dėl žmonių netikėjimo?",
+    "options": {
+      "a": "Jis padarė daug stebuklų, kad įtikintų juos",
+      "b": "Jis padarė tik vieną stebuklą – išgydė visus ligonius",
+      "c": "Jis negalėjo padaryti beveik jokio stebuklo, išskyrus keliems ligoniams padėti",
+      "d": "Jis nebandė daryti stebuklų, nes buvo piktas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_005",
+    "question": "Ką Jėzus liepė apaštalams neimti į kelionę, kai juos siuntė mokyti?",
+    "options": {
+      "a": "Lazdos, duonos, krepšio ir pinigų diržo",
+      "b": "Drabužių, avalynės ir maisto",
+      "c": "Ginklų, šalmo ir skydo",
+      "d": "Knygų, popieriaus ir rašalo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_006",
+    "question": "Ką Jėzus liepė daryti, jei žmonės nepriimtų apaštalų?",
+    "options": {
+      "a": "Pasilikti ir bandyti dar kartą",
+      "b": "Išsiųsti laišką su perspėjimu",
+      "c": "Išeiti ir nusikratyti dulkes nuo kojų kaip liudijimą prieš juos",
+      "d": "Pasakyti, kad jie bus nubausti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_007",
+    "question": "Ką žmonės sakė apie Jėzų, kai jo garsas pasklido?",
+    "options": {
+      "a": "Jis yra naujas karalius",
+      "b": "Jis yra Jonas Krikštytojas, prisikėlęs iš numirusių",
+      "c": "Jis yra Romos imperijos pasiuntinys",
+      "d": "Jis yra demonų valdovas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_008",
+    "question": "Kodėl Erodas įsakė suimti Joną Krikštytoją?",
+    "options": {
+      "a": "Dėl to, kad Jonas kritikuojo Erodą už santykius su savo brolio žmona Erodiada",
+      "b": "Dėl to, kad Jonas buvo pavogęs karaliaus lobyną",
+      "c": "Dėl to, kad Jonas buvo sukilęs prieš karalių",
+      "d": "Dėl to, kad Jonas buvo išdavęs karaliaus paslaptis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_009",
+    "question": "Ką Erodiada prašė savo dukters prašyti nuo Erodo kaip dovanos?",
+    "options": {
+      "a": "Pusę karalystės",
+      "b": "Jono Krikštytojo galvą",
+      "c": "Brangius brangakmenius",
+      "d": "Laisvę savo suimtai šeimai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_010",
+    "question": "Ką Erodas padarė, kai sužinojo, kad Jėzus daro stebuklus?",
+    "options": {
+      "a": "Jis pasiuntė kariuomenę suimti Jėzų",
+      "b": "Jis pasakė, kad tai prisikėlęs Jonas Krikštytojas",
+      "c": "Jis nusiuntė dovanas Jėzui",
+      "d": "Jis paskelbė visai karalystei apie Jėzų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_011",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie grįžo ir pasakojo apie savo darbus?",
+    "options": {
+      "a": "„Eikite į miestus ir mokykite dar daugiau žmonių“",
+      "b": "„Eikite sau vieni į negyvenamą vietą ir truputį pailsėkite“",
+      "c": "„Dabar laikas grįžti namo“",
+      "d": "„Jums reikia daugiau mokytis, kol galėsite mokyti kitus“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_012",
+    "question": "Ką Jėzus padarė, kai pamatė didžiulę minią, kurią palydėjo?",
+    "options": {
+      "a": "Jis juos išvarė, nes buvo pavargęs",
+      "b": "Jis pradėjo juos mokyti, nes jam pagailėjo jų",
+      "c": "Jis pasakė, kad jie turi grįžti namo",
+      "d": "Jis pasakė, kad jie turi pasiduoti karaliui"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_013",
+    "question": "Kiek duonos ir žuvų turėjo mokiniai, kai Jėzus norėjo pamaitinti minią?",
+    "options": {
+      "a": "Septynis kepalus ir tris žuvis",
+      "b": "Penkis kepaliukus ir dvi žuvis",
+      "c": "Vieną kepalą ir vieną žuvį",
+      "d": "Dešimt kepalų ir penkias žuvis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_014",
+    "question": "Kiek žmonių buvo pamaitinta Jėzaus padaugintomis duonomis?",
+    "options": {
+      "a": "Tūkstantis vyrų",
+      "b": "Penki tūkstančiai vyrų",
+      "c": "Dešimt tūkstančių vyrų",
+      "d": "Šimtas vyrų ir moterų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_015",
+    "question": "Ką Jėzus padarė, kai pamatė mokinius vargstantis ežere?",
+    "options": {
+      "a": "Jis pasakė jiems grįžti atgal",
+      "b": "Jis ėjo ežero paviršiumi ir prakalbino juos",
+      "c": "Jis pasiuntė kitą valtį pagelbėti jiems",
+      "d": "Jis pasakė jiems melstis už pagalbą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_016",
+    "question": "Ką Jėzus padarė, kai įlipo į mokinių valtį?",
+    "options": {
+      "a": "Jis pasakė jiems grįžti į krantą",
+      "b": "Vėjas nurimo",
+      "c": "Jis pradėjo mokyti mokinius naujų maldų",
+      "d": "Jis pasakė jiems eiti miegoti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_017",
+    "question": "Ką darė žmonės, kai Jėzus atvyko į Genezaretą?",
+    "options": {
+      "a": "Jie pasislėpė nuo jo",
+      "b": "Jie gabeno ligonius, kad jie galėtų palyti Jėzaus drabužio apvadą ir išgyti",
+      "c": "Jie prašė jį tapti jų karaliumi",
+      "d": "Jie pradėjo jį akmenais šauti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_018",
+    "question": "Ką Jėzus darė, kai žmonės Genezareto krašte prašė jį palyti?",
+    "options": {
+      "a": "Jis atstūmė juos ir pasakė, kad jie netikėtinai",
+      "b": "Jis palydėjo visus ligonius, ir jie išgydavo",
+      "c": "Jis pasakė, kad jie turi eiti pas kunigus",
+      "d": "Jis pasakė, kad jie turi duoti jam pinigus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_019",
+    "question": "Ką Jėzus darė, kai pamatė mokinius vargstantis ir besiirdantys ežere?",
+    "options": {
+      "a": "Jis pasakė jiems grįžti atgal",
+      "b": "Jis ėjo ežero paviršiumi ir prakalbino juos, kad nebūtų bijoti",
+      "c": "Jis pasakė jiems šaukti pagalbos",
+      "d": "Jis pasakė jiems melstis už geresnį orą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_6"
+  }
+]

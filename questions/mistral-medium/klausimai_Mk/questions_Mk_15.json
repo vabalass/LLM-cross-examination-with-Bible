@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mk_15_001",
+    "question": "Kas buvo pagrindinė priežastis, dėl ko aukštieji kunigai įskundė Jėzų Pilotui?",
+    "options": {
+      "a": "Jėzus paskelbė esąs Romos imperijos priešas.",
+      "b": "Jie pavydėjo Jėzui dėl jo populiarumo tarp žmonių.",
+      "c": "Jėzus sugriovė šventyklą ir atstatė ją per tris dienas.",
+      "d": "Jėzus atmetė mokytojus ir Rašto aiškintojus viešai."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_002",
+    "question": "Ką Pilotas klausė Jėzaus, kai pirmą kartą su juo kalbėjo?",
+    "options": {
+      "a": "„Kodėl tu sukilei prieš Romos valdžią?“",
+      "b": "„Ar tu esi žydų karalius?“",
+      "c": "„Kokius stebuklus tu gali padaryti?“",
+      "d": "„Kodėl žmonės tave vadina pranašu?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_003",
+    "question": "Kas buvo Barabo nusikaltimas, dėl ko jis buvo įkalintas?",
+    "options": {
+      "a": "Jis buvo apkaltintas melagingu pranašavimu.",
+      "b": "Jis buvo suimtas kartu su maištininkais ir nužudė žmogų sąmyšio metu.",
+      "c": "Jis pavogė šventyklos lobius.",
+      "d": "Jis atsisakė mokėti mokesčius Romos valdžiai."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_004",
+    "question": "Ką šaukė minia, prašydama Piloto paleisti Barabą, o ne Jėzų?",
+    "options": {
+      "a": "„Mums reikia laisvės!“",
+      "b": "„Ant kryžiaus jį!“",
+      "c": "„Mes nesutinkame su tavo sprendimu!“",
+      "d": "„Jis yra mūsų karalius!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_005",
+    "question": "Ką kareiviai padarė Jėzui, išjuokdami jį prieš nukryžiavimą?",
+    "options": {
+      "a": "Jie jam davė karaliaus skepetrą ir purpurinį apsiaustą.",
+      "b": "Jie apvilko jį purpuriniu apsiaustu, uždėjo erškėčių vainiką ir daužė galvą nendrine lazda.",
+      "c": "Jie jį privertė nešioti Barabo kryžių.",
+      "d": "Jie jį išvijo iš miesto su akmenimis."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_006",
+    "question": "Kas buvo užrašytas ant kryžiaus kaip Jėzaus kaltinimas?",
+    "options": {
+      "a": "„Šis žmogus yra melagis ir apgavikas.“",
+      "b": "„Jis paskelbė esąs Dievo Sūnus.“",
+      "c": "„Žydų karalius.“",
+      "d": "„Jis sukilo prieš Cezarį.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_007",
+    "question": "Kas padėjo Jėzui nešioti kryžių į Golgotą?",
+    "options": {
+      "a": "Piloto kareivis.",
+      "b": "Simonas Kirėnietis, Aleksandro ir Rufo tėvas.",
+      "c": "Juozapas iš Arimatėjos.",
+      "d": "Marija Magdalietė."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_008",
+    "question": "Ką Jėzus gėrė, būdamas ant kryžiaus, prieš mirštant?",
+    "options": {
+      "a": "Jis gėrė mirtą atmiešto vyno.",
+      "b": "Jis gėrė gėlo vandens.",
+      "c": "Jis atsisakė gerti bet ko.",
+      "d": "Jis gėrė medaus ir pieno mišinį."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_009",
+    "question": "Ką sakė šimtininkas, matydamas, kaip Jėzus mirė?",
+    "options": {
+      "a": "„Jis buvo teisingas žmogus.“",
+      "b": "„Iš tikro šitas žmogus buvo Dievo Sūnus!“",
+      "c": "„Mes padarėme didelę klaidą.“",
+      "d": "„Jis turėjo būti paleistas.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_010",
+    "question": "Kas įvyko šventykloje, kai Jėzus mirė ant kryžiaus?",
+    "options": {
+      "a": "Šventykla užsidegė.",
+      "b": "Šventyklos uždanga perplyšo į dvi dalis nuo viršaus iki apačios.",
+      "c": "Visos šventyklos durys atsivėrė.",
+      "d": "Šventykloje pasirodė angelas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_011",
+    "question": "Kas paprašė Piloto Jėzaus kūno po nukryžiavimo?",
+    "options": {
+      "a": "Marija Magdalietė.",
+      "b": "Juozapas iš Arimatėjos.",
+      "c": "Simonas Kirėnietis.",
+      "d": "Aukštieji kunigai."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_012",
+    "question": "Kur buvo palaidotas Jėzus?",
+    "options": {
+      "a": "Jis buvo palaidotas šventykloje.",
+      "b": "Jis buvo palaidotas kapo rūsyje, iškaltame uoloje.",
+      "c": "Jis buvo palaidotas lauke, po medžiu.",
+      "d": "Jis buvo palaidotas Piloto rūmuose."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_013",
+    "question": "Kas stebėjo Jėzaus nukryžiavimą iš tolo?",
+    "options": {
+      "a": "Tik Piloto kareiviai.",
+      "b": "Marija Magdalietė, Marija (Jokūbo Jaunesniojo ir Jozės motina) ir Salomė.",
+      "c": "Visi Jėzaus apaštalai.",
+      "d": "Tik Barabas ir maištininkai."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_014",
+    "question": "Ką Jėzus šaukė devintą valandą ant kryžiaus (aramėjų kalba)?",
+    "options": {
+      "a": "„Mano Dieve, mano Dieve, kodėl mane apleidai?!“",
+      "b": "„Aš esu Dievo Sūnus.“",
+      "c": "„Paleisk mane nuo šio kryžiaus.“",
+      "d": "„Žmonės, atgaukite!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_015",
+    "question": "Ką padarė vienas iš kareivių, kai Jėzus jau mirė ant kryžiaus?",
+    "options": {
+      "a": "Jis nuėmė Jėzaus vainiką.",
+      "b": "Jis primirkė kempinę perrūgusio vyno, užmovė ant nendrės ir padavė jam gerti.",
+      "c": "Jis paskambino į trimitą, skelbdamas mirtį.",
+      "d": "Jis pasišventino Jėzaus drabužiais."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_15"
+  }
+]

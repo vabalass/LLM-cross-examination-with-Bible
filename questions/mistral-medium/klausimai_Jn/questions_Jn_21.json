@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_21_001",
+    "question": "Kur Jėzus pasirodė mokiniams po prisikėlimo, kaip aprašyta Jn 21 skyriuje?",
+    "options": {
+      "a": "Prie Tiberiados (Genezareto) ežero",
+      "b": "Jeruzalės šventykloje",
+      "c": "Ant kalno Galilėjoje",
+      "d": "Betlejemo mieste"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_002",
+    "question": "Ką Petras ir kiti mokiniai darė, kai Jėzus pasirodė prie ežero?",
+    "options": {
+      "a": "Miegojo valtyje",
+      "b": "Žvejojo visą naktį, bet nieko nesugavo",
+      "c": "Statė namus ant kranto",
+      "d": "Mokė žmones apie Dievo karalystę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_003",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie nesugavo žuvų?",
+    "options": {
+      "a": "„Eikite namo, nes šiandien nebus žuvų“",
+      "b": "„Užmeskite tinklą į dešinę nuo valties, ir pagausite“",
+      "c": "„Jūsų tinklas per mažas, reikia didesnio“",
+      "d": "„Žuvys šiandien slėpiasi giliau, reikia nardyti“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_004",
+    "question": "Kiek žuvų sugavo mokiniai, sekę Jėzaus patarimą?",
+    "options": {
+      "a": "40 žuvų",
+      "b": "72 žuvų",
+      "c": "153 žuvis",
+      "d": "Tūkstantį žuvų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_005",
+    "question": "Ką Jėzus ruošė mokiniams ant kranto, kai jie išsilaipino?",
+    "options": {
+      "a": "Duonos ir vyno",
+      "b": "Žarijų, žuvies ir duonos",
+      "c": "Vaisių ir medaus",
+      "d": "Mėsos ir daržovių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_006",
+    "question": "Kiek kartų Jėzus paklausė Petro: „Simonai, Jono sūnau, ar myli mane?“?",
+    "options": {
+      "a": "Vieną kartą",
+      "b": "Du kartus",
+      "c": "Tris kartus",
+      "d": "Penkis kartus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_007",
+    "question": "Ką Jėzus pasakė Petrui apie jo ateitį?",
+    "options": {
+      "a": "„Tu tapsi karaliumi“",
+      "b": "„Tu busi mokslininkas“",
+      "c": "„Pasenęs tu ištiesi rankas, kitą tave perjuos ir ves, kur nenori“",
+      "d": "„Tu gyvensi 120 metų“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_008",
+    "question": "Kas buvo pasakojama apie „mokinį, kurį Jėzus mylėjo“?",
+    "options": {
+      "a": "Jis iškart mirė po to pasirodymo",
+      "b": "Jis parašė visą Bibliją",
+      "c": "Gandas pasklido, kad jis nemirsiąs, nors Jėzus to nepasakė tiesiogiai",
+      "d": "Jis tapo Romos imperatoriumi"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_21"
+  }
+]

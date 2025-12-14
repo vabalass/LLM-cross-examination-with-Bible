@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Jn_3_001",
+    "question": "Kas buvo Nikodemo profesija ir socialinė padėtis pagal Jn 3:1?",
+    "options": {
+      "a": "Jis buvo romėnų karininkas, atsakymas už žydų bendruomenę.",
+      "b": "Jis buvo fariziejus ir žydų didžiūnas (vadinamasis 'seniūnas').",
+      "c": "Jis buvo paprastas žvejas, vienas iš dvylikos apaštalų.",
+      "d": "Jis buvo Romos imperijos atstovas, renkantis mokesčius Judėjoje."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_002",
+    "question": "Ką Jėzus pasakė Nikodemui apie įstojimą į Dievo karalystę (Jn 3:3)?",
+    "options": {
+      "a": "„Reikia laimėti loteriją, kad patekti į Dievo karalystę.“",
+      "b": "„Reikia atgimti iš aukštybės, kad galėtum regėti Dievo karalystę.“",
+      "c": "„Reikia aukoti visus savo turtus ir juos duoti vargšams.“",
+      "d": "„Reikia išmokti visą Torą iš atminties be klaidų.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_003",
+    "question": "Kaip Nikodemas suprato Jėzaus žodžius apie „atgimimą“ (Jn 3:4)?",
+    "options": {
+      "a": "Jis suprato, kad reikia tapti vaiku ir vėl gimti iš motinos.",
+      "b": "Jis manė, kad reikia persikrikštyti septynis kartus.",
+      "c": "Jis suprato, kad reikia išmokti graikų kalbą, kad suprasti Dievo žodį.",
+      "d": "Jis manė, kad reikia apsigyventi dykumoje ir ten laukti Dievo ženklų."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_004",
+    "question": "Ką Jėzus pasakė apie gimimą iš Dvasios (Jn 3:6)?",
+    "options": {
+      "a": "„Kas gimė iš Dvasios, tampa nebežmogumi, bet angelu.“",
+      "b": "„Kas gimė iš kūno, yra kūnas; o kas gimė iš Dvasios, yra dvasia.“",
+      "c": "„Kas gimė iš Dvasios, turi mokėti skraidyti kaip paukštis.“",
+      "d": "„Kas gimė iš Dvasios, negali mirti, net jei bus nukryžiuotas.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_005",
+    "question": "Kokį panašumą Jėzus panaudoja, kalbėdamas apie Dvasios gimimą (Jn 3:8)?",
+    "options": {
+      "a": "Jis lygino Dvasios gimimą su ugnies liepsna, kuri švito ir šildo.",
+      "b": "Jis lygino Dvasios gimimą su vėjo pučiamu, kurio kelio negali numatyti.",
+      "c": "Jis lygino Dvasios gimimą su upės srove, kuri vis teka tolyn.",
+      "d": "Jis lygino Dvasios gimimą su saulės šviesa, kuri apšviečia visus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_006",
+    "question": "Ką Jėzus sakė apie savo kilmę ir misiją (Jn 3:13)?",
+    "options": {
+      "a": "„Aš esu gimęs Betliejuje, bet augo Nazarete, ir čia prasidėjo mano misija.“",
+      "b": "„Niekas nėra pakilęs į dangų, kaip tik Žmogaus Sūnus, kuris nužengė iš dangaus.“",
+      "c": "„Aš esu tik žmogus, ir mano misija baigsis, kai aš miršu ant kryžiaus.“",
+      "d": "„Aš esu pranašas, atsiųstas paskutiniam laikui, ir mano žodis yra įstatymas.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_007",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnaus iškėlimą (Jn 3:14-15)?",
+    "options": {
+      "a": "„Kaip Mozė dykumoje iškėlė žaltį, taip turi būti iškeltas ir Žmogaus Sūnus, kad kiekvienas, kuris jį tiki, turėtų amžinąjį gyvenimą.“",
+      "b": "„Kaip Joną prarijo žuvis, taip ir Žmogaus Sūnus bus paslėptas trys dienas žemėje.“",
+      "c": "„Kaip Elijas pakilo į dangų, taip ir Žmogaus Sūnus pakils, kai laikas atės.“",
+      "d": "„Kaip Dovydas nugalėjo Golijatą, taip ir Žmogaus Sūnus nugalės visus savo priešus.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_008",
+    "question": "Ką Jn 3:16 sakė apie Dievo meilę pasaului?",
+    "options": {
+      "a": "„Dievas taip pamilo pasaulį, jog atidavė savo viengimį Sūnų, kad kiekvienas, kuris jį tiki, nepražūtų, bet turėtų amžinąjį gyvenimą.“",
+      "b": "„Dievas pamilo pasaulį, bet tik tie, kurie laikosi įstatymo, bus išgelbėti.“",
+      "c": "„Dievas pamilo pasaulį, tačiau tik žydai gali gauti amžinąjį gyvenimą.“",
+      "d": "„Dievas pamilo pasaulį, bet tik tie, kurie atmetė savo turtus, bus išgelbėti.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_009",
+    "question": "Ką Jėzus pasakė apie savo misijos tikslą (Jn 3:17)?",
+    "options": {
+      "a": "„Aš atėjau pasmerkti pasaulį už jo nuodėmes.“",
+      "b": "„Dievas nesiuntė savo Sūnaus į pasaulį, kad jis pasaulį pasmerktų, bet kad pasaulis per jį būtų išgelbėtas.“",
+      "c": "„Aš atėjau, kad žydai vėl taptų nepriklausoma tauta.“",
+      "d": "„Aš atėjau, kad visi žmonės taptų vieningai religijos.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_010",
+    "question": "Ką Jėzus pasakė apie žmones, kurie neina į šviesą (Jn 3:20)?",
+    "options": {
+      "a": "„Jie neina į šviesą, nes jų darbai yra pikti.“",
+      "b": "„Jie neina į šviesą, nes jie bijo, kad bus apakinti.“",
+      "c": "„Jie neina į šviesą, nes jie nenori pamatyti savo šeimos narių.“",
+      "d": "„Jie neina į šviesą, nes jie nenori priimti naujų įstatymų.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_011",
+    "question": "Ką Jonas pasakė apie savo ir Jėzaus vaidmenis (Jn 3:30)?",
+    "options": {
+      "a": "„Jis turi tapti karaliumi, o aš – jo patarėju.“",
+      "b": "„Jam skirta augti, o man – mažėti.“",
+      "c": "„Jis turi mokyti žydus, o aš – pagonis.“",
+      "d": "„Jis turi būti aukštas, o aš – žemas, kad žmonės mane nematytų.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_012",
+    "question": "Ką Jėzus pasakė apie Dievo Dvasią (Jn 3:34)?",
+    "options": {
+      "a": "„Dievas teikia Dvasią tik tam, kas yra be nuodėmių.“",
+      "b": "„Dievas teikia Dvasią be saiko.“",
+      "c": "„Dievas teikia Dvasią tik tam, kas yra krikštytas.“",
+      "d": "„Dievas teikia Dvasią tik tam, kas yra kilęs iš Izraelio.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_3"
+  }
+]

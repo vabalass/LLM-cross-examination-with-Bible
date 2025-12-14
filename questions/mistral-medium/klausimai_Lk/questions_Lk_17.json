@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Lk_17_001",
+    "question": "Ką Jėzus sakė apie žmogų, per kurį ateina papiktinimai, pagal Lk 17,1-2?",
+    "options": {
+      "a": "Jam bus atleidžiamas viskas, jei jis tik gailėsis.",
+      "b": "Jam būtų geriau, jei būtų įmestas į jūrą su girnapuse ant kaklo, negu papiktintų vieną mažutėlį.",
+      "c": "Jis bus apdovanotas danguje už savo kančias.",
+      "d": "Jis turi iškart pasitraukti iš bendruomenės, kad išvengtų dar didesnių nuodėmių."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_002",
+    "question": "Kiek kartų, pagal Lk 17,4, reikia atleisti broliui, jei jis nusikalta ir gailisi?",
+    "options": {
+      "a": "Tris kartus per dieną.",
+      "b": "Septynis kartus per dieną.",
+      "c": "Septyniasdešimt septynis kartus.",
+      "d": "Vieną kartą ir niekada daugiau."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_003",
+    "question": "Ką Jėzus palyginė su garstyčios grūdeliu, kalbėdamas apie tikėjimą (Lk 17,6)?",
+    "options": {
+      "a": "Meilę priešiškai nustatytiems.",
+      "b": "Tikėjimo jėgą, gebančią perkelti kalnus ar išsakyti medžius.",
+      "c": "Maldos pastovumą.",
+      "d": "Nusikalstelių gailestingumą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_004",
+    "question": "Ką, pagal Lk 17,7-10, turi sakyti tarnai, atlikę viską, ką buvo įsakyta?",
+    "options": {
+      "a": "'Esame vertingi tarnai, atlikę didingą darbą!'",
+      "b": "'Dėkui, Viešpatie, už šią tarnystės galimybę.'",
+      "c": "'Esame nenaudingi tarnai. Padarėme, ką turėjome padaryti.'",
+      "d": "'Mes esame Dievo mylimiausi tarnai.'"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_005",
+    "question": "Kiek raupsuotųjų, pagal Lk 17,12-14, pasitiko Jėzų ir prašė pasigailėjimo?",
+    "options": {
+      "a": "Trys.",
+      "b": "Septyni.",
+      "c": "Dešimt.",
+      "d": "Dvylika."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_006",
+    "question": "Kas iš dešimties raupsuotųjų sugrįžo padėkoti Jėzui (Lk 17,15-16)?",
+    "options": {
+      "a": "Vienas žydas.",
+      "b": "Vienas samarietis.",
+      "c": "Du graikai.",
+      "d": "Visi dešimt."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_007",
+    "question": "Ką Jėzus pasakė samariečiui, kuris sugrįžo padėkoti (Lk 17,19)?",
+    "options": {
+      "a": "'Tavo malda išgydė tavę.'",
+      "b": "'Tavo tikėjimas išgelbėjo tave.'",
+      "c": "'Tavo meilė Dievui buvo atsakoma.'",
+      "d": "'Tavo nusižengimai tau atleidžiami.'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_008",
+    "question": "Kaip Jėzus apibūdino Dievo karalystės atėjimą (Lk 17,20-21)?",
+    "options": {
+      "a": "Ji ateis su didžiuliu triukšmu ir žaibu.",
+      "b": "Ji jau yra tarp žmonių, bet ateina nepastebimai.",
+      "c": "Ji bus matoma tik išrinktiesiems.",
+      "d": "Ji atės tik po paskutiniojo teismo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_009",
+    "question": "Ką Jėzus lygino su Žmogaus Sūnaus dienomis, kalbėdamas apie Nojaus ir Loto laikus (Lk 17,26-30)?",
+    "options": {
+      "a": "Žmonės bus pasiruošę ir laukią Dievo karalystės.",
+      "b": "Žmonės gyvens kaip įprasta, kol staiga ateis kataklizmai.",
+      "c": "Visos nuodėmės bus atleidžiamos prieš paskutinįjį teismą.",
+      "d": "Dievas iš anksto perspės visus apie artėjantį pabaigą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_010",
+    "question": "Ką Jėzus įspėjo daryti tą dieną, kai Žmogaus Sūnus apsireikš (Lk 17,31)?",
+    "options": {
+      "a": "Bėgti į kalnus ir slėptis.",
+      "b": "Negrįžti namo, jei esi lauke, ir nelipti žemyn, jei esi ant stogo.",
+      "c": "Susirinkti į bendras maldas su šeima.",
+      "d": "Pasiduoti valdžiai ir laukti Dievo gailestingumo."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_011",
+    "question": "Ką Jėzus pasakė apie Loto žmoną (Lk 17,32)?",
+    "options": {
+      "a": "Ji buvo pavyzdys, kaip reikia pasitikėti Dievu.",
+      "b": "Ji buvo apdovanota už savo ištikimybę.",
+      "c": "Prisiminkite Loto žmoną (kaip įspėjamą pavyzdį).",
+      "d": "Ji buvo vienintelė, kuri išgyveno Sodomos sugriovimą."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_012",
+    "question": "Ką Jėzus atsakė mokiniams, kai jie paklausė „Kur, Viešpatie?“ (Lk 17,37)?",
+    "options": {
+      "a": "'Kur bus malda, ten bus ir atsakymas.'",
+      "b": "'Kur bus lavonų, ten sulėks ir maitvanagiai.'",
+      "c": "'Kur bus tikintieji, ten bus ir Dievo karalystė.'",
+      "d": "'Kur bus nuodėmingieji, ten bus ir bausmė.'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_17"
+  }
+]

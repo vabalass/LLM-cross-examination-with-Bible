@@ -1,0 +1,301 @@
+[
+  {
+    "id": "Lk_22_001",
+    "question": "Kas įsikūnijo į Judą Iskariotą, kad šis išdarytų Jėzų?",
+    "options": {
+      "a": "Šventoji Dvasia",
+      "b": "Šėtonas",
+      "c": "Aukštieji kunigai",
+      "d": "Petras"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_002",
+    "question": "Ką Jėzus pasiuntė Petrą ir Joną parengti Jeruzalėje?",
+    "options": {
+      "a": "Vestuves",
+      "b": "Velykų vakarienę",
+      "c": "Maldos namus",
+      "d": "Naują šventyklą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_003",
+    "question": "Kokį ženklą Jėzus nurodė paieškoti, kad rastu namus Velykų vakarienei?",
+    "options": {
+      "a": "Žmogus nešantis vandens ąsočius",
+      "b": "Žmogus su raudonais drabužiais",
+      "c": "Žmogus vedantis avį",
+      "d": "Žmogus nešantis kryžių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_004",
+    "question": "Ką Jėzus pasakė apie Velykų vakarienę, kurią valgo su apaštalais?",
+    "options": {
+      "a": "Jis ją valgys kasmet",
+      "b": "Jis daugiau jos nebevalgys, kol neatsikratys Dievo karalystėje",
+      "c": "Jis ją valgys tik su Petru",
+      "d": "Jis ją valgys su visais žmonėmis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_005",
+    "question": "Ką Jėzus padarė su taure, kurią paėmė po vakarienės?",
+    "options": {
+      "a": "Išmestį jos turinį",
+      "b": "Sukalbėjo padėkos maldą ir pasakė, kad tai Naujoji Sandora jo kraujyje",
+      "c": "Padovanojo ją Judai",
+      "d": "Išpilė į žemę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_006",
+    "question": "Ką Jėzus pasakė apie tai, kas atsitiks žmogui, kuris jį išduos?",
+    "options": {
+      "a": "Jis bus apdovanotas",
+      "b": "Vargas tam žmogui",
+      "c": "Jis taps naujuoju apaštalu",
+      "d": "Jis bus paskelbtas karaliumi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_007",
+    "question": "Kas tarp apaštalų pradėjo ginčytis, kuris iš jų yra didžiausias?",
+    "options": {
+      "a": "Petras ir Jonas",
+      "b": "Judas ir Tomas",
+      "c": "Apaštalai tarpusavyje",
+      "d": "Jėzus ir Petras"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_008",
+    "question": "Ką Jėzus pasakė apie valdovus ir karalius, lygindamas su apaštalais?",
+    "options": {
+      "a": "Jie turi būti garbingi ir galingi",
+      "b": "Jie turi būti kaip tarnai, o ne kaip valdovai",
+      "c": "Jie turi valdyti su geležine ranka",
+      "d": "Jie turi būti paslaptūs"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_009",
+    "question": "Ką Jėzus pažadėjo apaštalams savo karalystėje?",
+    "options": {
+      "a": "Jie taps dievais",
+      "b": "Jie valdys karalystę ir teis dvylika Izraelio giminių",
+      "c": "Jie gaus visus pasaulio lobius",
+      "d": "Jie bus amžinai jauni"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_010",
+    "question": "Ką Jėzus pasakė Petrui apie šėtoną?",
+    "options": {
+      "a": "Šėtonas jį paliks ramų",
+      "b": "Šėtonas pareikalavo persijoti juos tarsi kviečius",
+      "c": "Šėtonas taps jų draugu",
+      "d": "Šėtonas juos pamirš"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_011",
+    "question": "Kiek kartų Petras, Jėzaus žodžiais, išsigins jį pažįstąs?",
+    "options": {
+      "a": "Vieną kartą",
+      "b": "Du kartus",
+      "c": "Tris kartus",
+      "d": "Niekart"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_012",
+    "question": "Ką Jėzus pasakė apie tai, kas reikia daryti, kai jie keliaują be piniginės ir krepšio?",
+    "options": {
+      "a": "Reikia grįžti namo",
+      "b": "Reikia parduoti apsiaustą ir nusipirkti kalaviją",
+      "c": "Reikia pasiduoti valdžiai",
+      "d": "Reikia paslėptis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_013",
+    "question": "Kur Jėzus ėjo melstis po Velykų vakarienės?",
+    "options": {
+      "a": "Į šventyklą",
+      "b": "Į Alyvų kalną",
+      "c": "Į dykumą",
+      "d": "Į upę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_014",
+    "question": "Ką Jėzus prašė Dievo Tėvo atimti nuo savo?",
+    "options": {
+      "a": "Sveikatą",
+      "b": "Taurę (kančią)",
+      "c": "Mokinius",
+      "d": "Garbę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_015",
+    "question": "Kas pasirodė Jėzui, kai jis meldėsi Alyvų kalne?",
+    "options": {
+      "a": "Mozė",
+      "b": "Angelas iš dangaus, kuris jį sustiprino",
+      "c": "Šėtonas",
+      "d": "Petras"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_016",
+    "question": "Ką Jėzaus prakaitas Alyvų kalne priminė?",
+    "options": {
+      "a": "Vandenį",
+      "b": "Tirštus kraujo lašus",
+      "c": "Aliejų",
+      "d": "Rasą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_017",
+    "question": "Kas išdavė Jėzų pabučiavimu?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Judas Iskariotas",
+      "d": "Pilotas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_018",
+    "question": "Ką vienas iš Jėzaus mokinių padarė, kai jie suėmė Jėzų?",
+    "options": {
+      "a": "Jis pabėgo",
+      "b": "Jis nukirto vyriausiojo kunigo tarno ausį",
+      "c": "Jis pasidavė kartu su Jėzumi",
+      "d": "Jis pradėjo šaukti pagalbos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_019",
+    "question": "Ką Jėzus padarė nukirstai ausiai?",
+    "options": {
+      "a": "Jis ją paliko taip",
+      "b": "Jis išgydė ją",
+      "c": "Jis uždėjo ant jos audekinį",
+      "d": "Jis pasakė, kad tai Dievo valia"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_020",
+    "question": "Kur Jėzus buvo nuvestas po suėmimo?",
+    "options": {
+      "a": "Į karaliaus rūmus",
+      "b": "Į vyriausiojo kunigo rūmus",
+      "c": "Į kalėjimą",
+      "d": "Į šventyklos kiemą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_021",
+    "question": "Kas pirmas atpažino Petrą kaip Jėzaus bičiulį?",
+    "options": {
+      "a": "Vyriausiasis kunigas",
+      "b": "Tarnaitė",
+      "c": "Pilotas",
+      "d": "Vienas iš sargybos viršininkų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_022",
+    "question": "Ką Petras atsakė, kai pirmą kartą buvo apkaltintas, kad priklauso Jėzui?",
+    "options": {
+      "a": "Jis pripažino",
+      "b": "Jis išsigynė, sakydamas, kad nepažįsta Jėzaus",
+      "c": "Jis pasakė, kad Jėzus yra Mesijas",
+      "d": "Jis nieko neatsakė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_023",
+    "question": "Kas įvyko, kai Petras trečią kartą išsigynė Jėzų?",
+    "options": {
+      "a": "Jis buvo suimtas",
+      "b": "Pragydo gaidys",
+      "c": "Jis pabėgo iš miesto",
+      "d": "Jis pradėjo verkti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_22"
+  }
+]

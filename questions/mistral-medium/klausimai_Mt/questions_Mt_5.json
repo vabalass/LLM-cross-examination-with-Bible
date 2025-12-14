@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Mt_5_001",
+    "question": "Kur Jėzus mokė savo mokinius, pasakydamas palaiminimus?",
+    "options": {
+      "a": "Prie ežero",
+      "b": "Ant kalno",
+      "c": "Sinagogos viduje",
+      "d": "Dykumoje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_002",
+    "question": "Kas bus pasotinti, pagal Jėzaus palaiminimus?",
+    "options": {
+      "a": "Tie, kurie trokšta turto",
+      "b": "Tie, kurie alksta ir trokšta teisumo",
+      "c": "Tie, kurie ieško žemės valdžios",
+      "d": "Tie, kurie kovoja su priešais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_003",
+    "question": "Ką Jėzus palygino su pasaulio šviesa?",
+    "options": {
+      "a": "Saulę",
+      "b": "Mėnulį",
+      "c": "Savo mokinius",
+      "d": "Ugnį"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_004",
+    "question": "Kuo Jėzus pavadino savo mokinius, kalbėdamas apie jų įtaką pasauliui?",
+    "options": {
+      "a": "Žemės druska",
+      "b": "Dangaus angalais",
+      "c": "Teisingumo kariais",
+      "d": "Amžinų gyvybės šaltiniais"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_005",
+    "question": "Ką Jėzus sakė apie Įstatymo ir Pranašų reikšmę?",
+    "options": {
+      "a": "Jis juos panaikino",
+      "b": "Jis atėjo juos pakeisti naujais įsakymais",
+      "c": "Jis atėjo juos įvykdyti, o ne panaikinti",
+      "d": "Jis juos paskelbė nereikšmingais"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_006",
+    "question": "Kas, Jėzaus žodžiais, bus vadinamas „mažiausiu dangaus karalystėje“?",
+    "options": {
+      "a": "Tas, kuris neklauso mokymo",
+      "b": "Tas, kuris pažeidžia mažiausią paliepimą ir moko žmones taip elgtis",
+      "c": "Tas, kuris nepasitiki Dievu",
+      "d": "Tas, kuris neaukoja"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_007",
+    "question": "Ką Jėzus sakė apie pyktį prieš brolių?",
+    "options": {
+      "a": "Pyktis yra natūralu ir nekenkia",
+      "b": "Pyktis ant brolio reiškia, kad turi atsakyti teisme",
+      "c": "Pyktis leidžiama tik prieš priešus",
+      "d": "Pyktis turi būti išreikšta viešai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_008",
+    "question": "Ką Jėzus patarė padaryti, jei prisimeni, kad brolis turi nieko prieš tave, nešant dovaną?",
+    "options": {
+      "a": "Tęsti auką, nesvėruodamas širdies",
+      "b": "Palikti dovaną ir pirmiau susitaikyti su broliu",
+      "c": "Aukoti dvigubai, kad Dievas pasigailėtų",
+      "d": "Nebūti aukoti, kol nesusitaikoma"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_009",
+    "question": "Ką Jėzus sakė apie geidulingą žvilgsnį į moterį?",
+    "options": {
+      "a": "Tai yra natūralu ir nekenkia",
+      "b": "Tai jau yra svetimavimas širdyje",
+      "c": "Tai leidžiama, jei moteris sutinka",
+      "d": "Tai yra tik mažas nuodėmės žingsnis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_010",
+    "question": "Ką Jėzus patarė padaryti, jei dešinioji akis ar ranka skatina nusidėti?",
+    "options": {
+      "a": "Melstis, kad Dievas pakeistų širdį",
+      "b": "Išlupkinti akį ar nukirpti ranką, jei reikia",
+      "c": "Slėpti nuodėmę, kad niekas nesužinotų",
+      "d": "Ignoruoti pokštus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_011",
+    "question": "Kada, Jėzaus žodžiais, leidžiama atleisti žmoną?",
+    "options": {
+      "a": "Jei ji nesutinka gyventi kartu",
+      "b": "Jei ji ištvirkavo",
+      "c": "Jei ji nesilaiko namų darbų",
+      "d": "Jei ji per daug kalba"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_012",
+    "question": "Ką Jėzus sakė apie priesaikas?",
+    "options": {
+      "a": "Reikia prisiekti tik svarbiomis progomis",
+      "b": "Prisiekinėti tik Dievo vardu",
+      "c": "Išvis neprisiekinėti",
+      "d": "Prisiekinėti tik bažnyčioje"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_013",
+    "question": "Ką Jėzus patarė atsakyti, kai kas nori pasiskolinti?",
+    "options": {
+      "a": "Duoti tik jei žinoma, kad grąžins",
+      "b": "Duoti ir nenusigręžti",
+      "c": "Duoti tik artimiesiems",
+      "d": "Neduoti, kad nesukeltų priklausomybės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_014",
+    "question": "Ką Jėzus sakė apie priešų meilę?",
+    "options": {
+      "a": "Mylėti priešus reikia tik tada, kai jie pasikeičia",
+      "b": "Mylėti priešus ir melstis už persekiotojus",
+      "c": "Mylėti priešus tik slaptai",
+      "d": "Mylėti priešus reikia tik kai jie prašo atleidimo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_015",
+    "question": "Ką Jėzus patarė padaryti, jei kas užgauta per dešinį skruostą?",
+    "options": {
+      "a": "Atmušti atgal",
+      "b": "Atsukti ir kitą skruostą",
+      "c": "Bėgti pas gynėją",
+      "d": "Ignoruoti ir eiti toliau"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_016",
+    "question": "Kokiu pavyzdžiu Jėzus iliustravo, kaip elgtis su prašančiaisiais?",
+    "options": {
+      "a": "Duoti tik tai, ko prašo",
+      "b": "Duoti marškinius, jei prašo, ir dar apsiaustą",
+      "c": "Duoti tik jei prašantis yra neturtingas",
+      "d": "Duoti tik jei prašantis yra tikintysis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_5"
+  }
+]

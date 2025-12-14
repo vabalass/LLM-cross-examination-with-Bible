@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mt_14_001",
+    "question": "Kodėl tetrarchas Erodas manė, kad Jėzus yra prisikėlęs Jonas Krikštytojas?",
+    "options": {
+      "a": "Dėl stebuklingų galių, kurias Jėzus rodė, ir gandų apie jį.",
+      "b": "Dėl to, kad Jėzus pasakė, jog jis yra Jonas Krikštytojas.",
+      "c": "Dėl to, kad Jėzus atėjo į Erodo rūmus ir pasakė, jog jis prisikėlęs.",
+      "d": "Dėl to, kad Erodiada pasakė Erodui, jog Jėzus yra Jonas."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_002",
+    "question": "Kodėl Jonas Krikštytojas buvo įkalintas?",
+    "options": {
+      "a": "Dėl to, kad jis kritikuojamas už savo pranašavimus.",
+      "b": "Dėl to, kad jis viešai pasmerkė Erodo santykius su savo brolio Pilypo žmona Erodiada.",
+      "c": "Dėl to, kad jis atsisakė krikštyti Erodo.",
+      "d": "Dėl to, kad jis sukėlė sukilimą prieš Romos valdžią."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_003",
+    "question": "Ką Erodiados duktė prašė kaip dovanos už savo šokį Erodo gimtinėje?",
+    "options": {
+      "a": "Pusę Erodo karalystės.",
+      "b": "Jono Krikštytojo galvą dubenyje.",
+      "c": "Brangius drabužius ir papuošalus.",
+      "d": "Laisvę visiems kaliniams."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_004",
+    "question": "Ką Jėzus padarė, kai sužinojo apie Jono Krikštytojo mirtį?",
+    "options": {
+      "a": "Jis sušaukė savo mokinius ir paskelbė karą prieš Erodą.",
+      "b": "Jis nuplaukė laiveliu į dykvietę vienumon.",
+      "c": "Jis grįžo į Nazaretą ir pasislėpė.",
+      "d": "Jis iškart atėjo pas Erodą ir jį pasmerkė."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_005",
+    "question": "Kiek duonos kepaliukų ir žuvų turėjo Jėzaus mokiniai prieš stebuklingą duonos padauginimą?",
+    "options": {
+      "a": "Septynis kepaliukus ir tris žuvis.",
+      "b": "Du kepaliukus ir vieną žuvį.",
+      "c": "Penkis kepaliukus ir dvi žuvis.",
+      "d": "Dešimt kepaliukų ir penkias žuvis."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_006",
+    "question": "Kiek žmonių buvo pasisotinus po stebuklingo duonos padauginimo?",
+    "options": {
+      "a": "Apie du tūkstančius vyrų, be moterų ir vaikų.",
+      "b": "Apie penkis tūkstančius vyrų, be moterų ir vaikų.",
+      "c": "Apie tūkstantį vyrų, be moterų ir vaikų.",
+      "d": "Apie septynis tūkstančius vyrų, be moterų ir vaikų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_007",
+    "question": "Kiek pintinių nulikusios duonos buvo surinkta po stebuklingo valgio?",
+    "options": {
+      "a": "Septynios pintinės.",
+      "b": "Dvylika pintinių.",
+      "c": "Penkios pintinės.",
+      "d": "Trys pintinės."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_008",
+    "question": "Ką Jėzus darė vienas kalno viršūnėje, kai mokiniai plaukė valtimis?",
+    "options": {
+      "a": "Jis miegojo.",
+      "b": "Jis melstis.",
+      "c": "Jis ruošėsi stebuklui.",
+      "d": "Jis stebėjo žvaigždes."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_009",
+    "question": "Ką Jėzaus mokiniai padarė, kai pamatė jį einantį ežero paviršiumi?",
+    "options": {
+      "a": "Jie džiaugėsi ir šaukė: „Mes žinome, kad tu Dievo Sūnus!“",
+      "b": "Jie nusigando ir manė, jog tai šmėkla.",
+      "c": "Jie iškart išlipo iš valties ir ėmė eiti vandens paviršiumi.",
+      "d": "Jie užmigo nuo baimės."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_010",
+    "question": "Ką Jėzus pasakė Petrui, kai šis ėmė skęsti ir prarado pasitikėjimą einant vandens paviršiumi?",
+    "options": {
+      "a": "„Tu esi per silpnas, kad galėtum sekti mane.“",
+      "b": "„Silpnatiki, ko suabejojai?!“",
+      "c": "„Grįžk atgal į valtį, nes tu nepasiruošęs.“",
+      "d": "„Tikėk, ir viskas bus gerai.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_011",
+    "question": "Ką sakė mokiniai, kai Jėzus įlipo į valtį ir vėjas nurimo?",
+    "options": {
+      "a": "„Tu esi didingiausias žmogus, kurį mes pažįstame!“",
+      "b": "„Tikrai tu Dievo Sūnus!“",
+      "c": "„Mes niekada nebesuabejosime!“",
+      "d": "„Mes turime grįžti atgal ir pasakyti visiems apie tai!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_012",
+    "question": "Ką darė žmonės, kai Jėzus atvyko į Genezaretę?",
+    "options": {
+      "a": "Jie pasislėpė nuo jo, nes bijojo stebuklų.",
+      "b": "Jie sugabeno pas jį visus sergančius, ir kas tik palietė Jėzaus apsiausto apvadą – pasveiko.",
+      "c": "Jie prašė jį tapti jų karaliumi.",
+      "d": "Jie atsisakė tikėti jį, nes nepatikėjo stebuklams."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_14"
+  }
+]

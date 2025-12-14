@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mk_2_001",
+    "question": "Kur Jėzus buvo, kai paralitikas buvo nuleistas per stogą?",
+    "options": {
+      "a": "Kafarnaume, namuose",
+      "b": "Jeruzalėje, šventykloje",
+      "c": "Galilėjos ežero pakrantėje",
+      "d": "Nazarete, sinagogoje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_002",
+    "question": "Ką Jėzus pasakė paralitikui pirmiausia, kai jį pamatė?",
+    "options": {
+      "a": "„Kelkis, pasiimk neštuvus ir vaikščiok!“",
+      "b": "„Tau atleidžiamos nuodėmės!“",
+      "c": "„Tikėk, ir bus tau padaryta!“",
+      "d": "„Eik ir nebebeiek nuodėmės!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_003",
+    "question": "Ką Rašto aiškintojai galvojo apie Jėzaus žodžius, kad jis gali atleisti nuodėmes?",
+    "options": {
+      "a": "Jie pasitikėjo, kad Jėzus yra Dievo Sūnus",
+      "b": "Jie manė, kad Jėzus piktžodžiauja, nes tik Dievas gali atleisti nuodėmes",
+      "c": "Jie norėjo, kad Jėzus atliktų dar vieną stebuklą",
+      "d": "Jie klausė, kaip tai padaryti ir jie patys"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_004",
+    "question": "Ką Jėzus padarė, kad įrodytų savo galią atleisti nuodėmes?",
+    "options": {
+      "a": "Jis pakėlė mirusįjį",
+      "b": "Jis pagydė aklo žmogaus akis",
+      "c": "Jis liepė paralitikui kelisktis ir pasiimti savo neštuvus",
+      "d": "Jis pavertė vandens į vyną"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_005",
+    "question": "Kas buvo Levio, kurį Jėzus pašaukė sekti už savęs?",
+    "options": {
+      "a": "Žvejys",
+      "b": "Muitininkas",
+      "c": "Fariziejus",
+      "d": "Kunigas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_006",
+    "question": "Ką Jėzus atsakė, kai fariziejai kėlė klausimą, kodėl jis valgo su muitininkais ir nusidėjėliais?",
+    "options": {
+      "a": "„Aš atėjau ne teisiųjų šaukti, o nusidėjėlių“",
+      "b": "„Jie taip pat yra mano broliai“",
+      "c": "„Jie man skolingi savo pasitikėjimu“",
+      "d": "„Jie bus išgelbėti, jei tikės“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_007",
+    "question": "Ką Jėzus sakė apie naują milą ir seną drabužį?",
+    "options": {
+      "a": "Naujas milas padarys drabužį nauju",
+      "b": "Naujo milo lopas atplėš nuo seno drabužio gabalą ir skylė tik padidės",
+      "c": "Senas drabužis bus naujai nudažytas",
+      "d": "Naujas milas bus panaudotas tik naujiems drabužiams"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_008",
+    "question": "Ką Jėzus pasakė apie jauną vyną ir senus vynmaišius?",
+    "options": {
+      "a": "Jaunas vynas bus geriausias senose vynmaišiuose",
+      "b": "Jaunas vynas suplėš vynmaišius, ir niekai nueis ir vynas, ir vynmaišiai",
+      "c": "Seni vynmaišiai bus panaudoti tik naujam vynui",
+      "d": "Jaunas vynas bus išlaikytas naujuose vynmaišiuose, o senas bus išmestas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_009",
+    "question": "Ką Jėzus atsakė fariziejams, kai jie kėlė klausimą apie varpų skabijimą šabą?",
+    "options": {
+      "a": "„Šabas yra šventas, todėl nieko negalima daryti“",
+      "b": "„Dovydas ir jo palydovai valgė padėtinės duonos, kai buvo išalkę“",
+      "c": "„Šabas yra tik kunigams“",
+      "d": "„Varpos negali būti skabomos šabą“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_2"
+  }
+]

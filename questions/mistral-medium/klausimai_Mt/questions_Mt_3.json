@@ -1,0 +1,67 @@
+[
+  {
+    "id": "Mt_3_001",
+    "question": "Ką Jonas Krikštytojas skelbė Judėjos dykumoje pagal Mateuszo evangeliją?",
+    "options": {
+      "a": "„Atsiverskite, nes prisiartino dangaus karalystė“",
+      "b": "„Mylėkite savo priešus kaip save patį“",
+      "c": "„Dangus ir žemė praeis, bet mano žodžiai niekada nepraeis“",
+      "d": "„Vienas yra jūsų mokytojas – Kristus“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_002",
+    "question": "Ką Jonas Krikštytojas valgė, gyvendamas dykumoje?",
+    "options": {
+      "a": "Duoną ir žuvį",
+      "b": "Skėrius ir lauko medų",
+      "c": "Vyną ir figas",
+      "d": "Mėsą ir pieną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_003",
+    "question": "Ką Jonas Krikštytojas sakė fariziejams ir sadukiejams, ateinantiems krikštytis?",
+    "options": {
+      "a": "„Jūsų tikėjimas yra stiprus, todėl busite išgelbėti“",
+      "b": "„Angių išperos, kas jus pamokė bėgti nuo besiartinančios rūstybės?“",
+      "c": "„Jūsų aukojimai Dievui yra malonūs“",
+      "d": "„Jūsų šventumas yra pavyzdys visiems“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_004",
+    "question": "Ką Jonas Krikštytojas pasakė apie Tą, kuris ateis po jo?",
+    "options": {
+      "a": "Jis krikštys jus vandeniu ir druska",
+      "b": "Jis bus karalius, valdantis tūkstantį metų",
+      "c": "Jis krikštys jus Šventąja Dvasia ir ugnimi",
+      "d": "Jis atneš visišką taiką į pasaulį"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_005",
+    "question": "Ką Dievo balsas pasakė, kai Jėzus buvo pakrikštytas?",
+    "options": {
+      "a": "„Šitas yra mano ištikimas tarnas“",
+      "b": "„Šitas yra mano mylimasis Sūnus, kuriuo aš gėriuosi“",
+      "c": "„Jis bus didis pranašas tarp žmonių“",
+      "d": "„Jis atneš naują įstatymą visai žemei“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_3"
+  }
+]

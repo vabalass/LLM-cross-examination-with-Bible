@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Lk_19_001",
+    "question": "Kokiu miestu Jėzus ėjo, kai susitiko su Zachiejumi?",
+    "options": {
+      "a": "Jeruzale",
+      "b": "Jerišu",
+      "c": "Betanija",
+      "d": "Nazaretu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_002",
+    "question": "Ką Zachiejus darė, kad galėtų pamatyti Jėzų per minią?",
+    "options": {
+      "a": "Užlipo ant stogo",
+      "b": "Užbėgo priekin ir įlipo į šilkmedį",
+      "c": "Pasikvietė draugų, kad jį pakeltų",
+      "d": "Nusileido ant kelių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_003",
+    "question": "Ką Jėzus pasakė Zachiejui, kai pamatė jį ant medžio?",
+    "options": {
+      "a": "„Zachiejau, tu esi nuodėmingas!“",
+      "b": "„Zachiejau, greit lipk žemyn! Man reikia šiandien apsilankyti tavo namuose“",
+      "c": "„Zachiejau, duok man savo turtą!“",
+      "d": "„Zachiejau, pasilik per minią!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_004",
+    "question": "Ką Zachiejus pažadėjo daryti su savo turtu, kai priėmė Jėzų?",
+    "options": {
+      "a": "Visą turtą atiduoti šventykloje",
+      "b": "Pusę savo turto atiduoti vargšams ir keturgubai grąžinti nuskriaustą",
+      "c": "Pastatyti naują namą Jėzui",
+      "d": "Visą turtą paslėpti saugiai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_005",
+    "question": "Ką Jėzus pasakė apie Zachiejų, kai šis pasižadėjo atiduoti turtą?",
+    "options": {
+      "a": "„Tu esi didžiausias nuodėmingasis“",
+      "b": "„Tu esi tikras Abraomo palikuonis“",
+      "c": "„Į šiuos namus šiandien atėjo išganymas“",
+      "d": "b ir c teisingi"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_006",
+    "question": "Ką Jėzus pasakojo minų palyginime apie tarną, kuris uždirbo dešimt minų?",
+    "options": {
+      "a": "Jis bus ištremtas iš karalystės",
+      "b": "Jis gauna valdyti dešimt miestų",
+      "c": "Jis turi grąžinti visas minas",
+      "d": "Jis bus nubaustas mirtimi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_007",
+    "question": "Ką tarnas, kuris nieko neuždirbo, pasakė apie savo valdovą?",
+    "options": {
+      "a": "Jis yra malonus ir geras",
+      "b": "Jis yra griežtas: ima nepadėjęs ir pjauna nepasėjęs",
+      "c": "Jis yra blogas valdovas",
+      "d": "Jis niekada negrįš"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_008",
+    "question": "Ką valdovas liepė padaryti su mina, kurią tarnas paslėpė?",
+    "options": {
+      "a": "Atiduoti jaunimui",
+      "b": "Atiduoti tam, kuris turi dešimt minų",
+      "c": "Paduoti šventykloje",
+      "d": "Sunaikinti miną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_009",
+    "question": "Ką Jėzus pasakė apie savo misiją pasakydamas: „Žmogaus Sūnus atėjo...“?",
+    "options": {
+      "a": "Teisti pasaulį",
+      "b": "Ieškoti ir gelbėti, kas buvo pražuvę",
+      "c": "Sukurti naują religiją",
+      "d": "Nugalėti romėnus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_010",
+    "question": "Ką Jėzus liepė mokiniams atvesti, kai artėjo prie Jeruzalės?",
+    "options": {
+      "a": "Arklį",
+      "b": "Asilaitį, kuriuo dar niekas nevažiavo",
+      "c": "Duoklę su maistu",
+      "d": "Naujus drabužius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_011",
+    "question": "Ką žmonės darė, kai Jėzus jojo į Jeruzalę ant asilaitio?",
+    "options": {
+      "a": "Mėtė akmenis",
+      "b": "Tiesė ant kelio drabužius ir šlovino Dievą",
+      "c": "Bėgo pasislėpti",
+      "d": "Giedojo karo dainas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_012",
+    "question": "Ką fariziejai prašė Jėzaus, kai mokiniai šlovino jį?",
+    "options": {
+      "a": "Pasakyti mokiniams tylėti",
+      "b": "Pasakyti mokiniams giedoti geriau",
+      "c": "Pasakyti mokiniams grįžti namo",
+      "d": "Pasakyti mokiniams eiti priekyje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_013",
+    "question": "Ką Jėzus pasakė fariziejams, kai šie prašė jį sudrausti mokinius?",
+    "options": {
+      "a": "„Jie turi teisę šaukti“",
+      "b": "„Sakau jums, jei šitie tylės – akmenys šauks!“",
+      "c": "„Jie yra mano mokiniai, jie gali daryti, ką nori“",
+      "d": "„Jie šlovina ne mane, o Dievą“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_014",
+    "question": "Ką Jėzus pasakė apie Jeruzalę, kai verkė jo?",
+    "options": {
+      "a": "„Tu busi didžiausias miestas pasaulyje“",
+      "b": "„Tu sulauksi dienų, kai tavo priešai apjuos tave pylimu“",
+      "c": "„Tu busi visada saugi“",
+      "d": "„Tu busi naujoji sostinė“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_015",
+    "question": "Ką Jėzus darė, kai įžengė į šventyklą?",
+    "options": {
+      "a": "Pasakė pamaldas",
+      "b": "Pirko aukas",
+      "c": "Varyti laukan prekiautojus",
+      "d": "Susitiko su aukščiaisiais kunigais"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_016",
+    "question": "Ką Jėzus sakė prekiautojams, kai juos varyti iš šventyklos?",
+    "options": {
+      "a": "„Mano namai turi būti maldos namai, o jūs pavertėte juos plėšikų lindyne“",
+      "b": "„Jūs turite mokėti mokesčius“",
+      "c": "„Jūs turite palikti šventyklą“",
+      "d": "„Jūs turite grįžti rytoj“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_19"
+  }
+]

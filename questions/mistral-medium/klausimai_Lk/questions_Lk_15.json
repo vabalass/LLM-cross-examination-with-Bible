@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Lk_15_001",
+    "question": "Ką Jėzaus kritikuojantys fariziejai ir Rašto aiškintojai sakė apie Jėzų?",
+    "options": {
+      "a": "Jis priima nusidėjėlius ir su jais valgo.",
+      "b": "Jis nesilaiko Šabatų įstatymų.",
+      "c": "Jis mokoma neteisingai aiškinti Raštą.",
+      "d": "Jis nepasimeldžia pakankamai dažnai."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_002",
+    "question": "Kiek avių liko avininkui, kai vienai nuklydo, pagal Jėzaus palyginimą?",
+    "options": {
+      "a": "Devyniasdešimt devynios.",
+      "b": "Aštuoniasdešimt devynios.",
+      "c": "Devyniasdešimt.",
+      "d": "Šimtas."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_003",
+    "question": "Ką avininkas padarė, kai surado pražuvusią avį?",
+    "options": {
+      "a": "Susikvietė draugus ir kaimynus džiaugtis.",
+      "b": "Nubaudė avį už praradimą.",
+      "c": "Pardavė avį ir nupirko naują.",
+      "d": "Paliko avį dykumoje."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_004",
+    "question": "Kiek drachmų turėjo moteris, kuri pametė vieną, pagal Jėzaus palyginimą?",
+    "options": {
+      "a": "Dešimt.",
+      "b": "Penkias.",
+      "c": "Dvylika.",
+      "d": "Tris."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_005",
+    "question": "Ką padarė moteris, kai surado pamestą drachmą?",
+    "options": {
+      "a": "Susikvietė drauges ir kaimynes džiaugtis.",
+      "b": "Nusipirko naują drachmą.",
+      "c": "Pasidavė skundžiamasi.",
+      "d": "Pasiėmė skolą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_006",
+    "question": "Ką jaunesnysis sūnus paprašė iš tėvo?",
+    "options": {
+      "a": "Priklausančią palikimo dalį.",
+      "b": "Leidimą vestis.",
+      "c": "Naują namą.",
+      "d": "Tarnų."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_007",
+    "question": "Kur jaunesnysis sūnus išleido savo turtą?",
+    "options": {
+      "a": "Tolimoje šalyje, palaidai gyvendamas.",
+      "b": "Jeruzalėje, statydamas namus.",
+      "c": "Vyno šventėje.",
+      "d": "Mokydamas nusidėjėlius."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_008",
+    "question": "Ką jaunesnysis sūnus turėjo ganyti, kai prarado savo turtą?",
+    "options": {
+      "a": "Kiaules.",
+      "b": "Avis.",
+      "c": "Arklus.",
+      "d": "Ožkas."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_009",
+    "question": "Ką tėvas liepė tarnams padaryti, kai jaunesnysis sūnus sugrįžo?",
+    "options": {
+      "a": "Atnešti geriausią drabužį, užmaukti žiedą, apauti kojas ir papjauti veršį.",
+      "b": "Išvaryti sūnų iš namų.",
+      "c": "Duoti jam darbą laukuose.",
+      "d": "Pasakyti jam pasimelsti."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_010",
+    "question": "Kodėl tėvas sakė, kad reikėjo puotauti dėl jaunesniojo sūnaus sugrįžimo?",
+    "options": {
+      "a": "Nes sūnus buvo miręs ir atgijo, buvo pražuvęs ir atsirado.",
+      "b": "Nes sūnus atnešė daug pinigų.",
+      "c": "Nes sūnus tapo žymus.",
+      "d": "Nes sūnus vedė."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_15"
+  }
+]

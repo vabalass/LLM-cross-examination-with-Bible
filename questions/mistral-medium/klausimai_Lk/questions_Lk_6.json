@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Lk_6_001",
+    "question": "Ką Jėzaus mokiniai darė šabo dieną, kai ėjo per javų lauką?",
+    "options": {
+      "a": "Skabė varpas ir valgo ištrynę javus tarp delnų.",
+      "b": "Rinko javus į maišus, kad pasodintų vėliau.",
+      "c": "Ganė avis javų lauke.",
+      "d": "Miegojo lauke, nes buvo pavargę."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_002",
+    "question": "Ką Dovydas padarė, kai buvo alkanas pats ir jo palydovai, pagal Jėzaus pasakojimą?",
+    "options": {
+      "a": "Pirko maisto iš kunigų.",
+      "b": "Ėmė padėtinės duonos iš Dievo namų ir davė savo palydai.",
+      "c": "Medžiojo laukinius gyvūnus.",
+      "d": "Prašė fariziejų padalyti su juo maisto."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_003",
+    "question": "Ką Jėzus pasakė apie save, remdamasis šabo įstatymų pažeidimu?",
+    "options": {
+      "a": "„Aš esu didesnis už Mozę.“",
+      "b": "„Žmogaus Sūnus yra ir šabo Viešpats.“",
+      "c": "„Šabo dieną reikia tik melsis, o ne dirbti.“",
+      "d": "„Fariziejai klaidina Šventąjį Raštą.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_004",
+    "question": "Ką turėjo žmogus, kurį Jėzus pagydė sinagogoje šabo dieną?",
+    "options": {
+      "a": "Padžiūvusią kairę koją.",
+      "b": "Neregėjo iš kairės akies.",
+      "c": "Padžiūvusią dešinę ranką.",
+      "d": "Negalėjo kalbėti."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_005",
+    "question": "Ką Jėzus paklausė fariziejų ir rašto aiškintojų prieš pagydydamas žmogų su padžiūvusia ranka?",
+    "options": {
+      "a": "„Ar šabo dieną leidžiama gydyti, ar ne?“",
+      "b": "„Ar per šabą leistina gera daryti, ar bloga? Gelbėti gyvybę ar žudyti?“",
+      "c": "„Ką jūs darytumėte, jei tai būtų jūsų artimas?“",
+      "d": "„Ar tikrai norite, kad aš pagydyčiau šį žmogų?“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_006",
+    "question": "Ką padarė žmogus su padžiūvusia ranka, kai Jėzus liepė jam ištiesti ranką?",
+    "options": {
+      "a": "Jis atsisakė tai padaryti iš baimės.",
+      "b": "Jis ištiesė ranką, ir ji atgijo.",
+      "c": "Jis pasakė, kad tai neįmanoma.",
+      "d": "Jis pabėgo iš sinagogos."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_007",
+    "question": "Ką fariziejai ir rašto aiškintojai nutarė daryti po to, kai Jėzus pagydė žmogų šabo dieną?",
+    "options": {
+      "a": "Jie pasidžiuvo ir paprašė atleidimo.",
+      "b": "Jie ėmė šlovinti Jėzų kaip stebukladarį.",
+      "c": "Jie baisiai įniršo ir tarėsi, ką Jėzui padaryti.",
+      "d": "Jie paskelbė, kad Jėzus yra Mesijas."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_008",
+    "question": "Kiek apaštalų Jėzus pasirinko iš savo mokinių?",
+    "options": {
+      "a": "7",
+      "b": "10",
+      "c": "12",
+      "d": "15"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_009",
+    "question": "Kas **nebuvo** tarp dvylikos apaštalų, pasirinktų Jėzaus?",
+    "options": {
+      "a": "Pilypas",
+      "b": "Baltramiejus",
+      "c": "Jonas",
+      "d": "Šimonas Zelotas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_010",
+    "question": "Kas buvo vadinamas „Uoliuoju“ tarp dvylikos apaštalų?",
+    "options": {
+      "a": "Andriejus",
+      "b": "Šimonas",
+      "c": "Jokūbas",
+      "d": "Judas Iskariotas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_011",
+    "question": "Kas vėliau tapo išdaviku tarp dvylikos apaštalų?",
+    "options": {
+      "a": "Tomas",
+      "b": "Judas Iskariotas",
+      "c": "Matas",
+      "d": "Pilypas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_012",
+    "question": "Ką Jėzus sakė apie vargdienius, palaiminimuose?",
+    "options": {
+      "a": "„Jūsų lauks didelis turtas žemėje.“",
+      "b": "„Jūsų yra Dievo karalystė.“",
+      "c": "„Jūsų vargai greit baigsis.“",
+      "d": "„Jūsų reikia daug dirbti, kad pasiturėtumėte.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_013",
+    "question": "Ką Jėzus pasakė apie tuos, kurie verka, palaiminimuose?",
+    "options": {
+      "a": "„Jūsų liūdesys niekada nebaigsis.“",
+      "b": "„Jūs būsite pasotinti.“",
+      "c": "„Jūs juoksitės.“",
+      "d": "„Jūsų ašaros bus paverstos džiaugsmu.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_014",
+    "question": "Ką Jėzus liepė daryti su priešais, palaikymuose?",
+    "options": {
+      "a": "„Mylėkite savo priešus, darykite gera tiems, kurie jūsų nekenčia.“",
+      "b": "„Vengiate jų ir nedarykite jokių sandorių.“",
+      "c": "„Kovokite su jais, kol jie pasiduos.“",
+      "d": "„Meldkitės, kad Dievas juos nubaustų.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_015",
+    "question": "Ką Jėzus pasakė apie skolinimą, palaikymuose?",
+    "options": {
+      "a": "„Skolinkite tik tiems, kurie galės atiduoti.“",
+      "b": "„Neskolinkite niekam, nes tai pavojinga.“",
+      "c": "„Skolinkite nieko nesitikėdami.“",
+      "d": "„Skolinkite tik savo šeimos nariams.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_016",
+    "question": "Ką Jėzus palygino su namu, statytu ant uolos, savo paskaitoje?",
+    "options": {
+      "a": "Žmogų, kuris klausosi jo žodžių ir juos vykdo.",
+      "b": "Žmogų, kuris turi daug turto.",
+      "c": "Žmogų, kuris moka gražiai kalbėti.",
+      "d": "Žmogų, kuris yra kilęs iš garbios šeimos."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_6"
+  }
+]

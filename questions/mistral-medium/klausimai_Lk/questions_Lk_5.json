@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Lk_5_001",
+    "question": "Kur Jėzus mokė minias, kai pamatė dvi valtis prie Genezareto ežero?",
+    "options": {
+      "a": "Stovėdamas ant kalno",
+      "b": "Sėdėdamas vienoje iš valčių",
+      "c": "Įlipęs į Simono valtį ir atsisėdęs joje",
+      "d": "Stovėdamas ant kranto"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_002",
+    "question": "Ką Jėzus pasakė Simonui, kai šis pasakė, kad visą naktį nieko nesugavo?",
+    "options": {
+      "a": "„Eik namo ir ilsėkis, nes rytojai bus geriau“",
+      "b": "„Irkis į gilumą ir išmeskite tinklus valksmui“",
+      "c": "„Jūsų tinklai per seniai, reikia naujų“",
+      "d": "„Aš padėsiu jums, jei tik tikėsite“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_003",
+    "question": "Ką Simonas Petras padarė, kai pamatė didelį žuvų valksmą?",
+    "options": {
+      "a": "Pabėgo iš baimės",
+      "b": "Pasakė Jėzui: „Pasitrauk nuo manęs, Viešpatie, nes aš – nusidėjėlis!“",
+      "c": "Įsakė draugams viską palikti ir grįžti namo",
+      "d": "Pradėjo šviesti Jėzų kaip stebukladarį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_004",
+    "question": "Ką Jėzus pasakė Simonui, kai šis išgąstis užklupo?",
+    "options": {
+      "a": "„Dabar jau galėsi žvejoti be manęs“",
+      "b": "„Nebijok! Nuo šiol jau žmones žvejosi“",
+      "c": "„Tavo nuodėmės tau atleistos“",
+      "d": "„Eik ir pasakok visiems, ką čia matėjai“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_005",
+    "question": "Ką raupsuotasis prašė Jėzaus, kai jį pamatė?",
+    "options": {
+      "a": "„Padėk man rasti darbą!“",
+      "b": "„Viešpatie, jei tik panorėsi, gali padaryti mane švarų!“",
+      "c": "„Išvaduok mane nuo šio miesto!“",
+      "d": "„Duok man išgijimo ženklą!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_006",
+    "question": "Ką Jėzus liepė išgydytam raupsuotajam padaryti?",
+    "options": {
+      "a": "„Eik pas kunigą ir pasakok jam apie mane“",
+      "b": "„Nieko nepasakok ir greitai grįžk namo“",
+      "c": "„Pasirodyk kunigui ir atiduok auką už pagijimą, kaip Mozės įsakyta“",
+      "d": "„Iškeliau ir skelbk visiems apie mane“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_007",
+    "question": "Kaip paralitikas atsidūrė priešais Jėzų, kai namuose buvo daug žmonių?",
+    "options": {
+      "a": "Draugai jį atnešė pro duris",
+      "b": "Jie praėmė plytas stogo ir nuleido jį žemyn",
+      "c": "Jėzus pats išėjo pas jį į lauką",
+      "d": "Jie prašė žmonių pasišalinti ir atnešė jį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_008",
+    "question": "Ką Jėzus pasakė paralitikui, kai matė jo draugų tikėjimą?",
+    "options": {
+      "a": "„Tavo ligos išgydytos!“",
+      "b": "„Tavo nuodėmės tau atleistos!“",
+      "c": "„Kelkis ir vaikščiok!“",
+      "d": "„Dėkingas būk Dievui!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_009",
+    "question": "Ką Jėzus padarė, kad įrodytų turintis žemėje galią atleisti nuodėmes?",
+    "options": {
+      "a": "Pasakė: „Kelkis, imk savo patalą ir eik namo“",
+      "b": "Išgydė dar vieną ligonį",
+      "c": "Pakėlė ranką ir palietė paralitiką",
+      "d": "Pasakė: „Aš esu Dievo Sūnus“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_010",
+    "question": "Ką Jėzus pasakė muitininkui Leviui, kai jį pamatė muitinėje?",
+    "options": {
+      "a": "„Sek paskui mane!“",
+      "b": "„Palik savo darbą ir eik namo!“",
+      "c": "„Tu turi daug nusidėjimų, atgauk!“",
+      "d": "„Aš tau duosiu naują darbą“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_011",
+    "question": "Ką fariziejai ir jų Rašto aiškintojai sakė Jėzaus mokiniams, kai matė juos valgančius su muitininkais?",
+    "options": {
+      "a": "„Kodėl jūs nevalgote su mums?“",
+      "b": "„Kam jūs valgote ir geriate su muitininkais ir nusidėjėliais?“",
+      "c": "„Jūs turite gerbtis savo mokytojo!“",
+      "d": "„Šis valgis yra nešvarus!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_012",
+    "question": "Ką Jėzus atsakė, kai jam sakė: „Jono mokiniai ir fariziejų mokiniai pasninkauja, o tavieji valgo sau ir geria“?",
+    "options": {
+      "a": "„Jie turi pasninkauti, nes aš čia esu“",
+      "b": "„Jie neteisingai daro, nes reikia valgyti“",
+      "c": "„Argi galite versti pasninkauti vestuvių svečius, kol su jais yra jaunikis?“",
+      "d": "„Jie turi pasninkauti, nes aš greitai išvyksiu“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_013",
+    "question": "Ką Jėzus pasakė apie naują vyną ir senus vynmaišius?",
+    "options": {
+      "a": "„Naują vyną reikia pilti į senus vynmaišius“",
+      "b": "„Jauną vyną reikia pilti į naujus vynmaišius“",
+      "c": "„Vynas visada bus geras, nepriklausomai nuo vynmaišio“",
+      "d": "„Senas vynas visada geresnis už naują“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_5"
+  }
+]

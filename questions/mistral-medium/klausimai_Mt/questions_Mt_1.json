@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Mt_1_001",
+    "question": "Kas buvo Jėzaus Kristaus protėvis, pagal Mateusą, kuris minimas pirmuoju po Abraomo?",
+    "options": {
+      "a": "Izaokas",
+      "b": "Jokūbas",
+      "c": "Judas",
+      "d": "Dovydas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_002",
+    "question": "Kas buvo Jėzaus protėvių linijoje, pagal Mt 1, ir buvo susijęs su Rachaba?",
+    "options": {
+      "a": "Boazas",
+      "b": "Salmonas",
+      "c": "Jobedas",
+      "d": "Jesė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_003",
+    "question": "Kas buvo Dovydo tėvas, pagal Mt 1?",
+    "options": {
+      "a": "Boazas",
+      "b": "Jobedas",
+      "c": "Jesė",
+      "d": "Salmonas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_004",
+    "question": "Kiek kartų, pagal Mt 1, kartojasi keturiolikos kartų ciklas nuo Abraomo iki Kristaus?",
+    "options": {
+      "a": "Du kartus",
+      "b": "Tris kartus",
+      "c": "Vieną kartą",
+      "d": "Keturis kartus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_005",
+    "question": "Kas buvo Jėzaus motina, pagal Mt 1?",
+    "options": {
+      "a": "Elizabetė",
+      "b": "Marta",
+      "c": "Marija",
+      "d": "Ruta"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_006",
+    "question": "Kas pasirodė Juozapui sapne ir kalbėjo apie Marijos nėštumą, pagal Mt 1?",
+    "options": {
+      "a": "Mozė",
+      "b": "Viešpaties angelas",
+      "c": "Pranašas Elijas",
+      "d": "Šventoji Dvasia"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_007",
+    "question": "Koks vardas buvo suteiktas Jėzui, pagal Viešpaties angelo žodžius, ir ką jis reiškia?",
+    "options": {
+      "a": "Emanuelis – „Dievas su mumis“",
+      "b": "Kristus – „Išgelbėtojas“",
+      "c": "Jėzus – „išgelbės nuo nuodėmių“",
+      "d": "Mesijas – „paskirtasis“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_008",
+    "question": "Kas buvo Juozapo planas su Marija, kai sužinojo apie jos nėštumą, pagal Mt 1?",
+    "options": {
+      "a": "Paskelbti viešai apie jos nuodėmę",
+      "b": "Tylomis ją atleisti",
+      "c": "Išvaryti iš miesto",
+      "d": "Vestuvėms atidėti metams"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_1"
+  }
+]

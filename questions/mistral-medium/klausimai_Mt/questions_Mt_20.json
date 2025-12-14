@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_20_001",
+    "question": "Kokį atlyginimą šeimininkas sutarė sumokėti darbininkams už vienos dienos darbą vynuogynyje?",
+    "options": {
+      "a": "Po denarą",
+      "b": "Po du denarus",
+      "c": "Po pusę denaro",
+      "d": "Po tris obolus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_002",
+    "question": "Keliais kartais šeimininkas išėjo pasamdyti darbininkų per dieną?",
+    "options": {
+      "a": "Tris kartus",
+      "b": "Penkis kartus",
+      "c": "Keturis kartus",
+      "d": "Šešis kartus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_003",
+    "question": "Ką šeimininkas atsakė darbininkams, kurie murmėjo dėl lygaus atlyginimo su paskutiniaisiais?",
+    "options": {
+      "a": "„Jūsų darbas buvo vertingesnis, todėl gausite papildomą sumą“",
+      "b": "„Aš neskriaudžiu jūsų – imkite, kas sutarta, ir eikite“",
+      "c": "„Paskutiniai dirbo mažiau, todėl jums bus sumokėta daugiau“",
+      "d": "„Jūsų nepasitenkinimas bus įvertintas ateityje“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_004",
+    "question": "Ką Jėzus pasakė mokiniams apie savo ateitį Jeruzalėje?",
+    "options": {
+      "a": "Jis bus karūnuotas karaliumi",
+      "b": "Jis bus atiduotas aukštiesiems kunigams, nukryžiuotas ir trečią dieną prisikels",
+      "c": "Jis pasitrauks į dykumą maldai",
+      "d": "Jis įveiks romėnus ir atkurs Izraelio karalystę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_005",
+    "question": "Ką prašė Jokūbo ir Jono motina nuo Jėzaus savo sūnums?",
+    "options": {
+      "a": "Suteikti jiems galios stebuklus daryti",
+      "b": "Leisti jiems sėdėti Jėzaus dešinėje ir kairėje karalystėje",
+      "c": "Apsaugoti juos nuo ligų",
+      "d": "Padaryti juos aukštesniais už kitus mokinius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_006",
+    "question": "Ką Jėzus atsakė Jokūbo ir Jonui, kai jie sakė, kad galės gerti jo taurę?",
+    "options": {
+      "a": "„Jūsų tikėjimas jūs išgelbės“",
+      "b": "„Jūs gersite, bet vietos mano dešinėje ir kairėje priklauso Tėvo paskirimtims“",
+      "c": "„Jūsų troškimas bus įvertintas po mirties“",
+      "d": "„Jums reikia daugiau mokytis, kol busite parengti“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_007",
+    "question": "Ką Jėzus pasakė apie vadovavimą tarp savo mokinių?",
+    "options": {
+      "a": "„Tarp jūsų didžiausias turi būti toks, kaip karalius“",
+      "b": "„Kas nori būti didžiausias, tebūnie jūsų tarnas“",
+      "c": "„Vadovai turi būti garbingi ir griežti“",
+      "d": "„Tik aš turiu teisę vadovauti, o jūs – klausyti“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_008",
+    "question": "Ką šaukė du neregiai Jėzui, kai jis kėlé į Jericho?",
+    "options": {
+      "a": "„Mokytojau, išgydyk mus!“",
+      "b": "„Viešpatie, Dovydo Sūnau, pasigailėk mūsų!“",
+      "c": "„Mes esame nuodėmingi, atleisk mus!“",
+      "d": "„Priešingu atveju mes prarasome tikėjimą!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_009",
+    "question": "Ką Jėzus padarė neregiams, kai jie prašė atsivertų jų akys?",
+    "options": {
+      "a": "Pasakė jiems eiti pas kunigus maldai",
+      "b": "Palietė jų akis, ir jie praregėjo",
+      "c": "Pasakė, kad jie turi laukti stebuklo rytoj",
+      "d": "Duodė jiems žemę, kad pasimeltų savo akis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_010",
+    "question": "Ką Jėzus sakė apie Žmogaus Sūnaus misiją (Mt 20,28)?",
+    "options": {
+      "a": "„Aš atėjau, kad man tarnautų visi žmonės“",
+      "b": "„Žmogaus Sūnus atėjo ne kad jam tarnautų, bet pats tarnauti“",
+      "c": "„Mano tikslas – sukurtu naują religiją“",
+      "d": "„Aš čia esu, kad įveiktų blogį“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_011",
+    "question": "Ką reiškė Jėzaus žodžiai: „Taip paskutinieji bus pirmi, o pirmieji – paskutiniai“?",
+    "options": {
+      "a": "Dangaus karalystėje svarbiausia yra darbo trukmė",
+      "b": "Dievo malonė ir apdovanojimai priklauso nuo jo valios, o ne nuo žmogaus nuopelnų",
+      "c": "Pirmieji mokiniai bus bausti, o paskutinieji – apdovanoti",
+      "d": "Visi žmonės bus lygūs Dangaus karalystėje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_20"
+  }
+]

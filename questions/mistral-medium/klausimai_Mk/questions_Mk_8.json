@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mk_8_001",
+    "question": "Kiek dienų žmonės praleido su Jėzumi, kol šis antrą kartą padaugino duoną (Mk 8:2)?",
+    "options": {
+      "a": "Tris dienas",
+      "b": "Vieną dieną",
+      "c": "Dvi dienas",
+      "d": "Penkias dienas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_002",
+    "question": "Kiek duonos kepalėlių turėjo Jėzus, kai padaugino duoną antrą kartą (Mk 8:5)?",
+    "options": {
+      "a": "Penkis",
+      "b": "Septynis",
+      "c": "Dvylika",
+      "d": "Tris"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_003",
+    "question": "Kiek žmonių buvo pasisotinusioje minijoje, kai Jėzus padaugino septynis duonos kepalėlius (Mk 8:9)?",
+    "options": {
+      "a": "Penki tūkstančiai",
+      "b": "Trys tūkstančiai",
+      "c": "Keturi tūkstančiai",
+      "d": "Septyni tūkstančiai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_004",
+    "question": "Kokį ženklą iš dangaus reikalavo fariziejai nuo Jėzaus (Mk 8:11)?",
+    "options": {
+      "a": "Gydymo stebuklą",
+      "b": "Ženklą iš dangaus",
+      "c": "Duonos padauginimą",
+      "d": "Neregio išgydymą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_005",
+    "question": "Ką Jėzus sakė fariziejams, kai jie reikalavo ženklo iš dangaus (Mk 8:12)?",
+    "options": {
+      "a": "„Ženklo bus duota, kai tik pasitikėsite“",
+      "b": "„Šiai giminei nebus duota ženklo“",
+      "c": "„Jums ženklo duos Dievas, ne aš“",
+      "d": "„Ženklo gausite, kai atsiveršite“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_006",
+    "question": "Ką Jėzus įspėjo mokinius saugotis (Mk 8:15)?",
+    "options": {
+      "a": "Fariziejų ir Erodo raugo",
+      "b": "Romėnų valdžios",
+      "c": "Blogų dvasų",
+      "d": "Neregystės ligos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_007",
+    "question": "Kiek pilnų pintinių likučių surinko mokiniai, kai Jėzus padaugino penkis duonos kepalėlius (Mk 8:19)?",
+    "options": {
+      "a": "Septynis",
+      "b": "Dvylika",
+      "c": "Penkis",
+      "d": "Tris"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_008",
+    "question": "Ką Jėzus padarė neregio akims, kai išgydė jį (Mk 8:23)?",
+    "options": {
+      "a": "Patepė seilėmis ir uždėjo rankas",
+      "b": "Pasakė maldą ir palietė akis",
+      "c": "Paskambino varpeliais ir palietė veidą",
+      "d": "Paskuišė į vandenį ir palaimino"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_009",
+    "question": "Ką atsakė Petras, kai Jėzus paklausė: „O jūs kuo mane laikote?“ (Mk 8:29)?",
+    "options": {
+      "a": "„Tu esi pranašas“",
+      "b": "„Tu esi Mesijas“",
+      "c": "„Tu esi karalius“",
+      "d": "„Tu esi kunigas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_010",
+    "question": "Ką Jėzus pasakė Petrui, kai šis bandė jį drausti kalbėti apie kančią ir mirtį (Mk 8:33)?",
+    "options": {
+      "a": "„Eik šalin, šėtone“",
+      "b": "„Tu esi mano uola“",
+      "c": "„Tavo tikėjimas tave išgelbės“",
+      "d": "„Tau reikia būti tvirtesniam“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_011",
+    "question": "Ką Jėzus sakė apie tą, kas nori sekti jam (Mk 8:34)?",
+    "options": {
+      "a": "„Turi būti turtingas“",
+      "b": "„Turi atsisakyti savo šeimos“",
+      "c": "„Turi išsižadėti pats savęs ir imti savo kryžių“",
+      "d": "„Turi mokėti graikų kalbą“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_012",
+    "question": "Ką Jėzus sakė apie tą, kas gėdisi jo ir jo žodžių (Mk 8:38)?",
+    "options": {
+      "a": "„Tas bus apdovanotas“",
+      "b": "„Tas gėdysis ir Žmogaus Sūnus“",
+      "c": "„Tas taps mokinys“",
+      "d": "„Tas bus atleistas nuo nuodėmių“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_8"
+  }
+]

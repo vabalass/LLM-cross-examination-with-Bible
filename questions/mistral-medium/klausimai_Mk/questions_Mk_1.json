@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Mk_1_001",
+    "question": "Kas buvo Jono Krikštytojo pagrindinė užduotis pagal Marko 1:2-4?",
+    "options": {
+      "a": "Statyti naują šventyklą Jeruzalėje",
+      "b": "Skelbti atsivertimo krikštą nuodėmėms atleisti ir ruošti kelią Viešpačiui",
+      "c": "Kurti naują religinę sektą dykumoje",
+      "d": "Kovoti prieš romėnų valdžią politiniu būdu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_002",
+    "question": "Ką Jėzus matė ir girdėjo, kai buvo krikštijamas Jordano upėje (Mk 1:10-11)?",
+    "options": {
+      "a": "Ugnies liepsnas ir griaustinį",
+      "b": "Prasiveržiantį dangų, Dvasią tarsi balandį nusileidžiančią ant jo ir balsą iš dangaus: „Tu mano mylimasis Sūnus, tavimi aš gėriuosi“",
+      "c": "Angelų chorą dainuojantį giesmes",
+      "d": "Jono Krikštytojo regėjimą apie ateinančią karalystę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_003",
+    "question": "Kiek dienų Jėzus praleido dykumoje būdamas gundomas šėtono (Mk 1:13)?",
+    "options": {
+      "a": "Tris dienas",
+      "b": "Septynias dienas",
+      "c": "Keturiasdešimt dienų",
+      "d": "Metus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_004",
+    "question": "Ką Jėzus skelbė Galilėjoje, kai Jonas Krikštytojas buvo suimtas (Mk 1:14-15)?",
+    "options": {
+      "a": "„Laikas atkeršyti prieš romėnus!“",
+      "b": "„Atėjo įvykdymo metas, Dievo karalystė čia pat! Atsiverskite ir tikėkite Evangelija!“",
+      "c": "„Pasiruoškite paskutiniam teismui!“",
+      "d": "„Apleiskite savo šeimas ir sekite mane!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_005",
+    "question": "Ką Jėzus pasakė Simono ir Andriejaus, kai juos pamatė žvejojančius (Mk 1:17)?",
+    "options": {
+      "a": "„Palikite savo tinklus ir grįžkite į namus!“",
+      "b": "„Eikite paskui mane! Aš padarysiu jus žmonių žvejais“",
+      "c": "„Duokite man savo žuvį, nes aš alkanas“",
+      "d": "„Mokykitės žvejoti geriau, nes jūsų technika bloga“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_006",
+    "question": "Kas įvyko sinagogoje, kai Jėzus mokė Kafarnaume (Mk 1:23-26)?",
+    "options": {
+      "a": "Jis pavertė vandens vynu",
+      "b": "Netyrosios dvasios apsėstas žmogus ėmė šaukti, o Jėzus išvarė demoną iš jo",
+      "c": "Jis paskelbė apie artėjantį pasaulio pabaigą",
+      "d": "Žmonės pradėjo šokti ir dainuoti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_007",
+    "question": "Ką Jėzus padarė Simono uošvei, kai ši gulėjo karščiuodama (Mk 1:30-31)?",
+    "options": {
+      "a": "Jis pasakė, kad ligė neturėtų gydyti, nes tai Dievo valia",
+      "b": "Jis pakėlė ją už rankos, karštis paliovė ir ji galėjo patarnauti",
+      "c": "Jis liepė jos šeimai pasiduoti ligai kaip baudai už nuodėmes",
+      "d": "Jis davė jai žolelių nuo ligos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_008",
+    "question": "Ką Jėzus darė vakare, kai pas jį atnešė ligonius ir demonų apsėstuosius (Mk 1:32-34)?",
+    "options": {
+      "a": "Jis atsisakė juos gydyti, nes buvo pavargęs",
+      "b": "Jis pagydė daugelį sergančių įvairiomis ligomis ir išvarė daug demonų",
+      "c": "Jis pasakė, kad ligos yra dėka blogų nuodėmių",
+      "d": "Jis pasiuntė juos pas kunigus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_009",
+    "question": "Ką Jėzus atsakė Simono draugams, kai jie pasakė: „Visi tavęs ieško“ (Mk 1:38)?",
+    "options": {
+      "a": "„Aš esu pavargęs, palikite mane ramiai“",
+      "b": "„Eikime kitur, į gretimus miestelius, kad ir ten skelbčiau žodį, nes tam esu atėjęs“",
+      "c": "„Sukurkite didesnę sinagogą, kad čia galėčiau mokyti“",
+      "d": "„Pasakykite žmonėms, kad ateitų vėliau“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_010",
+    "question": "Ką Jėzus padarė raupsuotajam, kai šis atsiklaupęs maldavo: „Jei panorėsi, gali mane padaryti švarų“ (Mk 1:40-42)?",
+    "options": {
+      "a": "Jis pasakė, kad raupsai yra bauda už nuodėmes ir reikia kąsti",
+      "b": "Jis pasigailėjo jo, palietė ir pasakė: „Noriu, būk švarus!“, ir raupsai pranyko",
+      "c": "Jis liepė jam išsiduoti raupsus savo šeimai",
+      "d": "Jis pasiuntė jį pas Jono Krikštytoją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_011",
+    "question": "Ką Jėzus liepė pagydytam raupsuotajam (Mk 1:43-44)?",
+    "options": {
+      "a": "„Eik ir pasakok visiems, ką aš padariau!“",
+      "b": "„Žiūrėk, niekam nieko nepasakok! Eik pasirodyk kunigui ir už pagijimą paaukok Mozės įsakytą atnašą jiems paliudyti“",
+      "c": "„Grįžk į savo namus ir niekada nebeišėjik iš ten“",
+      "d": "„Dėkui mane visą savo gyvenimą“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_012",
+    "question": "Ką darė Jėzus, kai labai anksti, dar neprašvitus, atsikėlęs (Mk 1:35)?",
+    "options": {
+      "a": "Jis ruošėsi keliauti į Jeruzalę",
+      "b": "Jis nuėjo į negyvenamą vietą ir tenai meldėsi",
+      "c": "Jis pradėjo rašyti knygą apie Dievo karalystę",
+      "d": "Jis susirinko su savo mokiniais puotauti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_013",
+    "question": "Ką Jėzus skelbė keliavęs po Galilėją (Mk 1:39)?",
+    "options": {
+      "a": "Jis skelbė žodį sinagogose ir išvarinėdavo demonus",
+      "b": "Jis mokė žmones statyti naujas sinagogas",
+      "c": "Jis rinko pinigus statyti šventykla Jeruzalėje",
+      "d": "Jis mokė žmones žvejoti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_014",
+    "question": "Kas įvyko, kai raupsuotasis pradėjo plačiai skelbti apie savo pagijimą (Mk 1:45)?",
+    "options": {
+      "a": "Jėzus tapo labai populiarus ir visi norėjo jį matyti viešai mieste",
+      "b": "Jėzus nebegalėjo viešai pasirodyti mieste ir laikėsi už miesto, bet žmonės vis vien rinkosi pas jį",
+      "c": "Raupsuotasis tapo Jėzaus mokinys",
+      "d": "Raupsuotasis buvo suimtas už melagingą liudijimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_015",
+    "question": "Ką Jėzus pasakė Zebediejaus sūnums Jokūbui ir Jonui, kai juos pamatė valtyje (Mk 1:19-20)?",
+    "options": {
+      "a": "„Palikite savo tėvą ir sekite mane!“",
+      "b": "„Baigę tinklus, ateikite pas mane vėliau“",
+      "c": "„Jūsų tėvas turi likti vienas, nes jis senas“",
+      "d": "„Aš padarysiu jus turtingais žvejais“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_016",
+    "question": "Ką žmonės stebėjosi, kai Jėzus mokė sinagogoje (Mk 1:22)?",
+    "options": {
+      "a": "Jis mokė kaip turintis galią, o ne kaip Rašto aiškintojai",
+      "b": "Jis mokė graikų kalba, o ne hebrajų",
+      "c": "Jis mokė apie romėnų istoriją",
+      "d": "Jis mokė tik apie žvejojimą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_1"
+  }
+]

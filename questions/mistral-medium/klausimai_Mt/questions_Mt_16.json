@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mt_16_001",
+    "question": "Ką fariziejai ir sadukiejai prašė Jėzaus parodyti, kai atėjo jo mėginti?",
+    "options": {
+      "a": "Ženklą iš dangaus",
+      "b": "Stebuklą su ligoniais",
+      "c": "Jono Krikštytojo atsiradimą",
+      "d": "Naują Dievo įstatymą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_002",
+    "question": "Ką Jėzus palygino su „fariziejų ir sadukiejų raugu“, kai mokiniai galvojo apie duonos trūkumą?",
+    "options": {
+      "a": "Jų nepasitikėjimą Dievu",
+      "b": "Jų mokslą ir klastingą mokymą",
+      "c": "Jų nepageidaujamą elgesį su vargšais",
+      "d": "Jų nepasiruošimą Jėzaus atėjimui"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_003",
+    "question": "Ką žmonės laikė Jėzų (Žmogaus Sūnų) pagal mokinių atsakymus?",
+    "options": {
+      "a": "Dovydo sūnumi",
+      "b": "Jonu Krikštytoju, Eliju, Jeremiju ar kitais pranašais",
+      "c": "Romos imperijos išvaduotoju",
+      "d": "Naujuoju Mozė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_004",
+    "question": "Ką Petras atsakė Jėzui, kai šis paklausė: „O kuo jūs mane laikote?“?",
+    "options": {
+      "a": "„Tu esi pranašas, kuris ateis iš dangaus“",
+      "b": "„Tu esi Mesijas, gyvojo Dievo Sūnus!“",
+      "c": "„Tu esi karalius, kuris išvaduos Izraelį“",
+      "d": "„Tu esi Dievo pasiuntinys su nauja dvasine dorybe“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_005",
+    "question": "Ką Jėzus pažadėjo Petrui, sakydamas: „Tu esi Petras – Uola“?",
+    "options": {
+      "a": "Jis taps naujuoju Izraelio karaliumi",
+      "b": "Ant tos uolos bus pastatyta Jėzaus Bažnyčia, ir pragaro vartai jos nenugalės",
+      "c": "Petras gaus galią atgaivinti mirusiuosius",
+      "d": "Petras bus vienintelis, kuris supras visus Jėzaus stebuklus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_006",
+    "question": "Ką Jėzus griežtai liepė mokiniams po Petro išpažinimo, kad jis yra Mesijas?",
+    "options": {
+      "a": "Iškart pradėti skelbti apie tai visiems žmonėms",
+      "b": "Nieko nepasakyti niekam, kad jis yra Mesijas",
+      "c": "Parašyti apie tai knygose, kad visi suprastų",
+      "d": "Pasiruošti karinei kovai dėl karalystės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_007",
+    "question": "Ką Jėzus pradėjo aiškinti mokiniams nuo to meto, kai Petras išpažino jį Mesiju?",
+    "options": {
+      "a": "Apie naujus Dievo įstatymus",
+      "b": "Apie turįs eiti į Jeruzalę ir būti nužudytas, bet trečią dieną prisikelti",
+      "c": "Apie būsimą karą su Romos imperija",
+      "d": "Apie naują religiją, kuri pakeis judaizmą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_008",
+    "question": "Ką Jėzus pasakė Petrui, kai šis bandė drausti Jėzui eiti į Jeruzalę ir kančioti?",
+    "options": {
+      "a": "„Tu esi mano ištikimiausias mokinys“",
+      "b": "„Eik šalin, šėtone! Tu man papiktinimas, nes mąstai ne Dievo, o žmonių mintimis“",
+      "c": "„Tavo baimė yra teisinga, bet mes turime įveikti ją“",
+      "d": "„Tu nesupranti mano misijos, bet vėliau suprasi“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_009",
+    "question": "Ką Jėzus sakė apie tą, kas nori sekti jam: „Jei kas nori eiti paskui mane...“?",
+    "options": {
+      "a": "Turi aukoti visą savo turtą",
+      "b": "Turi išsižadėti pats savęs, pasiimti savo kryžių ir sekti jam",
+      "c": "Turi tapti kunigu ar pranašu",
+      "d": "Turi gyventi vieniškai kalnuose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_16"
+  }
+]

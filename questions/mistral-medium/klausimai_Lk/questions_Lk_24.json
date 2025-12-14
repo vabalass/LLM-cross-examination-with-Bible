@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Lk_24_001",
+    "question": "Kas atėjo prie Jėzaus kapo pirmąją savaitės dieną, rytui brėkštant?",
+    "options": {
+      "a": "Apaštalai Petras ir Jonas",
+      "b": "Moterys, nešiosios paruoštus tepalus",
+      "c": "Romos kariuomenės sargybiniai",
+      "d": "Farizejus Nikodemas su savanoriais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_002",
+    "question": "Ką moterys rado, įėjusios į Jėzaus kapą?",
+    "options": {
+      "a": "Jėzaus kūną su naujais drabužiais",
+      "b": "Du sėdintis angelus ant akmens",
+      "c": "Tuščią kapą – Jėzaus kūno neberado",
+      "d": "Romos įsakymą uždaryti kapą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_003",
+    "question": "Ką du vyrai spindinčiais drabužiais pasakė moterims prie kapo?",
+    "options": {
+      "a": "„Jėzus buvo pagrobtas, ieškokite jo kitur“",
+      "b": "„Kam ieškote gyvojo tarp mirusiųjų? Jis prisikėlė!“",
+      "c": "„Jums reikia pasiduoti romėnams dėl šios naktinės aktyvumo“",
+      "d": "„Jėzus iškilo į dangų, čia jo nebebus“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_004",
+    "question": "Ką moterys prisiminė, kai angelai priminė Jėzaus žodžius?",
+    "options": {
+      "a": "Jėzaus paskutinio vakarienės malonę",
+      "b": "Žmogaus Sūnaus nukryžiavimo ir trečią dieną prisikėlimo pranašystę",
+      "c": "Jėzaus gydymo stebuklus Galilėjoje",
+      "d": "Jėzaus įsakymą nekalbėti su niekenu apie prisikėlimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_005",
+    "question": "Kas buvo vienas iš dviejų mokių, keliaujusių į Emausą?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas Iskariotas",
+      "c": "Kleopas",
+      "d": "Jokūbas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_006",
+    "question": "Kodėl mokiniai, einantys į Emausą, nepažino Jėzaus?",
+    "options": {
+      "a": "Jėzus buvo apsirengęs kaip keliautojas",
+      "b": "Jų akys buvo „lyg migla aptrauktos“",
+      "c": "Jie buvo aklinti saulės blizgesio",
+      "d": "Jėzus kalbėjo svetima kalba"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_007",
+    "question": "Ką Jėzus sakė mokiniams, kai jie pasakojo apie savo viltis, kad Jėzus „atpirks Izraelį“?",
+    "options": {
+      "a": "„Jūsų vilties teisėtos, bet dar nėra laikas“",
+      "b": "„O jūs, neišmanėliai! Kokios nerangios jūsų širdys tikėti pranašų žodžiais!“",
+      "c": "„Izraelis jau atpirktas, bet jūs nesuprantate“",
+      "d": "„Mesijas nebus karalius, o tik mokytojas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_008",
+    "question": "Kaip Jėzus atvėrė mokiniams Raštų prasmę, einant į Emausą?",
+    "options": {
+      "a": "Jis rodė jums stebuklingus ženklus",
+      "b": "Pradėdamas nuo Mozės, aiškino, kas visuose Raštuose apie jį pasakyta",
+      "c": "Jis parodė jiems slaptą raktą, kuris atidaro visus pranašų raštus",
+      "d": "Jis pasakė, kad Raštai yra klastoti ir juos reikia ignoruoti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_009",
+    "question": "Kada Emauso mokiniai pažino Jėzų?",
+    "options": {
+      "a": "Kai jis pasakė: „Aš esu Jėzus“",
+      "b": "Kai jis laužė duoną ir sukalbėjo palaiminimą",
+      "c": "Kai jis parodė jiems savo rankų žaizdas",
+      "d": "Kai jis pakeitė savo veidą į šviesią"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_010",
+    "question": "Ką Jėzus parodė apaštalams, kad įrodytų savo kūniškumą?",
+    "options": {
+      "a": "Savo širdies plakimą",
+      "b": "Rankas ir kojas, prašydamas paliesti jį",
+      "c": "Nukryžiavimo įrankius",
+      "d": "Angelo sparnus, kuriuos buvo paslėpęs"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_011",
+    "question": "Ką Jėzus paprašė apaštalų, norėdamas įrodyti, kad jis nėra dvasia?",
+    "options": {
+      "a": "Jis paprašė, kad jie uždegintų ugnį",
+      "b": "Jis paprašė valgyti – jie davė jam keptos žuvies gabalą",
+      "c": "Jis paprašė, kad jie užmaldautų jį vandeniu",
+      "d": "Jis paprašė, kad jie atliktų maldos ritualą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_012",
+    "question": "Ką Jėzus sakė apie Mesiją, remdamasis Raštais?",
+    "options": {
+      "a": "Mesijas turi tapti karaliumi ir valdyti amžinai",
+      "b": "Mesijas turėjo iškentėti, prisikelti trečią dieną ir žengti į garbę",
+      "c": "Mesijas atvyks tik po paskutinio teismo",
+      "d": "Mesijas bus ne žmogus, o dvasia"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_013",
+    "question": "Ką Jėzus pažadėjo apaštalams prieš įžengdamas į dangų?",
+    "options": {
+      "a": "Jis pažadėjo jiems karalystę žemėje",
+      "b": "Jis pažadėjo atsiųsti „jėgą iš aukštybių“",
+      "c": "Jis pažadėjo, kad jie niekada nemirs",
+      "d": "Jis pažadėjo jiems aukso ir sidabro"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_014",
+    "question": "Kur Jėzus palaimino apaštalus prieš įžengdamas į dangų?",
+    "options": {
+      "a": "Ant Aukštojo kalno",
+      "b": "Palei Betanijos kaimą",
+      "c": "Jeruzalės šventykloje",
+      "d": "Galilėjos ežero pakrantėje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_015",
+    "question": "Ką apaštalai darė po Jėzaus įžengimo į dangų?",
+    "options": {
+      "a": "Jie pasitraukė į dykumą medituoti",
+      "b": "Jie nuolat lankė šventyklą ir šlovino Dievą",
+      "c": "Jie pradėjo statyti naują šventyklą Jėzaus garbei",
+      "d": "Jie išsisklaidė po pasaulį ieškoti naujų mokių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_016",
+    "question": "Kas buvo vienas iš apaštalų, kuriems Jėzus pasirodė po prisikėlimo (minėtas tekste)?",
+    "options": {
+      "a": "Judas Iskariotas",
+      "b": "Simonas Petras",
+      "c": "Andriejus",
+      "d": "Filipas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_017",
+    "question": "Ką Jėzus sakė apaštalams, kai jie virpėjo iš išgąsčio, matydami jį?",
+    "options": {
+      "a": "„Būkite drąsūs, aš čia esu!“",
+      "b": "„Ko taip išsigandote? Pasižiūrėkite į mano rankas ir kojas“",
+      "c": "„Jūsų baima yra Dievo bausmė“",
+      "d": "„Aš nebe toks, kokį jūs pažinojote“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_24"
+  }
+]

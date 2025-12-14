@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Lk_21_001",
+    "question": "Ką Jėzus pasakė apie vargšą našlę, kuri įmetė du smulkius pinigėlius į aukų skrynią?",
+    "options": {
+      "a": "Ji įmetė daugiau nei visi kiti, nes davė viską, ką turėjo pragyvenimui.",
+      "b": "Ji turėjo būti pasmerkta už tokį mažą auką.",
+      "c": "Jos aukos vertė buvo lygi visų kitų turtuolių aukomis.",
+      "d": "Jėzus nepastebėjo jos aukos."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_002",
+    "question": "Ką Jėzus pranašavo apie Jeruzalės šventyklą?",
+    "options": {
+      "a": "Ji bus išpuošta dar gražesniais akmenimis ir dovanomis.",
+      "b": "Nebus jokių pakeitimų šventykloje ateityje.",
+      "c": "Ateis dienos, kai iš to, ką matote, neliks akmens ant akmens, viskas bus išgriauta.",
+      "d": "Šventykla taps naująja karališkąja rezidencija."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_003",
+    "question": "Ką Jėzus įspėjo apie tuos, kurie ateis jo vardu ir teigs, kad „Atėjo metas!“?",
+    "options": {
+      "a": "Jie turi būti klausomi ir sekami.",
+      "b": "Jie bus išrinkti naujaisiais mokiniais.",
+      "c": "Jūs neikite paskui juos, nes jie suklaidina.",
+      "d": "Jie bus apdovanoti dangaus karalystėje."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_004",
+    "question": "Ką Jėzus pasakė apie karus, maištus ir kitus nelaimes ženklus?",
+    "options": {
+      "a": "Tai bus pabaigos ženklai, ir galas ateis greitai.",
+      "b": "Visa tai turi pirmiau įvykti, bet dar negreit galas.",
+      "c": "Kai tik prasidės karai, ateis Žmogaus Sūnus.",
+      "d": "Kai kurie žmonės išsaugos savo gyvybes nuo karų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_005",
+    "question": "Ką Jėzus pasakė apie tai, kaip jo mokiniai turės liudyti?",
+    "options": {
+      "a": "Jie turės išmokti specialių liudijimo žodžių iš rabinų.",
+      "b": "Jie turės pasitraukti ir niekada nekalbėti apie tikėjimą.",
+      "c": "Jis duos jiems tokios iškalbos ir išminties, kad negalės atsispirti nė vienas jų priešininkas.",
+      "d": "Jie turės liudyti tik prieš karalius ir valdytojus."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_006",
+    "question": "Ką Jėzus pasakė apie tai, kas įvyks, kai Jeruzalę supas kariuomenė?",
+    "options": {
+      "a": "Tuomet visi turės likti mieste ir gintis.",
+      "b": "Tuomet kas bus Judėjoje, turi bėgti į kalnus, kas mieste – išeiti iš jo.",
+      "c": "Kariuomenė pasitrauks po trijų dienų.",
+      "d": "Jeruzalė bus išgelbėta stebuklingai."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_007",
+    "question": "Ką Jėzus pasakė apie nėščias ir žindančias moteris „bausmės dienomis“?",
+    "options": {
+      "a": "Jos bus apsaugotos nuo visų nelaimių.",
+      "b": "Jos turės pasitraukti į specialius prieglobsčius.",
+      "c": "Vargas nėščioms ir žindančioms tomis dienomis!",
+      "d": "Jos bus apdovanotos už savo kančias."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_008",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnaus atėjimą?",
+    "options": {
+      "a": "Jis ateis slėpdamas savo tapatybę.",
+      "b": "Jis ateis didžia galybe ir garbe, o žmonės išvys jį ateinantį debesyje.",
+      "c": "Jis ateis tik po 40 dienų.",
+      "d": "Jis ateis tik po to, kai visi žmonės taps krikščionimis."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_009",
+    "question": "Ką Jėzus patarė daryti, kai prasidės nelaimės ir kosminės katastrofos?",
+    "options": {
+      "a": "Pasitraukti į uolas ir urvus.",
+      "b": "Atsitieskite ir pakelkite galvas, nes jūsų išvadavimas arti.",
+      "c": "Meldinkitės, kad nelaimės užtruktų kuo ilgiau.",
+      "d": "Sukurkite naują religiją."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_010",
+    "question": "Ką Jėzus pasakė apie figmedį ir kitus medžius, kai jie ima sprogti?",
+    "options": {
+      "a": "Tai reiškia, kad žiema bus šalta.",
+      "b": "Tai reiškia, kad artėja vasara, ir taip pat Dievo karalystė arti.",
+      "c": "Tai reiškia, kad medžiai turi būti nukirsti.",
+      "d": "Tai reiškia, kad ateis didelis badmetis."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_011",
+    "question": "Ką Jėzus pasakė apie savo žodžius, lyginant su dangumi ir žeme?",
+    "options": {
+      "a": "Jie taip pat praeis, kaip dangus ir žemė.",
+      "b": "Dangus ir žemė praeis, o mano žodžiai nepraeis.",
+      "c": "Mano žodžiai bus užrašyti tik naujame Testamente.",
+      "d": "Žodžiai bus pakeisti naujesniais."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_012",
+    "question": "Ką Jėzus ragino daryti, kad išvengti būsimų nelaimių?",
+    "options": {
+      "a": "Kaupti turto ir ginklų.",
+      "b": "Visą laiką budėti ir melsis.",
+      "c": "Pasitraukti į tolimas šalis.",
+      "d": "Užmiršti apie ateitį ir gyventi šiandieną."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_21"
+  }
+]

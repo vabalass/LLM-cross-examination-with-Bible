@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Jn_4_001",
+    "question": "Kodėl Jėzus paliko Judėją ir išėjo į Galilėją (Jn 4,1-3)?",
+    "options": {
+      "a": "Nes fariziejai sužinojo, kad Jėzus krikštija daugiau žmonių nei Jonas, ir Jėzus norėjo išvengti konfliktų.",
+      "b": "Nes Jėzus norėjo aplankyti savo šeimą Galilėjoje.",
+      "c": "Nes Jėzus gavo pranašišką regėjimą, kad turi keliauti per Samariją.",
+      "d": "Nes Jėzus buvo persekiojamas Romos valdžios ir turėjo pasitraukti."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_002",
+    "question": "Kur Jėzus susitiko su samariečia moterimi (Jn 4,5-6)?",
+    "options": {
+      "a": "Prie Jokūbo šulinio, netoli Sicharo miesto Samarijoje.",
+      "b": "Jeruzalės šventykloje per šventę.",
+      "c": "Galilėjos ežero pakrantėje, kur jis mokė žmones.",
+      "d": "Betliejuje, kur gimė Jėzus."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_003",
+    "question": "Ką Jėzus paprašė iš samariečios moters prie šulinio (Jn 4,7)?",
+    "options": {
+      "a": "Duoti jam gerti.",
+      "b": "Parodyti kelią į miestą.",
+      "c": "Pasakyti, kur galima nusipirkti maisto.",
+      "d": "Pagydyti jo sužeistą koją."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_004",
+    "question": "Kodėl samarietė moteris nusistebėjo, kad Jėzus prašo ją gerti (Jn 4,9)?",
+    "options": {
+      "a": "Nes žydai nebendraudavo su samariečiais.",
+      "b": "Nes moteris buvo labai skurdi ir neturėjo ko duoti.",
+      "c": "Nes Jėzus buvo nepažįstamas ir atrodė pavojingas.",
+      "d": "Nes šulinys buvo šventas ir vandenį galėjo semti tik kunigai."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_005",
+    "question": "Ką Jėzus pažadėjo samariečiai moteriai, jei ji pažintų „Dievo dovaną“ (Jn 4,10)?",
+    "options": {
+      "a": "Jis duotų jai gyvojo vandens, ir ji nebetrokštų per amžius.",
+      "b": "Jis padarytų ją turtinga ir sėkminga.",
+      "c": "Jis išvaduotų ją iš vergijos ir priespaudos.",
+      "d": "Jis paskelbtų ją karaliene visame Izraelyje."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_006",
+    "question": "Ką samarietė moteris atsakė Jėzui, kai jis kalbėjo apie „gyvajį vandenį“ (Jn 4,11-12)?",
+    "options": {
+      "a": "„Jūsi neturite kuo pasemti, o šulinys gilus. Argi tu didesnis už mūsų tėvą Jokūbą?“",
+      "b": "„Aš netikiu tau, nes esi svetimas ir nepažįstamas.“",
+      "c": "„Aš jau turiu pakankamai vandens namuose, nereikia man naujo.“",
+      "d": "„Jei duosi gyvajį vandenį, duok man dabar, nes aš labai trokštu.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_007",
+    "question": "Ką Jėzus pasakė apie vandenį, kurį jis duoda (Jn 4,13-14)?",
+    "options": {
+      "a": "„Kas gers mūsų vandenį, nebetrokš per amžius, ir tas vanduo taps jam versme, trykštančia į amžinąjį gyvenimą.“",
+      "b": "„Šis vanduo bus gydomas ir išvaduos nuo ligų.“",
+      "c": "„Vanduo, kurį aš duodu, bus skanus ir malonus, bet jis greit išdžiūs.“",
+      "d": "„Vanduo bus tik tie, kurie tikės Dievu ir laikysis įsakymų.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_008",
+    "question": "Kiek vyru samarietė moteris buvo turėjusi, kaip pasakojo Jėzus (Jn 4,17-18)?",
+    "options": {
+      "a": "Penkis, ir dabartinis nebuvo jos vyras.",
+      "b": "Tris, ir visi buvo mirę.",
+      "c": "Vieną, bet jis ją paliko.",
+      "d": "Septynis, ir visi buvo kunigai."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_009",
+    "question": "Apie kokį garbinimą Dievą kalbėjo Jėzus su samariečia moterimi (Jn 4,21-24)?",
+    "options": {
+      "a": "„Ateis valanda, kai tikrieji garbintojai šlovins Tėvą dvasia ir tiesa.“",
+      "b": "„Dievą reikia garbinti tik Jeruzalės šventykloje.“",
+      "c": "„Garbinimas Dievui turi būti tik per aukas ir ritualus.“",
+      "d": "„Dievas priima tik tokių garbinimą, kuris atliekamas kartu su kunigais.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_010",
+    "question": "Ką samarietė moteris pasakė miestiečiams, grįžusi iš šulinio (Jn 4,29)?",
+    "options": {
+      "a": "„Eikite pažiūrėti žmogaus, kuris pasakė man viską, ką esu padariusi. Ar tik jis nebus Mesijas?!“",
+      "b": "„Jis mane apgavė ir pasakė, kad aš esu blogiausia moteris mieste.“",
+      "c": "„Jis man pažadėjo auksą ir sidabrą, jei tikėsiu jam.“",
+      "d": "„Jis man pasakė, kad turi gyvajį vandenį, bet nieko man nedavė.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_011",
+    "question": "Ką Jėzus sakė mokiniams, kai jie ragino jį pasistiprinkti (Jn 4,32)?",
+    "options": {
+      "a": "„Aš turiu valgyti maisto, kurio jūs nežinote.“",
+      "b": "„Aš esu pasotintas, nes Dievas man duoda jėgą.“",
+      "c": "„Jūs turite man atnešti maisto, nes aš esu alkanas.“",
+      "d": "„Mano maistas yra malda ir pasninkavimas.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_012",
+    "question": "Ką Jėzus turėjo omenyje, sakydamas: „Laukai jau boluoja ir prinokę pjūčiai“ (Jn 4,35)?",
+    "options": {
+      "a": "Žmonės jau buvo parengti priimti Dievo žodį (simboliškai „prinokęs derlius“).",
+      "b": "Laukai tikrai buvo prinokę ir reikėjo greitai pjauti javus.",
+      "c": "Jis kalbėjo apie fizinį derlių, kurį turėjo nuimti mokiniai.",
+      "d": "Jis norėjo pasakyti, kad laikas keliauti toliau."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_013",
+    "question": "Kodėl daug samariečių įtikėjo Jėzumi (Jn 4,39)?",
+    "options": {
+      "a": "Dėl moters liudijimo: „Jis man pasakė viską, ką esu padariusi.“",
+      "b": "Nes Jėzus padarė stebuklą ir pagydė ligonį.",
+      "c": "Nes jie matė, kaip Jėzus krikštijo žmones šulinio vandenyje.",
+      "d": "Nes Jėzus pasakė, kad jis yra karalius."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_014",
+    "question": "Ką samariečiai pasakė moteriai po to, kai patys išgirdo Jėzaus pamokslus (Jn 4,42)?",
+    "options": {
+      "a": "„Dabar mes tikime ne dėl tavo šnekos. Mes patys išgirdome ir žinome, kad jis iš tiesų yra pasaulio Išganytojas.“",
+      "b": "„Mes tikime, nes jis padarė stebuklą ir pagydė mūsų ligonius.“",
+      "c": "„Mes tikime, nes jis yra pranašas, kuris atėjo iš Dievo.“",
+      "d": "„Mes tikime, nes jis mums pažadėjo gyvajį vandenį.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_015",
+    "question": "Ką Jėzus pasakė valdininkui, kurio sūnus sirgo (Jn 4,48)?",
+    "options": {
+      "a": "„Kol nepamatysite ženklų ir stebuklų, jūs netikėsite.“",
+      "b": "„Tavo sūnus jau sveikas, nes aš jį pagydiau iš tolo.“",
+      "c": "„Tikėk manimi, ir tavo sūnus bus išgydytas.“",
+      "d": "„Tavo tikėjimas tave išgelbėjo.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_016",
+    "question": "Ką valdininkas patyrė, kai grįžo namo po susitikimo su Jėzumi (Jn 4,53)?",
+    "options": {
+      "a": "Jis sužinojo, kad sūnus pasveiko tuo pačiu metu, kai Jėzus pasakė: „Tavo sūnus gyvas.“",
+      "b": "Jis rado, kad sūnus buvo pagrobtas ir dingęs.",
+      "c": "Jis sužinojo, kad sūnus buvo išgydytas kunigo malda.",
+      "d": "Jis pamatė, kad sūnus buvo miręs, bet vėl prisikėlė."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_017",
+    "question": "Koks buvo antrasis ženklas, kurį Jėzus padarė sugrįžęs iš Judėjos į Galilėją (Jn 4,54)?",
+    "options": {
+      "a": "Valdininko sūnaus pagydymas.",
+      "b": "Vandens pavertimas vynu Kanos vestuvėse.",
+      "c": "Ligonės išgydymas prie šulinio.",
+      "d": "Aklojo išgydymas Jeruzalėje."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_018",
+    "question": "Ką Jėzus pasakė apie pranašo garbę savo tėviškėje (Jn 4,44)?",
+    "options": {
+      "a": "„Pranašas negerbiamas savo tėviškėje.“",
+      "b": "„Pranašas turi būti gerbiamas visur, kur jis eina.“",
+      "c": "„Pranašas turi palikti savo tėviškę, kad būtų priimtas.“",
+      "d": "„Pranašas turi mokyti tik savo tautą.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_4"
+  }
+]

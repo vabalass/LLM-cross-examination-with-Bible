@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Mt_4_001",
+    "question": "Kiek dienų ir naktų Jėzus pasninkavo dykumoje prieš būdamas gundytas velnio?",
+    "options": {
+      "a": "Trisdešimt dienų ir trisdešimt naktų",
+      "b": "Keturiasdešimt dienų ir keturiasdešimt naktų",
+      "c": "Penkiasdešimt dienų ir penkiasdešimt naktų",
+      "d": "Šešiasdešimt dienų ir šešiasdešimt naktų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_002",
+    "question": "Ką velnias pasiūlė Jėzui ant aukšto kalno?",
+    "options": {
+      "a": "Atiduoti jam visą pasaulio žinią",
+      "b": "Padaryti jį pasaulio valdovu, jei tik pagarbins velnią",
+      "c": "Atiduoti visų pasaulio karalysčių valdžią ir didybę, jei tik jį pagarbins",
+      "d": "Suteikti amžiną gyvenimą, jei tik atmetų Dievą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_003",
+    "question": "Ką Jėzus atsakė velniui, kai šis ragino jį pulkti nuo šventyklos šelmens?",
+    "options": {
+      "a": "„Ne gundyk Viešpaties, savo Dievo“",
+      "b": "„Tu esi melagis ir melo tėvas“",
+      "c": "„Aš esu Dievo Sūnus ir nieko bijoti nereikia“",
+      "d": "„Tavo kelias yra neteisingas, aš nesiseksiu jūsu patarimais“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_004",
+    "question": "Kur Jėzus apsistojo po to, kai išgirdo apie Jono suėmimą?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Betlemiuje",
+      "c": "Kafarnaume",
+      "d": "Nazarete"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_005",
+    "question": "Ką Jėzus pasakė Simonui ir Andriejui, kai juos pašaukė?",
+    "options": {
+      "a": "„Eikite paskui mane! Aš padarysiu jus žmonių žvejais“",
+      "b": "„Palikite savo tinklus ir sekite mane, nes aš esu kelias, tiesa ir gyvenimas“",
+      "c": "„Jūsų užduotis bus skelbti mano žodį visame pasaulyje“",
+      "d": "„Eikite į Jeruzalę ir ten laukite mano grįžimo“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_006",
+    "question": "Kas buvo Zebediejaus sūnų profesija, kai Jėzus juos pašaukė?",
+    "options": {
+      "a": "Jie buvo statybininkai",
+      "b": "Jie buvo žvejai",
+      "c": "Jie buvo amatininkai",
+      "d": "Jie buvo mokytojai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_007",
+    "question": "Ką Jėzus darė, vaikščiodamas po Galilėją?",
+    "options": {
+      "a": "Jis mokė sinagogose, skelbė karalystės Evangeliją ir gydė žmones",
+      "b": "Jis rinko mokinius ir ruošė juos į kelionę į Jeruzalę",
+      "c": "Jis statė naujas sinagogas ir mokė žmones statybos menų",
+      "d": "Jis rašė knygas apie Dievo karalystę ir mokė žmones skaityti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_008",
+    "question": "Iš kurių sričių sekė žmonių pulkai Jėzui?",
+    "options": {
+      "a": "Galilėjos, Samarijos ir Judėjos",
+      "b": "Galilėjos, Dekapolio, Jeruzalės, Judėjos ir Užjordanės",
+      "c": "Nazareto, Betlemių ir Kafarnaumo",
+      "d": "Sirijos, Egipto ir Arabijos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_4"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "id": "Lk_9_001",
+    "question": "Ką Jėzus suteikė Dvylikai, išsiunčiamas juos skelbti Dievo karalystę?",
+    "options": {
+      "a": "Galią ir valdžią visiems demonams tramdyti ir ligoms gydyti",
+      "b": "Pinigus ir maistą kelionei",
+      "c": "Naujus drabužius ir avalynes",
+      "d": "Raštus ir knygas mokyti žmones"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_002",
+    "question": "Ką Jėzus liepė apaštalams NIEIMTI kelionei?",
+    "options": {
+      "a": "Lazdos, krepšio, duonos ir pinigų",
+      "b": "Šventųjų raštų ir maldos knygų",
+      "c": "Drabužių ir avalynių",
+      "d": "Ginklų ir šarvų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_003",
+    "question": "Ką reikėjo daryti apaštalams, jei juos kaime nepriimtų?",
+    "options": {
+      "a": "Nusikratyti nuo kojų dulkes kaip liudijimą prieš juos",
+      "b": "Pasilikti ir bandyti dar kartą",
+      "c": "Pasakyti, kad jie bus nubausti",
+      "d": "Griežtai juos įspėti ir pasitraukti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_004",
+    "question": "Ką Erodas sakė apie Jėzų, kai išgirdo apie jo darbus?",
+    "options": {
+      "a": "„Jonui aš nukirsdinau galvą; o kas yra šitas, apie kurį girdžiu pasakojant tokius dalykus?!“",
+      "b": "„Tai tik pranašas, kuris atėjo iš dykumos“",
+      "c": "„Jis yra naujas karalius, kurį mes turime priimti“",
+      "d": "„Tai yra Dievo Sūnus, mes turime jį garbinti“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_005",
+    "question": "Kur Jėzus pasitraukė su apaštalais, kai jie sugrįžo ir pasakojo, ką buvo nuveikę?",
+    "options": {
+      "a": "Į Betsaidos miesto apylinkes",
+      "b": "Į Jeruzalės šventyklą",
+      "c": "Į Nazareto kalną",
+      "d": "Į Galilėjos ežerą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_006",
+    "question": "Kiek duonos kepalėlių ir žuvų turėjo apaštalai, kai Jėzus liepė duoti miniai valgyti?",
+    "options": {
+      "a": "Penkis kepalėlius ir dvi žuvis",
+      "b": "Septynis kepalėlius ir tris žuvis",
+      "c": "Tris kepalėlius ir vieną žuvį",
+      "d": "Dešimt kepalėlių ir penkias žuvis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_007",
+    "question": "Kiek žmonių buvo ten, kai Jėzus padaugino duoną ir žuvis?",
+    "options": {
+      "a": "Apie penkis tūkstančius vyrų",
+      "b": "Apie tūkstantį vyrų",
+      "c": "Apie šimtą vyrų",
+      "d": "Apie dešimt tūkstančių vyrų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_008",
+    "question": "Ką Jėzus padarė su penkiais kepalėliais ir dviem žuvimis, kad duotų miniai valgyti?",
+    "options": {
+      "a": "Pažvelgė į dangų, sukalbėjo palaiminimą, laužė ir davė mokiniams, kad išnešiotų miniai",
+      "b": "Pasakė, kad reikia nupirkti daugiau maisto",
+      "c": "Pasakė, kad reikia paskirstyti maistą tik moterims ir vaikams",
+      "d": "Pasakė, kad reikia paskirstyti maistą tik vyresniems žmonėms"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_009",
+    "question": "Ką Jėzus paklausė mokinių, kai jie apsakė, ką žmonės apie jį sako?",
+    "options": {
+      "a": "„O jūs kuo mane laikote?“",
+      "b": "„Ar jūs man patikite?“",
+      "c": "„Ar jūs manęs mylite?“",
+      "d": "„Ar jūs manęs seksite?“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_010",
+    "question": "Ką Petras atsakė, kai Jėzus paklausė, kuo jį laiką mokiniai?",
+    "options": {
+      "a": "„Dievo Mesiju“",
+      "b": "„Pranašą iš senovės“",
+      "c": "„Naująjį karalių“",
+      "d": "„Galingą gydytoją“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_011",
+    "question": "Ką Jėzus pasakė, kad reikia Žmogaus Sūnui?",
+    "options": {
+      "a": "Daug kentėti, būti atmestas, nužudytas ir trečią dieną prisikelti",
+      "b": "Tapti karaliumi ir valdyti visą pasaulį",
+      "c": "Gyventi ramiai ir mokyti žmones tik meilę",
+      "d": "Išvaduoti žmones nuo romėnų valdžios"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_012",
+    "question": "Ką Jėzus pasakė, kas reikia daryti, norint eiti jo pėdomis?",
+    "options": {
+      "a": "Išsižadėti pats savęs, nešti savo kryžių ir sekti jam",
+      "b": "Turėti daug pinigų ir turto",
+      "c": "Būti stipriai ginkluotam",
+      "d": "Būti kilmingos kilmės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_013",
+    "question": "Ką Jėzus pasakė apie tai, kas laimi visą pasaulį, bet praranda savo gyvybę?",
+    "options": {
+      "a": "„Kokia būtų nauda, jei žmogus laimėtų visą pasaulį, o save pražudytų ar sau pakenktų?!“",
+      "b": "„Jis bus laimingas visam laikui“",
+      "c": "„Jis taps didžiu karaliumi“",
+      "d": "„Jis bus garbinamas visų žmonių“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_014",
+    "question": "Ką Jėzus pasakė apie tuos, kurie gėdysis jo ir jo žodžių?",
+    "options": {
+      "a": "„To gėdysis ir Žmogaus Sūnus, kai ateis su savąja bei Tėvo ir šventųjų angelų šlove“",
+      "b": "„Jie bus atleisti“",
+      "c": "„Jie taps didžiais vadais“",
+      "d": "„Jie bus priimti į dangų“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_015",
+    "question": "Kas pasirodė ir kalbėjo su Jėzumi, kai jis pasikeitė veido išvaizda ir drabužiai pasidarė skaisčiai balti?",
+    "options": {
+      "a": "Mozė ir Elijas",
+      "b": "Abraomas ir Izokas",
+      "c": "Dovydas ir Šalamanas",
+      "d": "Pranaišas Elijas ir Jonas Krikštytojas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_016",
+    "question": "Ką Petras pasiūlė padaryti, kai pamatė Jėzų su Mozė ir Eliju?",
+    "options": {
+      "a": "„Padarykime tris palapines: vieną tau, kitą Mozei ir trečią Elijui“",
+      "b": "„Statykime šventyklą“",
+      "c": "„Pasiruošime didelę šventę“",
+      "d": "„Paskelbkime apie tai visam pasaului“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_017",
+    "question": "Ką sakė balsas iš debesies, kai Jėzus buvo su Mozė ir Eliju?",
+    "options": {
+      "a": "„Šitas mano išrinktasis Sūnus, jo klausykite!“",
+      "b": "„Jis yra naujasis karalius“",
+      "c": "„Jis išvaduos visus žmones“",
+      "d": "„Jis bus nužudytas, bet prisikels“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_018",
+    "question": "Ką Jėzus padarė nuomariu sergančiam berniukui?",
+    "options": {
+      "a": "Sudraudė netyrąją dvasią, išgydė berniuką ir atidavė jį tėvui",
+      "b": "Pasakė, kad reikia melstis už jį dar metus",
+      "c": "Pasakė, kad reikia atlikti auką Dievui",
+      "d": "Pasakė, kad reikia laukti, kol berniukas pasveiks pats"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_019",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie ginčijosi, kas didžiausias?",
+    "options": {
+      "a": "„Kas tarp jūsų mažiausias, tas yra didis“",
+      "b": "„Didžiausias yra tas, kuris turi daugiau pinigų“",
+      "c": "„Didžiausias yra tas, kuris turi daugiau žinių“",
+      "d": "„Didžiausias yra tas, kuris turi daugiau šlovės“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_020",
+    "question": "Ką Jėzus atsakė Jonui, kai šis pasakė, kad jie draudė žmogui, išvarantį demonus Jėzaus vardu, nes jis nevaikščioja kartu su jais?",
+    "options": {
+      "a": "„Nedrauskite! Kas ne prieš jus, tas už jus!“",
+      "b": "„Jis turi būti nubaustas“",
+      "c": "„Jis turi ateiti ir prisidėti prie mūsų“",
+      "d": "„Jis turi melstis už atleidimą“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_021",
+    "question": "Ką Jėzus pasakė žmogui, kuris norėjo pareiti tėvo palaidoti, kai Jėzus pasakė jam sekti?",
+    "options": {
+      "a": "„Palik mirusiems laidoti savo numirėlius, o tu eik ir skelbk Dievo karalystę!“",
+      "b": "„Eik ir palaidojimo metu skelbk Dievo karalystę“",
+      "c": "„Pirmiau palaidojimo metu pasimelsti, o po to sekti“",
+      "d": "„Tavo tėvas bus atleistas, jei tu seksi manimi“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_9"
+  }
+]

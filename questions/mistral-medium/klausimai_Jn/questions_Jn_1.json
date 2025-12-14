@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Jn_1_001",
+    "question": "Kas, pagal Jono evangeliją (Jn 1:1), buvo pradžioje?",
+    "options": {
+      "a": "Žodis",
+      "b": "Šviesa",
+      "c": "Dievas Tėvas",
+      "d": "Dvasia"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_002",
+    "question": "Ką teigia Jn 1:3 apie viską, kas yra atsiradę?",
+    "options": {
+      "a": "Visa atsirado per Mozę",
+      "b": "Visa per Žodį atsirado",
+      "c": "Visa atsirado per pranašus",
+      "d": "Visa atsirado per angelus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_003",
+    "question": "Kas, pagal Jn 1:4, buvo Žodžio gyvybė?",
+    "options": {
+      "a": "Tiesa",
+      "b": "Malonė",
+      "c": "Žmonių šviesa",
+      "d": "Dievo garbė"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_004",
+    "question": "Kas, Jn 1:6-8, buvo Dievo siųstas kaip liudytojas šviesai?",
+    "options": {
+      "a": "Pilypas",
+      "b": "Natanaelis",
+      "c": "Jonas",
+      "d": "Petras"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_005",
+    "question": "Ką Jn 1:9 teigia apie tikrąją šviesą, kuri apšviečia kiekvieną žmogų?",
+    "options": {
+      "a": "Ji dar nebuvo atėjusi į pasaulį",
+      "b": "Ji atėjo į šį pasaulį",
+      "c": "Ji buvo paslėpta nuo žmonių",
+      "d": "Ji buvo tik pranašams"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_006",
+    "question": "Kas, Jn 1:11, nepriėmė Žodžio, kai šis atėjo pas savuosius?",
+    "options": {
+      "a": "Pagonys",
+      "b": "Romos valdžia",
+      "c": "Savieji (izraelitai)",
+      "d": "Pranašai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_007",
+    "question": "Ką, Jn 1:12, gauna tie, kurie priima Žodį ir tiki jo vardą?",
+    "options": {
+      "a": "Galią tapti Dievo vaikais",
+      "b": "Materialinį turtingumą",
+      "c": "Žemišką valdžią",
+      "d": "Amžiną gyvybę be sąlygų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_008",
+    "question": "Kaip, Jn 1:14, apibūdinamas Žodis, tapęs kūnu?",
+    "options": {
+      "a": "Pilnas malonės ir tiesos",
+      "b": "Pilnas galingumo ir garbės",
+      "c": "Pilnas paslapties ir žinių",
+      "d": "Pilnas stebuklų ir ženklų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_009",
+    "question": "Ką, Jn 1:15, Jonas sakė apie Jėzų, lyginant su savimi?",
+    "options": {
+      "a": "Jis ateis po manęs, bet yra pirmesnis už mane",
+      "b": "Jis yra mažesnis už mane",
+      "c": "Jis yra vienas iš pranašų",
+      "d": "Jis yra tik žmogus, ne Dievas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_010",
+    "question": "Ką, Jn 1:17, atnešė Mozė, o ką – Jėzus Kristus?",
+    "options": {
+      "a": "Mozė – malonę, Jėzus – tiesą",
+      "b": "Mozė – Įstatymą, Jėzus – tiesą ir malonę",
+      "c": "Mozė – pranašystes, Jėzus – stebuklus",
+      "d": "Mozė – pasaulio valdžią, Jėzus – dangaus valdžią"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_011",
+    "question": "Kas, Jn 1:18, yra vienintelis, kuris atskleidė Dievą?",
+    "options": {
+      "a": "Mozė",
+      "b": "Elijas",
+      "c": "Viengimis Sūnus – Dievas",
+      "d": "Šventoji Dvasia"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_012",
+    "question": "Ką, Jn 1:23, Jonas sakė apie save, cituodamas Izaiją?",
+    "options": {
+      "a": "Aš esu Mesijas",
+      "b": "Aš esu tyruose šaukiančiojo balsas: 'Taisykite Viešpačiui kelią!'",
+      "c": "Aš esu pranašas, kuris atėjo paskutiniam laikui",
+      "d": "Aš esu Elijas, kuris grįš į pasaulį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_013",
+    "question": "Ką, Jn 1:29, Jonas pavadino Jėzų, matydamas jį ateinantį?",
+    "options": {
+      "a": "Pasaulio šviesa",
+      "b": "Dievo Avinėlis",
+      "c": "Izraelio karalius",
+      "d": "Paskutinis pranašas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_014",
+    "question": "Ką, Jn 1:32, Jonas matė nusileidžiančią iš dangaus ir pasiliekančią virš Jėzaus?",
+    "options": {
+      "a": "Ugnies liepsną",
+      "b": "Balandį (Dvasią)",
+      "c": "Angelo sparnus",
+      "d": "Šviesos stulpą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_015",
+    "question": "Ką, Jn 1:34, Jonas patvirtino apie Jėzų po Dvasios nusileidimo?",
+    "options": {
+      "a": "Jis yra pranašas",
+      "b": "Jis yra Dievo Sūnus",
+      "c": "Jis yra naujasis Mozė",
+      "d": "Jis yra paskutinis teisėjas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_016",
+    "question": "Ką, Jn 1:38, Jėzus paklausė savo pirmųjų mokiinių, kai jie ėjo paskui jį?",
+    "options": {
+      "a": "Kodėl mane sekat?",
+      "b": "Ko ieškote?",
+      "c": "Ar norite tapti mano mokiniais?",
+      "d": "Kur einate?"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_017",
+    "question": "Ką, Jn 1:41, Andriejus pasakė savo broliui Simonui apie Jėzų?",
+    "options": {
+      "a": "Jis yra naujasis pranašas",
+      "b": "Radome Mesiją (Dievo Pateptąjį – Kristų)",
+      "c": "Jis yra Elijas, kuris grįžo",
+      "d": "Jis bus mūsų karalius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_1"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "Mt_26_001",
+    "question": "Kiek dienų liko iki Velykų, kai Jėzus pasakė mokiniams apie savo nukryžiavimą?",
+    "options": {
+      "a": "Viena diena",
+      "b": "Dvi dienos",
+      "c": "Trys dienos",
+      "d": "Penkios dienos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_002",
+    "question": "Kas buvo aukščiausių kunigų ir seniūnų planas dėl Jėzaus suėmimo?",
+    "options": {
+      "a": "Suimti jį per Velykas, kad visi matytų",
+      "b": "Suimti jį klasta ir nužudyti, bet ne per šventes",
+      "c": "Leisti jam pasitraukti iš miesto",
+      "d": "Pabandyti jį įtikinti atsisakyti savo mokymo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_003",
+    "question": "Kur Jėzus viešėjo, kai moteris patepė jo galvą brangiu aliejumi?",
+    "options": {
+      "a": "Jeruzalėje, šventykloje",
+      "b": "Betanijoje, Simono Raupsuotojo namuose",
+      "c": "Nazarete, Marijos ir Jozefo namuose",
+      "d": "Galilėjoje, prie ežero"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_004",
+    "question": "Ką mokiniai pasiūlė padaryti su brangiu aliejumi, kurį moteris panaudojo Jėzui?",
+    "options": {
+      "a": "Parduoti ir pinigus paskirstyti vargšams",
+      "b": "Panaudoti šventykloje aukoms",
+      "c": "Išlaikyti jį ateičiai",
+      "d": "Padovanoti aukštiesiems kunigams"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_005",
+    "question": "Ką Jėzus pasakė apie moterį, patepusią jo galvą aliejumi?",
+    "options": {
+      "a": "„Ji padarė blogą darbą, nes aliejus buvo per brangus“",
+      "b": "„Ji man padarė gerą darbą, tai buvo mano laidotuvės paruošimas“",
+      "c": "„Ji turėjo duoti aliejų vargšams, o ne man“",
+      "d": "„Ji turėjo laukti, kol aš miršiu“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_006",
+    "question": "Kas išdavė Jėzų aukštiesiems kunigams už trisdešimt sidabrinių?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Judas Iskarijotas",
+      "d": "Jokūbas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_007",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie klausė, kur paruošti Velykų vakarienę?",
+    "options": {
+      "a": "„Eikite į miestą ir ieškokite namų su raudona durimis“",
+      "b": "„Eikite pas žmogų, kuriam sakysite: 'Mokytojas sako: Mano metas jau atėjo'“",
+      "c": "„Mes valgytime šventykloje“",
+      "d": "„Vakarienė bus pas Judą“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_008",
+    "question": "Ką Jėzus pasakė, kai pradėjo Velykų vakarienę su mokiniams?",
+    "options": {
+      "a": "„Vienas iš jūsų mane išduos“",
+      "b": "„Jūs visi mane paliksite“",
+      "c": "„Šiandien bus didelis šventė“",
+      "d": "„Jūsų tikėjimas bus išbandytas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_009",
+    "question": "Ką Jėzus padarė su duona per Paskutinę vakarienę?",
+    "options": {
+      "a": "Jis ją suvalgė vienas",
+      "b": "Jis ją laužė, palaimino ir davė mokiniams, sakydamas: „Tai yra mano kūnas“",
+      "c": "Jis ją pasodino ant stalo kaip simbolį",
+      "d": "Jis ją išmestė, nes buvo per seniai kepinta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_010",
+    "question": "Ką Jėzus pasakė apie vyną, kurį davė mokiniams per vakarienę?",
+    "options": {
+      "a": "„Tai yra mano kraujas, Sandoros kraujas, už daugelį išliejamas nuodėmėms atleisti“",
+      "b": "„Tai yra vynas, kurį gersime karalystėje“",
+      "c": "„Tai yra vynas, kuris simbolizuoja mūsų vienybę“",
+      "d": "„Tai yra vynas, kurį turite gerti kasdien“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_011",
+    "question": "Ką Jėzus pasakė Petrui, kai šis tvirtino, kad niekada jo neišsigins?",
+    "options": {
+      "a": "„Tu esi mano ištikimiausias mokinys“",
+      "b": "„Tu mane išduosi dar šią naktį“",
+      "c": "„Šią naktį, dar gaidžiui nepragydus, tu tris kartus manęs išsiginsi“",
+      "d": "„Tu busi manų pavaduotoju“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_012",
+    "question": "Kur Jėzus nuėjo meldžiotis po Paskutinės vakarienės?",
+    "options": {
+      "a": "Į šventyklą",
+      "b": "Į Alyvų kalną (Getsemanių)",
+      "c": "Į Betanijos sodą",
+      "d": "Į Judėjos dykumą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_013",
+    "question": "Ką Jėzus prašė Tėvo meldžiantis Getsemaniuose?",
+    "options": {
+      "a": "„Padėk man pabėgti iš miesto“",
+      "b": "„Jeigu įmanoma, teaplenkia mane ši taurė“",
+      "c": "„Nusižudyk manę išdavusikį“",
+      "d": "„Padėk man įtikinti žmones“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_014",
+    "question": "Ką Jėzus pasakė mokiniams, kai juos radė miegančius Getsemaniuose?",
+    "options": {
+      "a": "„Miegokite, nes rytoj bus sunkus diena“",
+      "b": "„Budėkite ir melskitės, kad nepatektumėte į pagundą“",
+      "c": "„Jūs esate per silpni, kad maldautumėte“",
+      "d": "„Aš vienas turiu maldautis už visus“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_015",
+    "question": "Kas buvo Judo išdavystės ženklas, kai jis atvedė būrį suimti Jėzų?",
+    "options": {
+      "a": "Jis pasakė: „Šitas yra jis“",
+      "b": "Jis pabučiavo Jėzų",
+      "c": "Jis parodė jį ranka",
+      "d": "Jis nurodė jį išskirti pagal drabužius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_016",
+    "question": "Ką padarė vienas iš Jėzaus palydovų, kai suėmė Jėzų?",
+    "options": {
+      "a": "Jis pabėgo iš vietos",
+      "b": "Jis nukirto vyriausiojo kunigo tarno ausį",
+      "c": "Jis ėmė šaukti pagalbos",
+      "d": "Jis pasidavė kartu su Jėzumi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_017",
+    "question": "Ką Jėzus pasakė Petrui, kai šis tris kartus išsigynė?",
+    "options": {
+      "a": "„Tu esi mano mokinys, bet silpnas“",
+      "b": "„Tu niekada nebus manę mokinys“",
+      "c": "Jis nieko nepasakė, nes buvo nuvestas",
+      "d": "„Tu prisimeni mano žodžius, kai pragydo gaidys“"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_018",
+    "question": "Ką aukštieji kunigai ir seniūnai ieškojo prieš Jėzų teisme?",
+    "options": {
+      "a": "Teisingų liudytojų, kad jį išteisintų",
+      "b": "Neteisingo parodymo, kad galėtų jį nuteisti mirti",
+      "c": "Jėzaus mokymo, kad jį išmokytų",
+      "d": "Jėzaus stebuklų, kad juos įrodytų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_019",
+    "question": "Ką vyriausiasis kunigas padarė, kai Jėzus atsakė, kad jis yra Mesijas, Dievo Sūnus?",
+    "options": {
+      "a": "Jis pasveikino Jėzų",
+      "b": "Jis persiplėšė drabužius ir sušuko: „Jis piktžodžiauja!“",
+      "c": "Jis ėmė maldautis už Jėzų",
+      "d": "Jis pasakė: „Mes tau tikime“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_020",
+    "question": "Ką darė sargybiniai ir tarnai, kai Jėzus buvo teisme?",
+    "options": {
+      "a": "Jie ėmė giedoti maldas",
+      "b": "Jie ėmė spjaudyti Jėzui į veidą ir daužyti kumščiais",
+      "c": "Jie ėmė rašyti Jėzaus žodžius",
+      "d": "Jie ėmė maldautis už jį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_021",
+    "question": "Ką Petras padarė, kai tarnaitė ir kiti žmonės klausė, ar jis buvo su Jėzumi?",
+    "options": {
+      "a": "Jis prisipažino, kad buvo su Jėzumi",
+      "b": "Jis išsigynė ir tris kartus neigė, kad pažįsta Jėzų",
+      "c": "Jis pasakė, kad Jėzus yra klastotojas",
+      "d": "Jis pasakė, kad Jėzus yra Mesijas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_022",
+    "question": "Ką Petras padarė, kai prisiminė Jėzaus žodžius apie tris išsigynimus?",
+    "options": {
+      "a": "Jis ėmė džiaugtis",
+      "b": "Jis išėjo laukan ir graudžiai pravirko",
+      "c": "Jis grįžo pas Jėzų",
+      "d": "Jis ėmė maldautis už Jėzų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_023",
+    "question": "Ką Jėzus pasakė apie savo atėjimą ateityje, kalbėdamas su vyriausiuoju kunigu?",
+    "options": {
+      "a": "„Aš nebegrįšiu į šią žemę“",
+      "b": "„Jūs matysite Žmogaus Sūnų, sėdintį Visagalio dešinėje ir ateinantį dangaus debesyse“",
+      "c": "„Aš ateisių po trijų dienų“",
+      "d": "„Aš grįšiu kaip karalius“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_024",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie bėgo nuo suėmimo?",
+    "options": {
+      "a": "„Jūs esate baimūs ir silpni“",
+      "b": "„Visas tai dedasi, kad išsipildytų pranašų Raštai“",
+      "c": "„Jūs turite grįžti ir kovoti“",
+      "d": "„Aš jūsų palikau, nes esate nepasiruošę“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_025",
+    "question": "Ką Jėzus pasakė apie savo mokinius, kai jie miegojo Getsemaniuose?",
+    "options": {
+      "a": "„Jūs esate per vargę, kad maldautumėte“",
+      "b": "„Dvasia ryžtinga, bet kūnas silpnas“",
+      "c": "„Jūs turite miegoti, nes rytoj bus diena“",
+      "d": "„Jūsų maldos nieko nepasieks“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_26"
+  }
+]

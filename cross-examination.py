@@ -33,7 +33,6 @@ def get_bible_question_from_llm(model, bible_text, max_retries=1, number_of_ques
                 response = completion(model=model, messages=message)
                 print("Atsakymas gautas.")
                 if response.choices:
-                    print(response.choices[0].message["content"])
                     return response.choices[0].message["content"]
                 else:
                     print("Klaida: Atsakymo variantų nerasta.")
@@ -354,7 +353,7 @@ def json_to_csv(input_json_path: str, output_csv_path: str):
 def main():
     read_and_save_API_keys("API_keys.txt")
     
-    book_path = Path(__file__).parent / "Bible" / "test"
+    text_path = Path(__file__).parent / "Bible" / "morkaus_evangelija"
     
     models = [
         #"gemini/gemini-2.5-flash",
@@ -362,17 +361,17 @@ def main():
         #"groq/llama-3.3-70b-versatile",
         #"groq/llama-3.1-8b-instant",
         #"openai/gpt-5"
-        "mistral/ministral-14b-2512"
+        "mistral/mistral-medium-2508"
     ]
     
-    if not book_path.exists():
-        print(f"Klaida: aplankalas '{book_path}' nerastas.")
+    if not text_path.exists():
+        print(f"Klaida: aplankalas '{text_path}' nerastas.")
         return
 
-    bible_files = sorted(book_path.glob("*.txt"))
+    bible_files = sorted(text_path.glob("*.txt"))
     
     if not bible_files:
-        print(f"Klaida: jokių .txt failų nerasta '{book_path}'.")
+        print(f"Klaida: jokių .txt failų nerasta '{text_path}'.")
         return
     
     print(f"INFO: Rasta {len(bible_files)} failų. Pradedamas apdorojimas...")

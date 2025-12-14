@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Lk_13_001",
+    "question": "Ką, Jėzaus žodžiais, turėjo padaryti galilėjiečiai ir žmonės, kurių bokštas užgriuvo, kad išvengtų pražūties?",
+    "options": {
+      "a": "Aukoti daugiau aukojimų šventykloje",
+      "b": "Atsiversti",
+      "c": "Pasitraukti iš Jeruzalės",
+      "d": "Laikytis griežtesnių religinių įstatymų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_002",
+    "question": "Kiek metų figmedis nevaisiavo, kol šeimininkas nusprendė jį nukirsti?",
+    "options": {
+      "a": "Vienus metus",
+      "b": "Du metus",
+      "c": "Tris metus",
+      "d": "Penkerius metus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_003",
+    "question": "Ką sodininkas pasiūlė padaryti figmedžiui, prašydamas dar vienų metų laiko?",
+    "options": {
+      "a": "Jį persodinti į kitą vietą",
+      "b": "Jį apkasti ir patręšti",
+      "c": "Paleisti avis ganytis po jį",
+      "d": "Nupjauti visas šakas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_004",
+    "question": "Kiek metų moteris, kurią Jėzus pagydė šabo dieną, buvo sukaustyta ligos dvasios?",
+    "options": {
+      "a": "Septynerius metus",
+      "b": "Dvylika metų",
+      "c": "Aštuoniolika metų",
+      "d": "Dvi dešimtys metų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_005",
+    "question": "Ką sinagogos vyresnysis pasakė miniai, kai Jėzus pagydė moterį šabo dieną?",
+    "options": {
+      "a": "„Ši moteris turėjo ateiti kitą dieną!“",
+      "b": "„Dirbamos yra šešios dienos. Ateikite jomis ir gydykitės, o ne per šabą!“",
+      "c": "„Šis žmogus nėra iš Dievo!“",
+      "d": "„Šabo dieną draudžiama kalbėti su ligoniais!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_006",
+    "question": "Su kuo Jėzus palygino Dievo karalystę, kalbėdamas apie garstyčios grūdą?",
+    "options": {
+      "a": "Su dideliu medžiu, ant kurio susirinko daug paukščių",
+      "b": "Su mažu krūmu, kuris greit išdžiūvo",
+      "c": "Su medeliu, kuriame susisuko padangių sparnuočių lizdai",
+      "d": "Su krūva šiaudų, kurią suėdo gyvuliai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_007",
+    "question": "Ką Jėzus pasakė apie tai, kiek žmonių bus išgelbėta?",
+    "options": {
+      "a": "„Dauguma žmonių bus išgelbėta, jei tik tikės“",
+      "b": "„Pasistenkite įeiti pro ankštus vartus! Daugelis bandys įeiti, bet neįstengs“",
+      "c": "„Visi, kurie klausosi mano mokymo, bus išgelbėti“",
+      "d": "„Išgelbėtų bus tik tie, kurie yra kilę iš Izraelio“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_008",
+    "question": "Ką Jėzus sakė apie namų šeimininką, kai šis užrakins duris ir žmonės pradės belsti, kad atidarytų?",
+    "options": {
+      "a": "„Jis atidarys duris visiems, kurie tikrai norės įeiti“",
+      "b": "„Jis pasakys: 'Aš nežinau, iš kur jūs. Eikite šalin nuo manęs, visi piktadariai!'“",
+      "c": "„Jis duos jiems antrą galimybę įrodyti savo tikėjimą“",
+      "d": "„Jis paklausys, ar jie laikėsi visų įsakymų“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_009",
+    "question": "Ką Jėzus pasakė fariziejams, kai jie įspėjo apie Erodo ketinimus jį nužudyti?",
+    "options": {
+      "a": "„Aš dabar pasitraukiu į dykumą, kol praeis pavojus“",
+      "b": "„Pasakykite Erodui, kad aš šiandien ir rytoj išvarinėju demonus, o trečią dieną busi baigęs savo darbą“",
+      "c": "„Nebijokite, nes Dievas mane apsaugos“",
+      "d": "„Aš turiu keliauti, nes pranašui negalima žūti ne Jeruzalėje“"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_010",
+    "question": "Ką Jėzus sakė apie Jeruzalę, lygindamas save su višta?",
+    "options": {
+      "a": "„Jeruzale, tu esi kaip karalių miestas, bet tavo šlovė blėso“",
+      "b": "„Kiek kartų norėjau surinkti tavo vaikus tarsi višta savo viščiukus po sparnais, o tu nenorėjai!“",
+      "c": "„Jeruzale bus sugriauta, jei neatsisakys savo nuodėmių“",
+      "d": "„Tavo namai bus atstatyti, kai ateis Mesijas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_011",
+    "question": "Ką Jėzus pasakė apie Dievo karalystę, kalbėdamas apie raugą?",
+    "options": {
+      "a": "„Ji panaši į raugą, kurį moteris įmaišė į tris saikus miltų, ir nuo jo viskas įrūgo“",
+      "b": "„Ji yra kaip didelis krosnis, kuri iškepa visus miltus“",
+      "c": "„Ji yra kaip miltai, kurie išlieka švari ir nepasikeičia“",
+      "d": "„Ji yra kaip duona, kurią valgo tik teisūs“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_13"
+  }
+]

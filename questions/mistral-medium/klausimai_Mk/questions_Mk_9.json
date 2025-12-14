@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Mk_9_001",
+    "question": "Ką Jėzus pasakė mokiniams apie Dievo karalystę ateinančią su galybe (Mk 9:1)?",
+    "options": {
+      "a": "„Tarp jūsų yra tokių, kurie neragaus mirties, kol išvys Dievo karalystę ateinančią su galybe.“",
+      "b": "„Dievo karalystė ateis po metų, kai visi bus pasiruošę.“",
+      "c": "„Dievo karalystė jau yra tarp jūsų, tik reikia tikėti.“",
+      "d": "„Karalystė ateis, kai visi žmonės atsiverks nuo nuodėmių.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_002",
+    "question": "Ką Jėzus padarė su Petru, Jokūbu ir Jonu, kai juos pasiėmė po šešių dienų (Mk 9:2)?",
+    "options": {
+      "a": "Nusivedė juos į dykumą maldui.",
+      "b": "Užsivedė juos vienus nuošaliai ant aukšto kalno, kur atsimainė jų akivaizdoje.",
+      "c": "Pasakė jiems paslėpti savo tapatybę nuo kitų mokinių.",
+      "d": "Įsakė jiems eiti į Jeruzalę pas ruoštis šventėms."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_003",
+    "question": "Kaip Mk 9:3 aprašomas Jėzaus atsimainymo momentas?",
+    "options": {
+      "a": "Jo veidas pasidaro kaip saulė, o drabužiai – kaip šviesa.",
+      "b": "Jo drabužiai ėmė taip baltai spindėti, kaip jų išbalinti negalėtų joks skalbėjas žemėje.",
+      "c": "Jis pasidaro neįžvalgiamas, o jo balsas – kaip griausmo griaudimas.",
+      "d": "Jis pradėjo šviesti kaip žvaigždė, o apylinkėse įsijungė ugnis."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_004",
+    "question": "Kas pasirodė Jėzui atsimainius ir su kuo jis kalbėjosi (Mk 9:4)?",
+    "options": {
+      "a": "Pasirodė angelai ir kalbėjo su mokinių minia.",
+      "b": "Pasirodė Mozė ir Elijas, kurie kalbėjo su Jėzumi.",
+      "c": "Pasirodė Dovydas ir Šamuelis, kurie skelbė apie ateinantį teisingumą.",
+      "d": "Pasirodė Abraomas ir Izaokas, kurie maldavo už mokinius."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_005",
+    "question": "Ką Petras pasiūlė padaryti, matydamas Jėzų, Mozę ir Eliją (Mk 9:5)?",
+    "options": {
+      "a": "Pasistatyti aukštyną Dievui.",
+      "b": "Pastatyti tris palapines: vieną Jėzui, antrą Mozei, trečią Elijui.",
+      "c": "Sukviesti visus mokinius, kad pamatytų šį stebuklą.",
+      "d": "Pasakyti Jėzui, kad jie turi iškart grįžti į miestą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_006",
+    "question": "Ką nuskambėjo balsas iš debesies, kai uždengė Jėzų ir mokinius (Mk 9:7)?",
+    "options": {
+      "a": "„Šis yra mano Sūnus, kurį aš myliu; jis atneš jums taiką.“",
+      "b": "„Šitas mano mylimasis Sūnus. Klausykite jo!“",
+      "c": "„Jūsų tikėjimas išgelbės jus nuo pragaro.“",
+      "d": "„Dangus ir žemė pražus, bet mano žodis liks amžinai.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_007",
+    "question": "Ką Jėzus liepė mokiniams, besileidžiant nuo kalno (Mk 9:9)?",
+    "options": {
+      "a": "Iškart pasakyti visiems apie tai, ką jie matė.",
+      "b": "Niekam nepasakoti, ką jie buvo matę, kol Žmogaus Sūnus prisikels iš numirusių.",
+      "c": "Grįžti į namus ir laukti, kol jis atvyks su dovanomis.",
+      "d": "Pasakyti tik fariziejams apie tai, ką jie matė."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_008",
+    "question": "Ką mokiniai svarstė, kai Jėzus kalbėjo apie „prisikelti iš numirusių“ (Mk 9:10)?",
+    "options": {
+      "a": "Jie suprato, kad tai reiškia fizinį prisikėlimą po trijų dienų.",
+      "b": "Jie ginčijosi, kas iš jų bus pirmas prisikėlęs.",
+      "c": "Jie gerai įsidėmėjo šį pasakymą ir svarstė, ką reiškia „prisikelti iš numirusių“.",
+      "d": "Jie manė, kad tai bus simbolinis prisikėlimas, kaip anksčiau buvo su Elijumi."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_009",
+    "question": "Ką Jėzus atsakė mokiniams apie Elijaus atėjimą (Mk 9:12-13)?",
+    "options": {
+      "a": "„Elijas jau atėjo ir dabar gyvena tarp jūsų.“",
+      "b": "„Elijas ateis, kai pasibaigs pasaulis.“",
+      "c": "„Elijas buvo atėjęs, ir jie padarė su juo, ką norėjo, – taip kaip apie jį parašyta.“",
+      "d": "„Elijas nebeateis, nes žmonės jau pasiruošę Dievo karalystei.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_010",
+    "question": "Ką Jėzus padarė, kai pamatė berniuką, apsėstą nebylės dvasios (Mk 9:25)?",
+    "options": {
+      "a": "Pasakė mokiniams išvaryti dvasią, nes jis pats buvo pavargęs.",
+      "b": "Sudraudė netyrąją dvasią: „Nebyle ir kurčia dvasia, įsakau tau, išeik iš jo ir daugiau nebegrįžk!“",
+      "c": "Pasakė tėvams, kad jie turi daugiau malduoti už vaiką.",
+      "d": "Pasakė, kad berniukas turi pats kovoti su dvasia."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_011",
+    "question": "Ką Jėzus atsakė tėvui, kai šis sakė: „Jei ką gali, padėk mums!“ (Mk 9:23)?",
+    "options": {
+      "a": "„Aš negaliu nieko padaryti be tavo tikėjimo.“",
+      "b": "„Tikinčiam viskas galima!“",
+      "c": "„Tavo sūnus turi pats kovoti su savo ligomis.“",
+      "d": "„Dievas išgirs tavo maldas, jei tikrai tikėsiai.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_012",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie klausė, kodėl negalėjo išvaryti dvasios (Mk 9:29)?",
+    "options": {
+      "a": "„Jūsų tikėjimas per silpnas, reikia daugiau malduoti.“",
+      "b": "„Ta veislė neišvaroma niekuo kitu, tik malda.“",
+      "c": "„Jums trūksta patirties, reikia daugiau mokytis.“",
+      "d": "„Dvasia buvo per stipri, reikėjo daugiau žmonių malduoti.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_013",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie ginčijosi, kuris iš jų didžiausias (Mk 9:35)?",
+    "options": {
+      "a": "„Didžiausias tarp jūsų bus tas, kuris daugiausiai padovanos duos.“",
+      "b": "„Jei kas trokšta būti pirmas, tebūnie paskutinis ir visų tarnas!“",
+      "c": "„Didžiausias yra tas, kuris daugiausiai žino Raštą.“",
+      "d": "„Didžiausias bus tas, kuris pirmas įeis į Dievo karalystę.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_014",
+    "question": "Ką Jėzus padarė, kai paėmė mažą vaiką ir pastatė tarp mokinių (Mk 9:36)?",
+    "options": {
+      "a": "Pasakė, kad vaikai turi būti atskirti nuo suaugusiųjų.",
+      "b": "Apsikabinęs jį, pasakė: „Kas dėl manęs priima tokį vaikelį, tas priima mane.“",
+      "c": "Pasakė, kad vaikai turi mokyti mokinius apie pokorą.",
+      "d": "Pasakė, kad vaikai yra šventesni už suaugusius."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_015",
+    "question": "Ką Jėzus atsakė Jonui, kai šis pasakė apie žmogų, kuris Jėzaus vardu išvarinėja demonus, bet nevaikščioja su jais (Mk 9:39)?",
+    "options": {
+      "a": "„Drauskite jam, nes jis nėra vienas iš mūsų.“",
+      "b": "„Nedrauskite jam! Nėra tokio, kuris mano vardu darytų stebuklus ir galėtų čia pat blogai apie mane kalbėti.“",
+      "c": "„Leiskite jam eiti savo keliu, mes nesame atsakyingi už jį.“",
+      "d": "„Jis turi pirma atsiprašyti, kad galėtų naudoti mano vardą.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_016",
+    "question": "Ką Jėzus pasakė apie tą, kas papiktina vieną iš mažutėlių tikinčių (Mk 9:42)?",
+    "options": {
+      "a": "„Tam bus atimta Dievo karalystė.“",
+      "b": "„Tam būtų daug geriau, jeigu jam užkabintų ant kaklo asilo sukamų girnų akmenį ir įmestų į jūrą.“",
+      "c": "„Tam reikės atlikti didelę auką, kad būtų atleistas.“",
+      "d": "„Tam bus uždrausta dalyvauti bendruomenės susibūrimuose.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_017",
+    "question": "Ką Jėzus pasakė apie druską (Mk 9:50)?",
+    "options": {
+      "a": "„Druska yra blogis, nes ji naikina žemę.“",
+      "b": "„Druska – geras daiktas, bet jei druska nustotų sūrumo, kuo ją pasūdysi? Turėkite savyje druskos ir taikiai sugyvenkite tarp savęs.“",
+      "c": "„Druska reikalinga tik maistui, bet ne dvasiškam gyvenimui.“",
+      "d": "„Druska simbolizuoja tikėjimą, todėl turite ją saugoti.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_9"
+  }
+]

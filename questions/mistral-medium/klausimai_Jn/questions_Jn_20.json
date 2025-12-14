@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Jn_20_001",
+    "question": "Kas pirmas pamatė, kad akmuo nuo Jėzaus kapo buvo nuverstas?",
+    "options": {
+      "a": "Šv. Petras",
+      "b": "Mokinys, kurį Jėzus mylėjo",
+      "c": "Marija Magdalietė",
+      "d": "Tomas (Dvynys)"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_002",
+    "question": "Ką Marija Magdalietė pasakė Petrui ir kitam mokiniui, kai pamatė tuščią kapą?",
+    "options": {
+      "a": "„Jėzus prisikėlė ir dabar yra danguje!“",
+      "b": "„Paėmė Viešpatį iš kapo, ir mes nežinome, kur jį padėjo“",
+      "c": "„Kapas yra uždarytas, ir mes negalime įeiti“",
+      "d": "„Ten yra angelai, kalbantys su manim“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_003",
+    "question": "Kas pirmas pasiekė Jėzaus kapą, bet neįėjo į vidų?",
+    "options": {
+      "a": "Šv. Petras",
+      "b": "Tomas (Dvynys)",
+      "c": "Mokinys, kurį Jėzus mylėjo",
+      "d": "Marija Magdalietė"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_004",
+    "question": "Ką Šv. Petras pamatė kapo viduje, įžengęs į rūsį?",
+    "options": {
+      "a": "Tik drobules, bet ne skarą",
+      "b": "Drobules ir skarą, buvusią ant Jėzaus galvos, suvyniotą atskirai",
+      "c": "Anguselį, sėdintį ant akmens",
+      "d": "Tuščią kapą be jokių žymių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_005",
+    "question": "Ką Jėzus pasakė Marijai Magdalietei, kai ji jį susitiko ir norėjo laikyti?",
+    "options": {
+      "a": "„Eik ir pasakyk mokiniams, kad aš prisikėliau“",
+      "b": "„Nelaikyk manęs! Aš dar neįžengiau pas Tėvą“",
+      "c": "„Lauk, kol aš pasirodysiu mokiniams“",
+      "d": "„Tikėk, nes tai, ko ieškai, jau įvyko“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_006",
+    "question": "Ką Jėzus parodė mokiniams, kai pirmą kartą pasirodė jiems užrakintame kambaryje?",
+    "options": {
+      "a": "Savo veidą ir kojas",
+      "b": "Rankas ir šoną",
+      "c": "Dangų atsidariusį",
+      "d": "Šventąją Dvasią matomoje formoje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_007",
+    "question": "Ką Jėzus sako Tomui (Dvyniui), kai šis abijo jo prisikėlimo?",
+    "options": {
+      "a": "„Tikėk, nes tai, ką sakau, yra tiesos žodis“",
+      "b": "„Įleisk čia pirštą ir apžiūrėk mano rankas. Pakelk ranką ir paliesk mano šoną“",
+      "c": "„Jei netiki, tu nebus išgelbėtas“",
+      "d": "„Eik pas Mariją Magdalietę, ji tau pasaks tiesą“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_008",
+    "question": "Ką Tomas atsakė Jėzui, kai pamatė jo žaizdas ir įtikėjo?",
+    "options": {
+      "a": "„Tu esi Dievo Sūnus!“",
+      "b": "„Mano Viešpats ir mano Dievas!“",
+      "c": "„Aš tikiu, kad tu prisikėlai!“",
+      "d": "„Dėkingas tau, kad pasirodei man“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_009",
+    "question": "Ką Jėzus pasakė Tomui apie tuos, kurie tiki nematę?",
+    "options": {
+      "a": "„Jie bus manų mokiniai“",
+      "b": "„Palaiminti, kurie tiki nematę!“",
+      "c": "„Jie turi laukti, kol aš pasirodysiu jiems“",
+      "d": "„Tikėti be įrodymų yra sunkiau, bet įmanoma“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_010",
+    "question": "Kokia yra šio Evangelijos skyriaus pabaigos tikslas, pagal patį autorių?",
+    "options": {
+      "a": "„Šitie raštai yra surašyti, kad žinotumėte apie Jėzaus stebuklus“",
+      "b": "„O šitie yra surašyti, kad tikėtumėte, jog Jėzus yra Mesijas, Dievo Sūnus, ir tikėdami turėtumėte gyvenimą per jo vardą“",
+      "c": "„Tai parašyta, kad suprastumėte, kaip Jėzus nugalėjo mirtį“",
+      "d": "„Šis tekstas skiriamas tik mokiniams, kad jie stiprintų savo tikėjimą“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_20"
+  }
+]

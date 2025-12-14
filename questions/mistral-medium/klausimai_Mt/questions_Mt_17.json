@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mt_17_001",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie klausė, kodėl Rašto aiškintojai teigia, kad pirmiau turi ateiti Elijas?",
+    "options": {
+      "a": "„Elijas jau buvo atėjęs, ir jie jo nepažino, bet padarė su juo, ką norėjo.“",
+      "b": "„Elijas ateis tik po mano mirties ir prisikėlimo.“",
+      "c": "„Elijas niekada neateis, nes jis jau įdėtas į dangų.“",
+      "d": "„Elijas bus atsiųstas tik paskutinėje pasaulio dieną.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_002",
+    "question": "Ką Jėzus padarė, kai berniukas, kurį mokiniai negalėjo išgydyti, buvo atvestas pas Jėzų?",
+    "options": {
+      "a": "Jis paskambino trimitą ir demonas išbėgo.",
+      "b": "Jis sudraudė demoną, ir jisai išėjo, o berniukas pasveiko.",
+      "c": "Jis pasakė, kad berniukas turi gydytis pas žynius.",
+      "d": "Jis pasakė, kad berniukas turi laukti, kol ateis Elijas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_003",
+    "question": "Ką Jėzus sakė mokiniams apie jų tikėjimo silpnumą, kai jie negalėjo išvaryti demoną?",
+    "options": {
+      "a": "„Jums trūksta maldos, todėl negalite išvaryti demonų.“",
+      "b": "„Jums reikia daugiau skaityti Raštus, kad galėtumėte kovoti su demonais.“",
+      "c": "„Dėl silpno tikėjimo. Jei turėtumėte tikėjimą kaip garstyčios grūdelį, jūs galėtumėte persikelti kalnus.“",
+      "d": "„Jums reikia daugiau gauti mano paliepimo, kad galėtumėte išvaryti demonus.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_004",
+    "question": "Ką Jėzus pasakė Petrui, kai šis atsakė, kad žemės karaliai mokestį renka iš svetimųjų, o ne iš savo vaikų?",
+    "options": {
+      "a": "„Tu esi teisus, todėl mes turime mokėti dvigubai.“",
+      "b": "„Taigi vaikai laisvi, bet kad jų nepiktintume, mokėkime.“",
+      "c": "„Mums reikia mokėti, nes mes esame svetimi šioje žemėje.“",
+      "d": "„Mokestis bus panaikintas, kai aš prisikelsiu.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_005",
+    "question": "Ką Jėzus įsakė mokiniams, kai jie leidžiasi nuo kalno po atsimainymo?",
+    "options": {
+      "a": "„Iškart pasakokite visiems, ką matėte.“",
+      "b": "„Niekam nepasakokite apie regėjimą, kol Žmogaus Sūnus prisikels iš numirusių.“",
+      "c": "„Raskite Mozę ir Eliją ir pasakokite jiems, kad jie ateitų su manim.“",
+      "d": "„Iškart grįžkite į Jeruzalę ir laukite mano atėjimo.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_006",
+    "question": "Ką Jėzus pasakė mokiniams apie Žmogaus Sūnų, būdamas su jais Galilėjoje?",
+    "options": {
+      "a": "„Žmogaus Sūnus bus karūnuotas karaliumi.“",
+      "b": "„Žmogaus Sūnus bus atiduotas į žmonių rankas, jie nužudys jį, o trečią dieną jis prisikels.“",
+      "c": "„Žmogaus Sūnus išvys iš šios žemės ir daugiau nebegrįš.“",
+      "d": "„Žmogaus Sūnus taps didžiuoju pranašu.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_007",
+    "question": "Ką Jėzus padarė, kai Petras, Jokūbas ir Jonas buvo išsigandę ir parpuolė kniūbsti atsimainymo metu?",
+    "options": {
+      "a": "Jis juos paliko vienus, kad jie susitaikytų su savo baimėmis.",
+      "b": "Jis priėjo, palietė juos ir sakė: „Kelkitės, nebijokite!“",
+      "c": "Jis pasakė: „Jūsų baimė yra teisinga, nes čia yra šventas laikas.“",
+      "d": "Jis pasakė: „Jūs turite būti drąsesni, nes aš jau greitai išvysiu.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_008",
+    "question": "Ką Jėzus pasakė apie Joną Krikštytoją, kalbėdamas su mokiniais apie Eliją?",
+    "options": {
+      "a": "„Jonas Krikštytojas bus didesnis už Eliją.“",
+      "b": "„Jonas Krikštytojas yra tas pats Elijas, kuris turėjo ateiti.“",
+      "c": "„Jonas Krikštytojas jau buvo atėjęs, ir jie jo nepažino.“",
+      "d": "„Jonas Krikštytojas ateis tik po mano mirties.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_009",
+    "question": "Kaip Jėzus pasiūlė sumokėti mokestį, kai didrachmų rinkėjai paklausė Petro?",
+    "options": {
+      "a": "Jis pasakė Petrui, kad jis turi parduoti savo drabužius, kad sumokėtų mokestį.",
+      "b": "Jis pasakė Petrui, kad jis turi prašyti pinigų iš minios.",
+      "c": "Jis pasakė Petrui, kad jis turi nueiti prie ežero, užmesti meškerę, paimti pirmą žuvį ir ten rasti staterą.",
+      "d": "Jis pasakė Petrui, kad mokestis bus sumokėtas iš dangaus."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_17"
+  }
+]

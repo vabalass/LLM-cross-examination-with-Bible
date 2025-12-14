@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Lk_18_001",
+    "question": "Ką Jėzus palyginime apie įkyrią našlę ir teisėją norėjo parodyti apie maldą?",
+    "options": {
+      "a": "Reikia melstis tik vieną kartą per dieną.",
+      "b": "Reikia melstis nuolat ir nepaliauti, net jei atrodo, kad Dievas neklauso.",
+      "c": "Maldos turi būti trumpos ir aiškios.",
+      "d": "Dievas visada atsakys į maldą per 3 dienas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_002",
+    "question": "Kodėl nesąžiningas teisėjas galiausiai apgynė našlės teises?",
+    "options": {
+      "a": "Jis bijojo Dievo bausmės.",
+      "b": "Jis susižavėjo našlės atsidavimu ir įsipareigojimais.",
+      "c": "Jis norėjo, kad našlė nustotų jį kankinti savo prašymais.",
+      "d": "Jis buvo išpirktas pinigais."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_003",
+    "question": "Ką Jėzus sakė apie Dievo greitą atsakymą į išrinktųjų maldas?",
+    "options": {
+      "a": "Dievas atsakys tik po metų.",
+      "b": "Dievas atsakys tik tada, kai žmonės bus to verti.",
+      "c": "Dievas netrukus apgins jų teises.",
+      "d": "Dievas niekada neatsako į maldas."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_004",
+    "question": "Ką Jėzus klausė pabaigoje, kalbėdamas apie Žmogaus Sūnaus atėjimą?",
+    "options": {
+      "a": "Ar žmonės bus pasiruošę jo atėjimui?",
+      "b": "Ar atėjęs Žmogaus Sūnus ras žemėje tikėjimą?",
+      "c": "Ar žmonės supras jo mokymą?",
+      "d": "Ar žmonės bus laimingi, kai jis atės?"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_005",
+    "question": "Ką fariziejus sakė savo maldose, lygindamas save su muitininku?",
+    "options": {
+      "a": "Jis prašė Dievo malonės muitininkui.",
+      "b": "Jis dėkojo Dievui, kad nesu toks, kaip plėšikai, sukčiai, svetimautojai ar muitininkas.",
+      "c": "Jis prašė Dievo, kad padėtų muitininkui pataisyti savo kliusnumus.",
+      "d": "Jis sakė, kad muitininkas yra geresnis už jį."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_006",
+    "question": "Ką muitininkas sakė savo maldose?",
+    "options": {
+      "a": "„Dėkoju tau, Dieve, kad esu geras žmogus.“",
+      "b": "„Dieve, padėk man tapti turtingesniu.“",
+      "c": "„Dieve, būk gailestingas man nusidėjėliui!“",
+      "d": "„Dieve, bausk visus blogius žmones.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_007",
+    "question": "Kas, Jėzaus žodžiais, nuėjo į namus nuteisintas?",
+    "options": {
+      "a": "Fariziejus.",
+      "b": "Muitininkas.",
+      "c": "Abu.",
+      "d": "Niekas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_008",
+    "question": "Ką Jėzus sakė apie žmones, kurie save aukština?",
+    "options": {
+      "a": "Jie bus išaukštinti.",
+      "b": "Jie bus pažeminti.",
+      "c": "Jie bus apdovanoti.",
+      "d": "Jie bus pamiršti."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_009",
+    "question": "Kodėl Jėzaus mokiniai bartėsi, kai žmonės atnešė kūdikių, kad Jėzus juos paliestų?",
+    "options": {
+      "a": "Jie manė, kad kūdikiai yra per triukšmingi.",
+      "b": "Jie manė, kad Jėzus turi mokyti tik suaugusiems.",
+      "c": "Jie manė, kad kūdikiai negali būti Dievo karalystėje.",
+      "d": "Jie manė, kad kūdikiai yra per maži, kad suprastų Jėzaus mokymą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_010",
+    "question": "Ką Jėzus atsakė turtingajam didikui, kai šis paklausė, ką jam dar reikia daryti, kad laimėtų amžinąjį gyvenimą?",
+    "options": {
+      "a": "Turi tapti kunigu.",
+      "b": "Turi parduoti savo turtą, išdalyti vargšams ir sekti už Jėzaus.",
+      "c": "Turi mokyti kitus apie Dievo įsakymus.",
+      "d": "Turi pasninkauti kasdien."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_011",
+    "question": "Ką Jėzus pasakė apie turtuolius, norinčius patekti į Dievo karalystę?",
+    "options": {
+      "a": "Jie pateks lengvai, jei dalinsis savo turtais.",
+      "b": "Lengviau kupranugariui išlįsti pro adatos ausį, negu turtuoliui įeiti į Dievo karalystę.",
+      "c": "Turtuoliai visada bus atstumti nuo Dievo karalystės.",
+      "d": "Turtuoliai turi tapti vargšais, kad patektų į Dievo karalystę."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_012",
+    "question": "Ką Jėzus pažadėjo Petrui ir kitoms sekančioms asmenims, kurios paliko viską dėl Dievo karalystės?",
+    "options": {
+      "a": "Jie gaus daugiau turtų šiame pasaulyje.",
+      "b": "Jie gaus nepalyginti daugiau jau šiuo metu ir amžinąjį gyvenimą būsimajame pasaulyje.",
+      "c": "Jie taps valdovais Dievo karalystėje.",
+      "d": "Jie bus atskirti nuo savo šeimų."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_013",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnų, kai jie eina į Jeruzalę?",
+    "options": {
+      "a": "Jis bus karūnuotas karaliumi.",
+      "b": "Jis bus atiduotas pagonims, išjuoktas, paniekintas, apspjaudytas, nužudytas, bet trečią dieną prisikels.",
+      "c": "Jis bus priimtas su garbe.",
+      "d": "Jis pasitrauks į dykumą."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_014",
+    "question": "Ką neregys elgeta prašė Jėzaus, kai šis paklausė, ko jis nori?",
+    "options": {
+      "a": "Pinigų.",
+      "b": "Maisto.",
+      "c": "Regėjimo.",
+      "d": "Naujų draugų."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_18"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mt_9_001",
+    "question": "Ką Jėzus pasakė paralyžiuotajam žmogui, kai pamatė jo ir nešėjų tikėjimą?",
+    "options": {
+      "a": "„Pasitikėk, sūnau, tavo nuodėmės atleistos!“",
+      "b": "„Kelkis ir vaikščiok!“",
+      "c": "„Tavo ligos išgydytojos!“",
+      "d": "„Eik namo ir melkis!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_002",
+    "question": "Ką Jėzus padarė, kad įrodytų turintis galią žemėje atleisti nuodėmes?",
+    "options": {
+      "a": "Pakėlė mirusįjį iš numirėlių",
+      "b": "Užgydė paralyžiuotąjį, liepdamas jam pasiimti neštuvus ir eiti namo",
+      "c": "Išvijo demoną iš nebylio",
+      "d": "Pagydė neregį, lietusį jo akis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_003",
+    "question": "Kas buvo Matas, kurį Jėzus pakvietė sekti už savęs?",
+    "options": {
+      "a": "Žvejas",
+      "b": "Muitininkas",
+      "c": "Fariziejus",
+      "d": "Sinagogos vyresnysis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_004",
+    "question": "Ką Jėzus atsakė fariziejams, kai šie kėlė klausimą, kodėl jis valgo su muitininkais ir nusidėjėliais?",
+    "options": {
+      "a": "„Ne sveikiesiems reikia gydytojo, o ligoniams“",
+      "b": "„Jūsų nuodėmės didesnės už jų“",
+      "c": "„Aš atėjau šviesti teisius, o ne nusidėjėlius“",
+      "d": "„Jūs nesuprantate Rašto prasmės“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_005",
+    "question": "Ką Jėzus pasakė Jono mokiniams, kai šie klausė, kodėl jo mokiniai nepasninkauja?",
+    "options": {
+      "a": "„Jie turi pasninkauti, kaip ir jūs“",
+      "b": "„Argi gali vestuvininkai gedėti, kol su jais yra jaunikis?“",
+      "c": "„Pasninkavimas nėra svarbus Dievo akivaizdoje“",
+      "d": "„Jie pasninkaus, kai aš busiu atimtas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_006",
+    "question": "Ką Jėzus palyginė su nauju milu, kuris atplėš drabužio gabalą?",
+    "options": {
+      "a": "Naująjį Testamentą",
+      "b": "Naują vyną senose vynmaišėse",
+      "c": "Naująjį dėsnį, kuris nesiderina su senaisiais papročiais",
+      "d": "Naująjį mokesčių sistemą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_007",
+    "question": "Ką moteris, serganti kraujoplūdžiu, pasakė sau pati, artėjant prie Jėzaus?",
+    "options": {
+      "a": "„Jei tik palytėčiau jo drabužį – išgyvenu“",
+      "b": "„Jei tik jis mane palietų – busiu sveika“",
+      "c": "„Jei tik jis mane pamatys – aš busiu išgelbėta“",
+      "d": "„Jei tik jis mane pasišventų – aš busiu išgydyta“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_008",
+    "question": "Ką Jėzus pasakė miniai, raudančiai dėl mirusios mergaitės?",
+    "options": {
+      "a": "„Mergaitė ne mirus, o miega“",
+      "b": "„Jos laikas dar neatejo“",
+      "c": "„Jos siela jau pasiekė dangų“",
+      "d": "„Jūs turite tikėti, ir ji atgims“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_009",
+    "question": "Ką Jėzus padarė dviejų neregių akims, kai šie pasakė, kad tikėja jo galia?",
+    "options": {
+      "a": "Jis juos palietė ir pasakė: „Tebūnie jums, kaip tikite“",
+      "b": "Jis juos pasišventė ir pasakė: „Jūsų akys atsidarys po trijų dienų“",
+      "c": "Jis juos pasiuntė į upę praustis",
+      "d": "Jis juos palietė ir pasakė: „Jūsų tikėjimas jus išgelbės“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_010",
+    "question": "Ką fariziejai pasakė, kai Jėzus išvijo demoną iš nebylio?",
+    "options": {
+      "a": "„Jis tai padarė Dievo galia“",
+      "b": "„Jis išvaro demonus su jų valdovo galia“",
+      "c": "„Tai yra stebuklas, kurio dar niekada nebuvo“",
+      "d": "„Jis turi demonišką galią“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_011",
+    "question": "Ką Jėzus pasakė mokiniams, matydamas suvargusias minias?",
+    "options": {
+      "a": "„Jie turi patys rasti savo piemens“",
+      "b": "„Pjūtis didelė, o darbininkų maža“",
+      "c": "„Jie turi melstis už savo išganymą“",
+      "d": "„Aš juos išgelbėsiu, jei tik jie tikės“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_012",
+    "question": "Ką Jėzus liepė mokiniams daryti dėl didelės pjūties ir mažo darbininkų skaičiaus?",
+    "options": {
+      "a": "„Melskite pjūties šeimininką, kad atsiųstų darbininkų“",
+      "b": "„Jūs turite patys tapti darbininkais“",
+      "c": "„Skirkite daugiau laiko mokymui“",
+      "d": "„Rinkitės darbininkus iš kitų miestų“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_9"
+  }
+]

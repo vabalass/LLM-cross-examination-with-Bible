@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Jn_5_001",
+    "question": "Kurioje Jeruzalės vietoje buvo maudyklė, vadinama Betzata, su penkiomis stoginėmis?",
+    "options": {
+      "a": "Prie Auksinių vartų",
+      "b": "Prie Avių vartų",
+      "c": "Prie Šventyklos kiemo",
+      "d": "Prie Olijų kalno papėdės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_002",
+    "question": "Kiek metų sergo ligonis, kurį Jėzus pagydė prie Betzatos maudyklės?",
+    "options": {
+      "a": "12 metų",
+      "b": "25 metų",
+      "c": "38 metų",
+      "d": "40 metų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_003",
+    "question": "Ką Jėzus pasakė ligoniui, kurį išgydė prie Betzatos?",
+    "options": {
+      "a": "'Eik ir pasimeldyk Dievui!'",
+      "b": "'Kelkis, imk savo gultą ir eik!'",
+      "c": "'Dėkui už tave, kad esi sveikas!'",
+      "d": "'Išvyk iš miesto ir nebegrįžk!'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_004",
+    "question": "Kodėl žydai užsipuolė išgydytąjį, kai jis nešė savo gultą?",
+    "options": {
+      "a": "Nes tai buvo nešvarus daiktas",
+      "b": "Nes tai buvo šabo diena, ir draudžiama nešti krovinį",
+      "c": "Nes jis nebuvo sumokėjęs mokestį už gydymą",
+      "d": "Nes jis buvo nešvarus dėl ligos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_005",
+    "question": "Kur Jėzus vėliau sutiko išgydytąjį ir įspėjo, kad nebeatsitiktų kas blogesnio?",
+    "options": {
+      "a": "Sinagogoje",
+      "b": "Prie maudyklės",
+      "c": "Šventykloje",
+      "d": "Prie miesto vartų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_006",
+    "question": "Ką Jėzus sakė apie savo Tėvo darbą, kai žydai kaltino jį dėl šabo pažeidimo?",
+    "options": {
+      "a": "'Mano Tėvas ilsisi šabą, todėl ir aš ilsiuosi.'",
+      "b": "'Mano Tėvas darbuojasi lig šiolei, todėl ir aš darbuojuosi.'",
+      "c": "'Mano Tėvas niekada nedirba, todėl ir aš nedirbu.'",
+      "d": "'Mano Tėvas yra šventas, todėl ir aš esu šventas.'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_007",
+    "question": "Ką Jėzus teigė apie Sūnaus ir Tėvo santykį teisėjų atžvilgiu?",
+    "options": {
+      "a": "'Tėvas teisė visus, o Sūnus nieko neteisė.'",
+      "b": "'Tėvas neteisia nieko, bet visą teismą pavedė Sūnui.'",
+      "c": "'Tėvas ir Sūnus teisė kartu, nes jie vienas.'",
+      "d": "'Tėvas teisė tik gerus žmones, o Sūnus – blogus.'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_008",
+    "question": "Kas, Jėzaus žodžiais, turi amžinąjį gyvenimą?",
+    "options": {
+      "a": "'Kas laikosi šabo įstatymų.'",
+      "b": "'Kas mano žodžių klauso ir mane atsiuntusį tiki.'",
+      "c": "'Kas atlieka gerus darbus kasdien.'",
+      "d": "'Kas melsis trys kartus per dieną.'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_009",
+    "question": "Ką Jėzus sakė apie ateinančią valandą, kai mirusieji išgirs Dievo Sūnaus balsą?",
+    "options": {
+      "a": "'Tai bus paskutinė valanda, kai visi mirs.'",
+      "b": "'Tai bus valanda, kai visi prisikels gyventi.'",
+      "c": "'Tai bus valanda, kai kurie atgis, o kiti liks mirę.'",
+      "d": "'Tai bus valanda, kai Dievas pasitrauks iš žmonių.'"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_010",
+    "question": "Kas, Jėzaus teigimu, liudija apie jį, kad Tėvas jį siuntė?",
+    "options": {
+      "a": "'Mozės įstatymai'",
+      "b": "'Jono liudijimas'",
+      "c": "'Tie darbai, kuriuos aš darau'",
+      "d": "'Žydų vyresniųjų patvirtinimas'"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_011",
+    "question": "Ką Jėzus sakė apie žydų netikėjimą Raštams, kurių jie tyrinėjo?",
+    "options": {
+      "a": "'Jūs neįvertinate Raštų, nes juose nėra tiesos.'",
+      "b": "'Jūs netikite Raštams, nes jie senoviniai.'",
+      "c": "'Tie Raštai liudija už mane, bet jūs nenorite ateiti pas mane.'",
+      "d": "'Raštai yra sveti, bet jūs jų nesuprantate.'"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_012",
+    "question": "Ką Jėzus pasakė žydams apie Mozę, į kurį jie tikėjo?",
+    "options": {
+      "a": "'Mozė jūsų neteisė, nes jis buvo netikras pranašas.'",
+      "b": "'Mozė rašė apie mane, bet jūs netikite jo raštais.'",
+      "c": "'Mozė buvo blogas žmogus, todėl jūs neturėtumėte jam tikėti.'",
+      "d": "'Mozė buvo tik žmogus, todėl jo raštai neturi jėgos.'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_013",
+    "question": "Kas, Jėzaus teigimu, yra kaltintojas žydų, į kurį jie tikėjo?",
+    "options": {
+      "a": "Jėzus pats",
+      "b": "Mozė",
+      "c": "Dievas Tėvas",
+      "d": "Jono Krikštytojas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_014",
+    "question": "Ką Jėzus sakė apie Dievo meilę žydų širdyse?",
+    "options": {
+      "a": "'Jūs turite didelę Dievo meilę.'",
+      "b": "'Jūs neturite savo širdyse Dievo meilės.'",
+      "c": "'Jūsų meilė Dievui yra tobuliausia.'",
+      "d": "'Jūsų meilė Dievui yra silpna, bet ji yra.'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  },
+  {
+    "id": "Jn_5_015",
+    "question": "Ką Jėzus teigė apie savo atėjimą savo Tėvo vardu?",
+    "options": {
+      "a": "'Jūs mane priėmėte, nes aš atėjau Tėvo vardu.'",
+      "b": "'Aš atėjau savo Tėvo vardu, o jūs manęs nepriimate.'",
+      "c": "'Tėvas mane atsiuntė, ir jūs man tikėtumėte.'",
+      "d": "'Jūsų tikėjimas mane yra stiprus, nes aš atėjau Tėvo vardu.'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_5"
+  }
+]

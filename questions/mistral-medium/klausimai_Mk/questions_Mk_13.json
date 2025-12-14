@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mk_13_001",
+    "question": "Ką Jėzus pasakė apie Jeruzalės šventyklą, kai vienas mokinių džiugino jos grožiu?",
+    "options": {
+      "a": "„Matai šituos didžiulius pastatus? Čia neliks akmens ant akmens, viskas bus išgriauta.“",
+      "b": "„Ši šventykla bus atstatyta per tris dienas.“",
+      "c": "„Šventykla bus išlikusi amžinai kaip mano tarnų namai.“",
+      "d": "„Šventykla bus paversta karalių rūmais.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_002",
+    "question": "Kur Jėzus sėdėjo, kai keturi mokiniai (Petras, Jokūbas, Jonas ir Andriejus) klausė jį apie pasaulio pabaigą?",
+    "options": {
+      "a": "Ant Gijos kalno",
+      "b": "Ant Alyvų kalno",
+      "c": "Šventykloje",
+      "d": "Prie Galilėjos jūros"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_003",
+    "question": "Ką Jėzus įspėjo apie tuos, kurie ateis su jo vardu ir teigs, kad jie yra Mesijas?",
+    "options": {
+      "a": "„Jie bus iš tiesų mesijai, tik juos sekite.“",
+      "b": "„Daug kas ateis su mano vardu ir sakys: 'Tai aš', ir daugelį suklaidins.“",
+      "c": "„Jie bus išsiųsti iš dangaus, klausykite jų.“",
+      "d": "„Jie bus tikri pranašai, atnešantys taiką.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_004",
+    "question": "Ką Jėzus pasakė apie karus, badmečius ir žemės drebėjimus?",
+    "options": {
+      "a": "„Tai bus pasaulio pabaiga.“",
+      "b": "„Tai bus žmonių baudžiamoji diena.“",
+      "c": "„Reikia, kad tai įvyktų, bet dar ne galas. Tokia bus kentėjimų pradžia.“",
+      "d": "„Šie įvykiai prasidės tik po tūkstantmečių.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_005",
+    "question": "Ką Jėzus įsakė daryti mokiniams, kai juos ves teismams ir valdovams dėl jo vardo?",
+    "options": {
+      "a": "„Pasiduokite ir nieko nesakykite.“",
+      "b": "„Nesirūpinkite iš anksto, ką kalbėsite. Kalbėkite, kas tą valandą bus jums duota, nes kalbėsite nebe jūs, o Šventoji Dvasia.“",
+      "c": "„Ginkluokitės ir ginkite savo teises.“",
+      "d": "„Bėkite į kitą miestą ir pasislėpkite.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_006",
+    "question": "Ką Jėzus pasakė apie šeimos santykius, kai artės pasaulio pabaiga?",
+    "options": {
+      "a": "„Šeimos taps stipresnės ir vieningesnės.“",
+      "b": "„Brolis išduos nužudyti brolį, o tėvas – savo vaiką. Vaikai pakels ranką prieš gimdytojus ir juos žudys.“",
+      "c": "„Tėvai apsaugos vaikus nuo visų pavojų.“",
+      "d": "„Vaikai taps savo tėvų globėjais.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_007",
+    "question": "Ką Jėzus patarė daryti, kai pamatys „unaikinimo pabaisą“ stovint ten, kur jos neturi būti?",
+    "options": {
+      "a": "„Laukite, kol ji dingsta.“",
+      "b": "„Tebėga į kalnus, kas Judėjoje.“",
+      "c": "„Susirinkite šventykloje ir melsties.“",
+      "d": "„Iškvieskite žmones į gatvę, kad visi matytų.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_008",
+    "question": "Ką Jėzus pasakė apie „unaikinimo pabaisą“ ir žiemą?",
+    "options": {
+      "a": "„Melskite, kad tai neatsitiktų vasarą.“",
+      "b": "„Melskite, kad tai neatsitiktų žiemą.“",
+      "c": "„Žiemą bus saugiausia, nes žmonės bus namuose.“",
+      "d": "„Žiemą visi bus išgelbėti.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_009",
+    "question": "Ką Jėzus pasakė apie netikrus mesijus ir pranašus, kurie atsiras prieš pasaulio pabaigą?",
+    "options": {
+      "a": "„Jie bus tikri Dievo atstovai.“",
+      "b": "„Jie darys tik gerus dalykus.“",
+      "c": "„Jie darys ženklų ir stebuklų, mėgindami suvedžioti, jei tai įmanoma, net išrinktuosius.“",
+      "d": "„Jie bus paskutiniojo teismo teisėjai.“"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_010",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnaus atėjimą?",
+    "options": {
+      "a": "„Jis ateis slaptai, kad niekas nematytų.“",
+      "b": "„Tada žmonės pamatys Žmogaus Sūnų, ateinantį debesyse su didžia galia ir šlove.“",
+      "c": "„Jis ateis tik po tūkstantmečio.“",
+      "d": "„Jis ateis kaip karalius su kariuomene.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_011",
+    "question": "Ką Jėzus pasakė apie figos medžio palyginimą su pasaulio pabaiga?",
+    "options": {
+      "a": "„Kai figos medis numeta lapus, tai bus pasaulio pabaiga.“",
+      "b": "„Kai figos medžio šaka suminkštėja ir sprogsta lapai, jūs žinote, jog artinasi vasara. Taip pat išvydę tai dedantis, supraskite, jog pasaulio pabaiga jau arti, prie slenksčio.“",
+      "c": "„Figos medis bus vienintelis išlikęs medis pasaulio pabaigoje.“",
+      "d": "„Figos medis simbolizuoja amžiną gyvenimą.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_012",
+    "question": "Ką Jėzus pasakė apie pasaulio pabaigos dieną ir valandą?",
+    "options": {
+      "a": "„Tos dienos ir valandos žino tik Šventoji Dvasia.“",
+      "b": "„Tos dienos ir valandos niekas nežino, nei dangaus angelai, nei Sūnus, tik Tėvas.“",
+      "c": "„Tos dienos bus po 40 metų.“",
+      "d": "„Tos dienos bus žinoma tik išrinktiesiems.“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_13"
+  }
+]

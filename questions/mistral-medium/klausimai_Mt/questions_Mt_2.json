@@ -1,0 +1,93 @@
+[
+  {
+    "id": "Mt_2_001",
+    "question": "Kur, pagal tekstą, gimė Jėzus?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Betliejuje",
+      "c": "Nazarete",
+      "d": "Egipte"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_002",
+    "question": "Ką Rytų išminčiai atnešė dovana Jėzui?",
+    "options": {
+      "a": "Sidabrą, brangakmenius ir medų",
+      "b": "Aukso, smilkalų ir miros",
+      "c": "Avinėlius, duoną ir vyną",
+      "d": "Drabužius, batelius ir žiedus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_003",
+    "question": "Kas įspėjo Juozapą bėgti į Egiptą?",
+    "options": {
+      "a": "Karalius Erodas",
+      "b": "Rytų išminčiai",
+      "c": "Viešpaties angelas sapne",
+      "d": "Aukštieji kunigai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_004",
+    "question": "Ką padarė Erodas, sužinojęs, kad išminčiai jį apvylė?",
+    "options": {
+      "a": "Pasiuntė juos ieškoti Jėzaus",
+      "b": "Išžudė visus Betliejuje ir jo apylinkėje dvejų metų ir jaunesnius berniukus",
+      "c": "Nusiuntė laišką Juozapui",
+      "d": "Paskelbė šventę visai šaliai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_005",
+    "question": "Kur Juozapas su šeima apsigyveno po grįžimo iš Egipto?",
+    "options": {
+      "a": "Betliejuje",
+      "b": "Jeruzalėje",
+      "c": "Nazarete",
+      "d": "Galilėjos ežero pakrantėje"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_006",
+    "question": "Kas buvo pranašo Jeremijo žodžiuose, kurie išsipildė po Erodo įsakymo?",
+    "options": {
+      "a": "„Iš Egipto pašaukiau savo Sūnų“",
+      "b": "„Rachelė rauda savo vaikų“",
+      "c": "„Jį vadins Nazariečiu“",
+      "d": "„Karalius gimės Betliejuje“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_007",
+    "question": "Kodėl Juozapas pabūgo vykti į Judėją po grįžimo iš Egipto?",
+    "options": {
+      "a": "Dėl karo su Romos imperija",
+      "b": "Dėl Archelajo valdymo, kuris buvo pavojingas",
+      "c": "Dėl blogų oro sąlygų",
+      "d": "Dėl pranašų įspėjimo apie badas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mt_2"
+  }
+]

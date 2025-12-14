@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_23_001",
+    "question": "Ką žydų aukštieji kunigai ir minia kaltino Jėzų pas Pilotą?",
+    "options": {
+      "a": "Kad jis vagystė ir apgavystė žmones",
+      "b": "Kad jis kiršina tautą, draudžia mokėti mokesčius cezoriui ir save vadina Mesiju bei karaliumi",
+      "c": "Kad jis gydo ligonius šabato dieną",
+      "d": "Kad jis neigia Dievo egzistavimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_002",
+    "question": "Ką atsakė Jėzus, kai Pilotas paklausė: „Ar tu esi žydų karalius?“",
+    "options": {
+      "a": "„Aš ne karalius, bet pranašas“",
+      "b": "„Taip yra, kaip sakai“",
+      "c": "„Karalystė mano nėra iš šio pasaulio“",
+      "d": "Jis nieko neatsakė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_003",
+    "question": "Kam Pilotas nusiuntė Jėzų, sužinojęs, kad jis yra iš Galilėjos?",
+    "options": {
+      "a": "Į sinagogą, kad ten būtų apkaltintas",
+      "b": "Pas Erodo valdžią, nes Jėzus buvo iš Erodo valdų",
+      "c": "Į Romą, kad ten būtų teisiamas cezoriaus",
+      "d": "Į kalėjimą, laukiant teismo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_004",
+    "question": "Kodėl Erodas apsidžiaugė pamatęs Jėzų?",
+    "options": {
+      "a": "Nes jis buvo Jėzaus artimas draugas",
+      "b": "Nes jis tikėjosi pamatyti Jėzaus daromą stebuklą",
+      "c": "Nes jis norėjo Jėzų paskelbti savo įpėdiniu",
+      "d": "Nes jis buvo girdėjęs, kad Jėzus yra galingas kariuomenės vadas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_005",
+    "question": "Kaip Erodas elgėsi su Jėzumi, kai šis jam neatsakė į klausimus?",
+    "options": {
+      "a": "Jis jį išlaisvino ir atleido visus kaltinimus",
+      "b": "Jis jį paniekino, išjuokė ir atsiuntė atgal pas Pilotą",
+      "c": "Jis jį įkalino ir paskelbė mirties bausmę",
+      "d": "Jis jį paskelbė savo karalystės pranašu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_006",
+    "question": "Ką Pilotas pasakė žydų aukštiesiems kunigams ir miniai, grąžinęs Jėzų nuo Erodo?",
+    "options": {
+      "a": "„Jis yra kaltas ir turi būti nukryžiavimas“",
+      "b": "„Jis nėra padaręs nieko, kas būtų verta mirties bausmės“",
+      "c": "„Jis turi būti ištremtas iš Jeruzalės“",
+      "d": "„Jis turi mokėti didelį baudą“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_007",
+    "question": "Ką minia reikalavo vietoje Jėzaus paleisti?",
+    "options": {
+      "a": "Paleisti visus kalinius",
+      "b": "Paleisti Barabą, kuris buvo įkalintas už maištą ir žmogžudystę",
+      "c": "Paleisti visus mokesčių rinkėjus",
+      "d": "Paleisti visus romėnų kariuomenės kareivius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_008",
+    "question": "Kas buvo užrašas virš Jėzaus kryžiaus?",
+    "options": {
+      "a": "„Šitas yra pasaulio išgelbėtojas“",
+      "b": "„Šitas yra žydų karalius“",
+      "c": "„Šitas yra Dievo Sūnus“",
+      "d": "„Šitas yra Mesijas“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_009",
+    "question": "Ką vienas nukryžiavimas piktadaris pasakė Jėzui?",
+    "options": {
+      "a": "„Tu esi Dievo Sūnus, išgelbėk mus!“",
+      "b": "„Argi tu ne Mesijas? Išgelbėk save ir mus!“",
+      "c": "„Mes esame kalti, o tu ne“",
+      "d": "„Dievas mus visus bauds“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_010",
+    "question": "Ką antrasis nukryžiavimas piktadaris atsakė pirmajam, kai šis įžeidė Jėzų?",
+    "options": {
+      "a": "„Jis yra kaltas, kaip ir mes“",
+      "b": "„Ir Dievo tu nebijai, kentėdamas tą pačią bausmę! Šitas nieko blogo nėra padaręs“",
+      "c": "„Mes visi mirsime, todėl nieko nedarykime“",
+      "d": "„Jis yra Mesijas, bet mes jo nepripažįstame“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_011",
+    "question": "Ką Jėzus pasakė antajam piktadariui, kai šis prašė prisiminti jį savo karalystėje?",
+    "options": {
+      "a": "„Tu busi su manimi rojuje po trijų dienų“",
+      "b": "„Iš tiesų sakau tau: šiandien su manimi būsi rojuje“",
+      "c": "„Tavo malda bus išklausyta, kai ateisi į dangų“",
+      "d": "„Tu busi atleistas, kai busi paskutinė teisė“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_012",
+    "question": "Kas įvyko, kai Jėzus numirė ant kryžiaus?",
+    "options": {
+      "a": "Žemė susidrebė, ir visi mirė",
+      "b": "Šventyklos uždanga perplyšo pusiau, o visą kraštą apgaubė tamsa",
+      "c": "Visos Jeruzalės sienos griuvo",
+      "d": "Visos moterys pradėjo dainuoti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_013",
+    "question": "Kas pasakė: „Iš tiesų šitas žmogus buvo teisusis!“?",
+    "options": {
+      "a": "Pilotas",
+      "b": "Erodas",
+      "c": "Šimtininkas",
+      "d": "Barabas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_014",
+    "question": "Kas padėjo Jėzui nešti kryžių?",
+    "options": {
+      "a": "Pilotas",
+      "b": "Simonas Kirėnietis",
+      "c": "Juozapas Arimatietis",
+      "d": "Barabas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_015",
+    "question": "Ką Jėzus pasakė Jeruzalės dukterims, kurios verkė jo?",
+    "options": {
+      "a": "„Verkite ne manęs, bet verčiau savęs ir savo vaikų!“",
+      "b": "„Jūsų ašaros bus išgirstos danguje“",
+      "c": "„Jūsų vaikai bus išgelbėti“",
+      "d": "„Jūsų miestas bus sugriautas“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_016",
+    "question": "Kas paruošė Jėzaus kūną laidotuvėms?",
+    "options": {
+      "a": "Pilotas",
+      "b": "Juozapas Arimatietis",
+      "c": "Erodas",
+      "d": "Šimtininkas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_017",
+    "question": "Kur buvo paguldytas Jėzaus kūnas?",
+    "options": {
+      "a": "Šventykloje",
+      "b": "Uoloje iškaltame kapo rūsyje, kuriame niekas nebuvo laidotas",
+      "c": "Piloto rūmuose",
+      "d": "Erodo dvare"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_018",
+    "question": "Ką moterys, atėjusios su Jėzumi iš Galilėjos, padarė po jo laidotuvių?",
+    "options": {
+      "a": "Jos iškeliavo į Galilėją",
+      "b": "Jos paruošė kvepalų ir tepalų, o šabo dieną ilsėjosi",
+      "c": "Jos pradėjo skelbti apie Jėzaus prisikėlimą",
+      "d": "Jos pasitraukė iš Jeruzalės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Lk_23"
+  }
+]

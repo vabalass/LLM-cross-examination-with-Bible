@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mk_11_001",
+    "question": "Kur Jėzus pasiuntė du savo mokinius ieškoti asilaitį, kurio niekas dar nebuvo jojęs?",
+    "options": {
+      "a": "Į Betaniją",
+      "b": "Į Betfagę",
+      "c": "Į kaimą prie Alyvų kalno",
+      "d": "Į Jeruzalę"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_002",
+    "question": "Ką turėjo atsakyti mokiniai, jei kas nors paklaustų, kodėl jie atriša asilaitį?",
+    "options": {
+      "a": "'Asilaitis priklauso Viešpačiui, jis netrukus jį sugrąžins'",
+      "b": "'Mes esame Jėzaus mokiniai ir tai jo noras'",
+      "c": "'Asilaitis reikalingas šventykloje'",
+      "d": "'Mes atvesime jį į Jeruzalę'"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_003",
+    "question": "Ką žmonės tiesė ant kelio, kai Jėzus jojojo ant asilaitio į Jeruzalę?",
+    "options": {
+      "a": "Žiedus ir auksinius indus",
+      "b": "Savo drabužius ir žalias šakeles",
+      "c": "Avelius ir duoną",
+      "d": "Alyvų šakas ir palmes"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_004",
+    "question": "Ką šaukė žmonės, einantys prieš ir už Jėzaus, kai jis įžengė į Jeruzalę?",
+    "options": {
+      "a": "'Šlovė Dievui aukštybėse!'",
+      "b": "'Osana! Garbė tam, kuris ateina Viešpaties vardu!'",
+      "c": "'Laimė tai, kuris ateina karalystės vardu!'",
+      "d": "'Dangus ir žemė džiaugsis šią dieną!'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_005",
+    "question": "Kodėl Jėzus prakeikė figmedį, kai jis buvo sulapojęs, bet neturėjo vaisių?",
+    "options": {
+      "a": "Nes figmedis buvo blogos rūšies",
+      "b": "Nes tai buvo simbolis be vaisingumo Izraelio",
+      "c": "Nes jis buvo alkanas ir norėjo valgyti figų, bet nerado",
+      "d": "Nes figmedis užstojo kelią"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_006",
+    "question": "Ką Jėzus darė šventykloje, kai ten atvyko?",
+    "options": {
+      "a": "Skaitė Torą žmonėms",
+      "b": "Varydavo parduodančius ir perkančius, išvertė pinigų keitėjų stalus",
+      "c": "Pasakė, kad šventykla turi būti uždaryta visiems, išskyrus kunigus",
+      "d": "Įsakė statyti naują altorių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_007",
+    "question": "Ką Jėzus sakė apie šventyklą, kai išvarė pardavėjus?",
+    "options": {
+      "a": "'Mano namai turi būti maldos namai visoms tautoms, o jūs pavertėte juos plėšikų lindyne'",
+      "b": "'Šventykla turi būti atidaryta tik teisingiems žmonėms'",
+      "c": "'Čia turi būti tik aukojimai, o ne prekyba'",
+      "d": "'Šventykla bus sugriauta ir per trejas dienas atstatyta'"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_008",
+    "question": "Ką Jėzus pasakė mokiniams apie tikėjimą, kai jie pamatė nudžiūvusį figmedį?",
+    "options": {
+      "a": "'Tikintis reiškia niekada nesvyruoti, net jei kalnas turėtų pasikelti'",
+      "b": "'Jei turėtumėte tikėjimą Dievu, galėtumėte kalnui įsakyti: „Pasikelk ir meskis į jūrą“, ir tai įvyktų'",
+      "c": "'Tikėjimas gali išgydyti ligonius, bet negali pakeisti gamtos'",
+      "d": "'Tikėjimas reikalingas tik maldai, o ne stebuklams'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_009",
+    "question": "Ką Jėzus patarė daryti, meldamasis?",
+    "options": {
+      "a": "Meldžioti tik vieną kartą per dieną",
+      "b": "Atleisti kitų kaltes, kad Dievas atleistų jūsų nusižengimus",
+      "c": "Meldžioti tik šventykloje",
+      "d": "Meldžioti tik su kunigais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_010",
+    "question": "Ką aukštieji kunigai ir Rašto aiškintojai klausė Jėzaus, kai jis mokė šventykloje?",
+    "options": {
+      "a": "'Kur tu mokėsi Rašto?'",
+      "b": "'Kokia galia tai darai? Kas tau davė galią tai daryti?'",
+      "c": "'Kada ateis karalystė?'",
+      "d": "'Kodėl tu nepripažįsti mūsų autoriteto?'"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_011",
+    "question": "Ką Jėzus paklausė aukštųjų kunigų ir Rašto aiškintojų, norėdamas atsakyti į jų klausimą apie savo galią?",
+    "options": {
+      "a": "'Kur yra Dovydo karalystė?'",
+      "b": "'Ar tikrai norite žinoti tiesą?'",
+      "c": "'Jono krikštas buvo iš dangaus ar iš žmonių?'",
+      "d": "'Kas jums davė teisę klausinėti mane?'"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_11"
+  }
+]

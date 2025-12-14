@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mk_3_001",
+    "question": "Ką fariziejai stebėjo, kai Jėzus buvo sinagogoje su žmogumi, turinčiu padžiūvusią ranką?",
+    "options": {
+      "a": "Ar Jėzus gydys jį šabo dieną, kad galėtų apkaltinti",
+      "b": "Ar Jėzus pasakys, kad šaba yra šventė, kurioje negalima dirbti",
+      "c": "Ar žmogus su padžiūvusia ranka tikrai norės būti pagydytas",
+      "d": "Ar Jėzus turės pakankamai jėgų pagydyti ligonį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_002",
+    "question": "Ką Jėzus pasakė žmogui su padžiūvusia ranka, kai liepė jam stoti į vidurį?",
+    "options": {
+      "a": "„Ar šabo dieną leistina gera daryti, ar bloga? Gelbėti gyvybę ar žudyti?“",
+      "b": "„Ištiesk ranką!“",
+      "c": "„Tikėk, ir bus tau padaryta!“",
+      "d": "„Tavo tikėjimas tave pagydė!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_003",
+    "question": "Ką Jėzus padarė, kai žmogus su padžiūvusia ranka ištiesė ranką?",
+    "options": {
+      "a": "Jis pasakė, kad ranka bus pagydyta tik po šabato",
+      "b": "Jis palietė ranką, ir ji atgijo",
+      "c": "Ranka atgijo, kai žmogus ją ištiesė",
+      "d": "Jis liepė žmogui laukti, kol fariziejai išvys"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_004",
+    "question": "Ką fariziejai ėmė daryti, išėję iš sinagogos po to, kai Jėzus pagydė žmogų su padžiūvusia ranka?",
+    "options": {
+      "a": "Jie ėmė skelbti apie Jėzaus stebuklus",
+      "b": "Jie ėmė tartis su erodininkais, kaip Jėzų pražudyti",
+      "c": "Jie ėmė mokyti žmones apie šabato šventumą",
+      "d": "Jie ėmė ieškoti kitų ligonių, kuriuos Jėzus galėtų pagydyti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_005",
+    "question": "Kur Jėzus pasitraukė su mokiniais, kai sekė didelė minia?",
+    "options": {
+      "a": "Į dykumą",
+      "b": "Į kalną",
+      "c": "Prie ežero",
+      "d": "Į Jeruzalę"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_006",
+    "question": "Ką Jėzus liepė mokiniams laikyti jam paruoštą, kad minia jo nesuspaustų?",
+    "options": {
+      "a": "Arklį",
+      "b": "Valtį",
+      "c": "Kelią, kuriuo galėtų pabėgti",
+      "d": "Apsaugos sargybą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_007",
+    "question": "Ką šaukdavo netyrosios dvasios, kai matydavo Jėzų?",
+    "options": {
+      "a": "„Tu Mesijas!“",
+      "b": "„Tu Dievo Sūnus!“",
+      "c": "„Tu karalius!“",
+      "d": "„Tu pranašas!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_008",
+    "question": "Ką Jėzus darė, kai netyrosios dvasios pradėdavo šaukti?",
+    "options": {
+      "a": "Jis jas išvarydavo iš žmonių",
+      "b": "Jis jas prašydavo tylėti, kad jo negarsintų",
+      "c": "Jis jas palikdavo šaukti, nes tai buvo tiesos liudijimas",
+      "d": "Jis jas maldavo už jo misiją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_009",
+    "question": "Ką Jėzus darė, kai paskyrė Dvylika apaštalų?",
+    "options": {
+      "a": "Jis juos paskyrė tik skelbti žodį",
+      "b": "Jis juos paskyrė, kad jie būtų kartu su juo ir galėtų siųsti juos skelbti žodžio, bei turėtų galią išvarinėti demonus",
+      "c": "Jis juos paskyrė tik gydyti ligonius",
+      "d": "Jis juos paskyrė tik mokyti žmones apie šabato šventumą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_010",
+    "question": "Ką Jėzaus saviškiai sakė apie jį, kai jis buvo namuose ir susirinko daug žmonių?",
+    "options": {
+      "a": "Jie sakė, kad jis yra Dievo Sūnus",
+      "b": "Jie sakė, kad jis yra pranašas",
+      "c": "Jie sakė, kad jis kaip galvos netekęs",
+      "d": "Jie sakė, kad jis turi demonų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_011",
+    "question": "Ką Jėzus atsakė, kai jam pranešta, kad jo motina ir broliai bei seserys lauke stovi ir ieško jo?",
+    "options": {
+      "a": "„Kas yra mano motina ir broliai? Štai mano motina ir broliai – tie, kas tik vykdo Dievo valią!“",
+      "b": "„Aš turiu eiti su jais, nes jie yra mano šeima!“",
+      "c": "„Jie turi laukti, kol aš baigsiu mokyti!“",
+      "d": "„Jie netikėtinai atėjo, bet aš juos pasitiksiu vėliau!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_3"
+  }
+]

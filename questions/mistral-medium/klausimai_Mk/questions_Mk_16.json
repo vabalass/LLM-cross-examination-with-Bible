@@ -1,0 +1,80 @@
+[
+  {
+    "id": "Mk_16_001",
+    "question": "Kas buvo pirmosios moterys, lydėjusios prie Jėzaus kapo pirmąją savaitės dieną?",
+    "options": {
+      "a": "Marija Magdalietė, Marija (Jokūbo motina) ir Salomė",
+      "b": "Marija Magdalietė, Marta ir Marija (Lazaro sesuo)",
+      "c": "Salomė, Joana ir Marija (Jokūbo motina)",
+      "d": "Marija Magdalietė, Elžbieta ir Ana"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_002",
+    "question": "Ką jaunuolis baltais drabužiais pasakė moterims, įėjusoms į Jėzaus kapo rūsį?",
+    "options": {
+      "a": "„Jis prisikėlė, jo čia nebėra. Eikite, pasakykite jo mokiniams ir Petrui, kad jis eina pirma jūsų į Galilėją.“",
+      "b": "„Jis miega, nesvęskite jo. Grįškite vėliau su kvepalais.“",
+      "c": "„Jis čia, bet negali jį pamatyti, nes dar neprasidedo jo karalystės laikas.“",
+      "d": "„Jis buvo pavogtas, ieškokite jo Romos valdžios rūmuose.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_003",
+    "question": "Kam Jėzus pirmiausia pasirodė po prisikėlimo?",
+    "options": {
+      "a": "Petrui",
+      "b": "Marijai Magdalietei",
+      "c": "Dviem mokiniams kelyje į Emaų",
+      "d": "Visoms vienuolims, valgantiesiems paskutinį vakarienę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_004",
+    "question": "Ką Jėzus liepė savo mokiniams daryti, išsiųsdamas juos į pasaulį (Mk 16:15)?",
+    "options": {
+      "a": "Statyti bažnyčias visose šalyse",
+      "b": "Skelbti Evangeliją visai kūrinijai",
+      "c": "Kaupinti turto ir dalintis su neturtingaisiais",
+      "d": "Apsiginkluoti ir ginti tikėjimą nuo priešiškų valdžios"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_005",
+    "question": "Kokius ženklus Jėzus pažadėjo tikintiesiems (Mk 16:17–18)? **Išskirkite NEPAMINÉTĄ ženklo**",
+    "options": {
+      "a": "Išvarinės demonus",
+      "b": "Kalbės naujomis kalbomis",
+      "c": "Galią keliauti per vandą be laivo",
+      "d": "Dės rankas ant ligonių, ir tie pasveiks"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_006",
+    "question": "Ką darė mokiniai po to, kai Jėzus buvo paimtas į dangų (Mk 16:20)?",
+    "options": {
+      "a": "Pasitraukė į dykumą melstis ir laukti Antrojo Atsišaukimo",
+      "b": "Iškeliavo visur skelbti žodį, o Viešpats patvirtino jų žodžius ženklais",
+      "c": "Įkūrė pirmąją bažnyčią Jeruzalėje ir pradėjo rašyti Šventąjį Raštą",
+      "d": "Susirinko slaptai, bijodami romėnų persekiojimo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Mk_16"
+  }
+]

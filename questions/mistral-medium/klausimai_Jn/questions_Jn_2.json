@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_2_001",
+    "question": "Kur vyko vestuvės, kuriose Jėzus padarė pirmąjį stebuklą?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Galilėjos Kanoje",
+      "c": "Betanijoje",
+      "d": "Kafarnaume"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_002",
+    "question": "Ką Jėzaus motina pasakė tarnams, kai vestuvėse baigėsi vynas?",
+    "options": {
+      "a": "„Pirkte naujo vyno mieste“",
+      "b": "„Darykite, ką tik jis jums lieps“",
+      "c": "„Pasakykite jaunikui, kad išsiųstų tarnus į miestą“",
+      "d": "„Sukurkite vyną iš vandens patys“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_003",
+    "question": "Kiek akmeninių indų, skirtų žydų apsiplovimams, buvo vestuvėse, kur Jėzus padarė stebuklą?",
+    "options": {
+      "a": "Trys",
+      "b": "Penki",
+      "c": "Šeši",
+      "d": "Septyni"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_004",
+    "question": "Ką Jėzus padarė su vandens indais, kad padarytų stebuklą vestuvėse?",
+    "options": {
+      "a": "Jis juos išmušė rimbu",
+      "b": "Jis liepė juos pripildyti vandens, o vandenilis pavirto vynu",
+      "c": "Jis juos užkasė žemėje ir iš jų išteko vynas",
+      "d": "Jis juos užpylė vynu iš savo dėžės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_005",
+    "question": "Ką Jėzus padarė šventykloje, kai ten rado prekiaujančių ir pinigų keitėjų?",
+    "options": {
+      "a": "Jis juos pasveikino ir paliko ramiai prekiauti",
+      "b": "Jis išvijo visus iš šventyklos, išvarė gyvulius ir išbarstė pinigus",
+      "c": "Jis pasakė: „Prekiaujate čia dar tris dienas, o tada baiginkite“",
+      "d": "Jis nupirko karvelius ir juos išleido į laisvę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_006",
+    "question": "Ką Jėzus atsakė žydams, kai jie klausė, kokį ženklą jis gali duoti savo veiksmams pagrįsti?",
+    "options": {
+      "a": "„Jūsų tikėjimas jau yra pakankamas ženklas“",
+      "b": "„Sugriaukite šitą šventovę, o aš per tris dienas ją atstatysiu“",
+      "c": "„Aš jau padariau stebuklą Kanoje, tai jums pakanka“",
+      "d": "„Jums nenorima matyti mano ženklų, nes jūsų širdys yra kietos“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_007",
+    "question": "Ką Jėzus žinojo apie žmones, kai daugelis jų įtikėjo jo vardu Velykų šventėse?",
+    "options": {
+      "a": "Jis žinojo jų praeities nuodėmes",
+      "b": "Jis žinojo, kas yra kiekvieno žmogaus viduje, ir jais nepasitikėjo",
+      "c": "Jis žinojo jų ateities planus",
+      "d": "Jis žinojo, kiek jie turi pinigų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_008",
+    "question": "Kur Jėzus su savo motina, broliais ir mokiniais pasiliko kelias dienas po vestuvių Kanoje?",
+    "options": {
+      "a": "Nazarete",
+      "b": "Betanijoje",
+      "c": "Kafarnaume",
+      "d": "Jeruzalėje"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-medium-2508",
+    "chapter": "Jn_2"
+  }
+]
