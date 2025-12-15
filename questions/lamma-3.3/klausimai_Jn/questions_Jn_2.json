@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_2_001",
+    "question": "Kur vyko vestuvs,  kurias buvo pakviestas Jzus?",
+    "options": {
+      "a": "Jeruzal",
+      "b": "Kafarnaumas",
+      "c": "Galiljos Kanoje",
+      "d": "Velyk šventse"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_002",
+    "question": "Ką Jzus pasak tarnams, kai jo motina praneš, kad nebeturi vyno?",
+    "options": {
+      "a": "Darykite, ką tik aš jums liepsiu",
+      "b": "Pripilkite indus vandens",
+      "c": "Neškokite vyno",
+      "d": "Pasiimkite savo paukščius"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_003",
+    "question": "Ką Jzus padar su vandeniu, esančiu akmeniniuose induose?",
+    "options": {
+      "a": "Išbarst",
+      "b": "Išvijo",
+      "c": "Paverčiau vynu",
+      "d": "Išneš"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_004",
+    "question": "Ką pasak prievaizdas jaunikui, kai paragavęs paversto vynu vandens?",
+    "options": {
+      "a": "Kiekvienas žmogus pirmiau stato blogesnio vyno",
+      "b": "Kiekvienas žmogus pirmiau stato geresnio vyno",
+      "c": "Jie nebeturi vyno",
+      "d": "Darykite, ką tik jis jums lieps"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_005",
+    "question": " ką Jzus paverčia vanden?",
+    "options": {
+      "a": "Vyną",
+      "b": "Vanden",
+      "c": "Al",
+      "d": "Arbata"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_006",
+    "question": "Ką Jzus atliko Šventykloje?",
+    "options": {
+      "a": "Pirk prekes",
+      "b": "Išvijo prekiautojus",
+      "c": "Mok mokiniais",
+      "d": "Kalbjosi su žydais"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_007",
+    "question": "Ką Jzus pasak žydams, kai jie paklaus, kok ženklą jis gali duoti, kad turi teisę daryti tai, ką daro?",
+    "options": {
+      "a": "Sugriaukite šitą šventovę, o aš per tris dienas ją atstatysiu",
+      "b": "Aš esu Jzus",
+      "c": "Jie nebeturi vyno",
+      "d": "Darykite, ką tik aš jums liepsiu"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_008",
+    "question": "Ką Jzus žinojo apie žmones?",
+    "options": {
+      "a": "Jie yra geri",
+      "b": "Jie yra blogi",
+      "c": "Jis pats žinojo, kas yra žmogaus viduje",
+      "d": "Jie yra tiesi"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_2"
+  }
+]

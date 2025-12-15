@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Jn_3_001",
+    "question": "Kas buvo Nikodemo profesija?",
+    "options": {
+      "a": "Fariziejus",
+      "b": "Mokytojas",
+      "c": "Mokinys",
+      "d": "Žyd karalius"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_002",
+    "question": "Ką Jzus pasak apie gimimą iš aukštybs?",
+    "options": {
+      "a": "Jis yra pasaulietiškas reikalas",
+      "b": "Jis yra Dievo karalysts dalis",
+      "c": "Jis yra reikalingas Dievo karalysts regjimui",
+      "d": "Jis yra nemanomas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_003",
+    "question": "Kas yra reikalinga, kad žmogus eit  Dievo karalystę?",
+    "options": {
+      "a": "Gimti iš kūno",
+      "b": "Gimti iš vandens ir Dvasios",
+      "c": "Būti galingu",
+      "d": "Būti turtingu"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_004",
+    "question": "Ką Jzus pasak apie vją?",
+    "options": {
+      "a": "Jis yra visada priešingas Dievui",
+      "b": "Jis yra visada už Dievą",
+      "c": "Jis pučia, kur nori",
+      "d": "Jis niekada nepučia"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_005",
+    "question": "Ką Jzus pasak apie save?",
+    "options": {
+      "a": "Jis yra tik žmogus",
+      "b": "Jis yra Dievo sūnus",
+      "c": "Jis yra angelas",
+      "d": "Jis yra dvasia"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_006",
+    "question": "Ką Dievas atidav savo sūn?",
+    "options": {
+      "a": "Pasaulio valdžią",
+      "b": "Gyvenimą",
+      "c": "Savo viengim sūn",
+      "d": "Mirt"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_007",
+    "question": "Ką Jzus pasak apie tikjimą?",
+    "options": {
+      "a": "Jis yra nebūtinas",
+      "b": "Jis yra pasaulietiškas reikalas",
+      "c": "Jis yra reikalingas amžinajam gyvenimui",
+      "d": "Jis yra Dievo priešas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_008",
+    "question": "Ką Jono mokiniai ir žydas ginčijosi?",
+    "options": {
+      "a": "Apie Dievo karalystę",
+      "b": "Apie krikštą",
+      "c": "Apie apsivalymo apeigas",
+      "d": "Apie mirt"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_009",
+    "question": "Ką Jonas pasak apie Jz?",
+    "options": {
+      "a": "Jis yra jo priešas",
+      "b": "Jis yra jo draugas",
+      "c": "Jis yra jo pirmtakas",
+      "d": "Jis yra jo sūnus"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_010",
+    "question": "Ką Jonas pasak apie save?",
+    "options": {
+      "a": "Jis yra Mesijas",
+      "b": "Jis yra Dievo sūnus",
+      "c": "Jis yra Jzaus pirmtakas",
+      "d": "Jis yra angelas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_011",
+    "question": "Ką Jzus pasak apie Dvasią?",
+    "options": {
+      "a": "Ji yra Dievo priešas",
+      "b": "Ji yra pasaulietiškas reikalas",
+      "c": "Ji yra reikalinga amžinajam gyvenimui",
+      "d": "Ji yra Dievo dalis"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_012",
+    "question": "Ką Jzus pasak apie tvą?",
+    "options": {
+      "a": "Jis yra jo priešas",
+      "b": "Jis yra jo draugas",
+      "c": "Jis yra jo tvas",
+      "d": "Jis yra jo sūnus"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_3"
+  }
+]

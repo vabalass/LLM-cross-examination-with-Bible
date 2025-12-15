@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_21_001",
+    "question": "Kur pasirod Jzus mokiniams?",
+    "options": {
+      "a": "Prie Genezareto ežero",
+      "b": "Prie Tiberiados ežero",
+      "c": "Prie Galiljos ežero",
+      "d": "Prie Jeruzals miesto"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_002",
+    "question": "Kas buvo sugauta mokini tinklu?",
+    "options": {
+      "a": "Žuvys ir duonos",
+      "b": "Žuvys",
+      "c": "Duonos",
+      "d": "Vandens gyvūnai"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_003",
+    "question": "Kiek kart Jzus paklaus Simono Petro, ar jis myli Jz?",
+    "options": {
+      "a": "Du kartus",
+      "b": "Tris kartus",
+      "c": "Keturis kartus",
+      "d": "Penkis kartus"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_004",
+    "question": "Ką Jzus liep Simonui Petrui daryti?",
+    "options": {
+      "a": "Eiti pasaulio apačią",
+      "b": "Ganyti jo avinlius",
+      "c": "Paskui eiti už jo",
+      "d": "Mokyti kitus"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_005",
+    "question": "Kas buvo Jzaus mokinys, kuris buvo prisiglaudęs prie Jzaus krūtins per vakarienę?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Tomas",
+      "c": "Natanaelis",
+      "d": "Mokinys, kur Jzus myljo"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_006",
+    "question": "Ką Jzus atsak Simonui Petrui, kai jis paklaus apie mokin, kur Jzus myljo?",
+    "options": {
+      "a": "Jis nemirs",
+      "b": "Jei noriu, kad jis pasilikt, kolei ateisiu, kas gi tau?",
+      "c": "Jis bus mano pdinis",
+      "d": "Jis bus mano priešas"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_007",
+    "question": "Kas yra aprašyta Jzaus mokinio, kuris liudija apie tuos dalykus?",
+    "options": {
+      "a": "Viskas, ką Jzus dar",
+      "b": "Dalis dalyk, kuriuos Jzus padar",
+      "c": "Nieko, kas yra svarbu",
+      "d": "Tik dalykai, kurie yra svarbūs mokiniams"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_008",
+    "question": "Ką Jzus dar, kai pasirod mokiniams prie Tiberiados ežero?",
+    "options": {
+      "a": "Jis paskait mokiniams",
+      "b": "Jis pasak jiems eiti pusryči",
+      "c": "Jis padalijo jiems duonos ir žuvies",
+      "d": "Jis nieko nedaro"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_21"
+  }
+]

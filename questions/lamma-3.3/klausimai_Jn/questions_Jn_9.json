@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_9_001",
+    "question": "Ko Jzus padar, kai pamat aklą gimus žmog?",
+    "options": {
+      "a": "Išvydo j",
+      "b": "Padar purvo iš seili ir patep juo neregio akis",
+      "c": "Paklaus jo mokiniai",
+      "d": "Neveik nieko"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_002",
+    "question": "Ko reikjo atlikti aklajam, kad praregt?",
+    "options": {
+      "a": "Eiti pas fariziejus",
+      "b": "Nusiplauti Siloamo tvenkinyje",
+      "c": "Maldautis Dievui",
+      "d": "Gydytis pas gydytoją"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_003",
+    "question": "Ką kaimynai ir kiti žmons klaus, kai pamat buvus nereg?",
+    "options": {
+      "a": "Ar jis gali matyti",
+      "b": "Ar jis gali eiti",
+      "c": "O kaipgi atsivr tau akys?",
+      "d": "Ar jis gali kalbti"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_004",
+    "question": "Ką fariziejai sak apie Jz?",
+    "options": {
+      "a": "Jis yra iš Dievo",
+      "b": "Jis yra pranašas",
+      "c": "Jis nesilaiko šabo",
+      "d": "Jis yra Dievas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_005",
+    "question": "Ką buvusio neregio tvai atsak, kai buvo klausiami apie sūnaus regjimą?",
+    "options": {
+      "a": "Jis gali matyti, nes melsdavoms Dievui",
+      "b": "Jis gali matyti, nes Jzus jam atvr akis",
+      "c": "O kaip jis praregjo, mes nežinome, nei kas jam atvr akis, nežinome",
+      "d": "Jis vis dar yra aklas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_006",
+    "question": "Ką buvusias neregis atsak, kai buvo klausiamas apie Jz?",
+    "options": {
+      "a": "Jis yra Dievas",
+      "b": "Jis yra pranašas",
+      "c": "Jis yra geras žmogus",
+      "d": "Jis yra nusidjlis"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_007",
+    "question": "Ką fariziejai atsak, kai buvusias neregis klaus, ar jie nori tapti Jzuo mokiniais?",
+    "options": {
+      "a": "Taip, norime",
+      "b": "Ne, nesime",
+      "c": "Tai tu esi jo mokinys, o mes – Mozs mokiniai",
+      "d": "Mes jau esame Jzuo mokiniai"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_008",
+    "question": "Ką buvusias neregis atsak, kai fariziejai sakydavo, kad Jzus yra nusidjlis?",
+    "options": {
+      "a": "Jis yra nusidjlis",
+      "b": "Jis yra Dievas",
+      "c": "Žinome, kad Dievas neišklauso nusidjli",
+      "d": "Jis yra pranašas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_009",
+    "question": "Ką Jzus atsak, kai buvusias neregis klaus, ar jis yra Žmogaus Sūnus?",
+    "options": {
+      "a": "Taip, esu",
+      "b": "Ne, ne esu",
+      "c": "Tu jau esi j matęs, ir dabar jis su tavimi kalba",
+      "d": "Aš ne Žmogaus Sūnus"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_010",
+    "question": "Ką Jzus sak apie savo atjimą  pasaul?",
+    "options": {
+      "a": "Aš atjau daryti teismo, – kad neregiai praregt, o regintieji apakt",
+      "b": "Aš atjau daryti teismo, – kad regintieji praregt, o neregiai apakt",
+      "c": "Aš atjau daryti teismo, – kad visi žmons būt lygūs",
+      "d": "Aš atjau daryti teismo, – kad visi žmons būt laisvi"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_011",
+    "question": "Ką fariziejai atsak, kai Jzus sak, kad jie akli?",
+    "options": {
+      "a": "Taip, mes akli",
+      "b": "Ne, mes ne akli",
+      "c": "Tai gal ir mes akli?",
+      "d": "Jūs esate akli"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_012",
+    "question": "Ką Jzus atsak, kai fariziejai klaus, ar jie akli?",
+    "options": {
+      "a": "Taip, jūs akli",
+      "b": "Ne, jūs ne akli",
+      "c": "Jei būtumte akli, neturtumte nuodms",
+      "d": "Jūs esate visi akli"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_013",
+    "question": "Ką Jzus dar, kai sužinojo, kad buvusias nereg išvar lauk?",
+    "options": {
+      "a": "Jis nudūr fariziejus",
+      "b": "Jis nujo pas buvus nereg",
+      "c": "Jis meldjosi Dievui",
+      "d": "Jis kalbjo su mokiniais"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_014",
+    "question": "Ką buvusias neregis atsak, kai Jzus klaus, ar jis tiki Žmogaus Sūn?",
+    "options": {
+      "a": "Ne, ne tikiu",
+      "b": "Taip, tikiu",
+      "c": "Kas yra Žmogaus Sūnus?",
+      "d": "Aš nesuprantu, ką tai reiškia"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_9"
+  }
+]

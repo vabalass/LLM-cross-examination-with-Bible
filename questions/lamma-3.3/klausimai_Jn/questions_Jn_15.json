@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Jn_15_001",
+    "question": "Kas yra vynmedis ir kas yra šakelės?",
+    "options": {
+      "a": "Vynmedis yra Dievas, o šakelės yra žmonės",
+      "b": "Vynmedis yra Jėzus, o šakelės yra jo mokiniai",
+      "c": "Vynmedis yra pasaulis, o šakelės yra gyventojai",
+      "d": "Vynmedis yra bažnyčia, o šakelės yra nariai"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_002",
+    "question": "Kas duoda vaisius, jei nepasilieka vynmedyje?",
+    "options": {
+      "a": "Šakelė",
+      "b": "Vynmedis",
+      "c": "Dievas",
+      "d": "Niekas"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_003",
+    "question": "Kas bus su šakelėmis, jei jos nepasilieka vynmedyje?",
+    "options": {
+      "a": "Jos bus išmestos laukan ir sudžius",
+      "b": "Jos bus apvalytos",
+      "c": "Jos bus paliktos taip pat",
+      "d": "Jos bus padarytos į vaisius"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_004",
+    "question": "Ko prašysite, jei pasiliksite vynmedyje?",
+    "options": {
+      "a": "Ko tik norėsite",
+      "b": "Tik to, ko leis Dievas",
+      "c": "Tik to, ko leis vynmedis",
+      "d": "Nieko"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_005",
+    "question": "Kas yra Tėvas, kuris mylėjo Jėzų?",
+    "options": {
+      "a": "Dievas",
+      "b": "Vynmedis",
+      "c": "Pasaulis",
+      "d": "Žmonės"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_006",
+    "question": "Kas yra meilė, kurią turėjo Jėzus savo mokiniais?",
+    "options": {
+      "a": "Meilė, kurią turi Dievas savo sūnui",
+      "b": "Meilė, kurią turi pasaulis savo gyventojams",
+      "c": "Meilė, kurią turi vynmedis savo šakelėms",
+      "d": "Meilė, kurią turi žmonės savo artimiesiems"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_007",
+    "question": "Kas yra didesnė meilė?",
+    "options": {
+      "a": "Gyvybę atiduoti už savo draugus",
+      "b": "Gyvybę atiduoti už savo šeimą",
+      "c": "Gyvybę atiduoti už savo tėvynę",
+      "d": "Gyvybę atiduoti už savo pasaulį"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_008",
+    "question": "Kas yra draugai, apie kuriuos kalba Jėzus?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Žmonės",
+      "c": "Pasaulis",
+      "d": "Vynmedis"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_009",
+    "question": "Kas bus, jei pasaulis jūsų nekenčia?",
+    "options": {
+      "a": "Jūs būsite mylimi",
+      "b": "Jūs būsite nekenčiami",
+      "c": "Jūs būsite palikti taip pat",
+      "d": "Jūs būsite išmesti"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_15"
+  }
+]

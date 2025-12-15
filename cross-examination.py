@@ -11,7 +11,10 @@ def get_bible_question_from_llm(model, bible_text, max_retries=1, number_of_ques
     for attempt in range(1, max_retries + 1):
         try:
             if model is not None and bible_text != "":
-                message_content = (
+                system_prompt = (
+                    "Naudok taisyklingą lietuvių kalbą. Niekada nepraleisk raidžių. (pvz., 'Jėzus', ne 'Jzus'). "
+                )
+                user_prompt = (
                     "Sukurk " + number_of_questions +  " klausimus su keturiais atsakymų variantais (a, b, c, d) iš pateikto Biblijos teksto. " +
                     "Tik vienas atsakymas turi būti teisingas. " +
                     "Grąžink atsakymą IŠSKIRTINAI JSON formatu. JSON struktūra turi būti tokia:\n" +
@@ -29,10 +32,17 @@ def get_bible_question_from_llm(model, bible_text, max_retries=1, number_of_ques
                     "Neįtraukite jokių paaiškinimų ar papildamo teksto, tik JSON.\n\n" +
                     bible_text
                 )
-                message = [{ "content": message_content,"role": "user"}]
-                response = completion(model=model, messages=message)
+                message = [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt}
+                ]
+                response = completion(
+                    model=model, 
+                    messages=message)
+                
                 print("Atsakymas gautas.")
                 if response.choices:
+                    print(response.choices[0].message["content"])
                     return response.choices[0].message["content"]
                 else:
                     print("Klaida: Atsakymo variantų nerasta.")
@@ -353,15 +363,16 @@ def json_to_csv(input_json_path: str, output_csv_path: str):
 def main():
     read_and_save_API_keys("API_keys.txt")
     
-    text_path = Path(__file__).parent / "Bible" / "morkaus_evangelija"
+    text_path = Path(__file__).parent / "Bible" / "luko_evangelija"
     
     models = [
         #"gemini/gemini-2.5-flash",
         #"gemini/gemini-2.5-flash-lite",
         #"groq/llama-3.3-70b-versatile",
         #"groq/llama-3.1-8b-instant",
-        #"openai/gpt-5"
-        "mistral/mistral-medium-2508"
+        "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+        #"openrouter/google/gemma-3-27b-it:free",
+        #"mistral/mistral-medium-2508"
     ]
     
     if not text_path.exists():

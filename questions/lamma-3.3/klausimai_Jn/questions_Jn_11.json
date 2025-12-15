@@ -1,0 +1,301 @@
+[
+  {
+    "id": "Jn_11_001",
+    "question": "Kur gyveno Marija ir jos sesuo Morta?",
+    "options": {
+      "a": "Betanijoje",
+      "b": "Jeruzalje",
+      "c": "Efraime",
+      "d": "Galiljoje"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_002",
+    "question": "Kas buvo Lozoriaus ligos priežastis?",
+    "options": {
+      "a": "Dievo bausm",
+      "b": "Žmogaus nuodm",
+      "c": "Liga ne mirčiai, bet Dievo garbei",
+      "d": "Gydytoj klaida"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_003",
+    "question": "Kiek dien Lozorius buvo miręs, kai Jzus atjo?",
+    "options": {
+      "a": "1 diena",
+      "b": "2 dienos",
+      "c": "3 dienos",
+      "d": "4 dienos"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_004",
+    "question": "Kas buvo Jzuso atsakas, kai mokiniai paklaus, kodl jis eina  Judją?",
+    "options": {
+      "a": "Aš eisiu ten, nes man reikia",
+      "b": "Aš eisiu ten, kad jūs mokyt",
+      "c": "Argi ne dvylika valand turi diena?",
+      "d": "Aš neisiu ten"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_005",
+    "question": "Kas buvo Mortos atsakas, kai Jzus paklaus, ar ji tiki?",
+    "options": {
+      "a": "Taip, aš tikiu",
+      "b": "Ne, aš netikiu",
+      "c": "Aš nesu tikra",
+      "d": "Aš tikiu kitu"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_006",
+    "question": "Kas buvo Jzuso žodžiai, kai jis atvr Lozoriaus kapą?",
+    "options": {
+      "a": "Lozoriau, išeik!",
+      "b": "Lozoriau, atsiklk!",
+      "c": "Lozoriau, prisiklk!",
+      "d": "Lozoriau, eik iš čia!"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_007",
+    "question": "Kas buvo fariziej ir aukštojo kunigo sprendimas dl Jzaus?",
+    "options": {
+      "a": "J paskirti nauju aukščiausiuoju kunigu",
+      "b": "J paskelbti Dievo sūnumi",
+      "c": "J nužudyti",
+      "d": "J ištrmti"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_008",
+    "question": "Kur Jzus pasitrauk, kai fariziejai ir aukštieji kunigai nusprend j nužudyti?",
+    "options": {
+      "a": " Jeruzalę",
+      "b": " Betaniją",
+      "c": " Efraimą",
+      "d": " Galilją"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_009",
+    "question": "Kas buvo priežastis, kodl daugelis žmoni trauk  Jeruzalę prieš Velykas?",
+    "options": {
+      "a": "Norjo pamatyti Jz",
+      "b": "Norjo dalyvauti Velyk iškilmse",
+      "c": "Norjo apsivalyti",
+      "d": "Norjo pabgti nuo romn"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_010",
+    "question": "Kas buvo aukštojo kunigo ir fariziej sakymas dl Jzaus?",
+    "options": {
+      "a": "J suimti ir teisti",
+      "b": "J ištrmti",
+      "c": "J nužudyti",
+      "d": "J palikti ramybje"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_011",
+    "question": "Kas buvo Jzuso atsakas, kai Morta pasak, jog jos brolis nebūt miręs, jei jis būt buvęs ten?",
+    "options": {
+      "a": "Aš esu prisiklimas ir gyvenimas",
+      "b": "Aš esu Dievas",
+      "c": "Aš esu išgelbtojas",
+      "d": "Aš esu teisjas"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_012",
+    "question": "Kas buvo Jzuso veiksmas, kai jis pamačiusi Mariją verkiančią?",
+    "options": {
+      "a": "Jis pravirko",
+      "b": "Jis nusijuok",
+      "c": "Jis pasijudino",
+      "d": "Jis nusigręž"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_013",
+    "question": "Kas buvo Jzuso atsakas, kai Morta pasak, jog žina, kad jos brolis prisikels paskutinę dieną?",
+    "options": {
+      "a": "Aš esu prisiklimas ir gyvenimas",
+      "b": "Aš esu Dievas",
+      "c": "Aš esu išgelbtojas",
+      "d": "Aš esu teisjas"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_014",
+    "question": "Kas buvo Jzuso žodžiai, kai jis atvr Lozoriaus kapą ir sušuko?",
+    "options": {
+      "a": "Lozoriau, išeik!",
+      "b": "Lozoriau, atsiklk!",
+      "c": "Lozoriau, prisiklk!",
+      "d": "Lozoriau, eik iš čia!"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_015",
+    "question": "Kas buvo fariziej ir aukštojo kunigo sprendimas dl Jzaus, kai jis atvr Lozoriaus kapą?",
+    "options": {
+      "a": "J paskirti nauju aukščiausiuoju kunigu",
+      "b": "J paskelbti Dievo sūnumi",
+      "c": "J nužudyti",
+      "d": "J ištrmti"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_016",
+    "question": "Kur Jzus pasitrauk, kai fariziejai ir aukštieji kunigai nusprend j nužudyti?",
+    "options": {
+      "a": " Jeruzalę",
+      "b": " Betaniją",
+      "c": " Efraimą",
+      "d": " Galilją"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_017",
+    "question": "Kas buvo priežastis, kodl daugelis žmoni trauk  Jeruzalę prieš Velykas?",
+    "options": {
+      "a": "Norjo pamatyti Jz",
+      "b": "Norjo dalyvauti Velyk iškilmse",
+      "c": "Norjo apsivalyti",
+      "d": "Norjo pabgti nuo romn"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_018",
+    "question": "Kas buvo aukštojo kunigo ir fariziej sakymas dl Jzaus?",
+    "options": {
+      "a": "J suimti ir teisti",
+      "b": "J ištrmti",
+      "c": "J nužudyti",
+      "d": "J palikti ramybje"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_019",
+    "question": "Kas buvo Jzuso atsakas, kai Morta pasak, jog jos brolis nebūt miręs, jei jis būt buvęs ten?",
+    "options": {
+      "a": "Aš esu prisiklimas ir gyvenimas",
+      "b": "Aš esu Dievas",
+      "c": "Aš esu išgelbtojas",
+      "d": "Aš esu teisjas"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_020",
+    "question": "Kas buvo Jzuso veiksmas, kai jis pamačiusi Mariją verkiančią?",
+    "options": {
+      "a": "Jis pravirko",
+      "b": "Jis nusijuok",
+      "c": "Jis pasijudino",
+      "d": "Jis nusigręž"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_021",
+    "question": "Kas buvo Jzuso atsakas, kai Morta pasak, jog žina, kad jos brolis prisikels paskutinę dieną?",
+    "options": {
+      "a": "Aš esu prisiklimas ir gyvenimas",
+      "b": "Aš esu Dievas",
+      "c": "Aš esu išgelbtojas",
+      "d": "Aš esu teisjas"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_022",
+    "question": "Kas buvo Jzuso žodžiai, kai jis atvr Lozoriaus kapą ir sušuko?",
+    "options": {
+      "a": "Lozoriau, išeik!",
+      "b": "Lozoriau, atsiklk!",
+      "c": "Lozoriau, prisiklk!",
+      "d": "Lozoriau, eik iš čia!"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_023",
+    "question": "Kas buvo fariziej ir aukštojo kunigo sprendimas dl Jzaus, kai jis atvr Lozoriaus kapą?",
+    "options": {
+      "a": "J paskirti nauju aukščiausiuoju kunigu",
+      "b": "J paskelbti Dievo sūnumi",
+      "c": "J nužudyti",
+      "d": "J ištrmti"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_11"
+  }
+]

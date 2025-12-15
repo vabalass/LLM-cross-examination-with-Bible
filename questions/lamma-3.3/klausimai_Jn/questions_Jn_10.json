@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_10_001",
+    "question": "Kas yra gerasis ganytojas, pasak Jzaus?",
+    "options": {
+      "a": "Vilkas",
+      "b": "Samdinys",
+      "c": "Geras ganytojas, kuris guldo gyvybę už avis",
+      "d": "Sargas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_002",
+    "question": "Ko Jzus sak, kad yra?",
+    "options": {
+      "a": "Vagis",
+      "b": "Plšikas",
+      "c": "Avi vartai",
+      "d": "Sargas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_003",
+    "question": "Kas bus, jei kas eis per Jz?",
+    "options": {
+      "a": "Bus pagautas",
+      "b": "Bus išgelbtas",
+      "c": "Bus pamestas",
+      "d": "Bus atmestas"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_004",
+    "question": "Ko atjo vagis, pasak Jzaus?",
+    "options": {
+      "a": "Atjo vogti, žudyti, naikinti",
+      "b": "Atjo gelbti",
+      "c": "Atjo mokyti",
+      "d": "Atjo saugoti"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_005",
+    "question": "Ko Jzus atjo, pasak Jzaus?",
+    "options": {
+      "a": "Atjo vogti, žudyti, naikinti",
+      "b": "Atjo gelbti",
+      "c": "Atjo mokyti",
+      "d": "Atjo kad žmons turt gyvenimą"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_006",
+    "question": "Kas yra gero ganytojo darbas?",
+    "options": {
+      "a": "Už avis guldo gyvybę",
+      "b": "Už avis priešinasi",
+      "c": "Už avis nieko nedaro",
+      "d": "Už avis meluoja"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_007",
+    "question": "Kas Jzus sak apie savo avims?",
+    "options": {
+      "a": "Jas palieka",
+      "b": "Jas saugo",
+      "c": "Jas duoda amžinąj gyvenimą",
+      "d": "Jas atmesta"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_008",
+    "question": "Kas yra Tvas, pasak Jzaus?",
+    "options": {
+      "a": "Vilkas",
+      "b": "Samdinys",
+      "c": "Aukščiau už viską",
+      "d": "Sargas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_009",
+    "question": "Kas Jzus sak apie save ir Tvą?",
+    "options": {
+      "a": "Jie yra priešai",
+      "b": "Jie yra draugai",
+      "c": "Jie yra viena",
+      "d": "Jie yra skirtingi"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_010",
+    "question": "Kodl žydai norjo užmušti Jz?",
+    "options": {
+      "a": "Už gerus darbus",
+      "b": "Už piktžodžiavimą",
+      "c": "Už melus",
+      "d": "Už nieką"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_011",
+    "question": "Ką Jzus sak apie save, kad yra?",
+    "options": {
+      "a": "Žmogus",
+      "b": "Dievas",
+      "c": "Dievo Sūnus",
+      "d": "Velnias"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_012",
+    "question": "Ką Jzus sak, kad turi?",
+    "options": {
+      "a": "Galią atiduoti savo gyvybę",
+      "b": "Galią atsiimti savo gyvybę",
+      "c": "Galią atiduoti ir atsiimti savo gyvybę",
+      "d": "Galią nieko nedaryti"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_013",
+    "question": "Kur Jzus pasitrauk, kai žydai mgino j suimti?",
+    "options": {
+      "a": "Anapus Jordano",
+      "b": "Jeruzalje",
+      "c": "Perjoje",
+      "d": "Šventykloje"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_014",
+    "question": "Ką daugelis žmoni dar, kai Jzus pasitrauk anapus Jordano?",
+    "options": {
+      "a": "Priešinosi jam",
+      "b": "Atmest j",
+      "c": "tikjo juo",
+      "d": "Nesuprato jo"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_10"
+  }
+]

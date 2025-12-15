@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Jn_13_001",
+    "question": "Kodl Jzus plauna mokiniams kojas?",
+    "options": {
+      "a": "Kad parodyt savo valdžią",
+      "b": "Kad parodyt meilę ir pasiaukojimą",
+      "c": "Kad atsikratyt mokini",
+      "d": "Kad parodyt savo galią"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_002",
+    "question": "Kas buvo Simono Petro atsakymas, kai Jzus norjo jam numazgoti kojas?",
+    "options": {
+      "a": "Jis nesipriešino",
+      "b": "Jis pasak, kad Jzus neturi to daryti",
+      "c": "Jis pasak, kad Jzus gali numazgoti ne tik kojas, bet ir rankas bei galvą",
+      "d": "Jis pasak, kad jis pats numazgos Jzui kojas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_003",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie supranta, ką Jzus jiems daro?",
+    "options": {
+      "a": "Jie supranta, kad Jzus yra j Viešpats",
+      "b": "Jie supranta, kad Jzus yra j Mokytojas",
+      "c": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "d": "Jie supranta, kad Jzus yra numazgantis jiems kojas"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_004",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie nesupranta, ką Jzus jiems daro?",
+    "options": {
+      "a": "Jie klausia Jzaus, ką jis daro",
+      "b": "Jie nesipriešina Jzui",
+      "c": "Jie supranta, kad Jzus yra j Viešpats",
+      "d": "Jie nesupranta, kad Jzus yra atjęs pas juos"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_005",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie supranta, kad Jzus yra j Viešpats?",
+    "options": {
+      "a": "Jie nesipriešina Jzui",
+      "b": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "c": "Jie klausia Jzaus, ką jis daro",
+      "d": "Jie myli vieni kitus"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_006",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie myli vieni kitus?",
+    "options": {
+      "a": "Jie nesipriešina Jzui",
+      "b": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "c": "Jie klausia Jzaus, ką jis daro",
+      "d": "Jie yra palaiminti"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_007",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie yra palaiminti?",
+    "options": {
+      "a": "Jie nesipriešina Jzui",
+      "b": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "c": "Jie klausia Jzaus, ką jis daro",
+      "d": "Jie elgiasi kaip Jzus jiems parod"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_008",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie elgiasi kaip Jzus jiems parod?",
+    "options": {
+      "a": "Jie nesipriešina Jzui",
+      "b": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "c": "Jie klausia Jzaus, ką jis daro",
+      "d": "Jie myli vieni kitus"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_009",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie myli vieni kitus?",
+    "options": {
+      "a": "Jie nesipriešina Jzui",
+      "b": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "c": "Jie klausia Jzaus, ką jis daro",
+      "d": "Jie yra Jzaus mokiniai"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_010",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie yra Jzaus mokiniai?",
+    "options": {
+      "a": "Jie nesipriešina Jzui",
+      "b": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "c": "Jie klausia Jzaus, ką jis daro",
+      "d": "Jie elgiasi kaip Jzus jiems parod"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_011",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie elgiasi kaip Jzus jiems parod?",
+    "options": {
+      "a": "Jie nesipriešina Jzui",
+      "b": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "c": "Jie klausia Jzaus, ką jis daro",
+      "d": "Jie yra palaiminti"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_012",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie yra palaiminti?",
+    "options": {
+      "a": "Jie nesipriešina Jzui",
+      "b": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "c": "Jie klausia Jzaus, ką jis daro",
+      "d": "Jie myli vieni kitus"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_013",
+    "question": "Kas yra Jzaus mokiniais esanči žmoni būdas, kai jie myli vieni kitus?",
+    "options": {
+      "a": "Jie nesipriešina Jzui",
+      "b": "Jie supranta, kad Jzus yra atjęs pas juos",
+      "c": "Jie klausia Jzaus, ką jis daro",
+      "d": "Jie yra Jzaus mokiniai"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_13"
+  }
+]

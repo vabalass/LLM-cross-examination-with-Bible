@@ -1,0 +1,262 @@
+[
+  {
+    "id": "Jn_8_001",
+    "question": "Kur Jzus nujo po to, kai pasirod šventykloje?",
+    "options": {
+      "a": " Alyv kalną",
+      "b": " šventyklos iždinę",
+      "c": " miestą",
+      "d": " kalną"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_002",
+    "question": "Kas buvo atvesta prie Jzaus?",
+    "options": {
+      "a": "Vyras, sugautas svetimaujant",
+      "b": "Moteris, sugauta svetimaujant",
+      "c": "Vaikas, sugautas vagiant",
+      "d": "Senis, sugautas meluojant"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_003",
+    "question": "Ką Jzus pasak, kai jam buvo paklausta, ką daryti su sugauta moterimi?",
+    "options": {
+      "a": "Užmuškite ją akmenimis",
+      "b": "Paleiskite ją",
+      "c": "Kas iš jūs be nuodms, tegu pirmas sviedžia  ją akmen",
+      "d": "Uždarykite ją kaljime"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_004",
+    "question": "Kas Jzus sak, kad yra?",
+    "options": {
+      "a": "Pasaulio teisjas",
+      "b": "Pasaulio šviesa",
+      "c": "Pasaulio valdovas",
+      "d": "Pasaulio dievas"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_005",
+    "question": "Ką Jzus sak, kad turi kas, kas seka jam?",
+    "options": {
+      "a": "Gyvenimo šviesą",
+      "b": "Mirties šviesą",
+      "c": "Tamsybs šviesą",
+      "d": "Svetimo šviesą"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_006",
+    "question": "Ką fariziejai sak apie Jzaus liudijimą?",
+    "options": {
+      "a": "Jzaus liudijimas yra tikras",
+      "b": "Jzaus liudijimas netikras",
+      "c": "Jzaus liudijimas yra gerai",
+      "d": "Jzaus liudijimas yra blogai"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_007",
+    "question": "Ką Jzus atsak fariziejams?",
+    "options": {
+      "a": "Jis pripažino, kad jo liudijimas netikras",
+      "b": "Jis pasak, kad jo liudijimas yra tikras",
+      "c": "Jis nieko neatsak",
+      "d": "Jis pasišalino"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_008",
+    "question": "Ką Jzus sak apie savo Tvą?",
+    "options": {
+      "a": "Jis yra Dievas",
+      "b": "Jis yra žmogus",
+      "c": "Jis yra angelas",
+      "d": "Jis yra velnias"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_009",
+    "question": "Ką Jzus pasak, kad jis yra?",
+    "options": {
+      "a": "Jis yra Abraomo sūnus",
+      "b": "Jis yra Dievo sūnus",
+      "c": "Jis yra žmogaus sūnus",
+      "d": "Jis yra velnio sūnus"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_010",
+    "question": "Ką Jzus sak apie savo atjimą?",
+    "options": {
+      "a": "Jis atjo sau",
+      "b": "Jis atjo pasistas",
+      "c": "Jis atjo pats",
+      "d": "Jis atjo su kitais"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_011",
+    "question": "Ką Jzus sak apie žyd tvą?",
+    "options": {
+      "a": "J tvas yra Abraomas",
+      "b": "J tvas yra Dievas",
+      "c": "J tvas yra velnias",
+      "d": "J tvas yra žmogus"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_012",
+    "question": "Ką Jzus pasak apie tiesą?",
+    "options": {
+      "a": "Tiesa yra melas",
+      "b": "Tiesa yra tiesa",
+      "c": "Tiesa yra gera",
+      "d": "Tiesa yra bloga"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_013",
+    "question": "Ką Jzus sak apie laisvę?",
+    "options": {
+      "a": "Laisv yra vergov",
+      "b": "Laisv yra tiesa",
+      "c": "Laisv yra melas",
+      "d": "Laisv yra gera"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_014",
+    "question": "Ką Jzus pasak apie Abraomą?",
+    "options": {
+      "a": "Abraomas yra jo tvas",
+      "b": "Abraomas yra jo brolis",
+      "c": "Abraomas yra jo draugas",
+      "d": "Abraomas džiūgavo, kad matys Jzaus Dieną"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_015",
+    "question": "Ką Jzus sak apie save?",
+    "options": {
+      "a": "Jis yra Abraomo sūnus",
+      "b": "Jis yra Dievo sūnus",
+      "c": "Jis yra žmogaus sūnus",
+      "d": "Jis yra velnio sūnus"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_016",
+    "question": "Ką Jzus pasak apie mirt?",
+    "options": {
+      "a": "Mirtis yra gyvenimas",
+      "b": "Mirtis yra mirtis",
+      "c": "Mirtis yra vergov",
+      "d": "Kas laikysis jo žodžio, tas neragaus mirties per amžius"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_017",
+    "question": "Ką žydai sak apie Jz?",
+    "options": {
+      "a": "Jis yra Dievo sūnus",
+      "b": "Jis yra Abraomo sūnus",
+      "c": "Jis yra žmogaus sūnus",
+      "d": "Jis yra samarietis ir velnio apsstas"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_018",
+    "question": "Ką Jzus atsak žydams?",
+    "options": {
+      "a": "Jis pripažino, kad jis yra velnio apsstas",
+      "b": "Jis pasak, kad jis yra Dievo sūnus",
+      "c": "Jis nieko neatsak",
+      "d": "Jis pasišalino"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_019",
+    "question": "Ką Jzus sak apie save ir Abraomą?",
+    "options": {
+      "a": "Jis yra Abraomo amžiaus",
+      "b": "Jis yra vyresnis už Abraomą",
+      "c": "Jis yra jaunesnis už Abraomą",
+      "d": "Pirmiau, negu gim Abraomas, Aš Esu"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_020",
+    "question": "Ką žydai band daryti su Jzumi?",
+    "options": {
+      "a": "Jie band j pagirti",
+      "b": "Jie band j mylti",
+      "c": "Jie band j užmušti akmenimis",
+      "d": "Jie band j išgelbti"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_8"
+  }
+]

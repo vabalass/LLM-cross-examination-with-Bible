@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Jn_14_001",
+    "question": "Ko Jėzus paprašo savo mokinių?",
+    "options": {
+      "a": "Tikėti Dievu",
+      "b": "Tikėti juo",
+      "c": "Abu variantai",
+      "d": "Niekas iš čia"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_002",
+    "question": "Kur Jėzus sakė, kad yra einantis?",
+    "options": {
+      "a": "Pas Tėvą",
+      "b": "Į pasaulį",
+      "c": "Į miestą",
+      "d": "Į kalną"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_003",
+    "question": "Kas yra kelias, tiesa ir gyvenimas?",
+    "options": {
+      "a": "Dievas",
+      "b": "Jėzus",
+      "c": "Tėvas",
+      "d": "Šventoji Dvasia"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_004",
+    "question": "Kas bus daromas, jei žmonės tiki Jėzumi?",
+    "options": {
+      "a": "Jie bus baudžiami",
+      "b": "Jie bus išgelbėti",
+      "c": "Jie darys darbus didesnius nei Jėzus",
+      "d": "Jie nieko nedarys"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_005",
+    "question": "Ko Jėzus prašo Tėvą daryti?",
+    "options": {
+      "a": "Duoti Globėją",
+      "b": "Atleisti nuodėmes",
+      "c": "Duoti ramybę",
+      "d": "Viskas iš čia"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_006",
+    "question": "Kas bus pasiųsta, kad išmokytų visko?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Tėvas",
+      "c": "Šventoji Dvasia",
+      "d": "Dievas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_007",
+    "question": "Ką Jėzus palieka savo mokiniams?",
+    "options": {
+      "a": "Baudimą",
+      "b": "Ramybę",
+      "c": "Gyvenimą",
+      "d": "Mirtį"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_008",
+    "question": "Kas ateina, kai Jėzus baigia kalbėti?",
+    "options": {
+      "a": "Dievas",
+      "b": "Tėvas",
+      "c": "Šio pasaulio kunigaikštis",
+      "d": "Jėzus"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_009",
+    "question": "Ką Jėzus daro, kai baigia kalbėti su mokiniais?",
+    "options": {
+      "a": "Sėdi",
+      "b": "Kalbėja",
+      "c": "Keliasi",
+      "d": "Meldijasi"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_010",
+    "question": "Kur Jėzus eina, kai baigia kalbėti su mokiniais?",
+    "options": {
+      "a": "Pas Tėvą",
+      "b": "Į pasaulį",
+      "c": "Į miestą",
+      "d": "Iš čia"
+    },
+    "correct": "d",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_14"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Jn_18_001",
+    "question": "Kur Jzus su savo mokiniais nujo po ilgos kalbos?",
+    "options": {
+      "a": " sinagogą",
+      "b": " šventyklos kiemą",
+      "c": " Kedrono upelio sodą",
+      "d": " kalną"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_002",
+    "question": "Kas atjo su kareivi būriu, aukštj kunig bei fariziej tarnais?",
+    "options": {
+      "a": "Judas",
+      "b": "Pilatas",
+      "c": "Kajafas",
+      "d": "Petras"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_003",
+    "question": "Ką Jzus atsak, kai buvo paklaustas, ko ieškoma?",
+    "options": {
+      "a": "Manęs",
+      "b": "Jzaus Nazariečio",
+      "c": "Tai aš",
+      "d": "Niekas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_004",
+    "question": "Kas atšoko atgal ir parpuol ant žems, kai Jzus pasak: „Tai aš“?",
+    "options": {
+      "a": "Jzus",
+      "b": "Judo būrys",
+      "c": "Jzaus mokiniai",
+      "d": "Visi"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_005",
+    "question": "Kas nukirto vyriausiojo kunigo tarno dešinę aus?",
+    "options": {
+      "a": "Jzus",
+      "b": "Petras",
+      "c": "Judas",
+      "d": "Pilatas"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_006",
+    "question": "Kur buvo nusivedęs Jz?",
+    "options": {
+      "a": "Prie Ano",
+      "b": "Prie Kajafą",
+      "c": "Prie Pilato",
+      "d": "Prie sinagogos"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_007",
+    "question": "Kas paklaus Petro: „Ar tik nebūsi vienas iš to žmogaus mokini?“",
+    "options": {
+      "a": "Tarnait durinink",
+      "b": "Vyriausiasis kunigas",
+      "c": "Pilatas",
+      "d": "Jzus"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_008",
+    "question": "Ką Jzus atsak, kai buvo paklaustas apie jo mokinius bei mokslą?",
+    "options": {
+      "a": "Aš nesakau nieko",
+      "b": "Aš kalbjau slapčia",
+      "c": "Aš viešai kalbjau pasauliui",
+      "d": "Aš nieko nežinau"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_009",
+    "question": "Kas smog Jzui per veidą?",
+    "options": {
+      "a": "Vyriausiasis kunigas",
+      "b": "Pilatas",
+      "c": "Vienas iš tarn",
+      "d": "Judas"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_010",
+    "question": "Kur buvo nusivedęs Jz po to, kai jis buvo pas Aną?",
+    "options": {
+      "a": "Prie Kajafą",
+      "b": "Prie Pilato",
+      "c": "Prie sinagogos",
+      "d": "Prie kalno"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_011",
+    "question": "Ką Jzus atsak, kai Pilatas paklaus, ar jis yra žyd karalius?",
+    "options": {
+      "a": "Taip, aš esu",
+      "b": "Ne, aš ne esu",
+      "c": "Ar nuo savęs šito klausi?",
+      "d": "Aš nesakau"
+    },
+    "correct": "c",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_012",
+    "question": "Ką Pilatas paklaus Jzaus po to, kai jis atsak, kad jo karalyst nra iš šio pasaulio?",
+    "options": {
+      "a": "Ar tu esi karalius?",
+      "b": "Kas yra tiesa?",
+      "c": "Ką tu čia darai?",
+      "d": "Kas tavo vardas?"
+    },
+    "correct": "a",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_013",
+    "question": "Ką Jzus atsak, kai Pilatas paklaus, ar jis yra karalius?",
+    "options": {
+      "a": "Ne, aš ne esu",
+      "b": "Taip, aš esu",
+      "c": "Aš nesakau",
+      "d": "Kas yra karalius?"
+    },
+    "correct": "b",
+    "model": "openrouter/meta-llama/llama-3.3-70b-instruct:free",
+    "chapter": "Jn_18"
+  }
+]
