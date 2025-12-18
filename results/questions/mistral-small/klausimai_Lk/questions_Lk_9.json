@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_9_001",
+    "question": "Ką Jėzus suteikė Dvylikai, išsiunčiant juos?",
+    "options": {
+      "a": "Pinigų ir maisto",
+      "b": "Galią ir valdžią visiems demonams tramdyti ir ligoms gydyti",
+      "c": "Lazdas ir krepšius",
+      "d": "Naują drabužį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_002",
+    "question": "Ką Jėzus pasakė Dvylikai apie kelionę?",
+    "options": {
+      "a": "Niekada nepasitraukti nuo žmonių",
+      "b": "Nieko neimkite kelionei: nei lazdos, nei krepšio, nei duonos, nei pinigų",
+      "c": "Imkite daug maisto ir pinigų",
+      "d": "Keliauokite tik naktimis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_003",
+    "question": "Ką Erodas manyjo apie Jėzų?",
+    "options": {
+      "a": "Jis manyjo, kad Jėzus yra vienas iš senųjų pranašų",
+      "b": "Jis manyjo, kad Jėzus yra jo brolis",
+      "c": "Jis manyjo, kad Jėzus yra romėnų karininkas",
+      "d": "Jis manyjo, kad Jėzus yra jo tėvas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_004",
+    "question": "Ką Jėzus pasakė, kai Dvylika sakė, kad neturi maisto miniai?",
+    "options": {
+      "a": "Jie turi nuėti ir nupirkti maisto",
+      "b": "Jie turi palikti žmones ir eiti namo",
+      "c": "Jūs duokite jiems valgyti!",
+      "d": "Jie turi maldautis, kad Dievas duotų maisto"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_005",
+    "question": "Kiek kepalėlių duonos ir žuvų Jėzus padaugino?",
+    "options": {
+      "a": "Penkis kepalėlius duonos ir dvi žuvis",
+      "b": "Tris kepalėlius duonos ir tris žuvis",
+      "c": "Penkis kepalėlius duonos ir penias žuvis",
+      "d": "Dešimt kepalėlių duonos ir dešimt žuvų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_006",
+    "question": "Ką Petras atsakė, kai Jėzus paklausė, kuo jį laiko žmonės?",
+    "options": {
+      "a": "Petras atsakė, kad jį laiko Jonu Krikštytoju",
+      "b": "Petras atsakė, kad jį laiko Eliju",
+      "c": "Petras atsakė, kad jį laiko vienu iš senųjų pranašų",
+      "d": "Petras atsakė, kad jį laiko Dievo Mesiju"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_007",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnų?",
+    "options": {
+      "a": "Jis pasakė, kad Žmogaus Sūnus bus amžinai valdys",
+      "b": "Jis pasakė, kad Žmogaus Sūnus turi būti atmestas ir nužudytas, bet trečią dieną prisikeltų",
+      "c": "Jis pasakė, kad Žmogaus Sūnus bus paskendintas jūroje",
+      "d": "Jis pasakė, kad Žmogaus Sūnus bus paskendintas ugnimi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_008",
+    "question": "Ką Jėzus pasakė apie sekimą jį?",
+    "options": {
+      "a": "Jis pasakė, kad sekėti jį reikia tik tam, kas nori tapti turtingu",
+      "b": "Jis pasakė, kad sekėti jį reikia tik tam, kas nori tapti žymiu",
+      "c": "Jis pasakė, kad sekėti jį reikia tik tam, kas nori tapti galingu",
+      "d": "Jis pasakė, kad sekėti jį reikia tik tam, kas nori išgelbėti savo gyvybę, teneša savo kryžių ir teseka manimi"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_009",
+    "question": "Kas pasirodė Jėzui kalne?",
+    "options": {
+      "a": "Mozė ir Elijas",
+      "b": "Petras ir Jokūbas",
+      "c": "Jonas ir Jokūbas",
+      "d": "Petras ir Andriejus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_010",
+    "question": "Ką Petras pasakė, kai matė Mozę ir Eliją?",
+    "options": {
+      "a": "Petras pasakė, kad jie turi nužudyti Mozę ir Eliją",
+      "b": "Petras pasakė, kad jie turi padaryti tris palapines: vieną Jėzui, kitą Mozei ir trečią Elijui",
+      "c": "Petras pasakė, kad jie turi palikti kalną",
+      "d": "Petras pasakė, kad jie turi maldautis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_011",
+    "question": "Ką Jėzus atsakė, kai Petras pasakė apie padaryti tris palapines?",
+    "options": {
+      "a": "Jėzus pasakė, kad jie turi padaryti tris palapines",
+      "b": "Jėzus pasakė, kad jie turi palikti kalną",
+      "c": "Jėzus pasakė, kad jie turi maldautis",
+      "d": "Jėzus pasakė, kad jie turi nužudyti Mozę ir Eliją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_012",
+    "question": "Ką Jėzus pasakė apie nuomariu sergančio berniuko tėvą?",
+    "options": {
+      "a": "Jėzus pasakė, kad tėvas turi nužudyti berniuką",
+      "b": "Jėzus pasakė, kad tėvas turi palikti berniuką",
+      "c": "Jėzus pasakė, kad tėvas turi maldauti",
+      "d": "Jėzus pasakė, kad tėvas turi atnešti berniuką"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_013",
+    "question": "Ką Jėzus pasakė apie Dievo karalystę?",
+    "options": {
+      "a": "Jėzus pasakė, kad Dievo karalystė yra tik tam, kas nori tapti turtingu",
+      "b": "Jėzus pasakė, kad Dievo karalystė yra tik tam, kas nori tapti žymiu",
+      "c": "Jėzus pasakė, kad Dievo karalystė yra tik tam, kas nori tapti galingu",
+      "d": "Jėzus pasakė, kad Dievo karalystė yra tik tam, kas nori tapti mažais"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_014",
+    "question": "Ką Jėzus pasakė apie Joną, kuris išvarė demonus jo vardo?",
+    "options": {
+      "a": "Jėzus pasakė, kad jie turi nužudyti Joną",
+      "b": "Jėzus pasakė, kas ne prieš jus, tas už jus",
+      "c": "Jėzus pasakė, kad jie turi drausti Joną",
+      "d": "Jėzus pasakė, kad jie turi maldauti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_015",
+    "question": "Ką Jėzus pasakė apie Samarijos kaimą?",
+    "options": {
+      "a": "Jėzus pasakė, kad jie turi nužudyti kaimo gyventojus",
+      "b": "Jėzus pasakė, kad jie turi maldauti",
+      "c": "Jėzus pasakė, kad jie turi pasuko į kitą kaimą",
+      "d": "Jėzus pasakė, kad jie turi padaryti tris palapines"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_016",
+    "question": "Ką Jėzus pasakė apie žmogų, kuris norėjo pirmiau pareiti tėvo palaidoti?",
+    "options": {
+      "a": "Jėzus pasakė, kad jis turi palikti mirusiems laidoti savo numirėlius, o tu eik ir skelbk Dievo karalystę",
+      "b": "Jėzus pasakė, kad jis turi nužudyti tėvą",
+      "c": "Jėzus pasakė, kad jis turi maldauti",
+      "d": "Jėzus pasakė, kad jis turi palikti tėvą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_017",
+    "question": "Ką Jėzus pasakė apie žmogų, kuris norėjo pirmiau atsisveikinti su namiškiais?",
+    "options": {
+      "a": "Jėzus pasakė, kad jis turi nužudyti namiškius",
+      "b": "Jėzus pasakė, kad jis turi maldauti",
+      "c": "Jėzus pasakė, kad jis turi palikti namiškius",
+      "d": "Jėzus pasakė, kad jis turi palikti namiškius ir eik ir skelbk Dievo karalystę"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_018",
+    "question": "Ką Jėzus pasakė apie žmogų, kuris prideda ranką prie arklo ir žvalgosi atgal?",
+    "options": {
+      "a": "Jėzus pasakė, kad jis turi nužudyti žmogų",
+      "b": "Jėzus pasakė, kad jis turi maldauti",
+      "c": "Jėzus pasakė, kad jis turi palikti žmogų",
+      "d": "Jėzus pasakė, kad jis netinka Dievo karalystei"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  }
+]

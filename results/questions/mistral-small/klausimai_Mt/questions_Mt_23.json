@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Mt_23_001",
+    "question": "Kas, Jėzaus žodžiais, yra vienintelis Tėvas?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Tėvas danguje",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_002",
+    "question": "Kas, Jėzaus žodžiais, yra vienintelis Mokytojas?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Kristus",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_003",
+    "question": "Kas, Jėzaus žodžiais, turi būti didesnis iš jūsų?",
+    "options": {
+      "a": "Tarnas",
+      "b": "Mokytojas",
+      "c": "Tėvas",
+      "d": "Rabi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_004",
+    "question": "Kas, Jėzaus žodžiais, bus pažemintas?",
+    "options": {
+      "a": "Kas save žemina",
+      "b": "Kas save aukština",
+      "c": "Kas save laiko lygus",
+      "d": "Kas save laiko mažesnis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_005",
+    "question": "Kas, Jėzaus žodžiais, bus išaukštintas?",
+    "options": {
+      "a": "Kas save aukština",
+      "b": "Kas save žemina",
+      "c": "Kas save laiko lygus",
+      "d": "Kas save laiko mažesnis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_006",
+    "question": "Kas, Jėzaus žodžiais, užrakinate žmonėms dangaus karalystę?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Veidmainiai",
+      "d": "Aklieji vadai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_007",
+    "question": "Kas, Jėzaus žodžiais, padarote iš naujatikio pragaro vaiką?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Veidmainiai",
+      "d": "Aklieji vadai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_008",
+    "question": "Kas, Jėzaus žodžiais, duodate dešimtinę nuo mėtų, krapų ir kmynų, o pamirštate, kas svarbiausia Įstatyme?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Veidmainiai",
+      "d": "Aklieji vadai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_009",
+    "question": "Kas, Jėzaus žodžiais, valote taurės bei dubens išorę, o viduje esate pilni gobšumo ir nesivaldymo?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Veidmainiai",
+      "d": "Aklieji vadai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_010",
+    "question": "Kas, Jėzaus žodžiais, panašūs į pabaltintus antkapius, kurie iš paviršiaus gražiai atrodo, o viduje pilni numirėlių kaulų ir visokių nešvarumų?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Veidmainiai",
+      "d": "Aklieji vadai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_011",
+    "question": "Kas, Jėzaus žodžiais, statote pranašams antkapius, puošiate teisiųjų paminklus?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Veidmainiai",
+      "d": "Aklieji vadai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_012",
+    "question": "Kas, Jėzaus žodžiais, žudai pranašus ir užmuši akmenimis tuos, kurie pas tave siųsti?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Veidmainiai",
+      "d": "Aklieji vadai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  },
+  {
+    "id": "Mt_23_013",
+    "question": "Kas, Jėzaus žodžiais, bus jums palikti tušti?",
+    "options": {
+      "a": "Rašto aiškintojai",
+      "b": "Fariziejai",
+      "c": "Veidmainiai",
+      "d": "Aklieji vadai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_23"
+  }
+]

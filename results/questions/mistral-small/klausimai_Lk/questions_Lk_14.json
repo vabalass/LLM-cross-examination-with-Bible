@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Lk_14_001",
+    "question": "Kada Jėzus išgydė vandenlige sergančiojo?",
+    "options": {
+      "a": "Šeštadienį",
+      "b": "Šabo dieną",
+      "c": "Sekmadienį",
+      "d": "Pirmadienį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_002",
+    "question": "Ką Jėzus klausė Įstatymo mokytojų ir fariziejų?",
+    "options": {
+      "a": "Ar valia per šabą gydyti ar ne?",
+      "b": "Ar valia per šabą dirbti ar ne?",
+      "c": "Ar valia per šabą valgyti ar ne?",
+      "d": "Ar valia per šabą miegoti ar ne?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_003",
+    "question": "Ką Jėzus pasakė, jei kurio iš jūsų sūnus ar galvikas įkritų į šulinį?",
+    "options": {
+      "a": "Argi tučtuojau neištrauks jų šabo dieną?",
+      "b": "Argi tučtuojau neišgelbės jų šabo dieną?",
+      "c": "Argi tučtuojau neišgelbės jų kito dieno?",
+      "d": "Argi tučtuojau neištrauks jų kito dieno?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_004",
+    "question": "Ką Jėzus patarė, kai matė, kaip svečiai rinkosi pirmąsias vietas prie stalo?",
+    "options": {
+      "a": "Nesisėsk pirmoje vietoje",
+      "b": "Nesisėsk antroje vietoje",
+      "c": "Nesisėsk trečioje vietoje",
+      "d": "Nesisėsk paskutinėje vietoje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_005",
+    "question": "Ką Jėzus patarė, kai būsi pakviestas?",
+    "options": {
+      "a": "Verčiau eik ir sėskis paskutinėje vietoje",
+      "b": "Verčiau eik ir sėskis pirmoje vietoje",
+      "c": "Verčiau eik ir sėskis antroje vietoje",
+      "d": "Verčiau eik ir sėskis trečioje vietoje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_006",
+    "question": "Ką Jėzus patarė, kai rengiamas vaišes?",
+    "options": {
+      "a": "Verčiau pasikviesk vargšų, paliegėlių, luošų ir aklų",
+      "b": "Verčiau pasikviesk draugų, brolių, giminaičių ir turtingų kaimynų",
+      "c": "Verčiau pasikviesk tėvų, motinų, žmonų ir vaikų",
+      "d": "Verčiau pasikviesk karalių, kunigų, valdovų ir kunigaikščių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_007",
+    "question": "Ką Jėzus pasakė apie žmogų, kuris iškėlė didelę puotą ir pakvietė daug svečių?",
+    "options": {
+      "a": "Nė vienas iš anų kviestųjų žmonių neragaus mano vaišių",
+      "b": "Visi iš anų kviestųjų žmonių neragaus mano vaišių",
+      "c": "Kiekvienas iš anų kviestųjų žmonių neragaus mano vaišių",
+      "d": "Niekas iš anų kviestųjų žmonių neragaus mano vaišių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_008",
+    "question": "Ką Jėzus pasakė apie ateinančius pas jį?",
+    "options": {
+      "a": "Jei kas ateina pas mane ir nelaiko neapykantoje savo tėvo, motinos, žmonos, vaikų, brolių, seserų ir net savo gyvybės, – negali būti mano mokinys",
+      "b": "Jei kas ateina pas mane ir laiko neapykantoje savo tėvo, motinos, žmonos, vaikų, brolių, seserų ir net savo gyvybės, – negali būti mano mokinys",
+      "c": "Jei kas ateina pas mane ir nelaiko neapykantoje savo tėvo, motinos, žmonos, vaikų, brolių, seserų ir net savo turto, – negali būti mano mokinys",
+      "d": "Jei kas ateina pas mane ir laiko neapykantoje savo tėvo, motinos, žmonos, vaikų, brolių, seserų ir net savo turto, – negali būti mano mokinys"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_009",
+    "question": "Ką Jėzus patarė apie pastatant bokštą?",
+    "options": {
+      "a": "Pirmiau atsisėdęs neskaičiuoja išlaidų, kad įsitikintų, ar turės iš ko užbaigti",
+      "b": "Pirmiau atsisėdęs neskaičiuoja išlaidų, kad įsitikintų, ar turės iš ko pradėti",
+      "c": "Pirmiau atsisėdęs neskaičiuoja išlaidų, kad įsitikintų, ar turės iš ko pabaigti",
+      "d": "Pirmiau atsisėdęs neskaičiuoja išlaidų, kad įsitikintų, ar turės iš ko pradėti ir pabaigti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_010",
+    "question": "Ką Jėzus pasakė apie karalių, traukdamas į karą su kitu karaliumi?",
+    "options": {
+      "a": "Pirmiau atsisėdęs nesvarsto, ar, turėdamas dešimt tūkstančių kareivių, pajėgs stoti į kovą su tuo, kuris atsiveda dvidešimt tūkstančių",
+      "b": "Pirmiau atsisėdęs nesvarsto, ar, turėdamas penkis tūkstančius kareivių, pajėgs stoti į kovą su tuo, kuris atsiveda dešimt tūkstančių",
+      "c": "Pirmiau atsisėdęs nesvarsto, ar, turėdamas dešimt tūkstančių kareivių, pajėgs stoti į kovą su tuo, kuris atsiveda penkis tūkstančius",
+      "d": "Pirmiau atsisėdęs nesvarsto, ar, turėdamas penkis tūkstančius kareivių, pajėgs stoti į kovą su tuo, kuris atsiveda dešimt tūkstančių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_011",
+    "question": "Ką Jėzus pasakė apie druską?",
+    "options": {
+      "a": "Druska – geras daiktas. Bet jei druska netektų sūrumo, kuo ją reikėtų pasūdyti?",
+      "b": "Druska – blogas daiktas. Bet jei druska netektų sūrumo, kuo ją reikėtų pasūdyti?",
+      "c": "Druska – geras daiktas. Bet jei druska netektų sūrumo, kuo ją reikėtų pasūdyti ir išmesti?",
+      "d": "Druska – blogas daiktas. Bet jei druska netektų sūrumo, kuo ją reikėtų pasūdyti ir išmesti?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  }
+]

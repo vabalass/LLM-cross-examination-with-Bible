@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Jn_12_001",
+    "question": "Kur Jėzus atėjo šešioms dienoms belikus iki Velykų?",
+    "options": {
+      "a": "Jeruzalė",
+      "b": "Nazaretas",
+      "c": "Betanija",
+      "d": "Galilėja"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_002",
+    "question": "Kas tarnavo Jėzui vaišėse Betanijoje?",
+    "options": {
+      "a": "Marta",
+      "b": "Lozorius",
+      "c": "Marija",
+      "d": "Judas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_003",
+    "question": "Kas pasakė, kad tepalas galėtų būti parduotas ir pinigai atiduoti vargšams?",
+    "options": {
+      "a": "Pilypas",
+      "b": "Andriejus",
+      "c": "Judas Iskarijotas",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_004",
+    "question": "Kodėl Judas sakė, kad tepalas turėtų būti parduotas?",
+    "options": {
+      "a": "Jis rūpinosi vargšais",
+      "b": "Jis buvo vagis",
+      "c": "Jis norėjo pagerinti Jėzui",
+      "d": "Jis norėjo panaudoti pinigus šventei"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_005",
+    "question": "Ką Jėzus pasakė apie Mariją, kuri patepė jį tepalu?",
+    "options": {
+      "a": "Jis jai liepė niekada to nepadaryti",
+      "b": "Jis jai liepė padaryti tai dažniau",
+      "c": "Jis liepė palikti ją ramybėje",
+      "d": "Jis jai liepė parduoti tepalą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_006",
+    "question": "Kodėl daugybė žydų atsitraukė nuo aukštesniųjų kunigų?",
+    "options": {
+      "a": "Jie matė Jėzų padarius ženklus",
+      "b": "Jie matė Lozorių prikeltą iš numirusių",
+      "c": "Jie matė Jėzų vaikščiojančį ant asilaičio",
+      "d": "Jie matė Jėzų kalbančią su graikais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_007",
+    "question": "Ką žmonės šaukė, kai Jėzus ateina į Jeruzalę?",
+    "options": {
+      "a": "Hosana! Garbė tam, kuris ateina Viešpaties vardu!",
+      "b": "Hosana! Garbė Izraelio Karaliui!",
+      "c": "Hosana! Garbė tam, kuris ateina Izraelio Karaliu!",
+      "d": "Hosana! Garbė tam, kuris ateina Viešpaties vardu – Izraelio Karaliui!"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_008",
+    "question": "Ką Jėzus padarė, kai žmonės jį pasitikti?",
+    "options": {
+      "a": "Jis ėjo pėsčiomis",
+      "b": "Jis važinėjo asilaičio",
+      "c": "Jis važinėjo arklių",
+      "d": "Jis važinėjo karve"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_009",
+    "question": "Kodėl graikai kreipėsi į Pilypą?",
+    "options": {
+      "a": "Jie norėjo pamatyti Jėzų",
+      "b": "Jie norėjo kalbėti su Jėzumi",
+      "c": "Jie norėjo gydymo",
+      "d": "Jie norėjo išmokti iš Jėzaus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_010",
+    "question": "Ką Jėzus sakė apie kviečių grūdą?",
+    "options": {
+      "a": "Jis turi kristi į žemę ir apmirti",
+      "b": "Jis turi augti ir duoti vaisių",
+      "c": "Jis turi būti saugomas ir augintas",
+      "d": "Jis turi būti panaudotas kaip maistas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_011",
+    "question": "Ką Jėzus sakė apie tarnavimą jam?",
+    "options": {
+      "a": "Kas tarnaus jam, tas bus atleistas",
+      "b": "Kas tarnaus jam, tas bus pagerbtas",
+      "c": "Kas tarnaus jam, tas bus apdovanotas",
+      "d": "Kas tarnaus jam, tas bus išmestas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_012",
+    "question": "Ką Jėzus sakė apie savo sielą?",
+    "options": {
+      "a": "Jis sakė, kad jo siela yra ramu",
+      "b": "Jis sakė, kad jo siela yra sukrėsta",
+      "c": "Jis sakė, kad jo siela yra laiminga",
+      "d": "Jis sakė, kad jo siela yra maloni"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_013",
+    "question": "Ką Jėzus paprašė Tėvo?",
+    "options": {
+      "a": "Jis paprašė Tėvo gelbėti jį",
+      "b": "Jis paprašė Tėvo pašlovinti savo vardą",
+      "c": "Jis paprašė Tėvo išgelbėti pasaulį",
+      "d": "Jis paprašė Tėvo atiduoti jam galybę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_014",
+    "question": "Ką žmonės sakė, kai išgirdo balsą iš dangaus?",
+    "options": {
+      "a": "Jie sakė, kad tai buvo angelas",
+      "b": "Jie sakė, kad tai buvo Jėzus",
+      "c": "Jie sakė, kad tai buvo Tėvas",
+      "d": "Jie sakė, kad tai buvo Šventasis Dvasia"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_015",
+    "question": "Ką Jėzus sakė apie pasaulio kunigaikštį?",
+    "options": {
+      "a": "Jis sakė, kad pasaulio kunigaikštis bus išmestas laukan",
+      "b": "Jis sakė, kad pasaulio kunigaikštis bus pašlovintas",
+      "c": "Jis sakė, kad pasaulio kunigaikštis bus atleistas",
+      "d": "Jis sakė, kad pasaulio kunigaikštis bus apdovanotas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  },
+  {
+    "id": "Jn_12_016",
+    "question": "Ką Jėzus sakė apie šviesą?",
+    "options": {
+      "a": "Jis sakė, kad šviesa bus tarp jų amžinai",
+      "b": "Jis sakė, kad šviesa bus tarp jų neilgai",
+      "c": "Jis sakė, kad šviesa bus tarp jų iki paskutinio dienos",
+      "d": "Jis sakė, kad šviesa bus tarp jų iki paskutinio teismo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_12"
+  }
+]

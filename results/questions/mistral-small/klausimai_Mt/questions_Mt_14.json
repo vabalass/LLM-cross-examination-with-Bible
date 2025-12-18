@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mt_14_001",
+    "question": "Kas pasakė, kad Jonas Krikštytojas prisikėlė iš numirusių?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Erodo tarnai",
+      "c": "Erodiada",
+      "d": "Petras"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_002",
+    "question": "Kodėl Erodas įkalino Joną Krikštytoją?",
+    "options": {
+      "a": "Jonas apkaltino jį valdžios pasinaudojimu",
+      "b": "Jonas sakė, kad Erodas neturėtų Erodiados",
+      "c": "Jonas sakė, kad Erodas yra blogis",
+      "d": "Jonas sakė, kad Erodas turi atsisakyti sosto"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_003",
+    "question": "Kas pasakė Erodiados dukrai, ko prašyti Erodą?",
+    "options": {
+      "a": "Erodiada",
+      "b": "Erodas",
+      "c": "Jonas Krikštytojas",
+      "d": "Jėzus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_004",
+    "question": "Kiek kepaliukų duonos ir žuvų Jėzus padaugino, kad maitintų minią?",
+    "options": {
+      "a": "Penkis kepaliukus duonos ir dvi žuvis",
+      "b": "Septynis kepaliukus duonos ir keturias žuvis",
+      "c": "Tris kepaliukus duonos ir dvi žuvis",
+      "d": "Dešimt kepaliukų duonos ir penkias žuvis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_005",
+    "question": "Kiek žmonių valgo po Jėzaus padaugintą maistą?",
+    "options": {
+      "a": "Apie penkis tūkstančius vyrų, be moterų ir vaikų",
+      "b": "Apie keturis tūkstančius žmonių",
+      "c": "Apie šešis tūkstančius žmonių",
+      "d": "Apie tris tūkstančius žmonių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_006",
+    "question": "Kas Jėzus liepė mokiniams padaryti, kai minia norėjo valgyti?",
+    "options": {
+      "a": "Išsiųsti žmones į kaimus nusipirkti maisto",
+      "b": "Duoti žmonėms valgyti",
+      "c": "Surinkti pinigus ir nusipirkti maisto",
+      "d": "Maldautis, kad Dievas paduotų maistą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_007",
+    "question": "Kas Jėzus padarė, kai pamatė minią po duonos padauginimo?",
+    "options": {
+      "a": "Liepė mokiniams sėsti į valtį ir nuplaukti į kitą krantą",
+      "b": "Liepė mokiniams surinkti likučius",
+      "c": "Liepė mokiniams maldautis",
+      "d": "Liepė mokiniams pasakoti apie Dievo karalystę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_008",
+    "question": "Kas Jėzus padarė, kai buvo vienas į kalne?",
+    "options": {
+      "a": "Maldos",
+      "b": "Maldos ir malšino vėjus",
+      "c": "Maldos ir gydė ligonius",
+      "d": "Maldos ir mokė mokinius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_009",
+    "question": "Kas Jėzus padarė, kai mokiniai pamatė jį einant vandeniu?",
+    "options": {
+      "a": "Jie nusigando ir iš baimės ėmė šaukti",
+      "b": "Jie jautėsi saugūs ir malonūs",
+      "c": "Jie pradėjo melstis",
+      "d": "Jie pradėjo giedoti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_010",
+    "question": "Kas Jėzus pasakė mokiniams, kai jie pamatė jį einant vandeniu?",
+    "options": {
+      "a": "Drąsos! Tai aš. Nebijokite!",
+      "b": "Maldykitės ir jūs galėsite eiti vandeniu",
+      "c": "Jūs turite tikėti, kad galėsite eiti vandeniu",
+      "d": "Jūs turite būti drąsūs ir jūs galėsite eiti vandeniu"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_011",
+    "question": "Kas Jėzus pasakė Petrui, kai šis pradėjo skęsti?",
+    "options": {
+      "a": "Silpnatiki, ko suabejojai?!",
+      "b": "Maldykis ir tu galėsi eiti vandeniu",
+      "c": "Tikėk ir tu galėsi eiti vandeniu",
+      "d": "Drąsos ir tu galėsi eiti vandeniu"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  },
+  {
+    "id": "Mt_14_012",
+    "question": "Kas Jėzus padarė, kai jis ir Petras įlipo į valtį?",
+    "options": {
+      "a": "Vėjas nurimo",
+      "b": "Vėjas pradėjo pūsti stipriau",
+      "c": "Vėjas pradėjo pūsti iš kitos pusės",
+      "d": "Vėjas pradėjo pūsti iš aukščiau"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_14"
+  }
+]

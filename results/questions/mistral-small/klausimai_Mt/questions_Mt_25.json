@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mt_25_001",
+    "question": "Kiek mergaičių buvo paikosios ir kiek protingosios?",
+    "options": {
+      "a": "Visos mergaitės buvo paikosios",
+      "b": "Visos mergaitės buvo protingosios",
+      "c": "Penkios mergaitės buvo paikosios, penkios protingosios",
+      "d": "Trys mergaitės buvo paikosios, septynios protingosios"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_002",
+    "question": "Ką pasiėmė protingosios mergaitės?",
+    "options": {
+      "a": "Tik žibintus",
+      "b": "Tik alyvos",
+      "c": "Žibintus ir alyvos",
+      "d": "Tik induus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_003",
+    "question": "Ką pasakė paikosios mergaitės protingosioms?",
+    "options": {
+      "a": "Duokite mums alyvos, nes mūsų žibintai gęsta",
+      "b": "Duokite mums žibintus, nes mūsų alyva gęsta",
+      "c": "Duokite mums induus, nes mūsų žibintai gęsta",
+      "d": "Duokite mums žibintus ir alyvą, nes mūsų indu gęsta"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_004",
+    "question": "Ką pasakė protingosios mergaitės paikosiosioms?",
+    "options": {
+      "a": "Duokite mums alyvos, nes mūsų žibintai gęsta",
+      "b": "Duokite mums žibintus, nes mūsų alyva gęsta",
+      "c": "Duokite mums induus, nes mūsų žibintai gęsta",
+      "d": "Verčiau nueikite pas prekiautojus ir nusipirkite"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_005",
+    "question": "Ką pasakė jaunikis paikosiosioms mergaitėms?",
+    "options": {
+      "a": "Aš jūsų pažįstu",
+      "b": "Aš jūsų nepažįstu",
+      "c": "Aš jūsų priimau",
+      "d": "Aš jūsų atleidžiau"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_006",
+    "question": "Kiek talentų gavo tas tarnas, kuris paslėpė pinigus?",
+    "options": {
+      "a": "Penkis talentus",
+      "b": "Du talentus",
+      "c": "Vieną talentą",
+      "d": "Dešimt talentų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_007",
+    "question": "Ką pasakė šeimininkas tarnui, kuris paslėpė talentą?",
+    "options": {
+      "a": "Gerai, šaunusis ir ištikimasis tarne!",
+      "b": "Blogasis tarne, tinginy!",
+      "c": "Gerai, šaunusis tarne!",
+      "d": "Blogasis tarne, tinginy, bet aš tau atleidžiau"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_008",
+    "question": "Ką šeimininkas pasakė, kad reikėjo padaryti su tarnu, kuris paslėpė talentą?",
+    "options": {
+      "a": "Atimkite iš jo talentą ir atiduokite tam, kuris turi dešimt talentų",
+      "b": "Atimkite iš jo talentą ir atiduokite tam, kuris turi penkis talentus",
+      "c": "Atimkite iš jo talentą ir atiduokite tam, kuris turi du talentus",
+      "d": "Atimkite iš jo talentą ir atiduokite tam, kuris turi vieną talentą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_009",
+    "question": "Ką šeimininkas pasakė apie tarną, kuris paslėpė talentą?",
+    "options": {
+      "a": "Šitą netikusį tarną išmeskite į tamsybes",
+      "b": "Šitą netikusį tarną išmeskite į šviesą",
+      "c": "Šitą netikusį tarną išmeskite į dangų",
+      "d": "Šitą netikusį tarną išmeskite į žemę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_010",
+    "question": "Ką Žmogaus Sūnus atliks, kai ateis savo šlovėje?",
+    "options": {
+      "a": "Atsisės savo garbės soste",
+      "b": "Atsisės savo karaliaus soste",
+      "c": "Atsisės savo dievo soste",
+      "d": "Atsisės savo angelų soste"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_011",
+    "question": "Ką Žmogaus Sūnus atliks su visų tautų žmonėmis?",
+    "options": {
+      "a": "Perskirs juos, kaip piemuo atskiria avis nuo ožių",
+      "b": "Perskirs juos, kaip piemuo atskiria ožius nuo avių",
+      "c": "Perskirs juos, kaip piemuo atskiria avis nuo avis",
+      "d": "Perskirs juos, kaip piemuo atskiria ožius nuo ožių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_012",
+    "question": "Ką Žmogaus Sūnus pasakys stovinčiosioms dešinėje?",
+    "options": {
+      "a": "Eikite šalin nuo manęs, prakeiktieji",
+      "b": "Ateikite, mano Tėvo palaimintieji",
+      "c": "Eikite į amžinąją ugnį",
+      "d": "Ateikite į amžinąją ugnį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_013",
+    "question": "Ką Žmogaus Sūnus pasakys stovinčiosioms kairėje?",
+    "options": {
+      "a": "Ateikite, mano Tėvo palaimintieji",
+      "b": "Eikite šalin nuo manęs, prakeiktieji",
+      "c": "Ateikite į amžinąją ugnį",
+      "d": "Eikite į amžinąją ugnį, kuri prirengta velniui ir jo angelams"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_014",
+    "question": "Ką Žmogaus Sūnus pasakys, kai teisieji klaus, kada jie jį matė ir padarė gerą?",
+    "options": {
+      "a": "Iš tiesų sakau jums, kiek kartų tai padarėte vienam iš šitų mažiausiųjų mano brolių, man padarėte",
+      "b": "Iš tiesų sakau jums, kiek kartų tai padarėte vienam iš šitų didžiųjų mano brolių, man padarėte",
+      "c": "Iš tiesų sakau jums, kiek kartų tai padarėte vienam iš šitų mažiausiųjų mano seserims, man padarėte",
+      "d": "Iš tiesų sakau jums, kiek kartų tai padarėte vienam iš šitų didžiųjų mano seserims, man padarėte"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  },
+  {
+    "id": "Mt_25_015",
+    "question": "Ką Žmogaus Sūnus pasakys, kai kiti klaus, kada jie jį matė ir nepadarė gerą?",
+    "options": {
+      "a": "Iš tiesų sakau jums, kiek kartų taip nepadarėte vienam iš šitų mažiausiųjų, nė man nepadarėte",
+      "b": "Iš tiesų sakau jums, kiek kartų taip nepadarėte vienam iš šitų didžiųjų, nė man nepadarėte",
+      "c": "Iš tiesų sakau jums, kiek kartų taip nepadarėte vienam iš šitų mažiausiųjų mano brolių, nė man nepadarėte",
+      "d": "Iš tiesų sakau jums, kiek kartų taip nepadarėte vienam iš šitų didžiųjų mano brolių, nė man nepadarėte"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_25"
+  }
+]

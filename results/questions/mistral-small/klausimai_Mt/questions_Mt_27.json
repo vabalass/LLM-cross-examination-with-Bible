@@ -1,0 +1,288 @@
+[
+  {
+    "id": "Mt_27_001",
+    "question": "Kas nusprendė, kad Jėzus turi būti nužudytas?",
+    "options": {
+      "a": "Romos kariškiai",
+      "b": "Aukštieji kunigai ir tautos seniūnai",
+      "c": "Jėzaus mokiniai",
+      "d": "Žydų karalius Herodas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_002",
+    "question": "Kiek pinigų gavo Judas išduodamas Jėzų?",
+    "options": {
+      "a": "Trisdešimt auksinių",
+      "b": "Trisdešimt sidabrinių",
+      "c": "Trisdešimt varinių",
+      "d": "Trisdešimt žydinių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_003",
+    "question": "Ką padarė Judas po to, kai išdavė Jėzų?",
+    "options": {
+      "a": "Nusivylė ir pasikėlė",
+      "b": "Nusivylė ir pasikėlė",
+      "c": "Nusivylė ir pasikėlė",
+      "d": "Nusivylė ir pasikėlė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_004",
+    "question": "Ką aukštieji kunigai padarė su pinigais, kuriuos gavo Judas?",
+    "options": {
+      "a": "Įdėjo į šventyklos iždą",
+      "b": "Nupirko puodžiaus dirvą",
+      "c": "Padovanojo valdytojui Pilotui",
+      "d": "Panaudojo šventyklos remontui"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_005",
+    "question": "Ką klausė valdytojas Pilotas Jėzų?",
+    "options": {
+      "a": "Ar tu esi Romos imperatorius?",
+      "b": "Ar tu esi žydų karalius?",
+      "c": "Ar tu esi pranašas?",
+      "d": "Ar tu esi Dievo Sūnus?"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_006",
+    "question": "Ką atsakė Jėzus valdytojui Pilotui?",
+    "options": {
+      "a": "Nei neigė, nei patvirtino",
+      "b": "Neigė",
+      "c": "Patvirtino",
+      "d": "Klausė kitą klausimą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_007",
+    "question": "Ką padarė valdytojas Pilotas, kai žmonės šaukė, kad Jėzus būtų nukryžiuotas?",
+    "options": {
+      "a": "Įsakė jį paleisti",
+      "b": "Įsakė jį nukryžiuoti",
+      "c": "Įsakė jį išvaryti iš miesto",
+      "d": "Įsakė jį išklausyti dar kartą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_008",
+    "question": "Ką padarė valdytojo kareiviai su Jėzumi?",
+    "options": {
+      "a": "Jie jį vainikavo erškėčiais ir tyčiodamiesi klūpčiojo prieš jį",
+      "b": "Jie jį paleido",
+      "c": "Jie jį išklausė",
+      "d": "Jie jį išvarymo į kitas žemes"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_009",
+    "question": "Kas buvo priverstas nešioti Jėzaus kryžių?",
+    "options": {
+      "a": "Simonas iš Kirėnės",
+      "b": "Judas Iškariotis",
+      "c": "Jėzaus mokinys Petras",
+      "d": "Romos kariškis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_010",
+    "question": "Ką davė Jėzui gerti, prikalus prie kryžiaus?",
+    "options": {
+      "a": "Vandens",
+      "b": "Vyno",
+      "c": "Gertivyno, sumaišyto su tulžimi",
+      "d": "Alaus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_011",
+    "question": "Ką padarė Jėzus, girdęs žmonių tyčias?",
+    "options": {
+      "a": "Jis juos malšino",
+      "b": "Jis juos malšino",
+      "c": "Jis juos malšino",
+      "d": "Jis juos malšino"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_012",
+    "question": "Ką padarė šventyklos uždanga, kai Jėzus mirė?",
+    "options": {
+      "a": "Perplyšo pusiau nuo viršaus iki apačios",
+      "b": "Nuožulnio",
+      "c": "Nuožulnio",
+      "d": "Nuožulnio"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_013",
+    "question": "Ką padarė žemė ir uolos, kai Jėzus mirė?",
+    "options": {
+      "a": "Žemė drebėjo, o uolos ėmė skeldėti",
+      "b": "Žemė drebėjo, o uolos ėmė skeldėti",
+      "c": "Žemė drebėjo, o uolos ėmė skeldėti",
+      "d": "Žemė drebėjo, o uolos ėmė skeldėti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_014",
+    "question": "Ką padarė šimtininkas ir kiti su juo sergintys, pamatę žemės drebėjimą ir visa, kas dėjosi?",
+    "options": {
+      "a": "Jie išsigando ir sakė: „Tikrai šitas buvo Dievo Sūnus!“",
+      "b": "Jie išsigando ir sakė: „Tikrai šitas buvo Dievo Sūnus!“",
+      "c": "Jie išsigando ir sakė: „Tikrai šitas buvo Dievo Sūnus!“",
+      "d": "Jie išsigando ir sakė: „Tikrai šitas buvo Dievo Sūnus!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_015",
+    "question": "Kas atvyko pas valdytoją Pilotą po Prisirengimo dienos?",
+    "options": {
+      "a": "Aukštieji kunigai ir fariziejai",
+      "b": "Jėzaus mokiniai",
+      "c": "Romos kariškiai",
+      "d": "Žydų karalius Herodas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_016",
+    "question": "Ką prašė aukštieji kunigai ir fariziejai valdytojo Piloto?",
+    "options": {
+      "a": "Įsakyti saugoti kapą, kad mokiniai neišvogtų Jėzaus kūno",
+      "b": "Įsakyti paleisti Jėzų",
+      "c": "Įsakyti išklausyti Jėzaus mokinius",
+      "d": "Įsakyti išvaryti Jėzaus mokinius iš miesto"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_017",
+    "question": "Ką padarė aukštieji kunigai ir fariziejai, kai valdytojas Pilotas sutiko saugoti kapą?",
+    "options": {
+      "a": "Jie paženklino antspaudu akmenį ir pastatė sargybą",
+      "b": "Jie paženklino antspaudu akmenį ir pastatė sargybą",
+      "c": "Jie paženklino antspaudu akmenį ir pastatė sargybą",
+      "d": "Jie paženklino antspaudu akmenį ir pastatė sargybą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_018",
+    "question": "Kas buvo prie kapo, kai Jėzus buvo laidojamas?",
+    "options": {
+      "a": "Marija Magdalietė ir kita Marija",
+      "b": "Jėzaus mokiniai",
+      "c": "Aukštieji kunigai ir fariziejai",
+      "d": "Romos kariškiai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_019",
+    "question": "Kas nusprendė, kad Jėzus turi būti nužudytas?",
+    "options": {
+      "a": "Romos kariškiai",
+      "b": "Aukštieji kunigai ir tautos seniūnai",
+      "c": "Jėzaus mokiniai",
+      "d": "Žydų karalius Herodas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_020",
+    "question": "Kiek pinigų gavo Judas išduodamas Jėzų?",
+    "options": {
+      "a": "Trisdešimt auksinių",
+      "b": "Trisdešimt sidabrinių",
+      "c": "Trisdešimt varinių",
+      "d": "Trisdešimt žydinių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_021",
+    "question": "Ką padarė Judas po to, kai išdavė Jėzų?",
+    "options": {
+      "a": "Nusivylė ir pasikėlė",
+      "b": "Nusivylė ir pasikėlė",
+      "c": "Nusivylė ir pasikėlė",
+      "d": "Nusivylė ir pasikėlė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  },
+  {
+    "id": "Mt_27_022",
+    "question": "Ką aukštieji kunigai padarė su pinigais, kuriuos gavo Judas?",
+    "options": {
+      "a": "Įdėjo į šventyklos iždą",
+      "b": "Nupirko puodžiaus dirvą",
+      "c": "Padovanojo valdytojui Pilotui",
+      "d": "Panaudojo šventyklos remontui"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_27"
+  }
+]

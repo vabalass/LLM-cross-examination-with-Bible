@@ -1,0 +1,249 @@
+[
+  {
+    "id": "Mt_13_001",
+    "question": "Kur Jėzus sėdėjo, kalbėdamas palyginimais?",
+    "options": {
+      "a": "Ant kalno",
+      "b": "Ant ežero kranto",
+      "c": "Ant kalvės",
+      "d": "Ant lauko"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_002",
+    "question": "Kas sulesė grūdus, kurie nukrito prie kelio?",
+    "options": {
+      "a": "Žmonės",
+      "b": "Paukščiai",
+      "c": "Vėjai",
+      "d": "Žvėrys"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_003",
+    "question": "Kodėl Jėzus kalbėjo palyginimais?",
+    "options": {
+      "a": "Kad būtų lengviau suprasti",
+      "b": "Kad paslėptų žodžius nuo tų, kurie nesupranta",
+      "c": "Kad būtų gražiau",
+      "d": "Kad būtų trumpesnis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_004",
+    "question": "Kas yra pasėlys ant uolų?",
+    "options": {
+      "a": "Tas, kuris nesupranta žodžio",
+      "b": "Tas, kuris priima žodį su džiaugsmu, bet neturi šaknų",
+      "c": "Tas, kuris klauso žodžio, bet šio pasaulio rūpesčiai nustelbia žodį",
+      "d": "Tas, kuris girdi ir supranta žodį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_005",
+    "question": "Kas yra pasėlys tarp erškėčių?",
+    "options": {
+      "a": "Tas, kuris nesupranta žodžio",
+      "b": "Tas, kuris priima žodį su džiaugsmu, bet neturi šaknų",
+      "c": "Tas, kuris klauso žodžio, bet šio pasaulio rūpesčiai nustelbia žodį",
+      "d": "Tas, kuris girdi ir supranta žodį"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_006",
+    "question": "Kas yra pasėlys geroje žemėje?",
+    "options": {
+      "a": "Tas, kuris nesupranta žodžio",
+      "b": "Tas, kuris priima žodį su džiaugsmu, bet neturi šaknų",
+      "c": "Tas, kuris klauso žodžio, bet šio pasaulio rūpesčiai nustelbia žodį",
+      "d": "Tas, kuris girdi ir supranta žodį"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_007",
+    "question": "Kas pasėjo rauges kviečiuose?",
+    "options": {
+      "a": "Šeimininkas",
+      "b": "Tarnai",
+      "c": "Priešas",
+      "d": "Žmonės"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_008",
+    "question": "Kas yra garstyčios grūdelis?",
+    "options": {
+      "a": "Mažiausias iš visų medžių",
+      "b": "Mažiausias iš visų žuvų",
+      "c": "Mažiausias iš visų sėklų",
+      "d": "Mažiausias iš visų žmonių"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_009",
+    "question": "Kas yra raugas maišyme?",
+    "options": {
+      "a": "Gera sėkla",
+      "b": "Piktasis",
+      "c": "Velnias",
+      "d": "Raugas, kurį moteris įmaišė miltų"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_010",
+    "question": "Kas yra sėjantysis gerą sėklą?",
+    "options": {
+      "a": "Žmogaus Sūnus",
+      "b": "Tarnai",
+      "c": "Priešas",
+      "d": "Žmonės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_011",
+    "question": "Kas yra dirva?",
+    "options": {
+      "a": "Dangaus karalystė",
+      "b": "Pasaulis",
+      "c": "Žmonės",
+      "d": "Angelai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_012",
+    "question": "Kas yra raugės?",
+    "options": {
+      "a": "Gera sėkla",
+      "b": "Piktojo vaikai",
+      "c": "Žmogaus Sūnus",
+      "d": "Angelai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_013",
+    "question": "Kas yra pjūtis?",
+    "options": {
+      "a": "Pasaulio pabaiga",
+      "b": "Pasaulio pradžia",
+      "c": "Pasaulio vidurys",
+      "d": "Pasaulio vidurys"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_014",
+    "question": "Kas yra pjovėjai?",
+    "options": {
+      "a": "Žmonės",
+      "b": "Angelai",
+      "c": "Tarnai",
+      "d": "Priešai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_015",
+    "question": "Kas yra paslėptas lobis?",
+    "options": {
+      "a": "Gera sėkla",
+      "b": "Dangaus karalystė",
+      "c": "Lobis, kurį žmogus atrado dirvoje",
+      "d": "Perlas, kurį pirklys atrado"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_016",
+    "question": "Kas yra brangus perlas?",
+    "options": {
+      "a": "Gera sėkla",
+      "b": "Dangaus karalystė",
+      "c": "Lobis, kurį žmogus atrado dirvoje",
+      "d": "Perlas, kurį pirklys atrado"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_017",
+    "question": "Kas yra tinklas?",
+    "options": {
+      "a": "Gera sėkla",
+      "b": "Dangaus karalystė",
+      "c": "Tinklas, kurį žmogus meta į ežerą",
+      "d": "Perlas, kurį pirklys atrado"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_018",
+    "question": "Kas yra Rašto aiškintojas?",
+    "options": {
+      "a": "Tas, kuris aiškina Raštus",
+      "b": "Tas, kuris aiškina palyginimus",
+      "c": "Tas, kuris aiškina dangaus karalystės paslaptis",
+      "d": "Tas, kuris aiškina pasaulio paslaptis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  },
+  {
+    "id": "Mt_13_019",
+    "question": "Kodėl Jėzus nedarė tiek daug stebuklų savo tėviškėje?",
+    "options": {
+      "a": "Nebuvo pakankamai žmonių",
+      "b": "Žmonės jo nepagyrė",
+      "c": "Dėl jų netikėjimo",
+      "d": "Nebuvo pakankamai laiko"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_13"
+  }
+]

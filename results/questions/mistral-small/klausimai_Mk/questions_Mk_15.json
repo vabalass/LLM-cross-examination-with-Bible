@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mk_15_001",
+    "question": "Kas buvo Jėzaus kaltintojas?",
+    "options": {
+      "a": "Aukštieji kunigai",
+      "b": "Seniūnai",
+      "c": "Rašto aiškintojai",
+      "d": "Visa teismo taryba"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_002",
+    "question": "Ką Pilotas klausė Jėzų?",
+    "options": {
+      "a": "Ar tu esi žydų karalius?",
+      "b": "Ar tu esi Dievo Sūnus?",
+      "c": "Ar tu esi Mesijas?",
+      "d": "Ar tu esi iš Galilėjos?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_003",
+    "question": "Ką Jėzus atsakė Pilotui?",
+    "options": {
+      "a": "Taip yra, kaip sakai",
+      "b": "Ne, aš esu tik žmogus",
+      "c": "Aš esi teisus",
+      "d": "Jūs nesate manęs supratę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_004",
+    "question": "Kas buvo Barabas?",
+    "options": {
+      "a": "Kareivis",
+      "b": "Maištininkas",
+      "c": "Aukštasis kunigas",
+      "d": "Rašto aiškintojas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_005",
+    "question": "Ką minia prašė Piloto?",
+    "options": {
+      "a": "Paleisti Jėzų",
+      "b": "Paleisti Barabą",
+      "c": "Paleisti abu",
+      "d": "Paleisti nė vieną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_006",
+    "question": "Ką Pilotas padarė su Jėzumi?",
+    "options": {
+      "a": "Paleido jį",
+      "b": "Nuplakdino ir atidavė nukryžiuoti",
+      "c": "Išsiuntė į Galilėją",
+      "d": "Išsiuntė į Jeruzalę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_007",
+    "question": "Kas buvo Simonas Kirėnietis?",
+    "options": {
+      "a": "Jėzaus brolis",
+      "b": "Grįžtantis iš laukų praeivis",
+      "c": "Aukštasis kunigas",
+      "d": "Rašto aiškintojas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_008",
+    "question": "Kur Jėzus buvo nukryžiuotas?",
+    "options": {
+      "a": "Golgotoje",
+      "b": "Jeruzalėje",
+      "c": "Galilėjoje",
+      "d": "Arimatėjoje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_009",
+    "question": "Ką praeiviai sakė Jėzui?",
+    "options": {
+      "a": "Gelbėkis pats, nuženk nuo kryžiaus!",
+      "b": "Tu esi Mesijas!",
+      "c": "Tu esi Dievo Sūnus!",
+      "d": "Tu esi žydų karalius!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_010",
+    "question": "Ką aukštieji kunigai sakė apie Jėzų?",
+    "options": {
+      "a": "Kitus gelbėdavo, o pats negali išsigelbėti",
+      "b": "Jis yra Dievo Sūnus",
+      "c": "Jis yra Mesijas",
+      "d": "Jis yra žydų karalius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_011",
+    "question": "Ką Jėzus šaukė prieš mirdamas?",
+    "options": {
+      "a": "Eloji, Eloji, lema sabachtani?",
+      "b": "Abaip, Abaip, kur esi?",
+      "c": "Dieve, Dieve, kodėl mane palieka?",
+      "d": "Tėve, Tėve, kodėl mane apleidai?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_012",
+    "question": "Kas buvo šimtininkas?",
+    "options": {
+      "a": "Kareivis",
+      "b": "Aukštasis kunigas",
+      "c": "Rašto aiškintojas",
+      "d": "Pilotas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_013",
+    "question": "Kas buvo Juozapas iš Arimatėjos?",
+    "options": {
+      "a": "Aukštasis kunigas",
+      "b": "Garbingas teismo tarybos narys",
+      "c": "Rašto aiškintojas",
+      "d": "Pilotas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_014",
+    "question": "Ką Juozapas padarė su Jėzaus kūnu?",
+    "options": {
+      "a": "Nupirko drobulę, nuėmė Jėzų nuo kryžiaus, įvyniojo į drobulę, paguldė jį kapo rūsyje",
+      "b": "Paleido jį laisvėje",
+      "c": "Nukryžiuojo jį vėl",
+      "d": "Išsiuntė jį į Galilėją"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_015",
+    "question": "Kas matė, kur Jėzus buvo palaidotas?",
+    "options": {
+      "a": "Marija Magdalietė ir Marija, Jozės motina",
+      "b": "Aukštieji kunigai",
+      "c": "Rašto aiškintojai",
+      "d": "Pilotas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_15"
+  }
+]

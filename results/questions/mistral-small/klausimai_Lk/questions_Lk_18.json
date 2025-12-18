@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Lk_18_001",
+    "question": "Kas yra pagrindinis palyginimo, kurį pasakė Jėzus, veikėjas?",
+    "options": {
+      "a": "Fariziejus",
+      "b": "Teisėjas",
+      "c": "Muitininkas",
+      "d": "Didikas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_002",
+    "question": "Ką prašė našlė teisėjo?",
+    "options": {
+      "a": "Apginti jos teises",
+      "b": "Duoti pinigų",
+      "c": "Išgelbėti nuo skriaudiko",
+      "d": "Padėti rasti darbą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_003",
+    "question": "Kodėl teisėjas nusprendė apginti našlės teises?",
+    "options": {
+      "a": "Nuožmumui",
+      "b": "Bijo Dievo",
+      "c": "Nuožmumui",
+      "d": "Norėjo gauti pinigų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_004",
+    "question": "Ką Jėzus sakė apie Dievo apgynimą?",
+    "options": {
+      "a": "Dievas niekada neapgins",
+      "b": "Dievas apgins tik naktimis",
+      "c": "Dievas apgins savo išrinktųjų",
+      "d": "Dievas apgins tik dienas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_005",
+    "question": "Kas melstėsi šventyklos palyginime?",
+    "options": {
+      "a": "Fariziejus ir muitininkas",
+      "b": "Teisėjas ir našlė",
+      "c": "Didikas ir vaikas",
+      "d": "Petras ir Jėzus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_006",
+    "question": "Ką fariziejus sakė savo maldoje?",
+    "options": {
+      "a": "Dėkojo už savo gerumą",
+      "b": "Prašė atleidimo",
+      "c": "Prašė pinigų",
+      "d": "Prašė sveikatos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_007",
+    "question": "Ką muitininkas sakė savo maldoje?",
+    "options": {
+      "a": "Dėkojo už savo gerumą",
+      "b": "Prašė atleidimo",
+      "c": "Prašė pinigų",
+      "d": "Prašė sveikatos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_008",
+    "question": "Kas, Jėzaus žodžiais, nuėjo į namus nuteisintas?",
+    "options": {
+      "a": "Fariziejus",
+      "b": "Muitininkas",
+      "c": "Teisėjas",
+      "d": "Didikas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_009",
+    "question": "Ką Jėzus sakė apie vaikus?",
+    "options": {
+      "a": "Jie negali ateiti pas mane",
+      "b": "Jie yra Dievo karalystės pavyzdys",
+      "c": "Jie negali melstis",
+      "d": "Jie negali būti išgelbėti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_010",
+    "question": "Ką didikas paklausė Jėzaus?",
+    "options": {
+      "a": "Ką turiu daryti, kad laimėčiau amžinąjį gyvenimą?",
+      "b": "Ką turiu daryti, kad taptu turtingas?",
+      "c": "Ką turiu daryti, kad taptu žinomas?",
+      "d": "Ką turiu daryti, kad taptu sėkmingas?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_011",
+    "question": "Ką Jėzus pasakė didikui, kad jis turi padaryti?",
+    "options": {
+      "a": "Parduoti viską ir išdalyti vargšams",
+      "b": "Rasti darbą",
+      "c": "Mokytis gerai",
+      "d": "Keliauti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_012",
+    "question": "Ką Jėzus sakė apie turtuolius?",
+    "options": {
+      "a": "Jie lengvai pateks į Dievo karalystę",
+      "b": "Jie niekada nepateks į Dievo karalystę",
+      "c": "Jie turi būti geri",
+      "d": "Jie turi būti maloningi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_013",
+    "question": "Ką Petras sakė Jėzui?",
+    "options": {
+      "a": "Mes viską palikę, nuėjome paskui tave",
+      "b": "Mes noriame turtų",
+      "c": "Mes noriame būti žinomi",
+      "d": "Mes noriame būti sėkmingi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_014",
+    "question": "Ką Jėzus pranašavo apie save?",
+    "options": {
+      "a": "Jis bus atiduotas pagonims, išjuoktas, paniekintas ir apspjaudytas, bet trečią dieną prisikels",
+      "b": "Jis bus atiduotas pagonims ir nužudys",
+      "c": "Jis bus atiduotas pagonims ir prisikels pirmą dieną",
+      "d": "Jis bus atiduotas pagonims ir prisikels antrojoje dieną"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  }
+]

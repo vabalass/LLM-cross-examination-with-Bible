@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Mt_12_001",
+    "question": "Ką darė Jėzaus mokiniai per šabą, už ką jie buvo apkaltinti?",
+    "options": {
+      "a": "Šoko",
+      "b": "Skindė varpus ir valgydavo",
+      "c": "Gydė sergančiuosius",
+      "d": "Maldavosi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_002",
+    "question": "Ką Jėzus atsakė fariziejams, kai jie apkaltino jo mokinius?",
+    "options": {
+      "a": "Jie turi laukti iki šv. dienos",
+      "b": "Jie turi maldonei",
+      "c": "Jie turi laukti iki vėlyvosios",
+      "d": "Jie turi laukti iki vėlyvosios"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_003",
+    "question": "Ką Jėzus sakė apie šabą?",
+    "options": {
+      "a": "Šaba yra laikas maldonei",
+      "b": "Šaba yra laikas poilsiauti",
+      "c": "Žmogaus Sūnus yra šabo Viešpats",
+      "d": "Šaba yra laikas valgyti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_004",
+    "question": "Ką Jėzus atsakė, kai jie paklausė ar leistina gydyti per šabą?",
+    "options": {
+      "a": "Ne, nes tai pažeidžia šabo",
+      "b": "Taip, nes žmogus yra brangesnis už avį",
+      "c": "Ne, nes tai pažeidžia šabo",
+      "d": "Taip, nes tai yra dievo valia"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_005",
+    "question": "Ką Jėzus tarė apie nuodėmes ir piktžodžiavimą?",
+    "options": {
+      "a": "Kiekviena nuodėmė bus atleista",
+      "b": "Piktžodžiavimas Dvasiai nebus atleistas",
+      "c": "Kiekviena nuodėmė bus atleista",
+      "d": "Piktžodžiavimas Dvasiai bus atleistas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_006",
+    "question": "Ką Jėzus sakė apie medį ir jo vaisius?",
+    "options": {
+      "a": "Medis pažįstamas iš žiedų",
+      "b": "Medis pažįstamas iš lapų",
+      "c": "Medis pažįstamas iš vaisių",
+      "d": "Medis pažįstamas iš šaknų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_007",
+    "question": "Ką Jėzus sakė apie žodžius?",
+    "options": {
+      "a": "Žodžiai nereikšmingi",
+      "b": "Žodžiai bus atleisti",
+      "c": "Pagal žodžius būsi išteisintas",
+      "d": "Žodžiai nereikšmingi"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_008",
+    "question": "Ką Jėzus atsakė, kai jie reikalavo parodyti ženklą?",
+    "options": {
+      "a": "Jis parodytų jums ženklo",
+      "b": "Jis parodytų jums ženklo",
+      "c": "Jis parodytų jums ženklo",
+      "d": "Ne bus duota kito ženklo, tik pranašo Jonos ženklas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_009",
+    "question": "Ką Jėzus sakė apie Ninevės gyventojus?",
+    "options": {
+      "a": "Jie bus atleisti",
+      "b": "Jie bus pasmerkti",
+      "c": "Jie bus atleisti",
+      "d": "Jie bus pasmerkti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_010",
+    "question": "Ką Jėzus sakė apie Pietų šalies karalienę?",
+    "options": {
+      "a": "Jie bus atleisti",
+      "b": "Jie bus pasmerkti",
+      "c": "Jie bus atleisti",
+      "d": "Jie bus pasmerkti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_011",
+    "question": "Ką Jėzus sakė apie netyroją dvasią?",
+    "options": {
+      "a": "Ji niekada nesugrįžta",
+      "b": "Ji sugrįžta su septyniais blogesniais",
+      "c": "Ji sugrįžta su septyniais geriais",
+      "d": "Ji niekada nesugrįžta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_012",
+    "question": "Ką Jėzus sakė apie savo giminaičius?",
+    "options": {
+      "a": "Jie yra jo šeima",
+      "b": "Jie yra jo draugai",
+      "c": "Kiekvienas, kas tik vykdo mano dangiškojo Tėvo valią, yra man ir brolis, ir sesuo, ir motina",
+      "d": "Jie yra jo draugai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_013",
+    "question": "Ką Jėzus sakė apie šėtoną?",
+    "options": {
+      "a": "Jis yra galiaus",
+      "b": "Jis yra silpnas",
+      "c": "Jis yra galiaus",
+      "d": "Jis yra silpnas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_014",
+    "question": "Ką Jėzus sakė apie Dievo karalystę?",
+    "options": {
+      "a": "Ji yra toli",
+      "b": "Ji yra artima",
+      "c": "Ji yra toli",
+      "d": "Ji yra artima"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_015",
+    "question": "Ką Jėzus sakė apie šventąją Dvasią?",
+    "options": {
+      "a": "Ji yra silpna",
+      "b": "Ji yra stiprūs",
+      "c": "Ji yra silpna",
+      "d": "Ji yra stiprūs"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  },
+  {
+    "id": "Mt_12_016",
+    "question": "Ką Jėzus sakė apie žmogaus sūnų?",
+    "options": {
+      "a": "Jis yra silpnas",
+      "b": "Jis yra stiprūs",
+      "c": "Jis yra silpnas",
+      "d": "Jis yra stiprūs"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_12"
+  }
+]

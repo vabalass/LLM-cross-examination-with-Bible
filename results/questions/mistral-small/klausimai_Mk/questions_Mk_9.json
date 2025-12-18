@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Mk_9_001",
+    "question": "Kas pasirodė Jėzui atsimainymo metu?",
+    "options": {
+      "a": "Abraomas ir Izaokas",
+      "b": "Mozė ir Elijas",
+      "c": "Petras ir Jokūbas",
+      "d": "Jonas ir Jokūbas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_002",
+    "question": "Kas iš mokinčių norėjo pastatyti palapines atsimainymo metu?",
+    "options": {
+      "a": "Petras",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Judas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_003",
+    "question": "Kas kalbėjo iš debesies atsimainymo metu?",
+    "options": {
+      "a": "Mozė",
+      "b": "Elijas",
+      "c": "Dievas",
+      "d": "Angelas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_004",
+    "question": "Kas klausė Jėzų apie Elijo atėjimą?",
+    "options": {
+      "a": "Petras",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Mokiniai"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_005",
+    "question": "Kas atvedė epileptiką pas Jėzų?",
+    "options": {
+      "a": "Tėvas",
+      "b": "Motina",
+      "c": "Mokiniai",
+      "d": "Rašto aiškintojai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_006",
+    "question": "Kas išvarė nebylės dvasią iš epileptiko?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Jėzus",
+      "c": "Petras",
+      "d": "Jokūbas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_007",
+    "question": "Kas klausė Jėzų, kodėl jie negalėjo išvaryti dvasią?",
+    "options": {
+      "a": "Mokinių tėvai",
+      "b": "Rašto aiškintojai",
+      "c": "Mokinių motinos",
+      "d": "Mokiniai"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_008",
+    "question": "Ką Jėzus sakė apie Žmogaus Sūnų?",
+    "options": {
+      "a": "Jis bus atiduotas į žmonių rankas ir nužudys jį, bet po trijų dienų prisikels",
+      "b": "Jis bus atiduotas į žmonių rankas ir nužudys jį, bet po septynių dienų prisikels",
+      "c": "Jis bus atiduotas į žmonių rankas ir nužudys jį, bet po keturių dienų prisikels",
+      "d": "Jis bus atiduotas į žmonių rankas ir nužudys jį, bet po penkių dienų prisikels"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_009",
+    "question": "Kas ginčijosi apie tai, kuris iš jų didžiausias?",
+    "options": {
+      "a": "Mokinių tėvai",
+      "b": "Rašto aiškintojai",
+      "c": "Mokinių motinos",
+      "d": "Mokiniai"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_010",
+    "question": "Kas sakė, kad mes matėme vieną tokį, kuris nevaikščioja su mumis, bet tavo vardu išvarinėja demonus?",
+    "options": {
+      "a": "Petras",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Judas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_011",
+    "question": "Kas sakė, kad verčiau tau sužalotam įeiti į gyvenimą, negu su abiem rankom patekti į pragarą?",
+    "options": {
+      "a": "Petras",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_012",
+    "question": "Kas sakė, kad verčiau tau vienakiui įeiti į Dievo karalystę, negu su abiem akim būti įmestam į pragarą?",
+    "options": {
+      "a": "Petras",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_013",
+    "question": "Kas sakė, kad kiekvienas bus pasūdytas ugnimi?",
+    "options": {
+      "a": "Petras",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_014",
+    "question": "Kas sakė, kad druska – geras daiktas, bet jei druska nustotų sūrumo, kuo ją pasūdysi?",
+    "options": {
+      "a": "Petras",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_015",
+    "question": "Kas sakė, kad turėkite savyje druskos ir taikiai sugyvenkite tarp savęs?",
+    "options": {
+      "a": "Petras",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_016",
+    "question": "Kas sakė, kad kas papiktintų vieną iš šitų tikinčių mažutėlių, tam būtų daug geriau, jeigu jam užkabintų ant kaklo asilo sukamų girnų akmenį ir įmestų į jūrą?",
+    "options": {
+      "a": "Petras",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_9"
+  }
+]

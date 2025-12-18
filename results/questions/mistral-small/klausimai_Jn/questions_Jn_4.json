@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Jn_4_001",
+    "question": "Kodėl Jėzus paliko Judėją?",
+    "options": {
+      "a": "Nuožmiai norėjo apsilankyti Samarijoje.",
+      "b": "Norėjo pasitraukti nuo fariziejų.",
+      "c": "Jis turėjo eiti per Samariją.",
+      "d": "Norėjo susitikti su samariete."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_002",
+    "question": "Kas buvo Jokūbo šulinys?",
+    "options": {
+      "a": "Vandens šaltinis.",
+      "b": "Miesto vandens saugykla.",
+      "c": "Šulinys, kurį Jokūbas davė savo sūnui Juozapui.",
+      "d": "Šulinys, kurį Jėzus sukūrė."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_003",
+    "question": "Kodėl samarietė moteris nusistebėjo, kai Jėzus paprašė jos duoti jam gerti?",
+    "options": {
+      "a": "Jėzus buvo žydas.",
+      "b": "Jėzus buvo nuskendęs.",
+      "c": "Jėzus buvo samarietas.",
+      "d": "Jėzus buvo moteris."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_004",
+    "question": "Ką Jėzus pasakė samarietei apie vandenį, kurį jis gali duoti?",
+    "options": {
+      "a": "Jis bus brangus.",
+      "b": "Jis bus šaltas.",
+      "c": "Jis bus gyvojo vandens.",
+      "d": "Jis bus šventas."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_005",
+    "question": "Ką Jėzus pasakė samarietei apie jos vyrus?",
+    "options": {
+      "a": "Jis žinojo, kad ji turi penkis vyrus.",
+      "b": "Jis žinojo, kad jos vyras yra miręs.",
+      "c": "Jis žinojo, kad jos vyras yra gyvas.",
+      "d": "Jis žinojo, kad jos vyras yra samarietas."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_006",
+    "question": "Ką Jėzus pasakė samarietei apie garbinimą?",
+    "options": {
+      "a": "Jie turi garbinti Dievą ant kalno.",
+      "b": "Jie turi garbinti Dievą Jeruzalėje.",
+      "c": "Jie turi garbinti Dievą dvasia ir tiesa.",
+      "d": "Jie turi garbinti Dievą šventykloje."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_007",
+    "question": "Ką samarietė moteris pasakė žmonėms apie Jėzų?",
+    "options": {
+      "a": "Jis yra pranašas.",
+      "b": "Jis yra Mesijas.",
+      "c": "Jis yra Dievo Pateptasis.",
+      "d": "Jis yra Kristus."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_008",
+    "question": "Ką Jėzus pasakė savo mokiniams apie savo maistą?",
+    "options": {
+      "a": "Jis yra vynas.",
+      "b": "Jis yra duona.",
+      "c": "Jis yra vykdyti Dievo valią.",
+      "d": "Jis yra vanduo."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_009",
+    "question": "Ką Jėzus pasakė apie pjūtis?",
+    "options": {
+      "a": "Pjūtis ateis per keturis mėnesius.",
+      "b": "Pjūtis ateis per keturis mėnesius.",
+      "c": "Pjūtis ateis per keturis mėnesius.",
+      "d": "Pjūtis ateis per keturis mėnesius."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_010",
+    "question": "Ką Jėzus pasakė apie sėjėją ir pjovėją?",
+    "options": {
+      "a": "Vienas pasėja, kitas nupjauna.",
+      "b": "Vienas pasėja, kitas nupjauna.",
+      "c": "Vienas pasėja, kitas nupjauna.",
+      "d": "Vienas pasėja, kitas nupjauna."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_011",
+    "question": "Kodėl samariečiai įtikėjo Jėzui?",
+    "options": {
+      "a": "Dėl moters liudijimo.",
+      "b": "Dėl Jėzaus stebuklų.",
+      "c": "Dėl Jėzaus pamokslų.",
+      "d": "Dėl Jėzaus išganymo."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_012",
+    "question": "Kodėl Jėzus išvyko iš Samarijos?",
+    "options": {
+      "a": "Norėjo apsilankyti Kafarnaume.",
+      "b": "Norėjo apsilankyti Kanoje.",
+      "c": "Norėjo apsilankyti Galilėjoje.",
+      "d": "Norėjo apsilankyti Judėjoje."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_013",
+    "question": "Ką Jėzus pasakė apie pranašus?",
+    "options": {
+      "a": "Pranašai gerbiami savo tėviškėje.",
+      "b": "Pranašai negerbiami savo tėviškėje.",
+      "c": "Pranašai gerbiami visur.",
+      "d": "Pranašai negerbiami niekur."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_014",
+    "question": "Ką Jėzus padarė Kafarnaume?",
+    "options": {
+      "a": "Išgydė karaliaus valdininko sūnų.",
+      "b": "Išgydė karaliaus valdininko dukterį.",
+      "c": "Išgydė karaliaus valdininko žmoną.",
+      "d": "Išgydė karaliaus valdininko tėvą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_015",
+    "question": "Ką Jėzus pasakė valdininkui?",
+    "options": {
+      "a": "Tavo sūnus gyvas.",
+      "b": "Tavo sūnus miręs.",
+      "c": "Tavo sūnus išgydys.",
+      "d": "Tavo sūnus bus išgydytas."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_016",
+    "question": "Ką valdininkas padarė, išgirdęs Jėzaus žodžius?",
+    "options": {
+      "a": "Patikėjo ir iškeliavo.",
+      "b": "Nepatikėjo ir iškeliavo.",
+      "c": "Patikėjo ir liko.",
+      "d": "Nepatikėjo ir liko."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_017",
+    "question": "Ką tarnai pranešė valdininkui?",
+    "options": {
+      "a": "Jų sūnus miręs.",
+      "b": "Jų sūnus gyvas.",
+      "c": "Jų sūnus išgydytas.",
+      "d": "Jų sūnus bus išgydytas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  },
+  {
+    "id": "Jn_4_018",
+    "question": "Ką valdininkas patyrė?",
+    "options": {
+      "a": "Jis patyrė, kad sūnus miręs.",
+      "b": "Jis patyrė, kad sūnus gyvas.",
+      "c": "Jis patyrė, kad sūnus išgydytas.",
+      "d": "Jis patyrė, kad sūnus bus išgydytas."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_4"
+  }
+]

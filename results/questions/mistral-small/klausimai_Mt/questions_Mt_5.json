@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Mt_5_001",
+    "question": "Kas yra palaimintų vargdieniodvasių atlygis?",
+    "options": {
+      "a": "Jie bus paguosti",
+      "b": "Jie paveldės žemę",
+      "c": "Jie bus vadinami Dievo vaikais",
+      "d": "Jų yra dangaus karalystė"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_002",
+    "question": "Kas yra palaimintų liūdintų atlygis?",
+    "options": {
+      "a": "Jie bus paguosti",
+      "b": "Jie paveldės žemę",
+      "c": "Jie bus vadinami Dievo vaikais",
+      "d": "Jų yra dangaus karalystė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_003",
+    "question": "Kas yra palaimintų romiečių atlygis?",
+    "options": {
+      "a": "Jie bus paguosti",
+      "b": "Jie paveldės žemę",
+      "c": "Jie bus vadinami Dievo vaikais",
+      "d": "Jų yra dangaus karalystė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_004",
+    "question": "Kas yra palaimintų tyraširdžių atlygis?",
+    "options": {
+      "a": "Jie bus paguosti",
+      "b": "Jie paveldės žemę",
+      "c": "Jie regės Dievą",
+      "d": "Jų yra dangaus karalystė"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_005",
+    "question": "Kas yra palaimintų taikdarių atlygis?",
+    "options": {
+      "a": "Jie bus paguosti",
+      "b": "Jie paveldės žemę",
+      "c": "Jie bus vadinami Dievo vaikais",
+      "d": "Jų yra dangaus karalystė"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_006",
+    "question": "Kas yra palaimintų persekiojamų dėl teisumo atlygis?",
+    "options": {
+      "a": "Jie bus paguosti",
+      "b": "Jie paveldės žemę",
+      "c": "Jie bus vadinami Dievo vaikais",
+      "d": "Jų yra dangaus karalystė"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_007",
+    "question": "Kas yra palaimintų, kai dėl Jėzaus jus niekina ir persekioja?",
+    "options": {
+      "a": "Jie bus paguosti",
+      "b": "Jie paveldės žemę",
+      "c": "Jie bus vadinami Dievo vaikais",
+      "d": "Jų yra dangaus karalystė"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_008",
+    "question": "Ką Jėzus sakė apie druską?",
+    "options": {
+      "a": "Jūs žemės druska. Jei druska išsidvoktų, ji niekam netinka",
+      "b": "Jūs žemės druska. Jei druska išsidvoktų, ji bus naudinga",
+      "c": "Jūs žemės druska. Jei druska išsidvoktų, ji bus saldžia",
+      "d": "Jūs žemės druska. Jei druska išsidvoktų, ji bus malonė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_009",
+    "question": "Ką Jėzus sakė apie šviesą?",
+    "options": {
+      "a": "Jūs pasaulio šviesa. Neįmanoma nuslėpti miesto, kuris pastatytas ant kalno",
+      "b": "Jūs pasaulio šviesa. Neįmanoma nuslėpti miesto, kuris pastatytas ant kalno",
+      "c": "Jūs pasaulio šviesa. Neįmanoma nuslėpti miesto, kuris pastatytas ant kalno",
+      "d": "Jūs pasaulio šviesa. Neįmanoma nuslėpti miesto, kuris pastatytas ant kalno"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_010",
+    "question": "Ką Jėzus sakė apie Įstatymą?",
+    "options": {
+      "a": "Aš atėjęs panaikinti Įstatymą",
+      "b": "Aš atėjęs pakeisti Įstatymą",
+      "c": "Aš atėjęs įvykdyti Įstatymą",
+      "d": "Aš atėjęs išplėsti Įstatymą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_011",
+    "question": "Ką Jėzus sakė apie pyktį?",
+    "options": {
+      "a": "Jei kas pyksta ant savo brolio, turi atsakyti teisme",
+      "b": "Jei kas pyksta ant savo brolio, turi atsakyti policijai",
+      "c": "Jei kas pyksta ant savo brolio, turi atsakyti teisėjui",
+      "d": "Jei kas pyksta ant savo brolio, turi atsakyti tėvams"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_012",
+    "question": "Ką Jėzus sakė apie svetimavimą?",
+    "options": {
+      "a": "Kiekvienas, kuris geidulingai žvelgia į moterį, jau svetimauja savo širdimi",
+      "b": "Kiekvienas, kuris geidulingai žvelgia į moterį, jau svetimauja savo akimis",
+      "c": "Kiekvienas, kuris geidulingai žvelgia į moterį, jau svetimauja savo galva",
+      "d": "Kiekvienas, kuris geidulingai žvelgia į moterį, jau svetimauja savo rankomis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_013",
+    "question": "Ką Jėzus sakė apie skyrybas?",
+    "options": {
+      "a": "Kas atleidžia žmoną, tegul išduoda jai skyrybų raštą",
+      "b": "Kas atleidžia žmoną, tegul išduoda jai skyrybų raštą",
+      "c": "Kas atleidžia žmoną, tegul išduoda jai skyrybų raštą",
+      "d": "Kas atleidžia žmoną, tegul išduoda jai skyrybų raštą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_014",
+    "question": "Ką Jėzus sakė apie priesaikas?",
+    "options": {
+      "a": "Verčiau jūs sakykite: 'Taip', jei taip, 'Ne', jei ne",
+      "b": "Verčiau jūs sakykite: 'Taip', jei taip, 'Ne', jei ne",
+      "c": "Verčiau jūs sakykite: 'Taip', jei taip, 'Ne', jei ne",
+      "d": "Verčiau jūs sakykite: 'Taip', jei taip, 'Ne', jei ne"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_015",
+    "question": "Ką Jėzus sakė apie priešų meilę?",
+    "options": {
+      "a": "Mylėkite savo priešus ir melskitės už savo persekiotojus",
+      "b": "Mylėkite savo priešus ir melskitės už savo persekiotojus",
+      "c": "Mylėkite savo priešus ir melskitės už savo persekiotojus",
+      "d": "Mylėkite savo priešus ir melskitės už savo persekiotojus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  },
+  {
+    "id": "Mt_5_016",
+    "question": "Ką Jėzus sakė apie tobulumą?",
+    "options": {
+      "a": "Būkite tokie tobuli, kaip jūsų dangiškasis Tėvas yra tobulas",
+      "b": "Būkite tokie tobuli, kaip jūsų dangiškasis Tėvas yra tobulas",
+      "c": "Būkite tokie tobuli, kaip jūsų dangiškasis Tėvas yra tobulas",
+      "d": "Būkite tokie tobuli, kaip jūsų dangiškasis Tėvas yra tobulas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_5"
+  }
+]

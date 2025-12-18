@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Jn_16_001",
+    "question": "Kuo, anot Jėzaus, kai kurie jo persekiotojai tikės, atliekantys šventą pareigą Dievui?",
+    "options": {
+      "a": "Kad jie medžioja gyvūnus.",
+      "b": "Kad jie naikina erezijos.",
+      "c": "Kad jie žudo jo sekėjus.",
+      "d": "Kad jie atlieka tikslią ritualinę praktiką."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_002",
+    "question": "Ką Jėzus sako mokinimas, kodėl jie turėtų liūdėti dėl jo iškeliavimo?",
+    "options": {
+      "a": "Nes jie negalės jo daugiau matyti.",
+      "b": "Nes jie negalės jo daugiau klausinėti.",
+      "c": "Nes jie pasigirs vieniši.",
+      "d": "Nes jie negaus jo mokymų."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_003",
+    "question": "Kas, anot Jėzaus, ateis pas juos, jei jis neiškeliaus?",
+    "options": {
+      "a": "Tėvas.",
+      "b": "Globėjas.",
+      "c": "Šventasis.",
+      "d": "Mokytojas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_004",
+    "question": "Kaip Tiesos Dvasia parodys pasauliui, kad jis klysta?",
+    "options": {
+      "a": "Per maldas ir pasninkus.",
+      "b": "Per stebuklus ir ženklus.",
+      "c": "Dėl nuodėmės, teisybės ir teismo.",
+      "d": "Per pamokslus ir giesmes."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_005",
+    "question": "Dėl ko pasaulis klysta, anot Jėzaus kalbant apie teisybę?",
+    "options": {
+      "a": "Kad Jėzus nemyli pasaulio.",
+      "b": "Kad Jėzus eina pas Tėvą ir jie jo daugiau neberegės.",
+      "c": "Kad Jėzus neteisingai interpretavo įstatymą.",
+      "d": "Kad Jėzus nesiunčia jiems naujo pranašo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_006",
+    "question": "Kas, anot Jėzaus, yra pasmerktas, kai kalbama apie teismą?",
+    "options": {
+      "a": "Kiekvienas pasaulio žmogus.",
+      "b": "Nuodėmė.",
+      "c": "Šio pasaulio kunigaikštis.",
+      "d": "Netikintis."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_007",
+    "question": "Ką darys Tiesos Dvasia, kai ateis?",
+    "options": {
+      "a": "Ji kalbės iš savęs.",
+      "b": "Ji ves juos į tiesos pilnatvę.",
+      "c": "Ji pasmerks pasaulį.",
+      "d": "Ji pašlovins save pačią."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_008",
+    "question": "Ką mokiniai klausinėja vieni kitus, kai Jėzus sako: „Prabėgs valandėlė – ir manęs neregėsit, ir dar valandėlė – ir vėl mane pamatysit“?",
+    "options": {
+      "a": "Ką reiškia „valandėlė“ ir kur jis eina.",
+      "b": "Kodėl jis juos palieka.",
+      "c": "Ar jie galės jį vėl matyti.",
+      "d": "Kodėl jis kalba palyginimais."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_009",
+    "question": "Kaip Jėzus apibūdina mokinio liūdesį, palygindamas jį su gimdančios moters patirtimi?",
+    "options": {
+      "a": "Liūdesys bus trumpalaikis.",
+      "b": "Liūdesys pavirs džiaugsmu.",
+      "c": "Liūdesys bus nepakeliamas.",
+      "d": "Liūdesys bus užmirštas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_010",
+    "question": "Ką Jėzus žada, kad įvyks tą dieną, kai jo džiaugsmas bus neatimamas?",
+    "options": {
+      "a": "Kad jie nieko neklausinės.",
+      "b": "Kad jie ras ramybę.",
+      "c": "Kad pasaulis juos palaikys.",
+      "d": "Kad jie atliks didžius darbus."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_011",
+    "question": "Kodėl, anot Jėzaus, Tėvas juos myli?",
+    "options": {
+      "a": "Nes jie yra pasaulio kunigaikščio nugalėtojai.",
+      "b": "Nes jie klausia jo vardu.",
+      "c": "Nes jie pamilo Jėzų ir įtikėjo, kad jis yra iš Dievo atėjęs.",
+      "d": "Nes jie nekalba palyginimais."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_16"
+  }
+]

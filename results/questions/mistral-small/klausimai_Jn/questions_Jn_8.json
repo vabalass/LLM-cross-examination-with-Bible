@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Jn_8_001",
+    "question": "Kur Jėzus mokė žmones?",
+    "options": {
+      "a": "Alyvų kalne",
+      "b": "Šventykloje",
+      "c": "Iždyne",
+      "d": "Namuose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_002",
+    "question": "Ką Rašto aiškintojai ir fariziejai atvedė prie Jėzaus?",
+    "options": {
+      "a": "Vaiką",
+      "b": "Sugautą nusidėjėlę moterį",
+      "c": "Sugautą vagį",
+      "d": "Sugautą žmogų, kuris apgavo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_003",
+    "question": "Ką Mozė mums Įstatyme yra liepęs daryti su tokiomis moterimis?",
+    "options": {
+      "a": "Išvaryti iš miesto",
+      "b": "Užmušti akmenimis",
+      "c": "Nubausti kalėjime",
+      "d": "Nubausti baudžiamaisiais darbais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_004",
+    "question": "Ką Jėzus rašė ant žemės?",
+    "options": {
+      "a": "Rašto aiškintojų ir fariziejų vardus",
+      "b": "Moteries nuodėmes",
+      "c": "Raštus",
+      "d": "Nieką"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_005",
+    "question": "Ką Jėzus sakė apie akmenimis sviedimą?",
+    "options": {
+      "a": "Kas iš jūsų be nuodėmės, tegu pirmas sviedžia į ją akmenį",
+      "b": "Kas iš jūsų be nuodėmės, tegu pirmas sviedžia į ją akmenį",
+      "c": "Kas iš jūsų be nuodėmės, tegu pirmas sviedžia į ją akmenį",
+      "d": "Kas iš jūsų be nuodėmės, tegu pirmas sviedžia į ją akmenį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_006",
+    "question": "Ką Jėzus sakė moteriai?",
+    "options": {
+      "a": "Eik ir daugiau nebenusidėk",
+      "b": "Eik ir daugiau nesidėk",
+      "c": "Eik ir daugiau nedaryk",
+      "d": "Eik ir daugiau nemelag"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_007",
+    "question": "Ką Jėzus sakė apie save?",
+    "options": {
+      "a": "Aš – pasaulio šviesa",
+      "b": "Aš – pasaulio tamsa",
+      "c": "Aš – pasaulio tėvas",
+      "d": "Aš – pasaulio sūnus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_008",
+    "question": "Ką fariziejai sakė apie Jėzaus liudijimą?",
+    "options": {
+      "a": "Tavo liudijimas yra tikras",
+      "b": "Tu pats apie save liudiji, – tavo liudijimas netikras",
+      "c": "Tu pats apie save liudiji, – tavo liudijimas tikras",
+      "d": "Tu pats apie save liudiji, – tavo liudijimas neįdomus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_009",
+    "question": "Ką Jėzus sakė apie save ir Tėvą?",
+    "options": {
+      "a": "Aš ir mane siuntęs Tėvas",
+      "b": "Aš ir mane siuntęs Sūnus",
+      "c": "Aš ir mane siuntęs Dievas",
+      "d": "Aš ir mane siuntęs Šventasis Dvasia"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_010",
+    "question": "Ką Jėzus sakė apie žydus?",
+    "options": {
+      "a": "Jūs esate iš pažemių, o aš esu iš aukštybės",
+      "b": "Jūs esate iš aukštybės, o aš esu iš pažemių",
+      "c": "Jūs esate iš šio pasaulio, o aš – ne iš šio pasaulio",
+      "d": "Jūs esate iš šio pasaulio, o aš – iš šio pasaulio"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_011",
+    "question": "Ką Jėzus sakė apie nuodėmę?",
+    "options": {
+      "a": "Jeigu jūs netikėsite, kad Aš Esu, – jūs numirsite savo nuodėmėse",
+      "b": "Jeigu jūs netikėsite, kad Aš Esu, – jūs numirsite savo nuodėmėse",
+      "c": "Jeigu jūs netikėsite, kad Aš Esu, – jūs numirsite savo nuodėmėse",
+      "d": "Jeigu jūs netikėsite, kad Aš Esu, – jūs numirsite savo nuodėmėse"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_012",
+    "question": "Ką Jėzus sakė apie Tėvą?",
+    "options": {
+      "a": "Mano Siuntėjas yra su manimi; jis nepaliko manęs vieno",
+      "b": "Mano Siuntėjas yra su manimi; jis paliko manęs vieno",
+      "c": "Mano Siuntėjas yra su manimi; jis nepaliko manęs vieno",
+      "d": "Mano Siuntėjas yra su manimi; jis nepaliko manęs vieno"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_013",
+    "question": "Ką Jėzus sakė įtikėjusiems jį žydams?",
+    "options": {
+      "a": "Jei laikysitės mano mokslo, jūs iš tikro būsite mano mokiniai; jūs pažinsite tiesą, ir tiesa padarys jus laisvus",
+      "b": "Jei laikysitės mano mokslo, jūs iš tikro būsite mano mokiniai; jūs pažinsite tiesą, ir tiesa padarys jus laisvus",
+      "c": "Jei laikysitės mano mokslo, jūs iš tikro būsite mano mokiniai; jūs pažinsite tiesą, ir tiesa padarys jus laisvus",
+      "d": "Jei laikysitės mano mokslo, jūs iš tikro būsite mano mokiniai; jūs pažinsite tiesą, ir tiesa padarys jus laisvus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_014",
+    "question": "Ką žydai atsakė Jėzui?",
+    "options": {
+      "a": "Mes esame Abraomo palikuonys ir niekada niekam nevergavome. Kaipgi tu sakai: 'Tapsite laisvi'?",
+      "b": "Mes esame Abraomo palikuonys ir niekada niekam nevergavome. Kaipgi tu sakai: 'Tapsite laisvi'?",
+      "c": "Mes esame Abraomo palikuonys ir niekada niekam nevergavome. Kaipgi tu sakai: 'Tapsite laisvi'?",
+      "d": "Mes esame Abraomo palikuonys ir niekada niekam nevergavome. Kaipgi tu sakai: 'Tapsite laisvi'?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_015",
+    "question": "Ką Jėzus sakė apie nuodėmę?",
+    "options": {
+      "a": "Kiekvienas, kas daro nuodėmę, yra nuodėmės vergas",
+      "b": "Kiekvienas, kas daro nuodėmę, yra nuodėmės vergas",
+      "c": "Kiekvienas, kas daro nuodėmę, yra nuodėmės vergas",
+      "d": "Kiekvienas, kas daro nuodėmę, yra nuodėmės vergas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_016",
+    "question": "Ką Jėzus sakė apie Sūnų?",
+    "options": {
+      "a": "Jei tad Sūnus jus išvaduos, tai būsite iš tiesų laisvi",
+      "b": "Jei tad Sūnus jus išvaduos, tai būsite iš tiesų laisvi",
+      "c": "Jei tad Sūnus jus išvaduos, tai būsite iš tiesų laisvi",
+      "d": "Jei tad Sūnus jus išvaduos, tai būsite iš tiesų laisvi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_017",
+    "question": "Ką Jėzus sakė apie žydus?",
+    "options": {
+      "a": "Jūs norite mane nužudyti, nes mano žodis netarpsta jumyse",
+      "b": "Jūs norite mane nužudyti, nes mano žodis netarpsta jumyse",
+      "c": "Jūs norite mane nužudyti, nes mano žodis netarpsta jumyse",
+      "d": "Jūs norite mane nužudyti, nes mano žodis netarpsta jumyse"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  },
+  {
+    "id": "Jn_8_018",
+    "question": "Ką Jėzus sakė apie Tėvą?",
+    "options": {
+      "a": "Jūsų tėvas – velnias, ir jūs pasišovė tenkinti jo užgaidas",
+      "b": "Jūsų tėvas – velnias, ir jūs pasišovė tenkinti jo užgaidas",
+      "c": "Jūsų tėvas – velnias, ir jūs pasišovė tenkinti jo užgaidas",
+      "d": "Jūsų tėvas – velnias, ir jūs pasišovė tenkinti jo užgaidas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_8"
+  }
+]

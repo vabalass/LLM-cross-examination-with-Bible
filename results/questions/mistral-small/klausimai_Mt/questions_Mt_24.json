@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Mt_24_001",
+    "question": "Kas pasakė: „Ar matote visa tai? Iš tiesų sakau jums: čia neliks akmens ant akmens, viskas bus išgriauta“?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Jėzus",
+      "c": "Praniškas",
+      "d": "Šventykla"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_002",
+    "question": "Kur Jėzus pasakė: „Žiūrėkite, kad jūsų kas nesuklaidintų“?",
+    "options": {
+      "a": "Šventykloje",
+      "b": "Alyvų kalne",
+      "c": "Jeruzalėje",
+      "d": "Naujajame mieste"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_003",
+    "question": "Kas bus atiduotas kankinti ir žudyti?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Mokiniai",
+      "c": "Praniškai",
+      "d": "Tautos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_004",
+    "question": "Kas bus paskelbta visame pasaulyje?",
+    "options": {
+      "a": "Karalystės Evangelija",
+      "b": "Naujoji Testamentas",
+      "c": "Jėzaus pranašystės",
+      "d": "Mokinių pasakojimai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_005",
+    "question": "Kas turi bėgti į kalnus, kai pamatys pranašo Danieliaus paskelbtą naikinimo pabaisą?",
+    "options": {
+      "a": "Visos tautos",
+      "b": "Kas bus Judėjoje",
+      "c": "Praniškai",
+      "d": "Mokiniai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_006",
+    "question": "Kas bus sutrumpintos dėl išrinktųjų?",
+    "options": {
+      "a": "Tos dienos",
+      "b": "Tos valandos",
+      "c": "Tos minutes",
+      "d": "Tos sekundės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_007",
+    "question": "Kas bus atiduoti kankinti ir žudyti?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Mokiniai",
+      "c": "Praniškai",
+      "d": "Tautos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_008",
+    "question": "Kas bus paskelbta visame pasaulyje?",
+    "options": {
+      "a": "Karalystės Evangelija",
+      "b": "Naujoji Testamentas",
+      "c": "Jėzaus pranašystės",
+      "d": "Mokinių pasakojimai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_009",
+    "question": "Kas turi bėgti į kalnus, kai pamatys pranašo Danieliaus paskelbtą naikinimo pabaisą?",
+    "options": {
+      "a": "Visos tautos",
+      "b": "Kas bus Judėjoje",
+      "c": "Praniškai",
+      "d": "Mokiniai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_010",
+    "question": "Kas bus sutrumpintos dėl išrinktųjų?",
+    "options": {
+      "a": "Tos dienos",
+      "b": "Tos valandos",
+      "c": "Tos minutes",
+      "d": "Tos sekundės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_011",
+    "question": "Kas bus atiduoti kankinti ir žudyti?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Mokiniai",
+      "c": "Praniškai",
+      "d": "Tautos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_012",
+    "question": "Kas bus paskelbta visame pasaulyje?",
+    "options": {
+      "a": "Karalystės Evangelija",
+      "b": "Naujoji Testamentas",
+      "c": "Jėzaus pranašystės",
+      "d": "Mokinių pasakojimai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_013",
+    "question": "Kas turi bėgti į kalnus, kai pamatys pranašo Danieliaus paskelbtą naikinimo pabaisą?",
+    "options": {
+      "a": "Visos tautos",
+      "b": "Kas bus Judėjoje",
+      "c": "Praniškai",
+      "d": "Mokiniai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_014",
+    "question": "Kas bus sutrumpintos dėl išrinktųjų?",
+    "options": {
+      "a": "Tos dienos",
+      "b": "Tos valandos",
+      "c": "Tos minutes",
+      "d": "Tos sekundės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_015",
+    "question": "Kas bus atiduoti kankinti ir žudyti?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Mokiniai",
+      "c": "Praniškai",
+      "d": "Tautos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_016",
+    "question": "Kas bus paskelbta visame pasaulyje?",
+    "options": {
+      "a": "Karalystės Evangelija",
+      "b": "Naujoji Testamentas",
+      "c": "Jėzaus pranašystės",
+      "d": "Mokinių pasakojimai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  },
+  {
+    "id": "Mt_24_017",
+    "question": "Kas turi bėgti į kalnus, kai pamatys pranašo Danieliaus paskelbtą naikinimo pabaisą?",
+    "options": {
+      "a": "Visos tautos",
+      "b": "Kas bus Judėjoje",
+      "c": "Praniškai",
+      "d": "Mokiniai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_24"
+  }
+]

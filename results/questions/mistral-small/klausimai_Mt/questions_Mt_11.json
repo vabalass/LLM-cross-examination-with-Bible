@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Mt_11_001",
+    "question": "Kas nusiuntė savo mokinius paklausti Jėzaus, ar jis yra tas, kuris turi ateiti?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas Krikštytojas",
+      "c": "Andriejus",
+      "d": "Jokūbas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_002",
+    "question": "Ką Jėzus pasakė apie Joną Krikštytoją?",
+    "options": {
+      "a": "Jis yra mažesnis už visus pranašus",
+      "b": "Jis yra didesnis už visus pranašus",
+      "c": "Jis yra lygus visiems pranašams",
+      "d": "Jis yra mažesnis už visus pranašus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_003",
+    "question": "Ką Jėzus pasakė apie šią kartą?",
+    "options": {
+      "a": "Ji panaši į vaikus, kurie sėdi prekyvietėje ir šaukia savo draugams",
+      "b": "Ji panaši į vaikus, kurie groja ir šoka",
+      "c": "Ji panaši į vaikus, kurie giedoja ir šoka",
+      "d": "Ji panaši į vaikus, kurie groja ir giedoja"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_004",
+    "question": "Ką Jėzus pasakė apie Joną Krikštytoją ir švelniais drabužiais vilkinčius?",
+    "options": {
+      "a": "Jonas Krikštytojas yra švelniais drabužiais vilkinčias",
+      "b": "Jonas Krikštytojas yra švelniais drabužiais vilkinčias, bet jis gyvena aure karaliaus rūmuose",
+      "c": "Jonas Krikštytojas nėra švelniais drabužiais vilkinčias",
+      "d": "Jonas Krikštytojas yra švelniais drabužiais vilkinčias, bet jis nėra pranašas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_005",
+    "question": "Ką Jėzus pasakė apie Tyro ir Sidono miestas?",
+    "options": {
+      "a": "Jie bus nubausti teismo dieną",
+      "b": "Jie bus išgelbėti teismo dieną",
+      "c": "Jie bus palikti teismo dieną",
+      "d": "Jie bus atleidžiami teismo dieną"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_006",
+    "question": "Ką Jėzus pasakė apie Sodomos žemę?",
+    "options": {
+      "a": "Ji bus išgelbėta teismo dieną",
+      "b": "Ji bus nubausta teismo dieną",
+      "c": "Ji bus palikta teismo dieną",
+      "d": "Ji bus atleidžiamas teismo dieną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_007",
+    "question": "Ką Jėzus pasakė apie mažutėlius?",
+    "options": {
+      "a": "Jie yra išmintingesni už visus",
+      "b": "Jie yra gudresni už visus",
+      "c": "Jie yra mažesni už visus",
+      "d": "Jie yra apreiškiami už visus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_008",
+    "question": "Ką Jėzus pasakė apie savo jungą?",
+    "options": {
+      "a": "Jis yra sunkus",
+      "b": "Jis yra švelnus",
+      "c": "Jis yra sunkus ir našta sunkia",
+      "d": "Jis yra švelnus ir našta sunkia"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_009",
+    "question": "Ką Jėzus pasakė apie savo naštą?",
+    "options": {
+      "a": "Ji yra sunkia",
+      "b": "Ji yra lengva",
+      "c": "Ji yra sunkia ir jungas sunkus",
+      "d": "Ji yra lengva ir jungas švelnus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  },
+  {
+    "id": "Mt_11_010",
+    "question": "Ką Jėzus pasakė apie savo sieloms atgaivą?",
+    "options": {
+      "a": "Jis jį rasite tik mokydamiesi iš kitų",
+      "b": "Jis jį rasite tik mokydamiesi iš manęs",
+      "c": "Jis jį rasite tik mokydamiesi iš Tėvo",
+      "d": "Jis jį rasite tik mokydamiesi iš Šventojo Dvasios"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_11"
+  }
+]

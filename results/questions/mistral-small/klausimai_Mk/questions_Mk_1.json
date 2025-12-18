@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mk_1_001",
+    "question": "Kas skelbė atsivertimo krikštą nuodėmėms atleisti?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Jonas Krikštytojas",
+      "c": "Simonas",
+      "d": "Andriejus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_002",
+    "question": "Kas pasakė: „Tu mano mylimasis Sūnus, tavimi aš gėriuosi“?",
+    "options": {
+      "a": "Jonas Krikštytojas",
+      "b": "Dvasia",
+      "c": "Dangus",
+      "d": "Dievas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_003",
+    "question": "Kiek dienų Jėzus praleido dykumoje?",
+    "options": {
+      "a": "Trisdešimt",
+      "b": "Keturiasdešimt",
+      "c": "Penkiasdešimt",
+      "d": "Šešiasdešimt"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_004",
+    "question": "Kas buvo su Jėzumi, kai jis mokė sinagogoje Kafarnaume?",
+    "options": {
+      "a": "Simonas ir Andriejus",
+      "b": "Jokūbas ir Jonas",
+      "c": "Zebediejus",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_005",
+    "question": "Kas pasakė: „Ko tau iš mūsų reikia, Jėzau Nazarėnai?“?",
+    "options": {
+      "a": "Netyroji dvasia",
+      "b": "Simonas",
+      "c": "Andriejus",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_006",
+    "question": "Kas pagydė Simono uošvę?",
+    "options": {
+      "a": "Jonas Krikštytojas",
+      "b": "Simonas",
+      "c": "Jėzus",
+      "d": "Andriejus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_007",
+    "question": "Kas pasakė: „Eikime kitur, į gretimus miestelius, kad ir ten skelbčiau žodį“?",
+    "options": {
+      "a": "Simonas",
+      "b": "Andriejus",
+      "c": "Jėzus",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_008",
+    "question": "Kas maldavo: „Jei norėsi, gali mane padaryti švarų“?",
+    "options": {
+      "a": "Simonas",
+      "b": "Andriejus",
+      "c": "Raupsuotasis",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_009",
+    "question": "Kas pasakė: „Noriu, būk švarus!“?",
+    "options": {
+      "a": "Simonas",
+      "b": "Andriejus",
+      "c": "Jėzus",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_010",
+    "question": "Kas pasakė: „Eik pasirodyk kunigui ir už pagijimą paaukok Mozės įsakytą atnašą jiems paliudyti“?",
+    "options": {
+      "a": "Simonas",
+      "b": "Andriejus",
+      "c": "Jėzus",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_011",
+    "question": "Kas pradėjo plačiai skelbti ir skleisti įvykį apie Jėzų?",
+    "options": {
+      "a": "Simonas",
+      "b": "Andriejus",
+      "c": "Raupsuotasis",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_012",
+    "question": "Kur Jėzus mokė šabo dieną?",
+    "options": {
+      "a": "Sinagogoje",
+      "b": "Namyje",
+      "c": "Dykumoje",
+      "d": "Ežere"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_013",
+    "question": "Kas pasakė: „Atėjo įvykdymo metas, Dievo karalystė čia pat! Atsiverskite ir tikėkite Evangelija!“?",
+    "options": {
+      "a": "Simonas",
+      "b": "Andriejus",
+      "c": "Jėzus",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_014",
+    "question": "Kas pasakė: „Eikite paskui mane! Aš padarysiu jus žmonių žvejais“?",
+    "options": {
+      "a": "Simonas",
+      "b": "Andriejus",
+      "c": "Jėzus",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_015",
+    "question": "Kas pasakė: „Aš žinau, kas tu esi: Dievo šventasis!“?",
+    "options": {
+      "a": "Netyroji dvasia",
+      "b": "Simonas",
+      "c": "Andriejus",
+      "d": "Jonas Krikštytojas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_1"
+  }
+]

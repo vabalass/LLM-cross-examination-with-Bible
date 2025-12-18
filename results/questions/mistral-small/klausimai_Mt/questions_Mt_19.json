@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Mt_19_001",
+    "question": "Kur Jėzus pasitraukė po kalbų Galilėjoje?",
+    "options": {
+      "a": "Į Samariją",
+      "b": "Į Judėjos sritį, anapus Jordano",
+      "c": "Į Jeruzalę",
+      "d": "Į Nazaretą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_002",
+    "question": "Kas klausė Jėzaus apie santuokos neišardomumą?",
+    "options": {
+      "a": "Sadukejai",
+      "b": "Fariziejai",
+      "c": "Mokiniai",
+      "d": "Žydų vyresnieji"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_003",
+    "question": "Ką Jėzus atsakė klausimui apie santuokos neišardomumą?",
+    "options": {
+      "a": "Žmogus gali atleisti žmoną dėl bet kokios priežasties",
+      "b": "Ką Dievas sujungė, žmogus teneperskiria",
+      "c": "Santuoka gali būti išardyta tik jei yra vaikai",
+      "d": "Žmonės gali atleisti žmonas dėl savo noro"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_004",
+    "question": "Kodėl Mozė leido duoti skyrybų raštą?",
+    "options": {
+      "a": "Dėl žmonių nemaloningumo",
+      "b": "Dėl žmonių širdies kietumo",
+      "c": "Dėl Dievo nurodymo",
+      "d": "Dėl žmonių nemokumo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_005",
+    "question": "Kas sakė, kad jei tokie vyro ir žmonos reikalai, tai neverta vesti?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Mokiniai",
+      "c": "Žydų vyresnieji",
+      "d": "Sadukejai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_006",
+    "question": "Ką Jėzus atsakė klausimui apie tuoktis?",
+    "options": {
+      "a": "Visų reikia vesti",
+      "b": "Nėra reikalinga vesti",
+      "c": "Ne visi išmano tuos žodžius, o tik tie, kuriems duota išmanyti",
+      "d": "Tuoktis yra privalomas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_007",
+    "question": "Ką Jėzus tarė apie vaikus?",
+    "options": {
+      "a": "Vaikai turi būti nuolat mokomi",
+      "b": "Vaikai turi būti draudžiami ateiti pas mane",
+      "c": "Leiskite mažutėlius ir nedrauskite jiems ateiti pas mane, nes tokių yra dangaus karalystė",
+      "d": "Vaikai turi būti paliekami namie"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_008",
+    "question": "Ką jaunuolis klausė Jėzaus?",
+    "options": {
+      "a": "Ką gera turiu daryti, kad įgyčiau amžinąjį gyvenimą?",
+      "b": "Ką reikia daryti, kad būtų geras žmogus?",
+      "c": "Ką reikia daryti, kad būtų turtuolis?",
+      "d": "Ką reikia daryti, kad būtų sėkmingas?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_009",
+    "question": "Ką Jėzus pasakė jaunuoliui apie turtą?",
+    "options": {
+      "a": "Turtas yra blogis",
+      "b": "Turtas yra reikalingas",
+      "c": "Jei nori būti tobulas, eik parduok, ką turi, išdalyk vargšams, tai turėsi lobį danguje",
+      "d": "Turtas yra Dievo dovas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  },
+  {
+    "id": "Mt_19_010",
+    "question": "Ką Jėzus pasakė apie turtuolius ir dangaus karalystę?",
+    "options": {
+      "a": "Turtuoliams lengva patekti į dangaus karalystę",
+      "b": "Turtuoliams nelengva patekti į dangaus karalystę",
+      "c": "Turtuoliams niekada nepateks į dangaus karalystę",
+      "d": "Turtuoliams reikia daug daryti, kad patektų į dangaus karalystę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_19"
+  }
+]

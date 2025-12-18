@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Lk_6_001",
+    "question": "Kas Jėzus padarė, kai mokiniai skabė varpas per šabą?",
+    "options": {
+      "a": "Jie buvo nubausti",
+      "b": "Jie buvo apgaudžiami",
+      "c": "Jie buvo apmokesti",
+      "d": "Jie buvo apgirtinami"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_002",
+    "question": "Ką Jėzus atsakė fariziejams, kai jie prikišo mokiniams skabti varpus per šabą?",
+    "options": {
+      "a": "Jie turi valgyti tik namie",
+      "b": "Jie turi valgyti tik šventykloje",
+      "c": "Jie turi valgyti tik šventadienį",
+      "d": "Jie turi valgyti tik per šventes"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_003",
+    "question": "Kas buvo padaryta žmogui su padžiūvusia ranka per šabą?",
+    "options": {
+      "a": "Jis buvo išgąstintas",
+      "b": "Jis buvo išgirdintas",
+      "c": "Jis buvo išgydytas",
+      "d": "Jis buvo išgirtintas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_004",
+    "question": "Ką Jėzus klausė rašto aiškintojų ir fariziejų?",
+    "options": {
+      "a": "Ar per šabą leistina gera daryti, ar bloga?",
+      "b": "Ar per šabą leistina valgyti, ar ne?",
+      "c": "Ar per šabą leistina dirbti, ar ne?",
+      "d": "Ar per šabą leistina miegoti, ar ne?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_005",
+    "question": "Kiek apaštalų Jėzus paskyrė?",
+    "options": {
+      "a": "10",
+      "b": "11",
+      "c": "12",
+      "d": "13"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_006",
+    "question": "Kas buvo vienas iš dvylikos apaštalų?",
+    "options": {
+      "a": "Petras",
+      "b": "Andriejus",
+      "c": "Jokūbas",
+      "d": "Visos aukščiau minėtos"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_007",
+    "question": "Ką Jėzus padarė, kai nuėjo į sinagogą per šabą?",
+    "options": {
+      "a": "Jis mokė",
+      "b": "Jis malšino",
+      "c": "Jis malšino",
+      "d": "Jis malšino"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_008",
+    "question": "Ką Jėzus sakė apie šabo dieną?",
+    "options": {
+      "a": "Žmogaus Sūnus yra ir šabo Viešpats",
+      "b": "Žmogaus Sūnus yra ir šabo Tėvas",
+      "c": "Žmogaus Sūnus yra ir šabo Duktė",
+      "d": "Žmogaus Sūnus yra ir šabo Motina"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_009",
+    "question": "Ką Jėzus padarė, kai buvo apsistojo lygumoje?",
+    "options": {
+      "a": "Jis mokė",
+      "b": "Jis malšino",
+      "c": "Jis malšino",
+      "d": "Jis malšino"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_010",
+    "question": "Ką Jėzus sakė apie vargdienius?",
+    "options": {
+      "a": "Jie yra palaiminti, nes jūsų yra Dievo karalystė",
+      "b": "Jie yra palaiminti, nes jūsų yra Dievo karalystė",
+      "c": "Jie yra palaiminti, nes jūsų yra Dievo karalystė",
+      "d": "Jie yra palaiminti, nes jūsų yra Dievo karalystė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_011",
+    "question": "Ką Jėzus sakė apie turtuolius?",
+    "options": {
+      "a": "Jie yra palaiminti",
+      "b": "Jie yra vargdieniai",
+      "c": "Jie yra vargdieniai",
+      "d": "Jie yra vargdieniai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_012",
+    "question": "Ką Jėzus sakė apie juokiančius?",
+    "options": {
+      "a": "Jie yra palaiminti",
+      "b": "Jie yra vargdieniai",
+      "c": "Jie yra vargdieniai",
+      "d": "Jie yra vargdieniai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_013",
+    "question": "Ką Jėzus sakė apie priešus?",
+    "options": {
+      "a": "Mylėkite savo priešus, darykite gera tiems, kurie jūsų nekenčia",
+      "b": "Mylėkite savo priešus, darykite gera tiems, kurie jūsų myli",
+      "c": "Mylėkite savo priešus, darykite gera tiems, kurie jūsų myli",
+      "d": "Mylėkite savo priešus, darykite gera tiems, kurie jūsų myli"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_014",
+    "question": "Ką Jėzus sakė apie gailestingumą?",
+    "options": {
+      "a": "Būkite gailestingi, kaip ir jūsų Tėvas gailestingas",
+      "b": "Būkite gailestingi, kaip ir jūsų Tėvas nedailus",
+      "c": "Būkite gailestingi, kaip ir jūsų Tėvas nedailus",
+      "d": "Būkite gailestingi, kaip ir jūsų Tėvas nedailus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_015",
+    "question": "Ką Jėzus sakė apie medžius ir vaisius?",
+    "options": {
+      "a": "Nėra gero medžio, kuris megztų blogus vaisius, nei vėl – netikusio, kuris megztų gerus vaisius",
+      "b": "Nėra blogo medžio, kuris megztų blogus vaisius, nei vėl – netikusio, kuris megztų gerus vaisius",
+      "c": "Nėra gero medžio, kuris megztų blogus vaisius, nei vėl – netikusio, kuris megztų gerus vaisius",
+      "d": "Nėra gero medžio, kuris megztų blogus vaisius, nei vėl – netikusio, kuris megztų gerus vaisius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_016",
+    "question": "Ką Jėzus sakė apie išmintingus mokinius?",
+    "options": {
+      "a": "Kiekvienas, kuris ateina pas mane, klausosi mano žodžių ir juos vykdo, – aš jums parodysiu, į ką jis panašus",
+      "b": "Kiekvienas, kuris ateina pas mane, klausosi mano žodžių ir juos nevykdo, – aš jums parodysiu, į ką jis panašus",
+      "c": "Kiekvienas, kuris ateina pas mane, klausosi mano žodžių ir juos nevykdo, – aš jums parodysiu, į ką jis panašus",
+      "d": "Kiekvienas, kuris ateina pas mane, klausosi mano žodžių ir juos nevykdo, – aš jums parodysiu, į ką jis panašus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  }
+]

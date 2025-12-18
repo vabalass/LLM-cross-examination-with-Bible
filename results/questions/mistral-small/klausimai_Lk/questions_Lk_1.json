@@ -1,0 +1,340 @@
+[
+  {
+    "id": "Lk_1_001",
+    "question": "Kas yra pagrindinis pasakojimo aprašomasis asmuo?",
+    "options": {
+      "a": "Marija",
+      "b": "Jonas Krikštytojas",
+      "c": "Zacharijas",
+      "d": "Gabrielius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_002",
+    "question": "Kas yra Zacharijo žmonos vardas?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_003",
+    "question": "Kas pasirodė Zacharijui, kai jis aukodavo smilkalus?",
+    "options": {
+      "a": "Dievas",
+      "b": "Viešpats",
+      "c": "Angelas",
+      "d": "Gabrielius"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_004",
+    "question": "Kas bus pagimdžiusi sūnų, pagal angelą?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_005",
+    "question": "Kas bus vardas Elzbietos sūnaus?",
+    "options": {
+      "a": "Jonas",
+      "b": "Jėzus",
+      "c": "Zacharijas",
+      "d": "Gabrielius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_006",
+    "question": "Kas bus vardas Marijos sūnaus?",
+    "options": {
+      "a": "Jonas",
+      "b": "Jėzus",
+      "c": "Zacharijas",
+      "d": "Gabrielius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_007",
+    "question": "Kas yra Marijos žmogus?",
+    "options": {
+      "a": "Jonas",
+      "b": "Jėzus",
+      "c": "Juozapas",
+      "d": "Gabrielius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_008",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_009",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_010",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_011",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_012",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_013",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_014",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_015",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_016",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_017",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_018",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_019",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_020",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_021",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_022",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_023",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_024",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_025",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_026",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  }
+]

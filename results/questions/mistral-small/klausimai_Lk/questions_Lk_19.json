@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_19_001",
+    "question": "Kas buvo Zachiejus?",
+    "options": {
+      "a": "Mokytojas",
+      "b": "Muitininkų viršininkas ir turtuolis",
+      "c": "Žemdirbis",
+      "d": "Žvejas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_002",
+    "question": "Kodėl Zachiejus įlipo į šilkmedį?",
+    "options": {
+      "a": "Norėjo ramiai pasimiegoti",
+      "b": "Norėjo pamatyti Jėzų, nes buvo žemo ūgio",
+      "c": "Norėjo pasislėpti nuo muitininkų",
+      "d": "Norėjo surinkti vaisius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_003",
+    "question": "Ką Jėzus tarė Zachiejui, pažvelgęs aukštyn?",
+    "options": {
+      "a": "„Zachiejau, lipk aukščiau!“",
+      "b": "„Zachiejau, greit lipk žemyn! Man reikia šiandien apsilankyti tavo namuose“",
+      "c": "„Zachiejau, palik šilmedį!“",
+      "d": "„Zachiejau, ateik man pasakoti apie savo darbus!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_004",
+    "question": "Ką žmonės murmėjo, matydami Jėzų, kuris nuėjo į Zachiejuje?",
+    "options": {
+      "a": "„Pas gerą žmogų nuėjo į svečius!“",
+      "b": "„Pas nusidėjėlį nuėjo į svečius!“",
+      "c": "„Pas turtuolį nuėjo į svečius!“",
+      "d": "„Pas muitininką nuėjo į svečius!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_005",
+    "question": "Ką Zachiejus pasakė Viešpačiui?",
+    "options": {
+      "a": "„Štai, Viešpatie, visą savo turtą atiduodu vargšams ir, jei ką nors nuskriaudžiau, grąžinsiu keturgubai“",
+      "b": "„Štai, Viešpatie, pusę savo turto atiduodu vargšams ir, jei ką nors nuskriaudžiau, grąžinsiu keturgubai“",
+      "c": "„Štai, Viešpatie, visą savo turtą atiduodu vargšams ir, jei ką nors nuskriaudžiau, grąžinsiu dvigubai“",
+      "d": "„Štai, Viešpatie, pusę savo turto atiduodu vargšams ir, jei ką nors nuskriaudžiau, grąžinsiu dvigubai“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_006",
+    "question": "Ką Jėzus tarė apie Zachiejų?",
+    "options": {
+      "a": "„Į šiuos namus šiandien atėjo malonė, nes ir jis yra Abraomo palikuonis“",
+      "b": "„Į šiuos namus šiandien atėjo išganymas, nes ir jis yra Abraomo palikuonis“",
+      "c": "„Į šiuos namus šiandien atėjo malonė, nes ir jis yra Izaoko palikuonis“",
+      "d": "„Į šiuos namus šiandien atėjo išganymas, nes ir jis yra Izaoko palikuonis“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_007",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnų?",
+    "options": {
+      "a": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo pražuvę“",
+      "b": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo prarasti“",
+      "c": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo nuodėmingi“",
+      "d": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo turtuoli“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_008",
+    "question": "Ką Jėzus pasakė apie minų palyginimą?",
+    "options": {
+      "a": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo pražuvę“",
+      "b": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo prarasti“",
+      "c": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo nuodėmingi“",
+      "d": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo turtuoli“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_009",
+    "question": "Ką Jėzus pasakė apie minų palyginimą?",
+    "options": {
+      "a": "„Kiekvienam, kas turi, bus atimta, o neturinčiam bus pridėta“",
+      "b": "„Kiekvienam, kas turi, bus pridėta, o iš neturinčio bus atimta net ir tai, ką turėjo“",
+      "c": "„Kiekvienam, kas turi, bus atimta, o iš neturinčio bus pridėta“",
+      "d": "„Kiekvienam, kas turi, bus pridėta, o iš neturinčio bus atimta“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_010",
+    "question": "Ką Jėzus pasakė apie savo priešus?",
+    "options": {
+      "a": "„Mano priešus, nenorėjusius, kad būčiau jų karalius, atveskite čionai ir nugalabykite mano akyse!“",
+      "b": "„Mano priešus, nenorėjusius, kad būčiau jų karalius, atveskite čionai ir nugalėkite mano akyse!“",
+      "c": "„Mano priešus, nenorėjusius, kad būčiau jų karalius, atveskite čionai ir nugalėkite mano rankose!“",
+      "d": "„Mano priešus, nenorėjusius, kad būčiau jų karalius, atveskite čionai ir nugalėkite mano rankose!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_011",
+    "question": "Ką Jėzus pasakė mokiniams, prisiartinęs prie Betfagės ir Betanijos?",
+    "options": {
+      "a": "„Eikite į kaimą, kurį štai matote, ir, vos įėję, rasite pririštą asilaitį, kuriuo dar joks žmogus nėra jojęs. Atriškite jį ir atveskite. O jeigu kas paklaustų: 'Kam jį atrišate?', atsakykite: 'Jo reikia Viešpačiui'“",
+      "b": "„Eikite į kaimą, kurį štai matote, ir, vos įėję, rasite pririštą asilaitį, kuriuo dar joks žmogus nėra jojęs. Atriškite jį ir atveskite. O jeigu kas paklaustų: 'Kam jį atrišate?', atsakykite: 'Jo reikia Viešpačiui'“",
+      "c": "„Eikite į kaimą, kurį štai matote, ir, vos įėję, rasite pririštą asilaitį, kuriuo dar joks žmogus nėra jojęs. Atriškite jį ir atveskite. O jeigu kas paklaustų: 'Kam jį atrišate?', atsakykite: 'Jo reikia Viešpačiui'“",
+      "d": "„Eikite į kaimą, kurį štai matote, ir, vos įėję, rasite pririštą asilaitį, kuriuo dar joks žmogus nėra jojęs. Atriškite jį ir atveskite. O jeigu kas paklaustų: 'Kam jį atrišate?', atsakykite: 'Jo reikia Viešpačiui'“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_012",
+    "question": "Ką žmonės tiesė ant kelio, kai Jėzus jojo ant asilaitžio?",
+    "options": {
+      "a": "Drabužius",
+      "b": "Žiedus",
+      "c": "Vaisius",
+      "d": "Gėles"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_013",
+    "question": "Ką žmonės šaukė, besiartinant prie Alyvų kalno šlaito?",
+    "options": {
+      "a": "„Garbė karaliui, kuris ateina Viešpaties vardu! Ramybė danguje, šlovė aukštybėse!“",
+      "b": "„Garbė karaliui, kuris ateina Viešpaties vardu! Ramybė žemėje, šlovė aukštybėse!“",
+      "c": "„Garbė karaliui, kuris ateina Viešpaties vardu! Ramybė danguje, šlovė žemėje!“",
+      "d": "„Garbė karaliui, kuris ateina Viešpaties vardu! Ramybė žemėje, šlovė žemėje!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_014",
+    "question": "Ką fariziejai šaukė Jėzui?",
+    "options": {
+      "a": "„Mokytojau, sudrausk savo mokinius!“",
+      "b": "„Mokytojau, sudrausk savo mokinius!“",
+      "c": "„Mokytojau, sudrausk savo mokinius!“",
+      "d": "„Mokytojau, sudrausk savo mokinius!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_015",
+    "question": "Ką Jėzus atsakė fariziejams?",
+    "options": {
+      "a": "„Sakau jums, jei šitie tylės – akmenys šauks!“",
+      "b": "„Sakau jums, jei šitie tylės – akmenys šauks!“",
+      "c": "„Sakau jums, jei šitie tylės – akmenys šauks!“",
+      "d": "„Sakau jums, jei šitie tylės – akmenys šauks!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_016",
+    "question": "Ką Jėzus sakė, prisiartinęs prie Jeruzalės ir išvydęs miestą?",
+    "options": {
+      "a": "„O kad tu šiandien suprastum, kas tau atneša ramybę! Deja, tai paslėpta nuo tavo akių. Tu sulauksi dienų, kai tavo priešai apjuos tave pylimu, apguls iš visų pusių ir suspaus tave; jie parblokš ant žemės tave ir tavo vaikus su tavim ir nepaliks tavyje akmens ant akmens, nes tu nepažinai savo aplankymo meto“",
+      "b": "„O kad tu šiandien suprastum, kas tau atneša ramybę! Deja, tai paslėpta nuo tavo akių. Tu sulauksi dienų, kai tavo priešai apjuos tave pylimu, apguls iš visų pusių ir suspaus tave; jie parblokš ant žemės tave ir tavo vaikus su tavim ir nepaliks tavyje akmens ant akmens, nes tu nepažinai savo aplankymo meto“",
+      "c": "„O kad tu šiandien suprastum, kas tau atneša ramybę! Deja, tai paslėpta nuo tavo akių. Tu sulauksi dienų, kai tavo priešai apjuos tave pylimu, apguls iš visų pusių ir suspaus tave; jie parblokš ant žemės tave ir tavo vaikus su tavim ir nepaliks tavyje akmens ant akmens, nes tu nepažinai savo aplankymo meto“",
+      "d": "„O kad tu šiandien suprastum, kas tau atneša ramybę! Deja, tai paslėpta nuo tavo akių. Tu sulauksi dienų, kai tavo priešai apjuos tave pylimu, apguls iš visų pusių ir suspaus tave; jie parblokš ant žemės tave ir tavo vaikus su tavim ir nepaliks tavyje akmens ant akmens, nes tu nepažinai savo aplankymo meto“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_017",
+    "question": "Ką Jėzus pradėjo daryti, įžengęs į šventyklą?",
+    "options": {
+      "a": "Maldauti",
+      "b": "Varyti laukan prekiautojus",
+      "c": "Mokyti",
+      "d": "Gydyti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_018",
+    "question": "Ką Jėzus sakė, varydamas laukan prekiautojus?",
+    "options": {
+      "a": "„Parašyta: Mano namai turi būti maldos namai, o jūs pavertėte juos plėšikų lindyne“",
+      "b": "„Parašyta: Mano namai turi būti maldos namai, o jūs pavertėte juos plėšikų lindyne“",
+      "c": "„Parašyta: Mano namai turi būti maldos namai, o jūs pavertėte juos plėšikų lindyne“",
+      "d": "„Parašyta: Mano namai turi būti maldos namai, o jūs pavertėte juos plėšikų lindyne“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  }
+]

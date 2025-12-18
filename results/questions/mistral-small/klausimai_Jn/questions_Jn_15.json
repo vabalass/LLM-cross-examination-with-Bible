@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Jn_15_001",
+    "question": "Kas, pagal Jono 15:1, yra tikrasis vynmedis?",
+    "options": {
+      "a": "Tėvas",
+      "b": "Jėzus",
+      "c": "Šakelės",
+      "d": "Vaisius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_002",
+    "question": "Ką Tėvas daro su šakelėmis, neduodančiomis vaisiaus?",
+    "options": {
+      "a": "Jas apvalo",
+      "b": "Jas išpjauna",
+      "c": "Jas laiko",
+      "d": "Jas patalpina"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_003",
+    "question": "Kas, pagal Jono 15:4, yra šakelės?",
+    "options": {
+      "a": "Vynmedis",
+      "b": "Vaisius",
+      "c": "Mokiniai",
+      "d": "Tėvas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_004",
+    "question": "Ką reiškia pasilikti Jėzaus meilėje?",
+    "options": {
+      "a": "Daryti ko nori",
+      "b": "Laikytis įsakymų",
+      "c": "Mylėti draugus",
+      "d": "Daryti vaisius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_005",
+    "question": "Kas, pagal Jono 15:13, yra didžiausia meilė?",
+    "options": {
+      "a": "Mylėti Tėvą",
+      "b": "Mylėti draugus",
+      "c": "Mylėti save",
+      "d": "Mylėti pasaulį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_006",
+    "question": "Kas, pagal Jono 15:15, yra Jėzaus draugai?",
+    "options": {
+      "a": "Tarnai",
+      "b": "Mokiniai",
+      "c": "Tėvas",
+      "d": "Šakelės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_007",
+    "question": "Kodėl pasaulis nekenčia mokinius?",
+    "options": {
+      "a": "Nes jie yra pasaulio",
+      "b": "Nes jie nekenčia pasaulį",
+      "c": "Nes jie nepriklauso pasaulio",
+      "d": "Nes jie myli Tėvą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_008",
+    "question": "Kas, pagal Jono 15:26, ateis ir liudys apie Jėzų?",
+    "options": {
+      "a": "Tėvas",
+      "b": "Tarnas",
+      "c": "Tiesos Dvasia",
+      "d": "Vynmedis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_15"
+  },
+  {
+    "id": "Jn_15_009",
+    "question": "Ką mokiniai turi daryti, kad būtų Jėzaus draugais?",
+    "options": {
+      "a": "Daryti ko nori",
+      "b": "Daryti vaisius",
+      "c": "Daryti, ką jims įsakau",
+      "d": "Daryti, ką nori Tėvas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_15"
+  }
+]

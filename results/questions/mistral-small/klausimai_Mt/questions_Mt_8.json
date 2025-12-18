@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_8_001",
+    "question": "Kas prisiartino prie Jėzaus ir maldaudamas norėjo būti išgydomas?",
+    "options": {
+      "a": "Šimtininkas",
+      "b": "Raupsuotasis",
+      "c": "Rašto aiškintojas",
+      "d": "Petras"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_002",
+    "question": "Ką Jėzus atsakė raupsuotajam?",
+    "options": {
+      "a": "Noriu, būk švarus!",
+      "b": "Eik, pasirodyk kunigui",
+      "c": "Nieko negalėjau padaryti",
+      "d": "Tau reikia daugiau tikėjimo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_003",
+    "question": "Kas maldaudamas prašė Jėzaus pagydyti savo tarną?",
+    "options": {
+      "a": "Petras",
+      "b": "Šimtininkas",
+      "c": "Rašto aiškintojas",
+      "d": "Jono apokalipsės autorius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_004",
+    "question": "Ką Jėzus atsakė šimtininkui?",
+    "options": {
+      "a": "Eik, tebūnie tau, kaip įtikėjai!",
+      "b": "Tau reikia daugiau tikėjimo",
+      "c": "Nieko negalėjau padaryti",
+      "d": "Tau reikia atlikti tam tikrą ritualą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_005",
+    "question": "Ką Jėzus padarė, kai atėjo į Petro namus?",
+    "options": {
+      "a": "Išgydė Petro uošvę",
+      "b": "Išvarė demonus",
+      "c": "Mokė apie Dievo karalystę",
+      "d": "Išgydė šimtininko tarną"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_006",
+    "question": "Ką Jėzus padarė, kai žmonės sugabeno daug demono apsėstųjų?",
+    "options": {
+      "a": "Išvarė dvasias žodžiu",
+      "b": "Išgydė visus ligonius",
+      "c": "Išgydė visus ligonius ir išvarė dvasias žodžiu",
+      "d": "Išgydė visus ligonius, bet neišvarė dvasias"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_007",
+    "question": "Ką Jėzus atsakė Rašto aiškintojui, kuris norėjo sekti jį?",
+    "options": {
+      "a": "Lapės turi urvus, padangių sparnuočiai – lizdus, o Žmogaus Sūnus neturi kur galvos priglausti",
+      "b": "Sek paskui mane ir palik mirusiems laidoti savo numirėlius",
+      "c": "Tau reikia daugiau tikėjimo",
+      "d": "Nieko negalėjau padaryti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_008",
+    "question": "Ką Jėzus atsakė kitam mokinui, kuris norėjo pirmiau pareiti tėvo palaidoti?",
+    "options": {
+      "a": "Sek paskui mane ir palik mirusiems laidoti savo numirėlius",
+      "b": "Tau reikia daugiau tikėjimo",
+      "c": "Nieko negalėjau padaryti",
+      "d": "Lapės turi urvus, padangių sparnuočiai – lizdus, o Žmogaus Sūnus neturi kur galvos priglausti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_009",
+    "question": "Ką Jėzus padarė, kai mokiniai jį žadino dėl audros?",
+    "options": {
+      "a": "Sudraudė vėjus bei ežerą, ir pasidarė visiškai ramu",
+      "b": "Išvarė demonus",
+      "c": "Išgydė visus ligonius",
+      "d": "Mokė apie Dievo karalystę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_010",
+    "question": "Ką demonai prašė Jėzaus, kai jis priplaukė kitą krantą?",
+    "options": {
+      "a": "Jeigu mus išvarysi, tai siųsk kiaulių kaimenėn",
+      "b": "Jeigu mus išvarysi, tai siųsk į ežerą",
+      "c": "Jeigu mus išvarysi, tai siųsk į miestą",
+      "d": "Jeigu mus išvarysi, tai siųsk į kalną"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  },
+  {
+    "id": "Mt_8_011",
+    "question": "Ką miestas padarė, kai Jėzus priplaukė kitą krantą?",
+    "options": {
+      "a": "Visas miestas išėjo priešais Jėzų ir, vos jį pamatė, prašė pasišalinti iš jų krašto",
+      "b": "Visas miestas išėjo priešais Jėzų ir, vos jį pamatė, prašė jį pasilikti",
+      "c": "Visas miestas išėjo priešais Jėzų ir, vos jį pamatė, prašė jį išvaryti",
+      "d": "Visas miestas išėjo priešais Jėzų ir, vos jį pamatė, prašė jį pasveikinti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_8"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mk_11_001",
+    "question": "Kur Jėzus pasiuntė savo mokinius, kad jie atneštų asilaitį?",
+    "options": {
+      "a": "Į Jeruzalę",
+      "b": "Į Betfagę ir Betaniją",
+      "c": "Į Alyvų kalną",
+      "d": "Į šventyklą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_002",
+    "question": "Ką Jėzus liepė mokiniams atsakyti, jei kas nors paklaustų, kam jie atrišo asilaitį?",
+    "options": {
+      "a": "Jie atsakyti, kad asilaitis reikalingas Jėzui",
+      "b": "Jie atsakyti, kad asilaitis reikalingas Viešpačiui",
+      "c": "Jie atsakyti, kad asilaitis reikalingas mokiniams",
+      "d": "Jie atsakyti, kad asilaitis reikalingas šventyklai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_003",
+    "question": "Ką žmonės tiesė ant kelio, kai Jėzus važinėjo asilaitimi?",
+    "options": {
+      "a": "Savo drabužius",
+      "b": "Savo pinigus",
+      "c": "Savo maistą",
+      "d": "Savo knygas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_004",
+    "question": "Ką žmonės klojo ant kelio, kai Jėzus važinėjo asilaitimi?",
+    "options": {
+      "a": "Žalias šakeles",
+      "b": "Žalias lapus",
+      "c": "Žalias vaisius",
+      "d": "Žalias žolę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_005",
+    "question": "Ką Jėzus padarė, kai įžengė į Jeruzalės šventyklą?",
+    "options": {
+      "a": "Jis ėmė varyti laukan parduodančius ir perkančius",
+      "b": "Jis ėmė maldauti",
+      "c": "Jis ėmė mokyti žmones",
+      "d": "Jis ėmė šventinti žmones"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_006",
+    "question": "Ką Jėzus sakė apie šventyklą?",
+    "options": {
+      "a": "Jis sakė, kad šventykla yra maldos namai visoms tautoms",
+      "b": "Jis sakė, kad šventykla yra jo namai",
+      "c": "Jis sakė, kad šventykla yra jo tėvo namai",
+      "d": "Jis sakė, kad šventykla yra jo karalystė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_007",
+    "question": "Ką Jėzus sakė apie tikėjimą Dievu?",
+    "options": {
+      "a": "Jis sakė, kad tikėjimas Dievu yra svarbus",
+      "b": "Jis sakė, kad tikėjimas Dievu yra naudingas",
+      "c": "Jis sakė, kad tikėjimas Dievu yra galimybė",
+      "d": "Jis sakė, kad tikėjimas Dievu yra galia"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_008",
+    "question": "Ką Jėzus sakė apie melstis?",
+    "options": {
+      "a": "Jis sakė, kad melstis reikia tikėdamas",
+      "b": "Jis sakė, kad melstis reikia malonumui",
+      "c": "Jis sakė, kad melstis reikia pagalbai",
+      "d": "Jis sakė, kad melstis reikia malonės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_009",
+    "question": "Ką Jėzus sakė apie atleidimą?",
+    "options": {
+      "a": "Jis sakė, kad reikia atleisti, jei turime ką nors prieš kitus",
+      "b": "Jis sakė, kad reikia atleisti, jei turime ką nors prieš save",
+      "c": "Jis sakė, kad reikia atleisti, jei turime ką nors prieš Dievą",
+      "d": "Jis sakė, kad reikia atleisti, jei turime ką nors prieš šventyklą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_010",
+    "question": "Ką aukštieji kunigai, Rašto aiškintojai ir seniūnai klausė Jėzaus?",
+    "options": {
+      "a": "Jie klausė, kokia galia jis daro tai",
+      "b": "Jie klausė, kas jam davė galią tai daryti",
+      "c": "Jie klausė, kodėl jis daro tai",
+      "d": "Jie klausė, kas jis yra"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_011",
+    "question": "Ką Jėzus klausė aukštųjų kunigų, Rašto aiškintojų ir seniūnų?",
+    "options": {
+      "a": "Jis klausė, kokia galia jis daro tai",
+      "b": "Jis klausė, kas jam davė galią tai daryti",
+      "c": "Jis klausė, ar Jono krikštas buvo iš dangaus ar iš žmonių",
+      "d": "Jis klausė, kas jis yra"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_11"
+  }
+]

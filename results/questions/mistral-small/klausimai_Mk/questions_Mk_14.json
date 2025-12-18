@@ -1,0 +1,314 @@
+[
+  {
+    "id": "Mk_14_001",
+    "question": "Kas ieškojo būdo klasta sugauti Jėzų ir nužudyti?",
+    "options": {
+      "a": "Aukštieji kunigai ir Rašto aiškintojai",
+      "b": "Mokiniai",
+      "c": "Vargšai",
+      "d": "Visi žmonės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_002",
+    "question": "Kur Jėzus buvo, kai moteris jį patepė brangaus gryno nardo tepalu?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Betanijoje",
+      "c": "Galilėjoje",
+      "d": "Nazarete"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_003",
+    "question": "Kas sakė, kad tepalo būtų galima parduoti ir pinigus išdalyti vargšams?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Mokiniai",
+      "c": "Aukštieji kunigai",
+      "d": "Kai kurie ten esantys"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_004",
+    "question": "Ką Jėzus atsakė žmonėms, murmėjusiems prieš tą moterį?",
+    "options": {
+      "a": "Palikite ją ramybėje",
+      "b": "Jūs esate teisūs",
+      "c": "Ji turi būti nubausta",
+      "d": "Jis nieko neatsakė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_005",
+    "question": "Kas išdavė Jėzų?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas Iskarijotas",
+      "c": "Jonas",
+      "d": "Jokūbas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_006",
+    "question": "Kur Jėzus liepė paruošti Velykų vakarienę?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Betanijoje",
+      "c": "Galilėjoje",
+      "d": "Nazarete"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_007",
+    "question": "Kas sutiko mokinius ir parodė jims didelį aukštutinį kambarį su baldais?",
+    "options": {
+      "a": "Žmogus, vandens ąsočiu nešinas",
+      "b": "Simonas Raupsuotojas",
+      "c": "Judas Iskarijotas",
+      "d": "Petras"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_008",
+    "question": "Ką Jėzus sakė apie vieną iš Dvylikos, valgančio su jimi?",
+    "options": {
+      "a": "Jis manęs išduos",
+      "b": "Jis manęs gerai pažįsta",
+      "c": "Jis manęs neverš",
+      "d": "Jis manęs gerbia"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_009",
+    "question": "Ką Jėzus davė mokiniams, sakydamas „Imkite, tai mano kūnas!“?",
+    "options": {
+      "a": "Vandens",
+      "b": "Vyną",
+      "c": "Duoną",
+      "d": "Vaisius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_010",
+    "question": "Ką Jėzus sakė apie savo kraują?",
+    "options": {
+      "a": "Tai mano kraujas, sandoros kraujas, kuris išliejamas už daugelį",
+      "b": "Tai mano kraujas, kuris išliejamas už manęs",
+      "c": "Tai mano kraujas, kuris išliejamas už mokinius",
+      "d": "Tai mano kraujas, kuris išliejamas už aukštuosius kunigus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_011",
+    "question": "Kur Jėzus ir jo mokiniai atliko Eucharistiją?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Betanijoje",
+      "c": "Galilėjoje",
+      "d": "Nazarete"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_012",
+    "question": "Ką Jėzus pranašavo Petrui?",
+    "options": {
+      "a": "Tu manęs tris kartus išsiginsi",
+      "b": "Tu manęs visada gerbės",
+      "c": "Tu manęs visada sekės",
+      "d": "Tu manęs visada mylės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_013",
+    "question": "Kur Jėzus ir jo mokiniai atėjo po Eucharistijos?",
+    "options": {
+      "a": "Į Alyvų kalną",
+      "b": "Į Getsemanės sodą",
+      "c": "Į Jeruzalę",
+      "d": "Į Betaniją"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_014",
+    "question": "Ką Jėzus sakė mokiniams Getsemanės sode?",
+    "options": {
+      "a": "Pasėdėkite čia, kol aš melsiuosi",
+      "b": "Eikite ir ieškokite maisto",
+      "c": "Miegokite, nes jūs labai nuėję",
+      "d": "Miegokite, nes rytoj bus ilga diena"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_015",
+    "question": "Ką Jėzus sakė, melstydamas Tėvui?",
+    "options": {
+      "a": "Aba, Tėve, tau viskas įmanoma. Atitolink nuo manęs šitą taurę!",
+      "b": "Aba, Tėve, aš norėčiau miegoti",
+      "c": "Aba, Tėve, aš norėčiau valgyti",
+      "d": "Aba, Tėve, aš norėčiau gerti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_016",
+    "question": "Ką Jėzus sakė Petrui, radus jį miegančią Getsemanės sode?",
+    "options": {
+      "a": "Simonai, tu miegi? Neįstengei nė vienos valandos pabudėti?",
+      "b": "Simonai, tu gerai darai, miegi",
+      "c": "Simonai, tu manęs gerai sekai",
+      "d": "Simonai, tu manęs gerai pažįsti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_017",
+    "question": "Kas suėmė Jėzų?",
+    "options": {
+      "a": "Aukštieji kunigai ir Rašto aiškintojai",
+      "b": "Mokiniai",
+      "c": "Vargšai",
+      "d": "Visi žmonės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_018",
+    "question": "Kas nukirto vyriausiojo kunigo tarnui ausį?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas Iskarijotas",
+      "c": "Jonas",
+      "d": "Jokūbas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_019",
+    "question": "Ką Jėzus sakė, kai buvo suėmės?",
+    "options": {
+      "a": "Tarsi plėšiko išėjote sugauti manęs su kalavijais ir vėzdais",
+      "b": "Aš esi Jūsų Mesijas",
+      "c": "Aš esi Jūsų Dievas",
+      "d": "Aš esi Jūsų Karalius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_020",
+    "question": "Kur Jėzus buvo nuvedžiamas po suėmimo?",
+    "options": {
+      "a": "Pas vyriausiąjį kunigą",
+      "b": "Į kalėjimą",
+      "c": "Į karaliaus rūmus",
+      "d": "Į šventyklą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_021",
+    "question": "Ką vyriausiasis kunigas paklausė Jėzų?",
+    "options": {
+      "a": "Ar tu esi Mesijas, Šlovingojo Sūnus?",
+      "b": "Kas tu esi?",
+      "c": "Kur tu esi iš?",
+      "d": "Ką tu darai?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_022",
+    "question": "Ką Jėzus atsakė vyriausiajam kunigui, klaususiam ar jis esi Mesijas?",
+    "options": {
+      "a": "Taip, Aš Esu. Ir jūs dar pamatysite Žmogaus Sūnų, sėdintį Visagalio dešinėje ir ateinantį dangaus debesyse",
+      "b": "Ne, Aš neesu",
+      "c": "Aš esi pamylėjęs",
+      "d": "Aš esi pamylėjęs"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_023",
+    "question": "Ką Petras darė, kai buvo klausiamas ar jis pažįsta Jėzų?",
+    "options": {
+      "a": "Išsigynė",
+      "b": "Pripažino",
+      "c": "Niekam neatsakė",
+      "d": "Pabėgo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_024",
+    "question": "Kiek kartų Petras išsigynė, kad nepažįsta Jėzų?",
+    "options": {
+      "a": "Tris kartus",
+      "b": "Du kartus",
+      "c": "Kartą",
+      "d": "Niekada"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_14"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "Mt_2_001",
+    "question": "Kur gimė Jėzus?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Betliejuje",
+      "c": "Nazarete",
+      "d": "Ramoje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_002",
+    "question": "Kas atvykė pagarbinti Jėzų?",
+    "options": {
+      "a": "Erodo kariuomenė",
+      "b": "Judėjos kunigai",
+      "c": "Rytų išminčiai",
+      "d": "Rašto aiškintojai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_003",
+    "question": "Ką davė Jėzui Rytų išminčiai?",
+    "options": {
+      "a": "Vilną ir medų",
+      "b": "Auksą, smilkalus ir mirą",
+      "c": "Alyvuogių ir vyną",
+      "d": "Alyvų aliejaus ir druskos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_004",
+    "question": "Kur Juozapas nuvykęs su Jėzumi ir Marija, kad saugotų jį nuo Erodo?",
+    "options": {
+      "a": "Nazaretą",
+      "b": "Egiptą",
+      "c": "Jeruzalę",
+      "d": "Galilėją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_005",
+    "question": "Kas pasakė Juozapui bėgti į Egiptą?",
+    "options": {
+      "a": "Marija",
+      "b": "Viešpaties angelas",
+      "c": "Rytų išminčiai",
+      "d": "Erodo kariuomenė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_006",
+    "question": "Kas išžudė visus berniukus Betliejuje ir jo apylinkėse?",
+    "options": {
+      "a": "Rytų išminčiai",
+      "b": "Erodo kariuomenė",
+      "c": "Juozapas",
+      "d": "Marija"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_2"
+  },
+  {
+    "id": "Mt_2_007",
+    "question": "Kur Juozapas apsigyveno po Erodo mirties?",
+    "options": {
+      "a": "Betliejuje",
+      "b": "Jeruzalėje",
+      "c": "Nazarete",
+      "d": "Egiptas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_2"
+  }
+]

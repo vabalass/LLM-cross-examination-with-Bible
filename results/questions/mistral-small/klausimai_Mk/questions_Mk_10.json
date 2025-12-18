@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Mk_10_001",
+    "question": "Kas klausė Jėzų, ar galima atleisti žmoną?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Fariziejai",
+      "c": "Žmonės",
+      "d": "Vaikai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_002",
+    "question": "Ką Jėzus atsakė, klausiant, ar galima atleisti žmoną?",
+    "options": {
+      "a": "Taip, galima",
+      "b": "Ne, negalima",
+      "c": "Dėl jūsų širdies kietumo parašė jums Mozė tokį nuostatą",
+      "d": "Niekas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_003",
+    "question": "Ką Jėzus sakė apie vaikus?",
+    "options": {
+      "a": "Leiskite mažutėliams ateiti pas mane",
+      "b": "Draudžiu vaikams ateiti pas mane",
+      "c": "Vaikai negali ateiti pas mane",
+      "d": "Vaikai turi būti su tėvais"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_004",
+    "question": "Ką Jėzus sakė apie turtingą jaunuolį?",
+    "options": {
+      "a": "Jis turi parduoti viską ir sekti paskui jį",
+      "b": "Jis turi laukti",
+      "c": "Jis turi laukti",
+      "d": "Jis turi laukti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_005",
+    "question": "Ką Jėzus sakė apie turtuolius ir Dievo karalystę?",
+    "options": {
+      "a": "Lengviau turtuoliui įeiti į Dievo karalystę",
+      "b": "Lengviau kupranugariui išlįsti pro adatos ausį, negu turtuoliui įeiti į Dievo karalystę",
+      "c": "Turtuoliai negali įeiti į Dievo karalystę",
+      "d": "Turtuoliai turi laukti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_006",
+    "question": "Ką Petras sakė Jėzui?",
+    "options": {
+      "a": "Mes viską palikome ir sekėme paskui tave",
+      "b": "Mes nesime palikę nieko",
+      "c": "Mes sekime paskui kitus",
+      "d": "Mes nesime sekę nieko"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_007",
+    "question": "Ką Jėzus pranašavo apie save?",
+    "options": {
+      "a": "Jis bus išduotas aukštiesiems kunigams ir Rašto aiškintojams",
+      "b": "Jis bus išduotas žmonėms",
+      "c": "Jis bus išduotas mokiniams",
+      "d": "Jis bus išduotas vaikams"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_008",
+    "question": "Ką Jokūbas ir Jonas prašė Jėzaus?",
+    "options": {
+      "a": "Duok mums sėdėti vienam tavo šlovės dešinėje, kitam – kairėje",
+      "b": "Duok mums sėdėti vienam tavo šlovės dešinėje",
+      "c": "Duok mums sėdėti vienam tavo šlovės kairėje",
+      "d": "Duok mums sėdėti vienam tavo šlovės dešinėje ir kairėje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_009",
+    "question": "Ką Jėzus atsakė Jokūbui ir Jonui?",
+    "options": {
+      "a": "Taurę, kurią aš gersiu, jūs gersite, ir krikštu, kuriuo aš būsiu pakrikštytas, jūs irgi būsite pakrikštyti",
+      "b": "Taurę, kurią aš gersiu, jūs negersite",
+      "c": "Krikštu, kuriuo aš būsiu pakrikštytas, jūs irgi būsite pakrikštyti",
+      "d": "Taurę, kurią aš gersiu, jūs gersite"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_010",
+    "question": "Ką Jėzus sakė apie tarnavimą?",
+    "options": {
+      "a": "Tarp jūsų yra ne taip! Kas norėtų tapti didžiausias iš jūsų, tebus jūsų tarnas",
+      "b": "Tarp jūsų yra taip! Kas norėtų tapti didžiausias iš jūsų, tebus jūsų tarnas",
+      "c": "Tarp jūsų yra taip! Kas norėtų tapti mažiausias iš jūsų, tebus jūsų tarnas",
+      "d": "Tarp jūsų yra taip! Kas norėtų tapti mažiausias iš jūsų, tebus jūsų tarnas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_011",
+    "question": "Ką Jėzus sakė aklajam Bartimiejui?",
+    "options": {
+      "a": "Eik, tavo tikėjimas išgelbėjo tave",
+      "b": "Eik, tavo tikėjimas neišgelbėjo tave",
+      "c": "Eik, tavo tikėjimas neišgelbėjo tave",
+      "d": "Eik, tavo tikėjimas neišgelbėjo tave"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_012",
+    "question": "Ką Jėzus sakė apie skyrybas?",
+    "options": {
+      "a": "Ką tad Dievas sujungė, žmogus teneperskiria",
+      "b": "Ką tad Dievas sujungė, žmogus teneperskiria",
+      "c": "Ką tad Dievas sujungė, žmogus teneperskiria",
+      "d": "Ką tad Dievas sujungė, žmogus teneperskiria"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_013",
+    "question": "Ką Jėzus sakė apie vaikus ir Dievo karalystę?",
+    "options": {
+      "a": "Leiskite mažutėliams ateiti pas mane ir netrukdykite, nes tokių yra Dievo karalystė",
+      "b": "Draudžiu mažutėliams ateiti pas mane ir netrukdykite, nes tokių yra Dievo karalystė",
+      "c": "Leiskite mažutėliams ateiti pas mane ir trukdykite, nes tokių yra Dievo karalystė",
+      "d": "Draudžiu mažutėliams ateiti pas mane ir trukdykite, nes tokių yra Dievo karalystė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_014",
+    "question": "Ką Jėzus sakė apie turtingą jaunuolį?",
+    "options": {
+      "a": "Eik parduok visa, ką turi, išdalyk vargšams, tai turėsi lobį danguje. Tuomet ateik ir sek paskui mane",
+      "b": "Eik parduok visa, ką turi, išdalyk vargšams, tai turėsi lobį žemėje. Tuomet ateik ir sek paskui mane",
+      "c": "Eik parduok visa, ką turi, išdalyk vargšams, tai turėsi lobį danguje. Tuomet ateik ir sek paskui mane",
+      "d": "Eik parduok visa, ką turi, išdalyk vargšams, tai turėsi lobį danguje. Tuomet ateik ir sek paskui mane"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_015",
+    "question": "Ką Jėzus sakė apie turtuolius ir Dievo karalystę?",
+    "options": {
+      "a": "Kaip sunku turtingiems įeiti į Dievo karalystę",
+      "b": "Kaip lengva turtingiems įeiti į Dievo karalystę",
+      "c": "Kaip sunku turtingiems įeiti į Dievo karalystę",
+      "d": "Kaip lengva turtingiems įeiti į Dievo karalystę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_016",
+    "question": "Ką Jėzus sakė apie tarnavimą?",
+    "options": {
+      "a": "Kas panorėtų būti pirmas tarp jūsų, tebus visų vergas",
+      "b": "Kas panorėtų būti pirmas tarp jūsų, tebus visų tarnas",
+      "c": "Kas panorėtų būti pirmas tarp jūsų, tebus visų tarnas",
+      "d": "Kas panorėtų būti pirmas tarp jūsų, tebus visų vergas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_017",
+    "question": "Ką Jėzus sakė apie aklą Bartimiejų?",
+    "options": {
+      "a": "Ko nori, kad tau padaryčiau?",
+      "b": "Ko nori, kad tau padaryčiau?",
+      "c": "Ko nori, kad tau padaryčiau?",
+      "d": "Ko nori, kad tau padaryčiau?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_10"
+  }
+]

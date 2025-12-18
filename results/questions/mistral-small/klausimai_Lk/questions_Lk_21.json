@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Lk_21_001",
+    "question": "Kas Jėzus pastebėjo, kai žiūrėjo į turtuolius, dedančius savo dovanas į aukų skrynią?",
+    "options": {
+      "a": "Jis pastebėjo, kad jie buvo labai maloningi.",
+      "b": "Jis pastebėjo, kad jie buvo labai turtingi.",
+      "c": "Jis pastebėjo vieną vargšę našlę, kuri įmetė du smulkius pinigėlius.",
+      "d": "Jis pastebėjo, kad jie buvo labai malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_002",
+    "question": "Ką Jėzus sakė apie našlę, kuri įmetė du smulkius pinigėlius?",
+    "options": {
+      "a": "Jis sakė, kad ji buvo labai maloninga.",
+      "b": "Jis sakė, kad ji buvo labai turtinga.",
+      "c": "Jis sakė, kad ji įmetė daugiau už visus.",
+      "d": "Jis sakė, kad ji buvo labai malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_003",
+    "question": "Ką Jėzus pranašavo apie Jeruzalės šventyklą?",
+    "options": {
+      "a": "Jis pranašavo, kad ji bus išpuošta dar gražiau.",
+      "b": "Jis pranašavo, kad ji bus išgriauta.",
+      "c": "Jis pranašavo, kad ji bus perdaryta.",
+      "d": "Jis pranašavo, kad ji bus palikta nepaliesta."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_004",
+    "question": "Ką Jėzus patarė, kai žmonės klausė apie Jeruzalės sunaikinimo ženklus?",
+    "options": {
+      "a": "Jis patarė jims būti pasiutinčiais.",
+      "b": "Jis patarė jims būti suklaidinti.",
+      "c": "Jis patarė jims būti atidžiais.",
+      "d": "Jis patarė jims būti maloningais."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_005",
+    "question": "Ką Jėzus pranašavo apie ateičią?",
+    "options": {
+      "a": "Jis pranašavo, kad bus taika ir gerovė.",
+      "b": "Jis pranašavo, kad bus karai ir maištai.",
+      "c": "Jis pranašavo, kad bus didelių žemės drebėjimų, ligų ir badmečių.",
+      "d": "Jis pranašavo, kad bus didelių žemės drebėjimų, ligų ir badmečių."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_006",
+    "question": "Ką Jėzus pranašavo apie persekiojimus?",
+    "options": {
+      "a": "Jis pranašavo, kad žmonės bus maloningi.",
+      "b": "Jis pranašavo, kad žmonės bus turtingi.",
+      "c": "Jis pranašavo, kad žmonės pakels prieš jus rankas ir ims jus persekioti.",
+      "d": "Jis pranašavo, kad žmonės bus malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_007",
+    "question": "Ką Jėzus patarė žmonėms, kai jie bus persekiojami?",
+    "options": {
+      "a": "Jis patarė jims būti maloningais.",
+      "b": "Jis patarė jims būti turtingais.",
+      "c": "Jis patarė jims būti atidžiais.",
+      "d": "Jis patarė jims būti malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_008",
+    "question": "Ką Jėzus pranašavo apie Jeruzalės apsiaustį?",
+    "options": {
+      "a": "Jis pranašavo, kad ji bus išpuošta gražiau.",
+      "b": "Jis pranašavo, kad ji bus išgriauta.",
+      "c": "Jis pranašavo, kad ji bus perdaryta.",
+      "d": "Jis pranašavo, kad ji bus palikta nepaliesta."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_009",
+    "question": "Ką Jėzus pranašavo apie kosmines katastrofas?",
+    "options": {
+      "a": "Jis pranašavo, kad bus taika ir gerovė.",
+      "b": "Jis pranašavo, kad bus karai ir maištai.",
+      "c": "Jis pranašavo, kad bus baisi nelemtis ir rūstybė.",
+      "d": "Jis pranašavo, kad bus didelių žemės drebėjimų, ligų ir badmečių."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_010",
+    "question": "Ką Jėzus pranašavo apie Žmogaus Sūnų atėjimą?",
+    "options": {
+      "a": "Jis pranašavo, kad jis ateis paslaptingai.",
+      "b": "Jis pranašavo, kad jis ateis debesyje su didžia galybe ir garbe.",
+      "c": "Jis pranašavo, kad jis ateis maloningai.",
+      "d": "Jis pranašavo, kad jis ateis turtingai."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_011",
+    "question": "Ką Jėzus patarė žmonėms, kai jie matys Žmogaus Sūnų ateinantį?",
+    "options": {
+      "a": "Jis patarė jims būti maloningais.",
+      "b": "Jis patarė jims būti turtingais.",
+      "c": "Jis patarė jims atsitieskite ir pakelkite galvas.",
+      "d": "Jis patarė jims būti malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_012",
+    "question": "Ką Jėzus patarė žmonėms, kad jie galėtų išvengti būsimųjų nelaimių?",
+    "options": {
+      "a": "Jis patarė jims būti maloningais.",
+      "b": "Jis patarė jims būti turtingais.",
+      "c": "Jis patarė jims visą laiką budėti ir melskitės.",
+      "d": "Jis patarė jims būti malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  }
+]

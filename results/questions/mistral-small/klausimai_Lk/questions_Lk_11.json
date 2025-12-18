@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Lk_11_001",
+    "question": "Kas paprašė Jėzaus išmokyti juos melstis?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Vienas mokinys",
+      "d": "Vienas fariziejus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_002",
+    "question": "Kas yra pirmoji maldos dalis, kurią Jėzus moko?",
+    "options": {
+      "a": "Duok mums kasdienės duonos",
+      "b": "Atleisk mums mūsų kaltes",
+      "c": "Tėve, teesie šventas tavo vardas",
+      "d": "Neleisk mūsų gundyti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_003",
+    "question": "Kas Jėzus pasakė, kad turėtume daryti, jei mes norime, kad mūsų kaltės būtų atleistas?",
+    "options": {
+      "a": "Maldauti kasdien",
+      "b": "Atsileisti kitiems jų kaltes",
+      "c": "Daryti malonę Dievui",
+      "d": "Sekti Jėzaus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_004",
+    "question": "Kas Jėzus pasakė, kad turėtume daryti, jei mes norime gauti, ko prašome?",
+    "options": {
+      "a": "Maldauti kasdien",
+      "b": "Prašyti, ieškoti, belskiti",
+      "c": "Daryti malonę Dievui",
+      "d": "Sekti Jėzaus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_005",
+    "question": "Kas Jėzus pasakė, kad Dievas suteiks tiems, kurie jį prašo?",
+    "options": {
+      "a": "Duonos",
+      "b": "Žuvį",
+      "c": "Šventąją Dvasią",
+      "d": "Kiaušinius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_006",
+    "question": "Kas Jėzus pasakė, kad jie sakė, kad jis išvaro demonus?",
+    "options": {
+      "a": "Dievo galia",
+      "b": "Jono galia",
+      "c": "Belzebulo galia",
+      "d": "Savo galia"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_007",
+    "question": "Kas Jėzus pasakė, kad jis išvaro demonus?",
+    "options": {
+      "a": "Dievo galia",
+      "b": "Jono galia",
+      "c": "Belzebulo galia",
+      "d": "Savo galia"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_008",
+    "question": "Kas Jėzus pasakė, kad jie bus jūsų teisėjai?",
+    "options": {
+      "a": "Jono sekėjai",
+      "b": "Jėzaus sekėjai",
+      "c": "Fariziejai",
+      "d": "Rašto mokytojai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_009",
+    "question": "Kas Jėzus pasakė, kad netyroji dvasia, išėjusi iš žmogaus, ieško?",
+    "options": {
+      "a": "Naujo žmogaus",
+      "b": "Poilsio",
+      "c": "Maldos",
+      "d": "Dievo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_010",
+    "question": "Kas Jėzus pasakė, kad netyroji dvasia, sugrįžusi į žmogų, pasiima?",
+    "options": {
+      "a": "Vieną dvasią",
+      "b": "Du dvasias",
+      "c": "Septynias dvasias",
+      "d": "Dešimt dvasių"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_011",
+    "question": "Kas Jėzus pasakė, kad palaiminti?",
+    "options": {
+      "a": "Tie, kurie klausosi Dievo žodžio ir jo laikosi",
+      "b": "Tie, kurie tavo nešiojo",
+      "c": "Tie, kurie tavo žindė",
+      "d": "Tie, kurie tavo klausosi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_012",
+    "question": "Kas Jėzus pasakė, kad jis bus šiai kartai?",
+    "options": {
+      "a": "Ženklas",
+      "b": "Malda",
+      "c": "Dievo žodis",
+      "d": "Dievo sūnus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_013",
+    "question": "Kas Jėzus pasakė, kad jis bus šiai kartai?",
+    "options": {
+      "a": "Ženklas",
+      "b": "Malda",
+      "c": "Dievo žodis",
+      "d": "Dievo sūnus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_014",
+    "question": "Kas Jėzus pasakė, kad jis bus šiai kartai?",
+    "options": {
+      "a": "Ženklas",
+      "b": "Malda",
+      "c": "Dievo žodis",
+      "d": "Dievo sūnus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_015",
+    "question": "Kas Jėzus pasakė, kad jis bus šiai kartai?",
+    "options": {
+      "a": "Ženklas",
+      "b": "Malda",
+      "c": "Dievo žodis",
+      "d": "Dievo sūnus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_016",
+    "question": "Kas Jėzus pasakė, kad jis bus šiai kartai?",
+    "options": {
+      "a": "Ženklas",
+      "b": "Malda",
+      "c": "Dievo žodis",
+      "d": "Dievo sūnus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_017",
+    "question": "Kas Jėzus pasakė, kad jis bus šiai kartai?",
+    "options": {
+      "a": "Ženklas",
+      "b": "Malda",
+      "c": "Dievo žodis",
+      "d": "Dievo sūnus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  }
+]

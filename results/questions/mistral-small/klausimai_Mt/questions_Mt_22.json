@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mt_22_001",
+    "question": "Kas išsiuntė tarnus šaukti pakviestųjų į vestuvių pokylį?",
+    "options": {
+      "a": "Karalius",
+      "b": "Karalienė",
+      "c": "Sūnus",
+      "d": "Tarnas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_002",
+    "question": "Ką padarė pakviestieji, kai buvo pakviesti į vestuves?",
+    "options": {
+      "a": "Atejo į vestuves",
+      "b": "Neapanorėjo eiti",
+      "c": "Išsiuntė atsakymą",
+      "d": "Prašė atidėti vestuves"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_003",
+    "question": "Ką padarė karalius, kai pakviestieji nepanorėjo eiti į vestuves?",
+    "options": {
+      "a": "Nusiuntė kitus tarnus",
+      "b": "Atsisakė rengti vestuves",
+      "c": "Prašė pakviestųjų atvykti vėliau",
+      "d": "Nesiutė dar vieną pakvietimą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_004",
+    "question": "Ką padarė pakviestieji su tarnais, kurie buvo išsiųsti vėl?",
+    "options": {
+      "a": "Sutiko eiti į vestuves",
+      "b": "Nutvėrė ir išniekino tarnus",
+      "c": "Prašė atidėti vestuves",
+      "d": "Atsakė, kad neateis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_005",
+    "question": "Ką padarė karalius, kai pakviestieji nutvėrė ir išniekino tarnus?",
+    "options": {
+      "a": "Nusiuntė dar daugiau tarnų",
+      "b": "Nusiuntė kariuomenę sunaikinti žmogžudžius",
+      "c": "Atsisakė rengti vestuves",
+      "d": "Prašė pakviestųjų atvykti vėliau"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_006",
+    "question": "Ką padarė karalius, kai vestuvės buvo surengtos, bet pakviestieji nebuvo verti?",
+    "options": {
+      "a": "Nusiuntė tarnus į kryžkeles kviečti visus, ką tik sutiko",
+      "b": "Atsisakė rengti vestuves",
+      "c": "Prašė pakviestųjų atvykti vėliau",
+      "d": "Nusiuntė dar daugiau tarnų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_007",
+    "question": "Ką padarė karalius, kai pamatė žmogų, neapsirengusį vestuvių drabužiu?",
+    "options": {
+      "a": "Leido jam likti vestuvėse",
+      "b": "Paliepė tarnams surišti jam rankas ir kojas ir išmesti jį laukan į tamsybes",
+      "c": "Prašė jo atvykti vėliau",
+      "d": "Nusiuntė jį namo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_008",
+    "question": "Ką klausė fariziejai Jėzų apie ciesorių mokesčius?",
+    "options": {
+      "a": "Ar reikia mokėti ciesoriui mokesčius",
+      "b": "Ar reikia mokėti Dievui mokesčius",
+      "c": "Ar reikia mokėti mokesčius visiems",
+      "d": "Ar reikia mokėti mokesčius tik tam, kas turi pinigų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_009",
+    "question": "Ką padarė Jėzus, kai gavo klausimą apie ciesorių mokesčius?",
+    "options": {
+      "a": "Atsakė, kad reikia mokėti ciesoriui mokesčius",
+      "b": "Atsakė, kad reikia mokėti Dievui mokesčius",
+      "c": "Atsakė, kad reikia mokėti mokesčius visiems",
+      "d": "Atsakė, kad reikia mokėti mokesčius tik tam, kas turi pinigų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_010",
+    "question": "Ką padarė Jėzus, kai gavo denarą?",
+    "options": {
+      "a": "Atsakė, kad reikia atiduoti ciesoriui",
+      "b": "Atsakė, kad reikia atiduoti Dievui",
+      "c": "Atsakė, kad reikia atiduoti visiems",
+      "d": "Atsakė, kad reikia atiduoti tik tam, kas turi pinigų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_011",
+    "question": "Ką klausė sadukiejai Jėzų apie mirusiųjų prisikėlimą?",
+    "options": {
+      "a": "Ar mirusiųjų prisikėlimas yra tikras",
+      "b": "Ar mirusiųjų prisikėlimas yra ne tikras",
+      "c": "Ar mirusiųjų prisikėlimas yra būtinas",
+      "d": "Ar mirusiųjų prisikėlimas yra galimas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_012",
+    "question": "Ką atsakė Jėzus sadukiejams apie mirusiųjų prisikėlimą?",
+    "options": {
+      "a": "Atsakė, kad mirusiųjų prisikėlimas yra tikras",
+      "b": "Atsakė, kad mirusiųjų prisikėlimas yra ne tikras",
+      "c": "Atsakė, kad mirusiųjų prisikėlimas yra būtinas",
+      "d": "Atsakė, kad mirusiųjų prisikėlimas yra galimas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_013",
+    "question": "Ką padarė Jėzus, kai gavo klausimą apie didžiausią įsakymą?",
+    "options": {
+      "a": "Atsakė, kad didžiausias įsakymas yra mylėti Viešpatį, savo Dievą, visa širdimi, visa siela ir visu protu",
+      "b": "Atsakė, kad didžiausias įsakymas yra mylėti savo artimą kaip save patį",
+      "c": "Atsakė, kad didžiausias įsakymas yra mylėti visus žmones",
+      "d": "Atsakė, kad didžiausias įsakymas yra mylėti save patį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_014",
+    "question": "Ką padarė Jėzus, kai gavo klausimą apie Mesiją?",
+    "options": {
+      "a": "Atsakė, kad Mesijas yra Dovydo sūnus",
+      "b": "Atsakė, kad Mesijas yra Dovydo Viešpats",
+      "c": "Atsakė, kad Mesijas yra Dovydo brolis",
+      "d": "Atsakė, kad Mesijas yra Dovydo tėvas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  },
+  {
+    "id": "Mt_22_015",
+    "question": "Ką padarė Jėzus, kai gavo klausimą apie Mesiją ir Dovydą?",
+    "options": {
+      "a": "Atsakė, kad Dovydas vadina Mesiją Viešpačiu",
+      "b": "Atsakė, kad Dovydas vadina Mesiją sūnumi",
+      "c": "Atsakė, kad Dovydas vadina Mesiją broliu",
+      "d": "Atsakė, kad Dovydas vadina Mesiją tėvu"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_22"
+  }
+]

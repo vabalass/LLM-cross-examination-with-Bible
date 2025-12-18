@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Mk_6_001",
+    "question": "Kur Jėzus pradėjo mokyti, grįžęs į savo tėviškę?",
+    "options": {
+      "a": "Sinagogoje",
+      "b": "Miesto aikštėje",
+      "c": "Kalno šlaite",
+      "d": "Jūros pakrante"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_002",
+    "question": "Kodėl Jėzaus tėviškės žmonės piktinosi juo?",
+    "options": {
+      "a": "Jis buvo per jaunas",
+      "b": "Jis buvo žinomas dailidė",
+      "c": "Jis nebuvo išmintingas",
+      "d": "Jis nebuvo išgydęs visus ligonius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_003",
+    "question": "Ką Jėzus davė Dvylikai, siunčiant juos į kelionę?",
+    "options": {
+      "a": "Lazdas ir duonos",
+      "b": "Valdžią netyrosioms dvasioms",
+      "c": "Pinigus ir krepšius",
+      "d": "Drabužius ir batelius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_004",
+    "question": "Ką Jėzus liepė Dvylikai daryti, jei jie būtų nepriimami kurioje vietovėje?",
+    "options": {
+      "a": "Giedoti giesmes",
+      "b": "Nusikratyti dulkių nuo kojų",
+      "c": "Maldauti visą nakį",
+      "d": "Išvaryti demonus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_005",
+    "question": "Ką žmonės manė apie Jėzų, klausydami apie jo stebuklus?",
+    "options": {
+      "a": "Jis yra dievas",
+      "b": "Jis yra Jonas Krikštytojas, prisikėlęs iš numirusių",
+      "c": "Jis yra romėnų karininkas",
+      "d": "Jis yra žydų karalius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_006",
+    "question": "Kodėl Erodas bijojo Jono Krikštytojo?",
+    "options": {
+      "a": "Jis bijojo jo stebuklų",
+      "b": "Jis bijojo jo dvasios",
+      "c": "Jis bijojo jo teisumos ir šventumo",
+      "d": "Jis bijojo jo karinio ginkluotės"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_007",
+    "question": "Kas pasakė Erodiadosiuktei prašyti Jono Krikštytojo galvos?",
+    "options": {
+      "a": "Erodas",
+      "b": "Erodiada",
+      "c": "Jono mokiniai",
+      "d": "Erodiadosiuktė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_008",
+    "question": "Ką Jėzus liepė mokiniams daryti, kai žmonės pradėjo bėgti jį sekti?",
+    "options": {
+      "a": "Jie turėjo juos išsiųsti namo",
+      "b": "Jie turėjo juos mokyti",
+      "c": "Jie turėjo juos išgydyti",
+      "d": "Jie turėjo juos pašalinti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_009",
+    "question": "Kiek duonos ir žuvies turėjo mokiniai, kai Jėzus liepė juos padalinti žmonėms?",
+    "options": {
+      "a": "Penkis kepaliukus ir dvi žuvis",
+      "b": "Dešimt kepaliukų ir penkias žuvis",
+      "c": "Tris kepaliukus ir tris žuvis",
+      "d": "Vieną kepaliuką ir vieną žuvį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_010",
+    "question": "Kiek žmonių valgydavo duonos, kai Jėzus padalijo penkis kepaliukus ir dvi žuvis?",
+    "options": {
+      "a": "Tris tūkstančius vyrų",
+      "b": "Penki tūkstančius vyrų",
+      "c": "Šeši tūkstančius vyrų",
+      "d": "Dešimt tūkstančių vyrų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_011",
+    "question": "Kur Jėzus eina vandeniu?",
+    "options": {
+      "a": "Jūros paviršiumi",
+      "b": "Upės paviršiumi",
+      "c": "Ežero paviršiumi",
+      "d": "Upelio paviršiumi"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_012",
+    "question": "Ką mokiniai pamanė, matydami Jėzų einantį ežero paviršiumi?",
+    "options": {
+      "a": "Jis yra dievas",
+      "b": "Jis yra šmėkla",
+      "c": "Jis yra vėjas",
+      "d": "Jis yra žuvys"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_013",
+    "question": "Ką Jėzus tarė mokiniams, kai jie jį pamatė einantį ežero paviršiumi?",
+    "options": {
+      "a": "Jie turėjo bėgti",
+      "b": "Jie turėjo pasislėpti",
+      "c": "Jie turėjo drąsos ir nebijoti",
+      "d": "Jie turėjo maldauti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_014",
+    "question": "Kur Jėzus ir jo mokiniai pasiekė, persiyrę per ežerą?",
+    "options": {
+      "a": "Nazaretą",
+      "b": "Jeruzalę",
+      "c": "Genezaretą",
+      "d": "Betsaidą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_015",
+    "question": "Ką žmonės pradėjo daryti, kai pamatė Jėzų Genezareto krašte?",
+    "options": {
+      "a": "Jie pradėjo bėgti",
+      "b": "Jie pradėjo maldauti",
+      "c": "Jie pradėjo gabenti ligonius",
+      "d": "Jie pradėjo giedoti giesmes"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_016",
+    "question": "Ką žmonės darytų, kai Jėzus užeidavo į kaimus, miestus ar vienkiemius?",
+    "options": {
+      "a": "Jie jį maldaudavo išvaryti demonus",
+      "b": "Jie jį maldaudavo išgydyti ligonius",
+      "c": "Jie jį maldaudavo padalinti duoną",
+      "d": "Jie jį maldaudavo padaryti stebuklus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_017",
+    "question": "Ką žmonės darytų, kad būtų išgydyti?",
+    "options": {
+      "a": "Jie jį maldaudavo",
+      "b": "Jie jį maldaudavo palytėti bent savo drabužio apvadą",
+      "c": "Jie jį maldaudavo padaryti stebuklus",
+      "d": "Jie jį maldaudavo išvaryti demonus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_018",
+    "question": "Kodėl mokiniai dar labiau stebėjosi, kai Jėzus eina vandeniu?",
+    "options": {
+      "a": "Jie nebuvo supratę duonos stebuklo",
+      "b": "Jie bijojo",
+      "c": "Jie nebuvo tikėję",
+      "d": "Jie nebuvo pasiruošę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_6"
+  }
+]

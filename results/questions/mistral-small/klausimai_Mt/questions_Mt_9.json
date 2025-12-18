@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mt_9_001",
+    "question": "Kas atnešė paralyžiuotą žmogų prie Jėzaus?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Fariziejai",
+      "c": "Muitininkai",
+      "d": "Rašto aiškintojai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_002",
+    "question": "Ką Jėzus pasakė paralyžiuotajam?",
+    "options": {
+      "a": "„Kelkis ir vaikščiok!“,",
+      "b": "„Pasitikėk, sūnau, tavo nuodėmės atleistos!“,",
+      "c": "„Eik ir pasimokykite!“,",
+      "d": "„Tavo ligonė atsigijo!“,"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_003",
+    "question": "Kas išgirdęs Jėzaus žodžius apie nuodėmių atleidimą pradėjo murmėti?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Muitininkai",
+      "c": "Rašto aiškintojai",
+      "d": "Fariziejai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_004",
+    "question": "Ką Jėzus pasakė muitininkui Matui?",
+    "options": {
+      "a": "„Eik ir pasimokykite!“,",
+      "b": "„Sek paskui mane!“,",
+      "c": "„Kelkis ir vaikščiok!“,",
+      "d": "„Pasitikėk, sūnau!“,"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_005",
+    "question": "Kas prikišo Jėzaus mokiniams dėl jo bendraujančio su muitininkais ir nusidėjėliais?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Fariziejai",
+      "c": "Rašto aiškintojai",
+      "d": "Muitininkai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_006",
+    "question": "Ką Jėzus atsakė į klausimą, kodėl jo mokiniai nepasninkauja?",
+    "options": {
+      "a": "„Argi gali vestuvininkai gedėti, kol su jais yra jaunikis?“,",
+      "b": "„Niekas palaikio drabužio nelopo naujo milo lopu.“,",
+      "c": "„Taip pat niekas nepila jauno vyno į senus vynmaišius.“,",
+      "d": "„Eikite ir pasimokykite!“,"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_007",
+    "question": "Kas prisiartino prie Jėzaus ir paprašė pagydyti mirusios dukrelės?",
+    "options": {
+      "a": "Mokinis",
+      "b": "Sinagogos vyresnysis",
+      "c": "Muitininkas",
+      "d": "Rašto aiškintojas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_008",
+    "question": "Ką moteris, serganti kraujoplūdžiu, padarė?",
+    "options": {
+      "a": "Paprašė malonės",
+      "b": "Palietė Jėzaus apsiausto apvadą",
+      "c": "Atsisveikino su Jėzumi",
+      "d": "Pasakė, kad ji išgyijo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_009",
+    "question": "Ką Jėzus pasakė neregiems, kurie sekė jį?",
+    "options": {
+      "a": "„Ar tikite, kad aš galiu jus pagydyti?“,",
+      "b": "„Eikite ir pasimokykite!“,",
+      "c": "„Pasitikėk, sūnau!“,",
+      "d": "„Tebūnie jums, kaip tikite.“,"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_010",
+    "question": "Ką Jėzus padarė, kai atvedė demono apsėstą nebylį?",
+    "options": {
+      "a": "Išvijo demoną",
+      "b": "Pasakė, kad jis nieko negali padaryti",
+      "c": "Paprašė jį palikti",
+      "d": "Pasakė, kad jis turi pasninkauti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_011",
+    "question": "Ką Jėzus padarė, matydamas suvargusias minias?",
+    "options": {
+      "a": "Gailėjosi jų",
+      "b": "Pasakė, kad jie turi pasninkauti",
+      "c": "Išvijo juos",
+      "d": "Pasakė, kad jie turi eiti namo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  },
+  {
+    "id": "Mt_9_012",
+    "question": "Ką Jėzus pasakė mokiniams, matydamas suvargusias minias?",
+    "options": {
+      "a": "„Pjūtis didelė, o darbininkų maža.“,",
+      "b": "„Eikite ir pasimokykite!“,",
+      "c": "„Pasitikėk, sūnau!“,",
+      "d": "„Tebūnie jums, kaip tikite.“,"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_9"
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Jn_1_001",
+    "question": "Kas buvo pradžioje?",
+    "options": {
+      "a": "Įstatymas",
+      "b": "Žodis",
+      "c": "Tamsa",
+      "d": "Žmogus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_002",
+    "question": "Kas buvo pas Dievą pradžioje?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Įstatymas",
+      "d": "Žmogus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_003",
+    "question": "Kas davė gyvybę?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Įstatymas",
+      "d": "Žmogus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_004",
+    "question": "Kas buvo siųstas iš Dievo?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Žmogus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_005",
+    "question": "Kas buvo tikroji šviesa?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Žmogus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_006",
+    "question": "Kas buvo pasaulio pradžioje?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Žmogus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_007",
+    "question": "Kas davė galią tapti Dievo vaikais?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Žmogus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_008",
+    "question": "Kas buvo paskui Jono?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Žmogus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_009",
+    "question": "Kas buvo Dievo Avinėlis?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_010",
+    "question": "Kas buvo Jėzaus pirmieji mokiniai?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Andriejus ir Simonas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_011",
+    "question": "Kas buvo Jėzaus pirmasis mokinys?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_012",
+    "question": "Kas buvo Jėzaus antrasis mokinys?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Simonas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_013",
+    "question": "Kas buvo Jėzaus trečiasis mokinys?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Pilypas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_014",
+    "question": "Kas buvo Jėzaus ketvirtasis mokinys?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Natanaelis"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_015",
+    "question": "Kas buvo Jėzaus penktasis mokinys?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Petras"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_016",
+    "question": "Kas buvo Jėzaus šeštasis mokinys?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  },
+  {
+    "id": "Jn_1_017",
+    "question": "Kas buvo Jėzaus septintasis mokinys?",
+    "options": {
+      "a": "Žodis",
+      "b": "Tamsa",
+      "c": "Jonas",
+      "d": "Simonas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_1"
+  }
+]

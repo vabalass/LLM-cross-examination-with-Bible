@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Lk_4_001",
+    "question": "Kas vedžiojo Jėzų po dykumą?",
+    "options": {
+      "a": "Dievas",
+      "b": "Šventoji Dvasia",
+      "c": "Velnias",
+      "d": "Angelai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_002",
+    "question": "Kiek dienų Jėzus praleido dykumoje?",
+    "options": {
+      "a": "Trisdešimt",
+      "b": "Keturiasdešimt",
+      "c": "Penkiasdešimt",
+      "d": "Šešiasdešimt"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_003",
+    "question": "Ką velnias pasiūlė Jėzui, kad jis parpuolęs?",
+    "options": {
+      "a": "Visas pasaulio turtus",
+      "b": "Visas pasaulio karalystes",
+      "c": "Visą pasaulio žiniją",
+      "d": "Visą pasaulio valdžią"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_004",
+    "question": "Ką Jėzus atsakė velniui, kai šis jį gundė?",
+    "options": {
+      "a": "Aš esu Dievo Sūnus",
+      "b": "Parašyta: Žmogus gyvas ne viena duona!",
+      "c": "Aš nieko nenorėjau",
+      "d": "Aš esu čia, kad tave išgelbėčiau"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_005",
+    "question": "Kur velnias nusivedė Jėzų, kad jį gundytų?",
+    "options": {
+      "a": "Į Jeruzalę",
+      "b": "Į Nazaretą",
+      "c": "Į Kafarnaumą",
+      "d": "Į Betanią"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_006",
+    "question": "Ką Jėzus atsakė velniui, kai šis jį gundė šventyklos šlemens viršuje?",
+    "options": {
+      "a": "Aš esu Dievo Sūnus",
+      "b": "Parašyta: Negundyk Viešpaties, savo Dievo!",
+      "c": "Aš nieko nenorėjau",
+      "d": "Aš esu čia, kad tave išgelbėčiau"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_007",
+    "question": "Kur Jėzus pradėjo mokyti po gundymų dykumoje?",
+    "options": {
+      "a": "Nazarete",
+      "b": "Jeruzalėje",
+      "c": "Galilėjoje",
+      "d": "Kafarnaume"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_008",
+    "question": "Ką Jėzus skaityė sinagogoje Nazarete?",
+    "options": {
+      "a": "Pranašo Izaijo knygą",
+      "b": "Pranašo Jeremijo knygą",
+      "c": "Pranašo Danieliaus knygą",
+      "d": "Pranašo Ezechieliaus knygą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_009",
+    "question": "Ką Jėzus atsakė žmonėms, kai jie klausė, ar jis ne Juozapo sūnus?",
+    "options": {
+      "a": "Taip, aš esu Juozapo sūnus",
+      "b": "Ne, aš esu Dievo Sūnus",
+      "c": "Jūs, be abejo, man priminsite patarlę: 'Gydytojau, pats pasigydyk'",
+      "d": "Aš esu čia, kad tave išgelbėčiau"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_010",
+    "question": "Ką Jėzus padarė, kai demonas apsėtasis žmogus pradėjo šaukti sinagogoje?",
+    "options": {
+      "a": "Jis išvijo demoną",
+      "b": "Jis pagydė žmogų",
+      "c": "Jis sudraudė demoną ir išvijo jį",
+      "d": "Jis pasakė demonui, kad jis yra Dievo Sūnus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_011",
+    "question": "Ką Jėzus padarė, kai atėjo į Simoną namie?",
+    "options": {
+      "a": "Jis pagydė Simoną",
+      "b": "Jis pagydė Simonos uošvę",
+      "c": "Jis pagydė Simonos vaiką",
+      "d": "Jis pagydė Simoną ir jo šeimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_012",
+    "question": "Ką Jėzus padarė, kai saule leidžiantis žmonės vedė ligonius prie jo?",
+    "options": {
+      "a": "Jis pagydė juos",
+      "b": "Jis sudraudė juos",
+      "c": "Jis sudraudė juos ir pagydė juos",
+      "d": "Jis pasakė juoms, kad jie turi tikėti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_013",
+    "question": "Ką Jėzus pasakė žmonėms, kai jie mėgino jį sulaikyti, kad jis jų nepaliktų?",
+    "options": {
+      "a": "Aš esu čia, kad tave išgelbėčiau",
+      "b": "Aš esu čia, kad tave mokyčiau",
+      "c": "Ir kitiems miestams aš turiu skelbti gerąją naujieną apie Dievo karalystę, nes tam ir esu siųstas",
+      "d": "Aš esu čia, kad tave išgelbėčiau ir mokyčiau"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_014",
+    "question": "Kur Jėzus skelbė žodį po to, kai paliko Nazaretą?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Galilėjoje",
+      "c": "Judėjos sinagogose",
+      "d": "Kafarnaume"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  }
+]

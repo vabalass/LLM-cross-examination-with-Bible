@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Lk_3_001",
+    "question": "Kada prasidėjo Jono Krikštytojo veikla?",
+    "options": {
+      "a": "Penkioliktais ciesoriaus Tiberijaus viešpatavimo metais",
+      "b": "Pirmuoju ciesoriaus Tiberijaus viešpatavimo metais",
+      "c": "Penkioliktu ciesoriaus Tiberijaus viešpatavimo metais",
+      "d": "Penkioliktais ciesoriaus Kaligulos viešpatavimo metais"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_002",
+    "question": "Kas valdė Judėją, kai Jono Krikštytojo veikla prasidėjo?",
+    "options": {
+      "a": "Herodas Didysis",
+      "b": "Poncijus Pilotas",
+      "c": "Herodas Antipas",
+      "d": "Kvirinijus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_003",
+    "question": "Kas buvo Jono Krikštytojo tėvas?",
+    "options": {
+      "a": "Zacharijas",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Simonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_004",
+    "question": "Ką skelbė Jono Krikštytojas?",
+    "options": {
+      "a": "Atsivertimo krikštą nuodėmėms atleisti",
+      "b": "Naująjį Įstatymą",
+      "c": "Dievo karalystės atėjimą",
+      "d": "Amžinąjį gyvenimą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_005",
+    "question": "Ką Jono Krikštytojas sakė minioms, kurios ateinėjo krikštytis?",
+    "options": {
+      "a": "Duokite tikrų atsivertimo vaisių",
+      "b": "Melskitės Dievui",
+      "c": "Sekite manęs",
+      "d": "Mokykitės manęs"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_006",
+    "question": "Ką Jono Krikštytojas sakė muitininkams?",
+    "options": {
+      "a": "Nereikalaukite daugiau, negu jums nustatyta",
+      "b": "Atsisakykite savo darbo",
+      "c": "Mokykitės manęs",
+      "d": "Melskitės Dievui"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_007",
+    "question": "Ką Jono Krikštytojas sakė kariams?",
+    "options": {
+      "a": "Nieko neskriauskite ir neįdavinėkite dėl pelno, tenkinkitės savo alga",
+      "b": "Atsisakykite savo darbo",
+      "c": "Mokykitės manęs",
+      "d": "Melskitės Dievui"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_008",
+    "question": "Ką Jono Krikštytojas sakė apie ateinančį po jį?",
+    "options": {
+      "a": "Jis krikštys jus Šventąja Dvasia ir ugnimi",
+      "b": "Jis atneš Dievo karalystę",
+      "c": "Jis išgelbės jus nuo nuodėmių",
+      "d": "Jis mokys jus Dievo žodžių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_009",
+    "question": "Kas uždarė Joną į kalėjimą?",
+    "options": {
+      "a": "Poncijus Pilotas",
+      "b": "Herodas Antipas",
+      "c": "Kvirinijus",
+      "d": "Herodas Didysis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_010",
+    "question": "Ką įvyko, kai Jėzus pasikrikštijo?",
+    "options": {
+      "a": "Atsivėrė dangus ir Šventoji Dvasia nusileido ant jo tarsi balandis",
+      "b": "Jis pamatė Dievo vaizdą",
+      "c": "Jis girdėjo Dievo balsą",
+      "d": "Jis pamatė Šventąją Dvasią"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_011",
+    "question": "Kiek metų Jėzus buvo, kai pradėjo veikti?",
+    "options": {
+      "a": "Trisdešimt",
+      "b": "Trisdešimt penki",
+      "c": "Trisdešimt du",
+      "d": "Trisdešimt penki"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_012",
+    "question": "Kas buvo Jėzaus tėvas pagal Luko evangeliją?",
+    "options": {
+      "a": "Juozapas",
+      "b": "Helis",
+      "c": "Matatas",
+      "d": "Levis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  }
+]

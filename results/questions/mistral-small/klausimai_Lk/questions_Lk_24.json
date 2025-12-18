@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Lk_24_001",
+    "question": "Kada moterys atėjo prie kapo?",
+    "options": {
+      "a": "Antroji savaitės diena",
+      "b": "Pirmadienį",
+      "c": "Trečiadienį",
+      "d": "Šeštadienį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_002",
+    "question": "Kas nebuvo rasta kapo?",
+    "options": {
+      "a": "Akmenys",
+      "b": "Jėzaus kūnas",
+      "c": "Drabužiai",
+      "d": "Tepalai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_003",
+    "question": "Kiek vyrai pasirodė moterims prie kapo?",
+    "options": {
+      "a": "Vienas",
+      "b": "Du",
+      "c": "Trys",
+      "d": "Keturi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_004",
+    "question": "Kas pasakė moterims, kad Jėzus prisikėlė?",
+    "options": {
+      "a": "Angelai",
+      "b": "Vyrai spindinčiais drabužiais",
+      "c": "Apaštalai",
+      "d": "Petras"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_005",
+    "question": "Kas nubėgo prie kapo po moterų pranešimo?",
+    "options": {
+      "a": "Jokūbas",
+      "b": "Petras",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_006",
+    "question": "Kur keliavo du mokiniai, kurie susitiko Jėzų?",
+    "options": {
+      "a": "Jericho",
+      "b": "Emaus",
+      "c": "Nazaretas",
+      "d": "Betanija"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_007",
+    "question": "Kas buvo vienas iš dviejų mokinčių, kurie keliavo į Emausą?",
+    "options": {
+      "a": "Petras",
+      "b": "Andriejus",
+      "c": "Kleopas",
+      "d": "Jonas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_008",
+    "question": "Ką Jėzus aiškino mokinims kelyje į Emausą?",
+    "options": {
+      "a": "Apie karalystę",
+      "b": "Apie pranašus",
+      "c": "Apie Raštus apie save",
+      "d": "Apie dorybę"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_009",
+    "question": "Ką Jėzus padarė, kai vakarieniaudavo su mokiniais?",
+    "options": {
+      "a": "Palaikė pamokslą",
+      "b": "Laužė duoną ir davė jiems",
+      "c": "Malšino audrą",
+      "d": "Išgijo vandenį į vyną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_010",
+    "question": "Ką mokiniai jautė, kai Jėzus aiškino Raštus?",
+    "options": {
+      "a": "Jie jautė pyką",
+      "b": "Jie jautė širdys užsidegti",
+      "c": "Jie jautė trošką",
+      "d": "Jie jautė baimę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_011",
+    "question": "Ką Jėzus parodė apaštalams, kad įtikinti juos, kad jis yra jis?",
+    "options": {
+      "a": "Savo rankas ir kojas",
+      "b": "Savo drabužius",
+      "c": "Savo veidą",
+      "d": "Savo žodžius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_012",
+    "question": "Ką Jėzus valgo apaštalų akyse?",
+    "options": {
+      "a": "Duoną",
+      "b": "Keptą žuvį",
+      "c": "Vyną",
+      "d": "Vaisius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_013",
+    "question": "Ką Jėzus pasakė apie save ir Raštus?",
+    "options": {
+      "a": "Jis pasakė, kad jis yra Raštų centras",
+      "b": "Jis pasakė, kad jis yra Raštų pranašas",
+      "c": "Jis pasakė, kad jis yra Raštų liudytojas",
+      "d": "Jis pasakė, kad jis yra Raštų autorius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_014",
+    "question": "Ką Jėzus pasakė apie Mesiją?",
+    "options": {
+      "a": "Jis pasakė, kad Mesijas turi kentėti ir trečią dieną prisikelti",
+      "b": "Jis pasakė, kad Mesijas turi būti karalius",
+      "c": "Jis pasakė, kad Mesijas turi būti pranašas",
+      "d": "Jis pasakė, kad Mesijas turi būti dvasia"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_015",
+    "question": "Ką Jėzus pasakė apie apaštalus?",
+    "options": {
+      "a": "Jie turi skelbti apie jį visoms tautoms",
+      "b": "Jie turi būti jo pavaldiniai",
+      "c": "Jie turi būti jo draugai",
+      "d": "Jie turi būti jo mokytojai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_016",
+    "question": "Ką Jėzus pasakė apie Tėvą?",
+    "options": {
+      "a": "Jis pasakė, kad Tėvas atsiųs jėgą",
+      "b": "Jis pasakė, kad Tėvas atsiųs malonę",
+      "c": "Jis pasakė, kad Tėvas atsiųs dvasią",
+      "d": "Jis pasakė, kad Tėvas atsiųs žodžius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_017",
+    "question": "Kur Jėzus nusivedė apaštalus?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Nazarete",
+      "c": "Betanijoje",
+      "d": "Emaus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  }
+]

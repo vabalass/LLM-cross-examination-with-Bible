@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Lk_15_001",
+    "question": "Kas pasakė palyginimą apie paklydusią avį?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Rašto aiškintojai",
+      "c": "Jėzus",
+      "d": "Muitininkai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_002",
+    "question": "Kiek avių turėjo žmogus, kuris pametė vieną?",
+    "options": {
+      "a": "50",
+      "b": "100",
+      "c": "150",
+      "d": "200"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_003",
+    "question": "Kas džiaugiasi dėl vieno atsivertusio nusidėjėlio?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Rašto aiškintojai",
+      "c": "Dievo angelai",
+      "d": "Muitininkai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_004",
+    "question": "Kiek drachmų turėjo moteris, kuri pametė vieną?",
+    "options": {
+      "a": "5",
+      "b": "10",
+      "c": "15",
+      "d": "20"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_005",
+    "question": "Kas pasakė palyginimą apie pamestą drachmą?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Rašto aiškintojai",
+      "c": "Jėzus",
+      "d": "Muitininkai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_006",
+    "question": "Kiek sūnų turėjo žmogus, kuris pasakė palyginimą?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_007",
+    "question": "Kur jaunesnysis sūnus išleido savo turtą?",
+    "options": {
+      "a": "Namie",
+      "b": "Tolygėje",
+      "c": "Tolimoje šalyje",
+      "d": "Kaimyne"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_008",
+    "question": "Ką jaunesnysis sūnus darė, kai išleido visą turtą?",
+    "options": {
+      "a": "Grįžo namo",
+      "b": "Tarnavo kiaulių ganytoju",
+      "c": "Tarnavo samdiniu",
+      "d": "Tarnavo muitininku"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_009",
+    "question": "Ką tėvas liepė padaryti, kai jaunesnysis sūnus grįžo?",
+    "options": {
+      "a": "Išvaryti jį",
+      "b": "Atnešti geriausią drabužį ir apvilkti jį, užmaukyti jam ant piršto žiedą, apaukoti kojas, atvesti nupenėtą veršį ir papjauti",
+      "c": "Nesėklioti jį",
+      "d": "Nesakyti su juo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_010",
+    "question": "Kodėl tėvas liepė puotauti ir linksmintis?",
+    "options": {
+      "a": "Nes jaunesnysis sūnus buvo miręs ir vėl atgijo, buvo pražuvęs ir atsirado",
+      "b": "Nes vyresnysis sūnus buvo miręs ir vėl atgijo, buvo pražuvęs ir atsirado",
+      "c": "Nes tėvas norėjo puotauti",
+      "d": "Nes tėvas norėjo linksmintis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  }
+]

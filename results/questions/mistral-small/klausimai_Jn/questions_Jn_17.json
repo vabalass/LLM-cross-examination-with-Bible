@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_17_001",
+    "question": "Kas yra amžinasis gyvenimas?",
+    "options": {
+      "a": "Turtingumas ir gerovė",
+      "b": "Pažinti vienintelį tikrąjį Dievą ir tavo siųstąjį Jėzų – Mesiją",
+      "c": "Ilgaamžiškumas",
+      "d": "Sėkmė ir garsas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_002",
+    "question": "Kas Jėzus atliko žemėje?",
+    "options": {
+      "a": "Statė šventyklą",
+      "b": "Atliko darbą, kurį jam buvo duotas nuveikti",
+      "c": "Kelionavo po pasaulį",
+      "d": "Rašė knygas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_003",
+    "question": "Ką Jėzus perdavė žmonėms?",
+    "options": {
+      "a": "Tavo man patikėtus žodžius",
+      "b": "Tavo man patikėtus pinigus",
+      "c": "Tavo man patikėtus darbus",
+      "d": "Tavo man patikėtus namus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_004",
+    "question": "Ką Jėzus meldžiasi už savo pavestuosius?",
+    "options": {
+      "a": "Kad jie būtų viena kaip ir mes",
+      "b": "Kad jie būtų turtingi",
+      "c": "Kad jie būtų garsūs",
+      "d": "Kad jie būtų sėkmingi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_005",
+    "question": "Ką Jėzus neprašo Dievo?",
+    "options": {
+      "a": "Kad juos paimtum iš pasaulio",
+      "b": "Kad juos apsaugotum nuo piktojo",
+      "c": "Kad juos pašventintum",
+      "d": "Kad juos pašlovintum"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_006",
+    "question": "Ką Jėzus prašo Dievo padaryti su savo pavestujais?",
+    "options": {
+      "a": "Pašventinkjuos tiesa",
+      "b": "Pašventinkjuos pinigais",
+      "c": "Pašventinkjuos darbais",
+      "d": "Pašventinkjuos namais"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_007",
+    "question": "Ką Jėzus nori, kad būtų su jo pavestujais?",
+    "options": {
+      "a": "Kad būtų su manim ten, kur ir aš",
+      "b": "Kad būtų su manim ten, kur ir aš",
+      "c": "Kad būtų su manim ten, kur ir aš",
+      "d": "Kad būtų su manim ten, kur ir aš"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_008",
+    "question": "Ką Jėzus pagarsino?",
+    "options": {
+      "a": "Tavo vardą",
+      "b": "Tavo pinigus",
+      "c": "Tavo darbus",
+      "d": "Tavo namus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_17"
+  }
+]

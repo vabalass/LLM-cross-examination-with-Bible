@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Lk_2_001",
+    "question": "Kas išleido įsakymą surašyti visus valstybės gyventojus?",
+    "options": {
+      "a": "Cesaris Augustas",
+      "b": "Kvirijus",
+      "c": "Herodas",
+      "d": "Pilipas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_002",
+    "question": "Iš kurio miesto Juozapas ėjo į Betliejų?",
+    "options": {
+      "a": "Jeruzalė",
+      "b": "Nazaretas",
+      "c": "Galilėja",
+      "d": "Kafarnaumas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_003",
+    "question": "Kas pasakė piemenims apie Jėzaus gimimą?",
+    "options": {
+      "a": "Angelai",
+      "b": "Marija",
+      "c": "Juozapas",
+      "d": "Simeonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_004",
+    "question": "Kas buvo Jėzaus motina?",
+    "options": {
+      "a": "Ona",
+      "b": "Marija",
+      "c": "Elizabeta",
+      "d": "Ana"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_005",
+    "question": "Kur Jėzus buvo paguldytas gimimo metu?",
+    "options": {
+      "a": "Vystyklose",
+      "b": "Ėdžiose",
+      "c": "Lovelyje",
+      "d": "Užeigoje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_006",
+    "question": "Kas nurodė Jėzui duoti vardą?",
+    "options": {
+      "a": "Angelai",
+      "b": "Marija",
+      "c": "Juozapas",
+      "d": "Simeonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_007",
+    "question": "Kam Jėzus buvo paaukojamas šventykloje?",
+    "options": {
+      "a": "Viešpačiui",
+      "b": "Angelams",
+      "c": "Piemenims",
+      "d": "Mokytojams"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_008",
+    "question": "Kas šlovino Dievą ir sakė: „Dabar gali, Valdove, kaip buvai žadėjęs, leisti savo tarnui ramiai iškeliauti“?",
+    "options": {
+      "a": "Marija",
+      "b": "Juozapas",
+      "c": "Simeonas",
+      "d": "Ona"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_009",
+    "question": "Kas buvo pranašė ir kalbėjo apie kūdikį visiems, kurie laukė Jeruzalės išvadavimo?",
+    "options": {
+      "a": "Simeonas",
+      "b": "Ona",
+      "c": "Marija",
+      "d": "Juozapas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_010",
+    "question": "Kur Jėzus augo po paaukojimo šventykloje?",
+    "options": {
+      "a": "Jeruzalė",
+      "b": "Betliejus",
+      "c": "Nazaretas",
+      "d": "Galilėja"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_011",
+    "question": "Kiek metų Jėzus buvo, kai jis pasiliko Jeruzalėje?",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "14",
+      "d": "16"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_012",
+    "question": "Kur Jėzus buvo rastas po trijų dienų ieškant?",
+    "options": {
+      "a": "Šventykloje",
+      "b": "Užeigoje",
+      "c": "Piemenų lauke",
+      "d": "Nazarete"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_013",
+    "question": "Kas stebėjosi Jėzaus išmanymu ir atsakymais šventykloje?",
+    "options": {
+      "a": "Marija",
+      "b": "Juozapas",
+      "c": "Mokytojai",
+      "d": "Piemenys"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_014",
+    "question": "Kas sakė: „Kam gi manęs ieškojote? Argi nežinojote, kad man reikia būti savo Tėvo reikaluose?“?",
+    "options": {
+      "a": "Marija",
+      "b": "Juozapas",
+      "c": "Jėzus",
+      "d": "Simeonas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_015",
+    "question": "Kur Jėzus grįžo po įvykių Jeruzalėje?",
+    "options": {
+      "a": "Betliejus",
+      "b": "Galilėja",
+      "c": "Nazaretas",
+      "d": "Jeruzalė"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_016",
+    "question": "Kas laikė visus įvykius savo širdyje?",
+    "options": {
+      "a": "Juozapas",
+      "b": "Marija",
+      "c": "Simeonas",
+      "d": "Ona"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_017",
+    "question": "Kas augo išmintimi, metais ir Dievo malonėje?",
+    "options": {
+      "a": "Juozapas",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Simeonas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  }
+]

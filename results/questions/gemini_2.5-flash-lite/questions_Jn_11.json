@@ -1,0 +1,249 @@
+[
+  {
+    "id": "Jn_11_001",
+    "question": "Kaip vardu buvo vadinamas Lozoriaus sesuo, kuri patepė Viešpatį kvepalais ir nušluostė plaukais jo kojas?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Joana",
+      "d": "Ana"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_002",
+    "question": "Kada Jėzus nusprendė keliauti atgal į Judėją pas sergantį Lozorių?",
+    "options": {
+      "a": "Iš karto išgirdęs žinią",
+      "b": "Po vienos dienos",
+      "c": "Po dviejų dienų",
+      "d": "Po trijų dienų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_003",
+    "question": "Ką Jėzus pasakė mokiniams, kai jie išreiškė nerimą dėl grįžimo į Judėją, kur žydai kėsinosi jį užmušti akmenimis?",
+    "options": {
+      "a": "„Eikime, nes Dievo valia turi išsipildyti.“",
+      "b": "„Argi ne dvylika valandų turi diena?! Kas vaikščioja dieną, tas nesuklumpa, nes mato šio pasaulio šviesą.“",
+      "c": "„Nebijokite, aš esu su jumis.“",
+      "d": "„Jie manęs neužmuš, nes mano laikas dar neatėjo.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_004",
+    "question": "Kaip Jėzus apibūdino Lozoriaus būklę mokiniams, kol dar nebuvo atvirai pasakęs, kad jis mirė?",
+    "options": {
+      "a": "Jis sunkiai serga",
+      "b": "Jis labai silpnas",
+      "c": "Jis užmigo",
+      "d": "Jis yra kritinės būklės"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_005",
+    "question": "Ką Jėzus pasakė apie Lozoriaus mirtį, siekdamas, kad mokiniai įtikėtų?",
+    "options": {
+      "a": "„Jis mirė, bet greitai pasveiks.“",
+      "b": "„Jis mirė, bet aš jį prikelsiu.“",
+      "c": "„Lozorius mirė. Bet aš džiaugiuosi, kad ten nebuvau, – dėl jūsų, kad jūs įtikėtumėte.“",
+      "d": "„Jis mirė, bet tai yra Dievo planas.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_006",
+    "question": "Ką atsakė Tomas, vadinamas Dvyniu, išgirdęs, kad Jėzus nori eiti pas Lozorių?",
+    "options": {
+      "a": "„Gerai, Viešpatie, eikime.“",
+      "b": "„Aš bijau eiti.“",
+      "c": "„Eikime ir numirti su juo!“",
+      "d": "„Ar tikrai turime ten eiti?“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_007",
+    "question": "Kiek laiko Lozorius buvo išgulėjęs kapo rūsyje, kai Jėzus atėjo?",
+    "options": {
+      "a": "Vieną dieną",
+      "b": "Dvi dienas",
+      "c": "Tris dienas",
+      "d": "Keturias dienas"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_008",
+    "question": "Kiek maždaug stadijų Betanija buvo arti Jeruzalės?",
+    "options": {
+      "a": "Penkių stadijų",
+      "b": "Dešimties stadijų",
+      "c": "Penkiolikos stadijų",
+      "d": "Dvidešimties stadijų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_009",
+    "question": "Ką Morta pasakė Jėzui, kai jis atėjo?",
+    "options": {
+      "a": "„Ačiū, kad atėjai, Viešpatie.“",
+      "b": "„Viešpatie, jei būtum čia buvęs, mano brolis nebūtų miręs.“",
+      "c": "„Mano brolis miręs, ką dabar darysime?“",
+      "d": "„Aš tikiu, kad tu gali jį prikelti.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_010",
+    "question": "Ką Jėzus atsakė Mortai, kai ji pasakė, kad tikinti Dievui duos, ko paprašys?",
+    "options": {
+      "a": "„Aš tau parodysiu.“",
+      "b": "„Tavo brolis prisikels!“",
+      "c": "„Viskas įmanoma tikinčiam.“",
+      "d": "„Palauk, kol ateis mano laikas.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_011",
+    "question": "Kada, pasak Mortos, jos brolis turėtų prisikelti?",
+    "options": {
+      "a": "Kitą dieną",
+      "b": "Paskutinę dieną, mirusiems keliantis",
+      "c": "Kai Jėzus jį prikels",
+      "d": "Kai ateis Mesijas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_012",
+    "question": "Kaip Jėzus prisistatė Mortai, kalbėdamas apie prisikėlimą ir gyvenimą?",
+    "options": {
+      "a": "„Aš esu kelias, tiesa ir gyvenimas.“",
+      "b": "„Aš esu prisikėlimas ir gyvenimas.“",
+      "c": "„Aš esu pasaulio šviesa ir gyvenimas.“",
+      "d": "„Aš esu tas, kuris duoda amžinąjį gyvenimą.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_013",
+    "question": "Ką Morta atsakė į Jėzaus klausimą „Ar tai tiki?“",
+    "options": {
+      "a": "„Taip, Viešpatie, aš tikiu.“",
+      "b": "„Nežinau, Viešpatie.“",
+      "c": "„Aš noriu dar suprasti.“",
+      "d": "„Taip, Viešpatie! Aš tikiu, jog tu Mesijas, Dievo Sūnus, kuris turi ateiti į šį pasaulį.“"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_014",
+    "question": "Kaip Marija sužinojo, kad Jėzus atėjo?",
+    "options": {
+      "a": "Ji pati jį pamatė",
+      "b": "Jai pranešė Morta",
+      "c": "Jai pranešė namuose buvę žydai",
+      "d": "Jai pranešė Jėzaus mokiniai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_015",
+    "question": "Kaip Jėzus reagavo, pamatęs Mariją verkiančią ir kartu su ja atėjusius žydus?",
+    "options": {
+      "a": "Jis juos guodė",
+      "b": "Jis labai susigraudino ir susijaudinęs",
+      "c": "Jis paprašė jų liautis verkus",
+      "d": "Jis pyko ant jų"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_016",
+    "question": "Ką Morta pasakė Jėzui, kai jis paprašė nuristi akmenį nuo kapo?",
+    "options": {
+      "a": "„Gerai, Viešpatie.“",
+      "b": "„Tai per sunku, Viešpatie.“",
+      "c": "„Viešpatie, jau dvokia. Jau keturios dienos, kaip jis miręs.“",
+      "d": "„Ar tu tikrai gali tai padaryti?“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_017",
+    "question": "Kaip Jėzus kreipėsi į Lozorių, norėdamas jį prikelti?",
+    "options": {
+      "a": "„Lozoriau, kelkis!“",
+      "b": "„Lozoriau, ateik čia!“",
+      "c": "„Lozoriau, išeik!“",
+      "d": "„Lozoriau, prisikelk!“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_018",
+    "question": "Ką aukštieji kunigai ir fariziejai svarstė po Lozoriaus prikėlimo?",
+    "options": {
+      "a": "Kaip įtikinti žmones, kad tai nebuvo stebuklas",
+      "b": "Kaip patiems atlikti panašius stebuklus",
+      "c": "Ką daryti, nes Jėzus daro daug stebuklų, ir žmonės į jį tiki",
+      "d": "Kaip pagerbti Jėzų už jo darbus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_019",
+    "question": "Ką Kajafas, vyriausiasis kunigas, pasakė apie tai, jog vienas žmogus turėtų mirti už tautą?",
+    "options": {
+      "a": "„Tai neteisinga, vienas žmogus neturėtų mirti už visus.“",
+      "b": "„Jūs nieko neišmanote ir nepagalvojate, jog jums geriau, kad vienas žmogus mirtų už tautą, o ne visa tauta žūtų.“",
+      "c": "„Mes turime ieškoti kito sprendimo.“",
+      "d": "„Tai Dievo valia, kad jis mirtų.“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_11"
+  }
+]

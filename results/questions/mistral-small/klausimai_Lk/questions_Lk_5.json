@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Lk_5_001",
+    "question": "Kur Jėzus stovėjo, kai pamatė dvi valtis prie Genezareto ežero?",
+    "options": {
+      "a": "Ant kalno",
+      "b": "Prie ežero kranto",
+      "c": "Viename mieste",
+      "d": "Prie muitinės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_002",
+    "question": "Kas buvo vienas iš Simono bendrų, kurie buvo sužavėti dideliu žuvų valksmu?",
+    "options": {
+      "a": "Andriejus",
+      "b": "Jokūbas",
+      "c": "Judas",
+      "d": "Tomas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_003",
+    "question": "Ką Jėzus tarė Simonui Petrui, matydamas didelę žuvų kaupę?",
+    "options": {
+      "a": "Nebijok! Nuo šiol jau žmones žvejosi",
+      "b": "Gražiai padariai, tada sek paskui mane",
+      "c": "Palik viską ir sek paskui mane",
+      "d": "Tavo nuodėmės tau atleistos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_004",
+    "question": "Ką Jėzus liepė raupsuotajam vyrui pasidaręs jį švarų?",
+    "options": {
+      "a": "Nieko nepasakoti ir eiti namo",
+      "b": "Pasakyti visiems apie tai",
+      "c": "Tik nueik, pasirodyk kunigui ir atiduok auką už pagijimą",
+      "d": "Maldautis kasdien"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_005",
+    "question": "Kur Jėzus traukdavosi melstis?",
+    "options": {
+      "a": "Į miestuose",
+      "b": "Į nuošalesnes vietas",
+      "c": "Prie ežero",
+      "d": "Ant kalno"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_006",
+    "question": "Kas nešė paralyžiuotą žmogų prie Jėzaus?",
+    "options": {
+      "a": "Jo draugai",
+      "b": "Fariziejai",
+      "c": "Įstatymo mokytojai",
+      "d": "Vyrai neštuvais"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_007",
+    "question": "Ką Jėzus tarė paralyžiuotajam žmogui?",
+    "options": {
+      "a": "Kelkis ir vaikščiok",
+      "b": "Tavo nuodėmės tau atleistos",
+      "c": "Imk savo patalą ir eik namo",
+      "d": "Abi a ir c"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_008",
+    "question": "Ką fariziejai ir Rašto aiškintojai murmėjo apie Jėzų?",
+    "options": {
+      "a": "Kam jūs valgote ir geriate su muitininkais ir nusidėjėliais",
+      "b": "Kodėl jūs nepasninkaujate",
+      "c": "Kodėl jūs kalbate su nusidėjėliais",
+      "d": "Kodėl jūs nešate maldas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_009",
+    "question": "Ką Jėzus atsakė fariziejams apie pasninkavimą?",
+    "options": {
+      "a": "Argi galite versti pasninkauti vestuvių svečius, kol su jais yra jaunikis",
+      "b": "Pasninkaujate, bet reikia maldautis daugiau",
+      "c": "Pasninkavimas yra svarbus, bet reikia ir maldauti",
+      "d": "Pasninkavimas yra blogas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_010",
+    "question": "Ką Jėzus pasakė apie naują vyną ir senus vynmaišius?",
+    "options": {
+      "a": "Jauną vyną reikia pilti į naujus vynmaišius",
+      "b": "Senus vynmaišius reikia pildyti nauju vynu",
+      "c": "Jauną vyną reikia pildyti į senus vynmaišius",
+      "d": "Vynmaišiai turi būti visada nauji"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_011",
+    "question": "Ką Jėzus pasakė apie seną ir naują vyną?",
+    "options": {
+      "a": "Jaunas vynas geresnis už seną",
+      "b": "Senasis vynas geresnis",
+      "c": "Vynas turi būti visada naujas",
+      "d": "Vynas turi būti visada senas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_012",
+    "question": "Kas buvo Levis?",
+    "options": {
+      "a": "Muitininkas",
+      "b": "Žvejas",
+      "c": "Fariziejus",
+      "d": "Įstatymo mokytojas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_013",
+    "question": "Ką Jėzus tarė Leviui, pastebėdamas jį muitinėje?",
+    "options": {
+      "a": "Sek paskui mane",
+      "b": "Palik viską ir sek paskui mane",
+      "c": "Tavo nuodėmės tau atleistos",
+      "d": "Imk savo patalą ir eik namo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  }
+]

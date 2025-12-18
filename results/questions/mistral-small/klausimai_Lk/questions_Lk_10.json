@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Lk_10_001",
+    "question": "Kiek mokinių išsiuntė Jėzus?",
+    "options": {
+      "a": "70",
+      "b": "72",
+      "c": "700",
+      "d": "720"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_002",
+    "question": "Ką Jėzus sakė mokiniams, kad padarytų, jei pjūtis didelė, o darbininkų maža?",
+    "options": {
+      "a": "Melskitės pjūties šeimininką, kad atsiųstų darbininkų į savo pjūtį",
+      "b": "Melskitės, kad pjūtis mažėtų",
+      "c": "Melskitės, kad darbininkai atsisakytų darbo",
+      "d": "Melskitės, kad darbininkai gautų daugiau užmokestį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_003",
+    "question": "Ką Jėzus sakė mokiniams nešioti su savimi?",
+    "options": {
+      "a": "Piniginę, krepšį ir autuvą",
+      "b": "Piniginę, bet nieko kito",
+      "c": "Nesineškite piniginės nei krepšio, nei autuvo ir nieko kelyje nesveikinkite",
+      "d": "Piniginę ir krepšį, bet nieko kito"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_004",
+    "question": "Ką mokiniai turėjo sakyti, užsukę į miestą, kur jie nebuvo priimami?",
+    "options": {
+      "a": "Mes jums nukratome net jūsų miesto dulkes, prilipusias prie mūsų kojų, bet vis tiek žinokite: Dievo karalystė jau čia pat!",
+      "b": "Mes jums nukratome net jūsų miesto dulkes, prilipusias prie mūsų kojų, bet vis tiek žinokite: Dievo karalystė niekur nėra!",
+      "c": "Mes jums nukratome net jūsų miesto dulkes, prilipusias prie mūsų kojų, bet vis tiek žinokite: Dievo karalystė ateis tik po mūsų mirties!",
+      "d": "Mes jums nukratome net jūsų miesto dulkes, prilipusias prie mūsų kojų, bet vis tiek žinokite: Dievo karalystė yra tik mūsų!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_005",
+    "question": "Ką Jėzus sakė apie Choraziną ir Betsaidą?",
+    "options": {
+      "a": "Vargas tau, Chorazine! Vargas tau, Betsaida! Jeigu Tyre ir Sidone būtų padaryta stebuklų, kokie padaryti pas jus, jie seniai būtų atsivertę ir atgailoję su ašutine ir pelenuose.",
+      "b": "Vargas tau, Chorazine! Vargas tau, Betsaida! Jūs esate geresni už Tyre ir Sidonę.",
+      "c": "Vargas tau, Chorazine! Vargas tau, Betsaida! Jūs esate blogesni už Tyre ir Sidonę.",
+      "d": "Vargas tau, Chorazine! Vargas tau, Betsaida! Jūs esate lygūs Tyre ir Sidonėms."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_006",
+    "question": "Ką Jėzus sakė apie Kafarnaumą?",
+    "options": {
+      "a": "Tu, Kafarnaume, negi būsi išaukštintas iki dangaus?! Tu nugarmėsi iki pragaro!",
+      "b": "Tu, Kafarnaume, būsi išaukštintas iki dangaus!",
+      "c": "Tu, Kafarnaume, nugarmėsi iki pragaro!",
+      "d": "Tu, Kafarnaume, esi geresnis už visus kitus miestus."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_007",
+    "question": "Ką Jėzus sakė apie mokinius, kurie klausėsi jo?",
+    "options": {
+      "a": "Kas jūsų klauso, manęs klauso. Kas jus niekina, mane niekina. O kas niekina mane, niekina tą, kuris yra mane siuntęs.",
+      "b": "Kas jūsų klauso, mane niekina. Kas jus niekina, manęs klauso. O kas niekina mane, niekina tą, kuris yra mane siuntęs.",
+      "c": "Kas jūsų klauso, mane niekina. Kas jus niekina, mane niekina. O kas niekina mane, niekina tą, kuris yra mane siuntęs.",
+      "d": "Kas jūsų klauso, manęs klauso. Kas jus niekina, mane niekina. O kas niekina mane, niekina tą, kuris yra mane siuntęs."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_008",
+    "question": "Ką mokiniai sakė Jėzui, sugrįžę iš pasiuntinybės?",
+    "options": {
+      "a": "Viešpatie, mums paklūsta net demonai dėl tavo vardo.",
+      "b": "Viešpatie, mums paklūsta tik žmonės dėl tavo vardo.",
+      "c": "Viešpatie, mums paklūsta tik demonai, bet ne žmonės.",
+      "d": "Viešpatie, mums paklūsta tik žmonės, bet ne demonai."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_009",
+    "question": "Ką Jėzus sakė apie mokinių džiaugsmą?",
+    "options": {
+      "a": "Džiaukitės, kad jūsų vardai įrašyti danguje.",
+      "b": "Džiaukitės, kad dvasios jums pavaldžios.",
+      "c": "Džiaukitės, kad jūs galite mindžioti gyvates bei skorpionus.",
+      "d": "Džiaukitės, kad jūs galite mindžioti viską."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_010",
+    "question": "Ką Jėzus sakė apie Tėvą ir Sūnų?",
+    "options": {
+      "a": "Viskas man yra mano Tėvo atiduota. Ir niekas nežino, kas yra Sūnus, tik Tėvas, nei kas yra Tėvas, tik Sūnus ir tas, kam Sūnus panorės apreikšti.",
+      "b": "Viskas man yra mano Tėvo atiduota. Ir visi žino, kas yra Sūnus ir kas yra Tėvas.",
+      "c": "Viskas man yra mano Tėvo atiduota. Ir tik Tėvas žino, kas yra Sūnus.",
+      "d": "Viskas man yra mano Tėvo atiduota. Ir tik Sūnus žino, kas yra Tėvas."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_011",
+    "question": "Ką Jėzus sakė mokiniams apie jų privilegiją?",
+    "options": {
+      "a": "Palaimintos akys, kurios regi, ką jūs regite. Sakau jums: daugel pranašų ir karalių troško išvysti, ką jūs matote, bet neišvydo, ir išgirsti, ką jūs girdite, bet neišgirdo.",
+      "b": "Palaimintos akys, kurios regi, ką jūs regite. Sakau jums: daugel pranašų ir karalių troško išvysti, ką jūs matote, ir išvydo, ir išgirsti, ką jūs girdite, ir išgirdo.",
+      "c": "Palaimintos akys, kurios regi, ką jūs regite. Sakau jums: niekas pranašų ir karalių troško išvysti, ką jūs matote, bet neišvydo, ir išgirsti, ką jūs girdite, bet neišgirdo.",
+      "d": "Palaimintos akys, kurios regi, ką jūs regite. Sakau jums: niekas pranašų ir karalių troško išvysti, ką jūs matote, ir išvydo, ir išgirsti, ką jūs girdite, ir išgirdo."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_012",
+    "question": "Ką Jėzus sakė Įstatymo mokytojui apie amžinąjį gyvenimą?",
+    "options": {
+      "a": "Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela, visomis jėgomis ir visu protu, o savo artimą kaip save patį.",
+      "b": "Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela, visomis jėgomis ir visu protu, bet savo artimą ne.",
+      "c": "Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela, visomis jėgomis, bet ne visu protu, o savo artimą kaip save patį.",
+      "d": "Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela, visu protu, bet ne visomis jėgomis, o savo artimą kaip save patį."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_013",
+    "question": "Kas parodė gailestingumą patekusiam į plėšikų rankas?",
+    "options": {
+      "a": "Kunigas",
+      "b": "Levitas",
+      "c": "Samarietis",
+      "d": "Niekas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_014",
+    "question": "Ką Jėzus sakė Mortai apie Mariją?",
+    "options": {
+      "a": "Morta, Morta, tu rūpiniesi ir sielojiesi daugeliu dalykų, o reikia tik vieno. Marija išsirinko geriausiąją dalį, kuri nebus iš jos atimta.",
+      "b": "Morta, Morta, tu rūpiniesi ir sielojiesi daugeliu dalykų, o reikia visų. Marija išsirinko geriausiąją dalį, kuri nebus iš jos atimta.",
+      "c": "Morta, Morta, tu rūpiniesi ir sielojiesi daugeliu dalykų, o reikia tik vieno. Marija išsirinko blogiausiąją dalį, kuri nebus iš jos atimta.",
+      "d": "Morta, Morta, tu rūpiniesi ir sielojiesi daugeliu dalykų, o reikia visų. Marija išsirinko blogiausiąją dalį, kuri nebus iš jos atimta."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_19_001",
+    "question": "Kas nuplakdė Jėzų?",
+    "options": {
+      "a": "Aukštieji kunigai",
+      "b": "Pilotas",
+      "c": "Kareiviai",
+      "d": "Žydai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_002",
+    "question": "Ką kareiviai padarė Jėzui, nupynę vainiką iš erškėčių?",
+    "options": {
+      "a": "Apsiautė jį balta skraiste",
+      "b": "Apsiautė jį purpurine skraiste",
+      "c": "Apsiautė jį žalia skraiste",
+      "d": "Apsiautė jį raudona skraiste"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_003",
+    "question": "Ką Pilotas tarė žydams, išvedęs Jėzų laukan?",
+    "options": {
+      "a": "Štai žmogus, kuris turi mirti",
+      "b": "Štai žmogus, kuris yra ciesorius",
+      "c": "Štai žmogus, kuris yra karalius",
+      "d": "Štai žmogus, kuris yra Dievo Sūnumis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_004",
+    "question": "Kodėl žydai norėjo, kad Jėzus būtų nukryžiuotas?",
+    "options": {
+      "a": "Jie manė, kad jis yra ciesorius",
+      "b": "Jie manė, kad jis skelbiasi karaliumi",
+      "c": "Jie manė, kad jis laikė save Dievo Sūnumi",
+      "d": "Jie manė, kad jis yra klastotojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_005",
+    "question": "Ką Pilotas atsakė žydams, kai jie sakė, kad Jėzus turi mirti?",
+    "options": {
+      "a": "Jūs imkite ir patys nukryžiuokite",
+      "b": "Aš nukryžiuosiu jį",
+      "c": "Jis turi mirti",
+      "d": "Aš jį paleisiu"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_006",
+    "question": "Ką Jėzus atsakė Pilotui, kai šis klausė: „Iš kur tu?“?",
+    "options": {
+      "a": "Aš esu Dievo Sūnumis",
+      "b": "Aš esu žydų karalius",
+      "c": "Jis neatsakė",
+      "d": "Aš esu iš dangaus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_007",
+    "question": "Ką Jėzus tarė Pilotui apie jo galią?",
+    "options": {
+      "a": "Tu neturėtum man jokios galios",
+      "b": "Tu turi galią man paleisti",
+      "c": "Tu turi galią man nukryžiuoti",
+      "d": "Tu neturėtum man jokios galios, jeigu tau nebūtų jos duota iš aukštybių"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_008",
+    "question": "Ką žydai sakė Pilotui, kai jis bandė paleisti Jėzų?",
+    "options": {
+      "a": "Jei šitą paleidi, nebesi ciesoriaus draugas",
+      "b": "Jei šitą paleidi, mes tave nužudysime",
+      "c": "Jei šitą paleidi, mes tave nužudysime",
+      "d": "Jei šitą paleidi, mes tave nužudysime"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_009",
+    "question": "Kur Pilotas atsisėdo į teisėjo krasę?",
+    "options": {
+      "a": "Vietoje, pavadintoje „Akmeninis grindinys“, hebrajiškai Gabata",
+      "b": "Vietoje, pavadintoje „Dangus“, hebrajiškai Shamayim",
+      "c": "Vietoje, pavadintoje „Žemė“, hebrajiškai Eretz",
+      "d": "Vietoje, pavadintoje „Jūra“, hebrajiškai Yam"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_010",
+    "question": "Ką Pilotas padarė, kai žydai šaukė: „Ant kryžiaus jį!“?",
+    "options": {
+      "a": "Jis atidavė jiems jį nukryžiuoti",
+      "b": "Jis paleido Jėzų",
+      "c": "Jis nužudė Jėzų",
+      "d": "Jis nuplakdė Jėzų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_011",
+    "question": "Kur Jėzus buvo nukryžiuotas?",
+    "options": {
+      "a": "Vadinamoje Kįukolės vietoje, hebrajiškai Golgota",
+      "b": "Vadinamoje Žydų vietoje, hebrajiškai Jehudi",
+      "c": "Vadinamoje Romos vietoje, hebrajiškai Roma",
+      "d": "Vadinamoje Graikų vietoje, hebrajiškai Hellas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_012",
+    "question": "Ką Pilotas padarė užrašą ir liepė prisegti prie kryžiaus?",
+    "options": {
+      "a": "Jėzus Nazarietis, žydų karalius",
+      "b": "Jėzus Nazarietis, ciesorius",
+      "c": "Jėzus Nazarietis, Dievo Sūnumis",
+      "d": "Jėzus Nazarietis, žydų karalius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_013",
+    "question": "Ką Jėzus tarė, pamatęs stovinčius motiną ir mylimąjį mokinį?",
+    "options": {
+      "a": "Moterie, štai tavo sūnus!",
+      "b": "Moterie, štai tavo sūnus!",
+      "c": "Moterie, štai tavo sūnus!",
+      "d": "Moterie, štai tavo sūnus!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_014",
+    "question": "Ką Jėzus tarė, paragavęs vyno?",
+    "options": {
+      "a": "Atlikta!",
+      "b": "Atlikta!",
+      "c": "Atlikta!",
+      "d": "Atlikta!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_19"
+  }
+]

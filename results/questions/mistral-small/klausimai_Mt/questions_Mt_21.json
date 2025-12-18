@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Mt_21_001",
+    "question": "Kur Jėzus pasiuntė du mokinius?",
+    "options": {
+      "a": "Į Jeruzalę",
+      "b": "Į Betfagę prie Alyvų kalno",
+      "c": "Į Nazaretą",
+      "d": "Į Galilėją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_002",
+    "question": "Ką Jėzus pasakė mokiniams, jei kas imtų dėl asilės ir asilaičio teirautis?",
+    "options": {
+      "a": "Jie reikia man",
+      "b": "Jie reikia Viešpačiui",
+      "c": "Jie reikia Dievui",
+      "d": "Jie reikia pranašui"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_003",
+    "question": "Ką minia tiesė Jėzui ant kelio?",
+    "options": {
+      "a": "Gėles",
+      "b": "Drabužius",
+      "c": "Medžių šakas",
+      "d": "Apsiaustus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_004",
+    "question": "Ką minia šaukė Jėzui?",
+    "options": {
+      "a": "Osana Dovydo Sūnui!",
+      "b": "Garbė tam, kuris ateina Viešpaties vardu!",
+      "c": "Osana aukštybėse!",
+      "d": "Visos teisingosios atsakymo dalys"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_005",
+    "question": "Ką Jėzus padarė įėjęs į šventyklą?",
+    "options": {
+      "a": "Išvarė visus parduodančius ir perkančius",
+      "b": "Išvartė pinigų keitėjų stalus",
+      "c": "Išvartė karvelių pardavėjų suolus",
+      "d": "Visos teisingosios atsakymo dalys"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_006",
+    "question": "Ką Jėzus pasakė apie šventyklą?",
+    "options": {
+      "a": "Mano namai vadinsis maldos namai",
+      "b": "O jūs pavertėte juos plėšikų lindyne!",
+      "c": "Mano namai vadinsis maldos namais, o jūs pavertėte juos plėšikų lindyne!",
+      "d": "Mano namai vadinsis maldos namais, bet jūs pavertėte juos plėšikų lindyne!"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_007",
+    "question": "Ką Jėzus padarė šventykloje susirinkusiems akliesiems ir raišiems?",
+    "options": {
+      "a": "Išgydė juos",
+      "b": "Išvijo juos",
+      "c": "Pamaldavo juos",
+      "d": "Nieką nedarė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_008",
+    "question": "Ką Jėzus atsakė aukštiesiems kunigams ir Rašto aiškintojams, kai jie prikišo jam dėl vaikų šaukiančių šventykloje?",
+    "options": {
+      "a": "Girdžiu. Argi niekada nesate skaitė: Iš vaikų ir kūdikių lūpų parengei sau gyrių?",
+      "b": "Girdžiu. Argi niekada nesate skaitę: Iš vaikų ir kūdikių lūpų parengei sau malonę?",
+      "c": "Girdžiu. Argi niekada nesate skaitė: Iš vaikų ir kūdikių lūpų parengei sau malonę ir gyrių?",
+      "d": "Girdžiu. Argi niekada nesate skaitė: Iš vaikų ir kūdikių lūpų parengei sau malonę, bet ne gyrių?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_009",
+    "question": "Kur Jėzus apsinakvojo?",
+    "options": {
+      "a": "Į Jeruzalėje",
+      "b": "Į Betanijoje",
+      "c": "Į Nazarete",
+      "d": "Į Galilėjoje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_010",
+    "question": "Ką Jėzus pasakė figmedžiui?",
+    "options": {
+      "a": "Tegul per amžius ant tavęs nemegs vaisiai!",
+      "b": "Tegul per amžius ant tavęs nemegs lapai!",
+      "c": "Tegul per amžius ant tavęs nemegs vaisiai ir lapai!",
+      "d": "Tegul per amžius ant tavęs nemegs vaisiai ir lapai, bet megs žiedai!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_011",
+    "question": "Ką Jėzus pasakė mokiniams apie tikėjimą?",
+    "options": {
+      "a": "Jeigu turėtumėte tikėjimo ir nesvyruotumėte, ne tik galėtumėte taip padaryti su figmedžiu, bet pasakytumėte šitam kalnui: 'Pasikelk ir meskis į jūrą!', ir taip atsitiktų.",
+      "b": "Jeigu turėtumėte tikėjimo ir nesvyruotumėte, ne tik galėtumėte taip padaryti su figmedžiu, bet pasakytumėte šitam kalnui: 'Pasikelk ir meskis į jūrą!', bet taip neatsitiktų.",
+      "c": "Jeigu turėtumėte tikėjimo ir nesvyruotumėte, ne tik galėtumėte taip padaryti su figmedžiu, bet pasakytumėte šitam kalnui: 'Pasikelk ir meskis į jūrą!', ir taip atsitiktų, bet tik su tikėjimu.",
+      "d": "Jeigu turėtumėte tikėjimo ir nesvyruotumėte, ne tik galėtumėte taip padaryti su figmedžiu, bet pasakytumėte šitam kalnui: 'Pasikelk ir meskis į jūrą!', ir taip atsitiktų, bet tik su tikėjimu ir malone."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_012",
+    "question": "Ką Jėzus klausė aukštųjų kunigų ir tautos seniūnų?",
+    "options": {
+      "a": "Kokia galia tai darai? Kas tau davė šitą galią?",
+      "b": "Kokia galia tai darai? Kas tau davė šitą galią ir ką tu darai?",
+      "c": "Kokia galia tai darai? Kas tau davė šitą galią ir ką tu darai su šia galia?",
+      "d": "Kokia galia tai darai? Kas tau davė šitą galią ir ką tu darai su šia galia ir ką tu darai su šia galia?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_013",
+    "question": "Ką Jėzus klausė aukštųjų kunigų ir tautos seniūnų apie Joną?",
+    "options": {
+      "a": "Iš kur buvo Jono krikštas? Iš dangaus ar iš žmonių?",
+      "b": "Iš kur buvo Jono krikštas? Iš dangaus ar iš žmonių ir ką tu darai su šia galia?",
+      "c": "Iš kur buvo Jono krikštas? Iš dangaus ar iš žmonių ir ką tu darai su šia galia ir ką tu darai su šia galia?",
+      "d": "Iš kur buvo Jono krikštas? Iš dangaus ar iš žmonių ir ką tu darai su šia galia ir ką tu darai su šia galia ir ką tu darai su šia galia?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_014",
+    "question": "Kas įvykdė tėvo valią palyginime apie du sūnus?",
+    "options": {
+      "a": "Pirmasis sūnus",
+      "b": "Antrasis sūnus",
+      "c": "Abiejų sūnūs",
+      "d": "Niekas iš sūnų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  },
+  {
+    "id": "Mt_21_015",
+    "question": "Ką Jėzus pasakė apie muitininkus ir ištvirkėles?",
+    "options": {
+      "a": "Muitininkai ir ištvirkėlės greičiau už jus pateks į Dievo karalystę.",
+      "b": "Muitininkai ir ištvirkėlės greičiau už jus pateks į Dievo karalystę, bet tik su tikėjimu.",
+      "c": "Muitininkai ir ištvirkėlės greičiau už jus pateks į Dievo karalystę, bet tik su tikėjimu ir malone.",
+      "d": "Muitininkai ir ištvirkėlės greičiau už jus pateks į Dievo karalystę, bet tik su tikėjimu, malone ir meile."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_21"
+  }
+]

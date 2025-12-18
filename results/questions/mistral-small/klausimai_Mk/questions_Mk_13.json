@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mk_13_001",
+    "question": "Kas klausė Jėzų apie pasaulio pabaigą?",
+    "options": {
+      "a": "Petras, Jokūbas, Jonas ir Andriejus",
+      "b": "Petras, Jokūbas, Jonas ir Matas",
+      "c": "Petras, Jokūbas, Jonas ir Simonas",
+      "d": "Petras, Jokūbas, Jonas ir Tomas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_002",
+    "question": "Kas sako, kad jis ateis debesyse su didžia galia ir šlove?",
+    "options": {
+      "a": "Dievas",
+      "b": "Angelai",
+      "c": "Žmogaus Sūnus",
+      "d": "Pranašai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_003",
+    "question": "Kas turės būti paskelbta pirmiau, negu pasaulio pabaiga?",
+    "options": {
+      "a": "Visoms tautoms turės būti paskelbta Evangelija",
+      "b": "Visoms tautoms turės būti paskelbta Apokalipsė",
+      "c": "Visoms tautoms turės būti paskelbta Dievo karalystė",
+      "d": "Visoms tautoms turės būti paskelbta Jėzaus moksla"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_004",
+    "question": "Kas bus sukrėstos, kai Žmogaus Sūnus ateis?",
+    "options": {
+      "a": "Žmonės",
+      "b": "Dangaus galybės",
+      "c": "Angelai",
+      "d": "Pranašai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_005",
+    "question": "Kas bus atlikta po ano suspaudimo?",
+    "options": {
+      "a": "Saulė užtems, mėnulis nebeduos šviesos, žvaigždės kris nuo dangaus",
+      "b": "Saulė užtems, mėnulis nebeduos šviesos, žvaigždės išsisklaidos",
+      "c": "Saulė užtems, mėnulis nebeduos šviesos, žvaigždės nusileis",
+      "d": "Saulė užtems, mėnulis nebeduos šviesos, žvaigždės nusimels"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_006",
+    "question": "Kas bus surinkti iš visų keturių šalių?",
+    "options": {
+      "a": "Žmogaus Sūnaus išrinktuosius",
+      "b": "Dievo išrinktuosius",
+      "c": "Angelų išrinktuosius",
+      "d": "Pranašų išrinktuosius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_007",
+    "question": "Kas bus atlikta, kai žmonės pamatys Žmogaus Sūnų ateinantį debesyse?",
+    "options": {
+      "a": "Jis pasiųs angelus, ir tie surinks jo išrinktuosius",
+      "b": "Jis pasiųs angelus, ir tie surinks visus žmones",
+      "c": "Jis pasiųs angelus, ir tie surinks visus pranašus",
+      "d": "Jis pasiųs angelus, ir tie surinks visus Dievo išrinktuosius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_008",
+    "question": "Kas bus atlikta, kai žmonės pamatys Žmogaus Sūnų ateinantį debesyse?",
+    "options": {
+      "a": "Jis pasiųs angelus, ir tie surinks jo išrinktuosius",
+      "b": "Jis pasiųs angelus, ir tie surinks visus žmones",
+      "c": "Jis pasiųs angelus, ir tie surinks visus pranašus",
+      "d": "Jis pasiųs angelus, ir tie surinks visus Dievo išrinktuosius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_009",
+    "question": "Kas bus atlikta, kai žmonės pamatys Žmogaus Sūnų ateinantį debesyse?",
+    "options": {
+      "a": "Jis pasiųs angelus, ir tie surinks jo išrinktuosius",
+      "b": "Jis pasiųs angelus, ir tie surinks visus žmones",
+      "c": "Jis pasiųs angelus, ir tie surinks visus pranašus",
+      "d": "Jis pasiųs angelus, ir tie surinks visus Dievo išrinktuosius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_010",
+    "question": "Kas bus atlikta, kai žmonės pamatys Žmogaus Sūnų ateinantį debesyse?",
+    "options": {
+      "a": "Jis pasiųs angelus, ir tie surinks jo išrinktuosius",
+      "b": "Jis pasiųs angelus, ir tie surinks visus žmones",
+      "c": "Jis pasiųs angelus, ir tie surinks visus pranašus",
+      "d": "Jis pasiųs angelus, ir tie surinks visus Dievo išrinktuosius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_011",
+    "question": "Kas bus atlikta, kai žmonės pamatys Žmogaus Sūnų ateinantį debesyse?",
+    "options": {
+      "a": "Jis pasiųs angelus, ir tie surinks jo išrinktuosius",
+      "b": "Jis pasiųs angelus, ir tie surinks visus žmones",
+      "c": "Jis pasiųs angelus, ir tie surinks visus pranašus",
+      "d": "Jis pasiųs angelus, ir tie surinks visus Dievo išrinktuosius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_012",
+    "question": "Kas bus atlikta, kai žmonės pamatys Žmogaus Sūnų ateinantį debesyse?",
+    "options": {
+      "a": "Jis pasiųs angelus, ir tie surinks jo išrinktuosius",
+      "b": "Jis pasiųs angelus, ir tie surinks visus žmones",
+      "c": "Jis pasiųs angelus, ir tie surinks visus pranašus",
+      "d": "Jis pasiųs angelus, ir tie surinks visus Dievo išrinktuosius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_13"
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "id": "Jn_7_001",
+    "question": "Kur Jėzus vaikščiojo, kad išvengtų žydų, kurie norėjo jį nužudyti?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Galilėjoje",
+      "c": "Samarijoje",
+      "d": "Judejoje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_002",
+    "question": "Kas Jėzui pasakė, kad jis turėtų eiti į Judėją?",
+    "options": {
+      "a": "Jo mokiniai",
+      "b": "Jo broliai",
+      "c": "Jo motina",
+      "d": "Jo tėvas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_003",
+    "question": "Kodėl Jėzus atsisakė eiti į Judėją su savo broliais?",
+    "options": {
+      "a": "Nors jo metas dar neatėjo",
+      "b": "Jis bijojo žydų",
+      "c": "Jis nenorėjo palikti Galilėjos",
+      "d": "Jis buvo sergantis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_004",
+    "question": "Kas sakė, kad Jėzus klaidina žmones?",
+    "options": {
+      "a": "Jo broliai",
+      "b": "Žydai",
+      "c": "Jo mokiniai",
+      "d": "Fariziejai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_005",
+    "question": "Kas Jėzus sakė, kad yra jo mokslo šaltinis?",
+    "options": {
+      "a": "Jis pats",
+      "b": "Jo broliai",
+      "c": "Tas, kuris jį siuntė",
+      "d": "Jo mokiniai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_006",
+    "question": "Kas sakė, kad Jėzus geras?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Minių dalis"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_007",
+    "question": "Kodėl žydai stebėjosi Jėzaus mokymo?",
+    "options": {
+      "a": "Jis buvo niekada nemokęs",
+      "b": "Jis buvo mokęs Raštą",
+      "c": "Jis buvo mokęs Mozės Įstatymą",
+      "d": "Jis buvo mokęs žydų įstatymus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_008",
+    "question": "Kas sakė, kad Jėzus kalba iš savo galvos?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Jo mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_009",
+    "question": "Kas sakė, kad Jėzus tik klaidina žmones?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Jo mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_010",
+    "question": "Kas sakė, kad Jėzus geras?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Minių dalis"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_011",
+    "question": "Kas sakė, kad Jėzus tik klaidina žmones?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Jo mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_012",
+    "question": "Kas sakė, kad Jėzus geras?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Minių dalis"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_013",
+    "question": "Kas sakė, kad Jėzus tik klaidina žmones?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Jo mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_014",
+    "question": "Kas sakė, kad Jėzus geras?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Minių dalis"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_015",
+    "question": "Kas sakė, kad Jėzus tik klaidina žmones?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Jo mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_016",
+    "question": "Kas sakė, kad Jėzus geras?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Minių dalis"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  },
+  {
+    "id": "Jn_7_017",
+    "question": "Kas sakė, kad Jėzus tik klaidina žmones?",
+    "options": {
+      "a": "Žydai",
+      "b": "Fariziejai",
+      "c": "Jo broliai",
+      "d": "Jo mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_7"
+  }
+]

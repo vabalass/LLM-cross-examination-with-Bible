@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Jn_16_001",
+    "question": "Kas, Jėzaus žodžiais, šalins jo mokinius iš sinagogų?",
+    "options": {
+      "a": "Jėzaus mokiniai",
+      "b": "Jėzus",
+      "c": "Jie, kurie nei Tėvo, nei Jėzaus nepažįsta",
+      "d": "Dievas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_002",
+    "question": "Kodėl Jėzus pasakė mokinims apie ateinančias kančias?",
+    "options": {
+      "a": "Kad jie pasipiktintų",
+      "b": "Kad jie nepasipiktintų",
+      "c": "Kad jie pasidavė",
+      "d": "Kad jie pasidavė ir pasipiktintų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_003",
+    "question": "Kodėl Jėzus sakė, kad mokinims geriau, kad jis iškeliauja?",
+    "options": {
+      "a": "Kad jie galėtų būti laisvi",
+      "b": "Kad jie galėtų būti vieni",
+      "c": "Kad jie galėtų gauti Globėją",
+      "d": "Kad jie galėtų būti su Tėvu"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_004",
+    "question": "Kas parodys pasauliui, kaip jis klysta?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Tėvas",
+      "c": "Šventoji Dvasia",
+      "d": "Mokiniai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_005",
+    "question": "Kodėl Šventoji Dvasia pašlovins Jėzų?",
+    "options": {
+      "a": "Kad jie galėtų būti laisvi",
+      "b": "Kad jie galėtų būti vieni",
+      "c": "Kad jie galėtų gauti Globėją",
+      "d": "Kad ji ims iš to, kas Jėzaus, ir jums tai paskelbs"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_006",
+    "question": "Ką reiškia Jėzaus žodžiai: 'Prabėgs valandėlė – ir manęs neregėsit, ir dar valandėlė – ir vėl mane pamatysit'?",
+    "options": {
+      "a": "Jėzus mirs ir prisikels",
+      "b": "Jėzus iškeliauja ir grįžta",
+      "c": "Jėzus paslėps ir pasirodys",
+      "d": "Jėzus paslėps ir niekada nepasirodys"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_007",
+    "question": "Ką Jėzus sakė apie mokinų liūdesį?",
+    "options": {
+      "a": "Jie niekada neatsimins džiaugsmo",
+      "b": "Jų liūdesys pavirs džiaugsmu",
+      "c": "Jie visada bus liūdni",
+      "d": "Jie niekada nebus džiaugsmingi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_008",
+    "question": "Ką Jėzus sakė apie Tėvą?",
+    "options": {
+      "a": "Tėvas jums nieko neduos",
+      "b": "Tėvas jums duos ko tik prašysite dėl mano",
+      "c": "Tėvas jums nieko neduos, jei ne prašysite",
+      "d": "Tėvas jums duos ko tik prašysite, bet ne dėl mano"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_009",
+    "question": "Kodėl Tėvas myli mokinius?",
+    "options": {
+      "a": "Kad jie galėtų būti laisvi",
+      "b": "Kad jie galėtų būti vieni",
+      "c": "Kad jie galėtų gauti Globėją",
+      "d": "Kad jie mane pamilo ir įtikėjo, jog aš esu iš Dievo atėjęs"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_010",
+    "question": "Ką Jėzus sakė apie pasaulį?",
+    "options": {
+      "a": "Pasaulis jums priespauda, bet būkite drąsūs",
+      "b": "Pasaulis jums nieko nepriespauda",
+      "c": "Pasaulis jums priespauda, bet būkite baimingi",
+      "d": "Pasaulis jums priespauda, bet būkite liūdni"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  },
+  {
+    "id": "Jn_16_011",
+    "question": "Ką Jėzus sakė apie savo pergalę?",
+    "options": {
+      "a": "Aš nugalėjau pasaulį",
+      "b": "Aš niekada nenugalėjau pasaulį",
+      "c": "Aš nugalėjau pasaulį, bet jis manęs nugalėjo",
+      "d": "Aš nugalėjau pasaulį, bet jis manęs niekada nenugalės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_16"
+  }
+]

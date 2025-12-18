@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mt_17_001",
+    "question": "Kiek dienų po Jėzaus atsimainymo įvyko Jėzaus atsimainymas?",
+    "options": {
+      "a": "Po vienos dienos",
+      "b": "Po šešių dienų",
+      "c": "Po septynių dienų",
+      "d": "Po dešimties dienų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_002",
+    "question": "Kas pasirodė Jėzui atsimainyme?",
+    "options": {
+      "a": "Abraomas ir Izakas",
+      "b": "Mozė ir Elijas",
+      "c": "Davidas ir Šalomas",
+      "d": "Jonas ir Petras"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_003",
+    "question": "Kas pasakė: „Šitas yra mano mylimasis Sūnus, kuriuo aš gėriuosi. Klausykite jo!“?",
+    "options": {
+      "a": "Mozė",
+      "b": "Elijas",
+      "c": "Balsas iš debesies",
+      "d": "Petras"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_004",
+    "question": "Kas klausė Jėzaus, kodėl Rašto aiškintojai sako, jog pirmiau turėtų ateiti Elijas?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Jokūbas",
+      "d": "Mokiniai"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_005",
+    "question": "Kas buvo atėjęs ir kurį žmonės nepažino?",
+    "options": {
+      "a": "Mozė",
+      "b": "Elijas",
+      "c": "Jonas Krikštytojas",
+      "d": "Petras"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_006",
+    "question": "Kas maldavo Jėzui apie savo sūnų, kuris kankinasi?",
+    "options": {
+      "a": "Petras",
+      "b": "Vienas vyras",
+      "c": "Jokūbas",
+      "d": "Jonas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_007",
+    "question": "Kodėl mokiniai negalėjo išvaryti demoną iš berniuko?",
+    "options": {
+      "a": "Dėl silpno tikėjimo",
+      "b": "Dėl stiprų demonų",
+      "c": "Dėl Jėzaus nebuvimo",
+      "d": "Dėl berniuko ligos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_008",
+    "question": "Kas bus atiduotas į žmonių rankas ir nužudys?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Žmogaus Sūnus",
+      "d": "Mozė"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_17"
+  },
+  {
+    "id": "Mt_17_009",
+    "question": "Kas klausė Petro, ar jūsų mokytojas nemoka didrachmos?",
+    "options": {
+      "a": "Didrachmų rinkėjai",
+      "b": "Mokėtojai",
+      "c": "Mokiniai",
+      "d": "Žmonės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_17"
+  }
+]

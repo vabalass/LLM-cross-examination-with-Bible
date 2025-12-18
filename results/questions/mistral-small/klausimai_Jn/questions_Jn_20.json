@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Jn_20_001",
+    "question": "Kas pirmiausia pamatė, kad akmuo nuo Jėzaus kapo yra nuverstas?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Marija Magdalietė",
+      "c": "Kitas mokinys",
+      "d": "Tomas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_002",
+    "question": "Kas pirmas pasiekė kapo rūsį?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Marija Magdalietė",
+      "c": "Kitas mokinys",
+      "d": "Tomas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_003",
+    "question": "Kas pamatė angelus palei kapą?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Marija Magdalietė",
+      "c": "Kitas mokinys",
+      "d": "Tomas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_004",
+    "question": "Kas Marijai Magdalietei pasakė: 'Marija!'?",
+    "options": {
+      "a": "Angelai",
+      "b": "Simonas Petras",
+      "c": "Kitas mokinys",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_005",
+    "question": "Kas nebuvo su mokinių grupė, kai Jėzus pirmą kartą pasirodė?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Marija Magdalietė",
+      "c": "Tomas",
+      "d": "Kitas mokinys"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_006",
+    "question": "Kas pasakė: 'Mes matėme Viešpatį!'?",
+    "options": {
+      "a": "Marija Magdalietė",
+      "b": "Simonas Petras",
+      "c": "Kiti mokiniai",
+      "d": "Jėzus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_007",
+    "question": "Kas pasakė: 'Jeigu aš nepamatysiu jo rankose vinių dūrio ir neįleisiu piršto į vinių vietą, ir jeigu ranka nepaliesiu jo šono – netikėsiu'?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Marija Magdalietė",
+      "c": "Tomas",
+      "d": "Kitas mokinys"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_008",
+    "question": "Kas pasakė: 'Mano Viešpats ir mano Dievas'?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Marija Magdalietė",
+      "c": "Tomas",
+      "d": "Kitas mokinys"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_009",
+    "question": "Kas pasakė: 'Tu įtikėjai, nes pamatei. Palaiminti, kurie tiki nematę!'?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Marija Magdalietė",
+      "c": "Tomas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  },
+  {
+    "id": "Jn_20_010",
+    "question": "Kas pasakė: 'Imkite Šventąją Dvasią'?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Marija Magdalietė",
+      "c": "Tomas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_20"
+  }
+]

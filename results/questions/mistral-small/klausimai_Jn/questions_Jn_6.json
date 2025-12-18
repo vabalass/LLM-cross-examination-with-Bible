@@ -1,0 +1,301 @@
+[
+  {
+    "id": "Jn_6_001",
+    "question": "Kur Jėzus nuvyko anapus?",
+    "options": {
+      "a": "Galilėjos",
+      "b": "Jeruzalės",
+      "c": "Nazareto",
+      "d": "Samarijos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_002",
+    "question": "Ką Jėzus matė, kai pakėlė akis?",
+    "options": {
+      "a": "Didelę minią",
+      "b": "Tuščią dykumą",
+      "c": "Didžiulį mišką",
+      "d": "Didžiulį ežerą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_003",
+    "question": "Ką Jėzus paklausė Pilypą?",
+    "options": {
+      "a": "Kur pirksime duonos jiems pavalgydinti?",
+      "b": "Kur mes nusimelsime?",
+      "c": "Kur mes apsigyvensime?",
+      "d": "Kur mes radosime vandens?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_004",
+    "question": "Kiek denarų reikėtų, kad kiekvienas gautų bent po gabalėlį duonos?",
+    "options": {
+      "a": "200",
+      "b": "100",
+      "c": "50",
+      "d": "10"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_005",
+    "question": "Kas pasakė apie berniuką, kuris turi penkis miežinės duonos kepaliukus ir dvi žuvis?",
+    "options": {
+      "a": "Andriejus",
+      "b": "Pilypas",
+      "c": "Petras",
+      "d": "Jonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_006",
+    "question": "Ką Jėzus tarė, kai matė didelę minią?",
+    "options": {
+      "a": "Susodinkite žmones!",
+      "b": "Eikite namo!",
+      "c": "Melskitės!",
+      "d": "Valgykite!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_007",
+    "question": "Kiek žmonių susėdo, kad valgytų?",
+    "options": {
+      "a": "5000",
+      "b": "10000",
+      "c": "2000",
+      "d": "3000"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_008",
+    "question": "Ką Jėzus davė išdalyti visiems ten sėdintiems?",
+    "options": {
+      "a": "Duoną ir žuvis",
+      "b": "Vandens",
+      "c": "Vyną",
+      "d": "Vaisius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_009",
+    "question": "Ką Jėzus pasakė mokiniams, kai žmonės pavalgė?",
+    "options": {
+      "a": "Surinkite likusius kąsnelius, kad niekas nepražūtų",
+      "b": "Eikite namo",
+      "c": "Melskitės",
+      "d": "Valgykite daugiau"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_010",
+    "question": "Kiek pintinių gabaliukų surinko mokiniai?",
+    "options": {
+      "a": "12",
+      "b": "5",
+      "c": "7",
+      "d": "10"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_011",
+    "question": "Ką žmonės sakė, pamatę Jėzaus padarytą ženklą?",
+    "options": {
+      "a": "Jis tikrai yra tas pranašas, kuris turi ateiti į pasaulį",
+      "b": "Jis yra dievas",
+      "c": "Jis yra karalius",
+      "d": "Jis yra pranašas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_012",
+    "question": "Ką Jėzus padarė, supratęs, kad žmonės ruošiasi pasigriebti jį ir paskelbti karaliumi?",
+    "options": {
+      "a": "Vėl pasitraukė pats vienas į kalną",
+      "b": "Pasakė jims, kad jis yra karalius",
+      "c": "Pasakė jims, kad jis yra dievas",
+      "d": "Pasakė jims, kad jis yra pranašas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_013",
+    "question": "Ką mokiniai padarė, atėjus vakarui?",
+    "options": {
+      "a": "Nusileido prie ežero, sulipo į valtį ir plaukė kitapus ežero, į Kafarnaumą",
+      "b": "Nusileido prie ežero ir melsėsi",
+      "c": "Nusileido prie ežero ir valgo",
+      "d": "Nusileido prie ežero ir miegojo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_014",
+    "question": "Ką mokiniai pamato, nusiyrę nuo kranto?",
+    "options": {
+      "a": "Jėzų, einantį ežero paviršiumi",
+      "b": "Didžiulį mišką",
+      "c": "Didžiulį ežerą",
+      "d": "Didžiulį miestą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_015",
+    "question": "Ką Jėzus sakė, kai mokiniai išsigando?",
+    "options": {
+      "a": "Tai aš. Nebijokite!",
+      "b": "Tai aš. Bijokite!",
+      "c": "Tai aš. Eikite į namus!",
+      "d": "Tai aš. Melskitės!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_016",
+    "question": "Ką minia, buvusi anoje pusėje, matė?",
+    "options": {
+      "a": "Kad ten tebuvo viena valtis ir kad Jėzus nebuvo įlipęs į valtį su mokiniais",
+      "b": "Kad ten tebuvo daug valčių ir kad Jėzus buvo įlipęs į valtį su mokiniais",
+      "c": "Kad ten tebuvo viena valtis ir kad Jėzus buvo įlipęs į valtį su mokiniais",
+      "d": "Kad ten tebuvo daug valčių ir kad Jėzus nebuvo įlipęs į valtį su mokiniais"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_017",
+    "question": "Ką minia padarė, sužinoję, kad čia nėra nei Jėzaus, nei jo mokinių?",
+    "options": {
+      "a": "Lipo į valtis ir plaukė į Kafarnaumą, ieškodami Jėzaus",
+      "b": "Lipo į valtis ir plaukė į Nazaretą, ieškodami Jėzaus",
+      "c": "Lipo į valtis ir plaukė į Jeruzalę, ieškodami Jėzaus",
+      "d": "Lipo į valtis ir plaukė į Samariją, ieškodami Jėzaus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_018",
+    "question": "Ką Jėzus prabilo į žmones?",
+    "options": {
+      "a": "Jūs ieškote manęs ne todėl, kad esate matė ženklų, bet kad prisivalgėte duonos lig soties",
+      "b": "Jūs ieškote manęs, kad esate matė ženklus",
+      "c": "Jūs ieškote manęs, kad prisivalgėte duonos",
+      "d": "Jūs ieškote manęs, kad matėte stebuklus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_019",
+    "question": "Ką Jėzus sakė apie duoną?",
+    "options": {
+      "a": "Plušėkite ne dėl žūvančio maisto, bet dėl išliekančio amžinajam gyvenimui!",
+      "b": "Plušėkite dėl žūvančio maisto",
+      "c": "Plušėkite dėl amžinojo gyvenimo",
+      "d": "Plušėkite dėl stebuklų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_020",
+    "question": "Ką žmonės klausė Jėzaus?",
+    "options": {
+      "a": "Ką mums veikti, kad darytume Dievo darbus?",
+      "b": "Ką mums veikti, kad gautume duonos?",
+      "c": "Ką mums veikti, kad gautume stebuklus?",
+      "d": "Ką mums veikti, kad gautume amžinąjį gyvenimą?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_021",
+    "question": "Ką Jėzus sakė apie Dievo darbus?",
+    "options": {
+      "a": "Tai ir bus Dievo darbas: tikėkite tą, kurį jis siuntė",
+      "b": "Tai ir bus Dievo darbas: valgykite duoną",
+      "c": "Tai ir bus Dievo darbas: gerkite vandenį",
+      "d": "Tai ir bus Dievo darbas: melskitės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_022",
+    "question": "Ką žmonės klausė Jėzaus, prašydami ženklų?",
+    "options": {
+      "a": "Tai kokį padarysi ženklą, kad pamatytume ir tave įtikėtume? Ką nuveiksi?",
+      "b": "Tai kokį padarysi stebuklą, kad pamatytume ir tave įtikėtume? Ką nuveiksi?",
+      "c": "Tai kokį padarysi stebuklą, kad pamatytume ir tave įtikėtume? Ką nuveiksi?",
+      "d": "Tai kokį padarysi stebuklą, kad pamatytume ir tave įtikėtume? Ką nuveiksi?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  },
+  {
+    "id": "Jn_6_023",
+    "question": "Ką Jėzus sakė apie duoną iš dangaus?",
+    "options": {
+      "a": "Tai ne Mozė davė jums duonos iš dangaus, bet mano Tėvas duoda jums iš dangaus tikrosios duonos",
+      "b": "Tai ne Mozė davė jums duonos iš dangaus, bet aš duodu jums iš dangaus tikrosios duonos",
+      "c": "Tai ne Mozė davė jums duonos iš dangaus, bet jūsų tėvai duoda jums iš dangaus tikrosios duonos",
+      "d": "Tai ne Mozė davė jums duonos iš dangaus, bet jūsų motinos duoda jums iš dangaus tikrosios duonos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_6"
+  }
+]

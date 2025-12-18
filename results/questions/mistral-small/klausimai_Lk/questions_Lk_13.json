@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Lk_13_001",
+    "question": "Kas pasakė Jėzui apie galilėjiečius, kurių kraują Pilotas sumaišė su jų aukomis?",
+    "options": {
+      "a": "Pranišai",
+      "b": "Keli žmonės",
+      "c": "Fariziejai",
+      "d": "Sinagogos vyresnysis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_002",
+    "question": "Ką Jėzus pasakė apie galilėjiečius, kurių kraują Pilotas sumaišė su jų aukomis?",
+    "options": {
+      "a": "Jie buvo didesni nusidėjėliai už visus kitus galilėjiečius",
+      "b": "Jie buvo mažesni nusidėjėliai už visus kitus galilėjiečius",
+      "c": "Jie buvo tokie pat nusidėjėliai kaip visi kiti galilėjiečiai",
+      "d": "Jie buvo šventieji"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_003",
+    "question": "Ką Jėzus pasakė apie aštuoniolika žmonių, kuriuos užgriuvo bokštas prie Siloamo tvenkinio?",
+    "options": {
+      "a": "Jie buvo kaltesni už visus kitus Jeruzalės gyventojus",
+      "b": "Jie buvo mažesni nusidėjėliai už visus kitus Jeruzalės gyventojus",
+      "c": "Jie buvo tokie pat nusidėjėliai kaip visi kiti Jeruzalės gyventojai",
+      "d": "Jie buvo šventieji"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_004",
+    "question": "Ką Jėzus pasakė apie figmedį, kuris nevaizdavo vaisių?",
+    "options": {
+      "a": "Nukirsk jį, kam dar žemę alina!",
+      "b": "Palik jį dar šiais metais, aš jį apkasiu ir patręšiu",
+      "c": "Palik jį, jis dar duos vaisių",
+      "d": "Nukirsk jį ir apkas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_005",
+    "question": "Ką Jėzus pasakė sodininkui apie figmedį, kuris nevaizdavo vaisių?",
+    "options": {
+      "a": "Nukirsk jį, kam dar žemę alina!",
+      "b": "Palik jį dar šiais metais, aš jį apkasiu ir patręšiu",
+      "c": "Palik jį, jis dar duos vaisių",
+      "d": "Nukirsk jį ir apkas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_006",
+    "question": "Ką Jėzus pasakė moteriai, aštuoniolika metų kenčianti nuo ligos dvasios?",
+    "options": {
+      "a": "Esi išvaduota iš savo ligos!",
+      "b": "Esi laiminga!",
+      "c": "Esi malonė Dievui!",
+      "d": "Esi išvaduota iš savo nuodėmių!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_007",
+    "question": "Ką Jėzus pasakė sinagogos vyresniesiui, kuris supykęs, kad Jėzus pagydė šabo dieną?",
+    "options": {
+      "a": "Tu esi malonė Dievui!",
+      "b": "Tu esi išvaduotas iš savo nuodėmių!",
+      "c": "Veidmainiai! Argi kas iš jūsų neatriša šabo dieną nuo ėdžių savo jaučio ar asilo ir nenuveda pagirdyti?!",
+      "d": "Tu esi laiminga!"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_008",
+    "question": "Ką Jėzus pasakė apie Dievo karalystę?",
+    "options": {
+      "a": "Ji panaši į garstyčios grūdą, kurį ėmė žmogus ir pasėjo savo darže",
+      "b": "Ji panaši į raugą, kurį ėmusi moteris įmaišė į tris saikus miltų",
+      "c": "Ji panaši į medį, kurį ėmė žmogus ir pasodino savo darže",
+      "d": "Ji panaši į uogą, kurį ėmė žmogus ir pasodino savo darže"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_009",
+    "question": "Ką Jėzus pasakė apie Dievo karalystę?",
+    "options": {
+      "a": "Ji panaši į garstyčios grūdą, kurį ėmė žmogus ir pasėjo savo darže",
+      "b": "Ji panaši į raugą, kurį ėmusi moteris įmaišė į tris saikus miltų",
+      "c": "Ji panaši į medį, kurį ėmė žmogus ir pasodino savo darže",
+      "d": "Ji panaši į uogą, kurį ėmė žmogus ir pasodino savo darže"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_010",
+    "question": "Ką Jėzus pasakė apie siaurą išganymo taką?",
+    "options": {
+      "a": "Pasistenkite įeiti pro plačius vartus!",
+      "b": "Pasistenkite įeiti pro ankštus vartus!",
+      "c": "Pasistenkite įeiti pro aukštus vartus!",
+      "d": "Pasistenkite įeiti pro žemus vartus!"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_011",
+    "question": "Ką Jėzus pasakė apie netikintis žydus?",
+    "options": {
+      "a": "Jie bus išgelbėti",
+      "b": "Jie bus išvaryti laukan",
+      "c": "Jie bus išgelbėti ir bus su Dievu",
+      "d": "Jie bus išgelbėti ir bus su pranašais"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  }
+]

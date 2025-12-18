@@ -1,0 +1,249 @@
+[
+  {
+    "id": "Jn_11_001",
+    "question": "Kas buvo sergantis, kai Marija ir Morta nusiuntė žinią Jėzui?",
+    "options": {
+      "a": "Marija",
+      "b": "Morta",
+      "c": "Lozorius",
+      "d": "Jėzus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_002",
+    "question": "Kiek dienų Jėzus užtruko, išgirdęs, kad Lozorius serga?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_003",
+    "question": "Kas pasakė: „Aš esu prisikėlimas ir gyvenimas“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_004",
+    "question": "Kas pasakė: „Tavo brolis prisikels!“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_005",
+    "question": "Kas pasakė: „Aš žinau, jog jis prisikels paskutinę dieną, mirusiems keliantis“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Lozorius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_006",
+    "question": "Kas pasakė: „Eikime ir mes numirti su juo!“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Tomas",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_007",
+    "question": "Kiek dienų Lozorius buvo išgulėjęs kapo rūsyje, kai Jėzus atėjo?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_008",
+    "question": "Kas pasakė: „Viešpatie, jei būtum čia buvęs, mano brolis nebūtų miręs“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Lozorius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_009",
+    "question": "Kas pasakė: „Argi tas, kuris atvėrė neregiui akis, negalėjo padaryti, kad šitas nemirtų?“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Žydai",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_010",
+    "question": "Kas pasakė: „Nuriskite akmenį!“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_011",
+    "question": "Kas pasakė: „Jau dvokia. Jau keturios dienos, kaip jis miręs“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Lozorius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_012",
+    "question": "Kas pasakė: „Argi nesakiau: jei tikėsi, pamatysi Dievo šlovę?!“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_013",
+    "question": "Kas pasakė: „Lozoriau, išeik!“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_014",
+    "question": "Kas pasakė: „Ką darysime? Šitas žmogus daro daug stebuklų. Jei taip jį paliksime, visi įtikės jį; ateis romėnai ir sunaikins šventąją vietą bei mūsų tautą“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Aukštieji kunigai ir fariziejai",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_015",
+    "question": "Kas pasakė: „Jūs nieko neišmanote ir nepagalvojate, jog jums geriau, kad vienas žmogus mirtų už tautą, o ne visa tauta žūtų“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Kajafas",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_016",
+    "question": "Kur Jėzus apsistojo kartu su mokiniais, pasitraukęs iš Judėjos?",
+    "options": {
+      "a": "Jeruzalė",
+      "b": "Betanija",
+      "c": "Efraimas",
+      "d": "Nazaretas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_017",
+    "question": "Kas ieškojo Jėzaus šventykloje?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Žydai",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_018",
+    "question": "Kas išleido įsakymą, kad žinantys praneštų, kur Jėzus esąs, idant būtų galima jį suimti?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Aukštieji kunigai ir fariziejai",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  },
+  {
+    "id": "Jn_11_019",
+    "question": "Kas pasakė: „Kaip jūs manote? Nejaugi jis nebeateis į iškilmes?!“?",
+    "options": {
+      "a": "Morta",
+      "b": "Marija",
+      "c": "Žydai",
+      "d": "Lozorius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_11"
+  }
+]

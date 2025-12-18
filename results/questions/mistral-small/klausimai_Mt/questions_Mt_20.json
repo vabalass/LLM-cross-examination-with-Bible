@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_20_001",
+    "question": "Kas pasamdė darbininkus vynuogynui anksti rytą?",
+    "options": {
+      "a": "Vynuogyno darbininkai",
+      "b": "Vynuogyno šeimininkas",
+      "c": "Vynuogyno ūkvedys",
+      "d": "Vynuogyno darbininkų vadovas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_002",
+    "question": "Kiek valandų dirbo paskutiniai pasamdyti darbininkai?",
+    "options": {
+      "a": "6 valandas",
+      "b": "3 valandas",
+      "c": "1 valanda",
+      "d": "9 valandas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_003",
+    "question": "Kiek atlyginimo gavo paskutiniai pasamdyti darbininkai?",
+    "options": {
+      "a": "Po denarą",
+      "b": "Po pusę denaro",
+      "c": "Po du denarus",
+      "d": "Po ketvirtį denaro"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_004",
+    "question": "Kas pasmerks Žmogaus Sūnų mirti?",
+    "options": {
+      "a": "Tautos valdovai",
+      "b": "Aukštiesieji kunigai ir Rašto aiškintojai",
+      "c": "Pagonys",
+      "d": "Mokiniai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_005",
+    "question": "Kas prašė Jėzaus, kad jo sūnūs sėdėtų vienas dešinėje, o kitas kairėje jo karalystėje?",
+    "options": {
+      "a": "Zebediejaus sūnūs",
+      "b": "Jokūbas ir Jonas",
+      "c": "Jokūbo ir Jono motina",
+      "d": "Jėzaus motina"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_006",
+    "question": "Kas turi duoti sėdėti dešinėje ar kairėje Jėzaus karalystėje?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Jėzaus mokiniai",
+      "c": "Jėzaus Tėvas",
+      "d": "Aukštiesieji kunigai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_007",
+    "question": "Kas supyko ant Jokūbo ir Jono?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Kiti dešimt mokinių",
+      "c": "Aukštiesieji kunigai",
+      "d": "Rašto aiškintojai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_008",
+    "question": "Kas turi būti tarp krikščionių?",
+    "options": {
+      "a": "Vadovai",
+      "b": "Tarnai",
+      "c": "Didžionys",
+      "d": "Valdovai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_009",
+    "question": "Kas atėjo ne kad jam tarnautų, bet pats tarnauti?",
+    "options": {
+      "a": "Jėzaus mokiniai",
+      "b": "Žmogaus Sūnus",
+      "c": "Aukštiesieji kunigai",
+      "d": "Rašto aiškintojai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_010",
+    "question": "Kas ėmė šaukti „Viešpatie, Dovydo Sūnau, pasigailėk mūsų!“?",
+    "options": {
+      "a": "Jericho neregiai",
+      "b": "Jericho minia",
+      "c": "Jericho valdovai",
+      "d": "Jericho kunigai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  },
+  {
+    "id": "Mt_20_011",
+    "question": "Kas sustojo ir pasišaukė neregius?",
+    "options": {
+      "a": "Minia",
+      "b": "Jėzus",
+      "c": "Jėzaus mokiniai",
+      "d": "Jericho valdovai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_20"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_19_001",
+    "question": "Kuo kareiviai apvainikavo Jėzų?",
+    "options": {
+      "a": "Laukinės rožės vainiku",
+      "b": "Erškėčių vainiku",
+      "c": "Alyvmedžio šakomis",
+      "d": "Vainiku iš alyvų šakelių"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_002",
+    "question": "Koks drabužis buvo apvilktas Jėzui?",
+    "options": {
+      "a": "Balta tunika",
+      "b": "Auksinė mantija",
+      "c": "Purpurinė skraistė",
+      "d": "Raudonas apsiaustas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_003",
+    "question": "Ką Pilotas sakė apie Jėzų, kai išvedė jį laukan?",
+    "options": {
+      "a": "Štai jūsų išgelbėtojas!",
+      "b": "Štai žmogus!",
+      "c": "Štai nekaltasis!",
+      "d": "Štai jūsų karalius!"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_004",
+    "question": "Kodėl aukštieji kunigai sakė, kad Jėzus turi mirti pagal Įstatymą?",
+    "options": {
+      "a": "Nes jis šventvagiauja",
+      "b": "Nes jis pasiskelbė karaliumi",
+      "c": "Nes jis laikė save Dievo Sūnumi",
+      "d": "Nes jis pranašavo savo mirtį"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_005",
+    "question": "Ką Pilotas klausė Jėzų, kai vėl nuėjo į pretorijų?",
+    "options": {
+      "a": "Kiek tau metų?",
+      "b": "Kas tave atvedė pas mane?",
+      "c": "Ar esi karalius?",
+      "d": "Iš kur tu?"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_006",
+    "question": "Ką Jėzus atsakė Pilotui apie galią, duotą iš aukštybių?",
+    "options": {
+      "a": "Didesnė nuodėmė tam, kuris mane tau įdavė",
+      "b": "Visi turi galią iš aukštybių",
+      "c": "Tiesa, kad galia yra iš aukštybių",
+      "d": "Nebus jokios galios be Dievo leidimo"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_007",
+    "question": "Kokią įtaką žodžiai „Jei šitą paleidi, nebesi ciesoriaus draugas“ padarė Pilotui?",
+    "options": {
+      "a": "Padarė jį drąsesnį",
+      "b": "Privertė jį abejoti",
+      "c": "Paskatino jį dar labiau stengtis Jėzų paleisti",
+      "d": "Paskatino jį tuojau pat pasiduoti"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_008",
+    "question": "Ką Pilotas tarė žydams, atsisėsdamas į teisėjo krasę vietoje, pavadintoje „Akmeninis grindinys“?",
+    "options": {
+      "a": "Štai jūsų teismas!",
+      "b": "Štai jūsų karalius!",
+      "c": "Štai jūsų kaltininkas!",
+      "d": "Štai jūsų išbandymas!"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_009",
+    "question": "Kaip aukštieji kunigai atsakė į Piloto klausimą: „Nejaugi turiu nukryžiuoti jūsų karalių?“",
+    "options": {
+      "a": "Ne, nenusipelnė!",
+      "b": "Mes nežinome",
+      "c": "Mes neturime karaliaus, tiktai ciesorių",
+      "d": "Jį reikia nukryžiuoti!"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_010",
+    "question": "Kur buvo nešamas Jėzaus kryžius?",
+    "options": {
+      "a": "Į Jeruzalės centrą",
+      "b": "Į vadinamąją Kįukolės vietą, hebrajiškai Golgotą",
+      "c": "Į Dievo namus",
+      "d": "Į kapinių vietą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_011",
+    "question": "Ką kareiviai padarė su Jėzaus drabužiais?",
+    "options": {
+      "a": "Padalijo į keturias dalis ir metė burtą dėl tunikos",
+      "b": "Perplėšė juos į skutus",
+      "c": "Atidavė aukštiesiems kunigams",
+      "d": "Sudegino juos"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_012",
+    "question": "Kas stovėjo prie Jėzaus kryžiaus, minint jo motiną?",
+    "options": {
+      "a": "Jo mokiniai ir apaštalai",
+      "b": "Jo motinos sesuo, Marija Klopienė ir Marija Magdalietė",
+      "c": "Jo seserys",
+      "d": "Kiti jo sekėjai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_013",
+    "question": "Ką Jėzus tarė, žinodamas, jog viskas įvykdyta, ir kad išsipildytų Raštas?",
+    "options": {
+      "a": "Trokštu!",
+      "b": "Viskas baigta!",
+      "c": "Aš numirštu!",
+      "d": "Tėve, atleisk jiems!"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  },
+  {
+    "id": "Jn_19_014",
+    "question": "Kas atvyko su Nikodemu, nešdami apie šimtą svarų miros ir alavijo mišinio?",
+    "options": {
+      "a": "Juozapas iš Arimatėjos",
+      "b": "Jo mokiniai",
+      "c": "Marija Magdalietė",
+      "d": "Jėzaus motina"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_19"
+  }
+]

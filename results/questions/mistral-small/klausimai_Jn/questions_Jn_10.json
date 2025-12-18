@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_10_001",
+    "question": "Kas, pasak Jėzaus, yra avių ganytojas?",
+    "options": {
+      "a": "Vagis",
+      "b": "Plėšikas",
+      "c": "Samdinys",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_002",
+    "question": "Kas, pasak Jėzaus, yra avių vartai?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Samdinys",
+      "c": "Vagis",
+      "d": "Plėšikas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_003",
+    "question": "Kas, pasak Jėzaus, ateina vien tik vogti, žudyti, naikinti?",
+    "options": {
+      "a": "Geras ganytojas",
+      "b": "Samdinys",
+      "c": "Vagis",
+      "d": "Plėšikas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_004",
+    "question": "Kas, pasak Jėzaus, guldo gyvybę už avis?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Geras ganytojas",
+      "c": "Vagis",
+      "d": "Plėšikas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_005",
+    "question": "Kas, pasak Jėzaus, palieka avis ir pabėga, pamatęs sėlinantį vilką?",
+    "options": {
+      "a": "Geras ganytojas",
+      "b": "Samdinys",
+      "c": "Vagis",
+      "d": "Plėšikas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_006",
+    "question": "Kas, pasak Jėzaus, pažįsta savo avis ir yra pažįstamas jomis?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Geras ganytojas",
+      "c": "Vagis",
+      "d": "Plėšikas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_007",
+    "question": "Kas, pasak Jėzaus, turi galią atiduoti savo gyvybę ir vėl ją atsiimti?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Geras ganytojas",
+      "c": "Vagis",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_008",
+    "question": "Kas, pasak Jėzaus, klauso jo balso ir seka paskui jį?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Geras ganytojas",
+      "c": "Manosios avys",
+      "d": "Plėšikas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_009",
+    "question": "Kas, pasak Jėzaus, duoda amžinąjį gyvenimą?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Geras ganytojas",
+      "c": "Vagis",
+      "d": "Plėšikas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_010",
+    "question": "Kas, pasak Jėzaus, yra aukščiau už viską?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Geras ganytojas",
+      "c": "Tėvas",
+      "d": "Plėšikas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_011",
+    "question": "Kas, pasak Jėzaus, esame viena?",
+    "options": {
+      "a": "Aš ir Tėvas",
+      "b": "Aš ir Samdinys",
+      "c": "Aš ir Vagis",
+      "d": "Aš ir Plėšikas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_012",
+    "question": "Kas, pasak Jėzaus, dediesi Dievu?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Geras ganytojas",
+      "c": "Jėzus",
+      "d": "Plėšikas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_013",
+    "question": "Kas, pasak Jėzaus, pašventino ir siuntė pasaulin?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Geras ganytojas",
+      "c": "Tėvas",
+      "d": "Plėšikas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_014",
+    "question": "Kas, pasak Jėzaus, turi galią padaryti gerus darbus?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Geras ganytojas",
+      "c": "Jėzus",
+      "d": "Plėšikas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_10"
+  }
+]

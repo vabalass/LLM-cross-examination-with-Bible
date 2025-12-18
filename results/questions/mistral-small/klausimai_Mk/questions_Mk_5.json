@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Mk_5_001",
+    "question": "Kur Jėzus priplaukė su savo mokiniais?",
+    "options": {
+      "a": "Nazareto krašte",
+      "b": "Geraziečių krašte",
+      "c": "Galilėjos krašte",
+      "d": "Judejos krašte"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_002",
+    "question": "Kas atbėgo priešais Jėzų iš kapinių?",
+    "options": {
+      "a": "Vienas iš mokinčių",
+      "b": "Netyrosios dvasios apsėstas vyras",
+      "c": "Vienas iš sinagogos vyresniųjų",
+      "d": "Viena moteris, serganti kraujoplūdžiu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_003",
+    "question": "Kuo buvo apsėstas vyras, kuris atbėgo priešais Jėzų?",
+    "options": {
+      "a": "Vėžio liga",
+      "b": "Netyrosios dvasios",
+      "c": "Epilepsija",
+      "d": "Psichozė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_004",
+    "question": "Kuo bandė surakinti apsėstąjį vyrą?",
+    "options": {
+      "a": "Grandinėmis ir pančiais",
+      "b": "Medžiais ir virvėmis",
+      "c": "Aukso grandinėmis",
+      "d": "Plieninėmis grandinėmis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_005",
+    "question": "Kuo apsėstasis vyras sau daužydavo?",
+    "options": {
+      "a": "Akmenimis",
+      "b": "Medžiais",
+      "c": "Virvėmis",
+      "d": "Grandinėmis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_006",
+    "question": "Kuo vardu pasivadinė netyrosios dvasios?",
+    "options": {
+      "a": "Legionas",
+      "b": "Beelzebubas",
+      "c": "Satanas",
+      "d": "Belialas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_007",
+    "question": "Kuo dvasios prašė Jėzaus?",
+    "options": {
+      "a": "Pasiųsti jas į kiaules",
+      "b": "Pasiųsti jas į ežerą",
+      "c": "Pasiųsti jas į mišką",
+      "d": "Pasiųsti jas į kalną"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_008",
+    "question": "Kiek kiaulių buvo apnikta netyrosiomis dvasiomis?",
+    "options": {
+      "a": "Apie du tūkstančius",
+      "b": "Apie penki šimtus",
+      "c": "Apie tūkstantį",
+      "d": "Apie du šimtus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_009",
+    "question": "Ką padarė kiaules, būdamos apniktos netyrosiomis dvasiomis?",
+    "options": {
+      "a": "Metėsi nuo skardžio į ežerą",
+      "b": "Metėsi į uolą",
+      "c": "Metėsi į mišką",
+      "d": "Metėsi į kalną"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_010",
+    "question": "Ką padarė žmonės, matydami apsėstąjį po demonų išvarymo?",
+    "options": {
+      "a": "Jie jį pasveikino",
+      "b": "Jie jį išvijo",
+      "c": "Jie jį priėmė",
+      "d": "Jie jį išgėrė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_011",
+    "question": "Ką Jėzus pasakė apsėstajam vyrui, kuris norėjo pasilikti su juo?",
+    "options": {
+      "a": "Eik namo pas saviškius ir papasakok, kokių nuostabių dalykų Viešpats tau padarė ir kaip tavęs pasigailėjo",
+      "b": "Eik ir skelbk visur apie manęs",
+      "c": "Eik ir pasakok visiems, kad aš esu Jėzus",
+      "d": "Eik ir pasakok visiems, kad aš esu Dievo Sūnus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_012",
+    "question": "Kas ateina prie Jėzaus, maldaudamas pagelbėti jo dukrelės?",
+    "options": {
+      "a": "Vienas iš mokinčių",
+      "b": "Vienas iš sinagogos vyresniųjų, vardu Jajiras",
+      "c": "Vienas iš fariziejų",
+      "d": "Vienas iš sakalų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_013",
+    "question": "Ką Jėzus pasakė sinagogos vyresniajam, išgirdęs, kad jo duktė numirė?",
+    "options": {
+      "a": "Nenusigąsk, vien tikėk!",
+      "b": "Nenusigąsk, viskas bus gerai!",
+      "c": "Nenusigąsk, aš jums padėsiu!",
+      "d": "Nenusigąsk, aš jums padėsiu ir išgelbėsiu!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_014",
+    "question": "Ką Jėzus pasakė mergaitei, kuri buvo prikelta mirusioje?",
+    "options": {
+      "a": "Talitá kum",
+      "b": "Kelkis ir eik!",
+      "c": "Kelkis ir gyk!",
+      "d": "Kelkis ir vaikšk!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_5"
+  }
+]

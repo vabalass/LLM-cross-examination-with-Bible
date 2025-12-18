@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mk_7_001",
+    "question": "Kas susirenka pas Jėzų, atvykę iš Jeruzalės?",
+    "options": {
+      "a": "Fariziejai ir keli Rašto aiškintojai",
+      "b": "Mokytojai ir keli Rašto aiškintojai",
+      "c": "Fariziejai ir keli mokytojai",
+      "d": "Rašto aiškintojai ir keli mokytojai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_002",
+    "question": "Ką pamato fariziejai ir Rašto aiškintojai?",
+    "options": {
+      "a": "Kai kuriuos Jėzaus mokinius valgančius suterštomis rankomis",
+      "b": "Kai kuriuos Jėzaus mokinius valgančius nemazgotomis rankomis",
+      "c": "Kai kuriuos Jėzaus mokinius valgančius rūpestingai nusiplovę rankomis",
+      "d": "Kai kuriuos Jėzaus mokinius valgančius suterštomis rankomis ir nemazgotomis rankomis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_003",
+    "question": "Ką fariziejai ir visi žydai pagal prosenių paprotį valgo?",
+    "options": {
+      "a": "Valgo tik rūpestingai nusiplovę rankomis",
+      "b": "Valgo tik nemazgotomis rankomis",
+      "c": "Valgo tik suterštomis rankomis",
+      "d": "Valgo tik rūpestingai nusiplovę rankomis ir nemazgotomis rankomis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_004",
+    "question": "Ką fariziejai ir Rašto aiškintojai klausia Jėzų?",
+    "options": {
+      "a": "Kodėl tavo mokiniai nesilaiko prosenių papročio ir valgo suterštomis rankomis?",
+      "b": "Kodėl tavo mokiniai nesilaiko prosenių papročio ir valgo nemazgotomis rankomis?",
+      "c": "Kodėl tavo mokiniai nesilaiko prosenių papročio ir valgo rūpestingai nusiplovę rankomis?",
+      "d": "Kodėl tavo mokiniai nesilaiko prosenių papročio ir valgo suterštomis rankomis ir nemazgotomis rankomis?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_005",
+    "question": "Ką Jėzus atsako fariziejams ir Rašto aiškintojams?",
+    "options": {
+      "a": "Gerai apie jus, veidmainius, pranašavo Izaijas, kaip parašyta: Ši tauta šlovina mane lūpomis, bet jos širdis toli nuo manęs.",
+      "b": "Gerai apie jus, veidmainius, pranašavo Izaijas, kaip parašyta: Ši tauta šlovina mane lūpomis, bet jos širdis artima manęs.",
+      "c": "Gerai apie jus, veidmainius, pranašavo Izaijas, kaip parašyta: Ši tauta šlovina mane lūpomis, bet jos širdis toli nuo manęs.",
+      "d": "Gerai apie jus, veidmainius, pranašavo Izaijas, kaip parašyta: Ši tauta šlovina mane lūpomis, bet jos širdis toli nuo manęs."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_006",
+    "question": "Ką Jėzus pridūrė po savo atsakymo?",
+    "options": {
+      "a": "Puikiai jūs apeinate Dievo įsakymą, norėdami išsaugoti savo papročius!",
+      "b": "Puikiai jūs laužiate Dievo įsakymą, norėdami išsaugoti savo papročius!",
+      "c": "Puikiai jūs laužiate Dievo įsakymą, norėdami išsaugoti savo papročius!",
+      "d": "Puikiai jūs laužiate Dievo įsakymą, norėdami išsaugoti savo papročius!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_007",
+    "question": "Ką Jėzus pasakė apie Dievo įsakymą ir žmonių papročius?",
+    "options": {
+      "a": "Apleidę Dievo įsakymą, jūs įsikibėte laikotės žmonių papročių.",
+      "b": "Apleidę Dievo įsakymą, jūs įsikibėte laikotės žmonių papročių.",
+      "c": "Apleidę Dievo įsakymą, jūs įsikibėte laikotės žmonių papročių.",
+      "d": "Apleidę Dievo įsakymą, jūs įsikibėte laikotės žmonių papročių."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_008",
+    "question": "Ką Jėzus pasakė apie Korban?",
+    "options": {
+      "a": "Jei žmogus pasako savo tėvui ar motinai: Tebūnie Korban (tai yra: auka Dievui), kuo turėčiau tave sušelpti, tuomet jūs nebeleidžiate jam padėti tėvui ar motinai.",
+      "b": "Jei žmogus pasako savo tėvui ar motinai: Tebūnie Korban (tai yra: auka Dievui), kuo turėčiau tave sušelpti, tuomet jūs leidžiate jam padėti tėvui ar motinai.",
+      "c": "Jei žmogus pasako savo tėvui ar motinai: Tebūnie Korban (tai yra: auka Dievui), kuo turėčiau tave sušelpti, tuomet jūs leidžiate jam padėti tėvui ar motinai.",
+      "d": "Jei žmogus pasako savo tėvui ar motinai: Tebūnie Korban (tai yra: auka Dievui), kuo turėčiau tave sušelpti, tuomet jūs leidžiate jam padėti tėvui ar motinai."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_009",
+    "question": "Ką Jėzus pasakė apie kas suteršia žmogų?",
+    "options": {
+      "a": "Nėra nieko, kas, iš lauko įėjęs į žmogų, galėtų jį sutepti. Žmogų sutepa vien tai, kas iš žmogaus išeina.",
+      "b": "Nėra nieko, kas, iš lauko įėjęs į žmogų, galėtų jį sutepti. Žmogų sutepa vien tai, kas iš žmogaus išeina.",
+      "c": "Nėra nieko, kas, iš lauko įėjęs į žmogų, galėtų jį sutepti. Žmogų sutepa vien tai, kas iš žmogaus išeina.",
+      "d": "Nėra nieko, kas, iš lauko įėjęs į žmogų, galėtų jį sutepti. Žmogų sutepa vien tai, kas iš žmogaus išeina."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_010",
+    "question": "Ką Jėzus pasakė apie kas išeina iš žmonių širdies?",
+    "options": {
+      "a": "Iš vidaus, iš žmonių širdies, išeina pikti sumanymai, paleistuvystės, vagystės, žmogžudystės, svetimavimai, godumas, suktybės, klasta, begėdystės, pavydas, šmeižtai, puikybė, neišmanymas.",
+      "b": "Iš vidaus, iš žmonių širdies, išeina geri sumanymai, paleistuvystės, vagystės, žmogžudystės, svetimavimai, godumas, suktybės, klasta, begėdystės, pavydas, šmeižtai, puikybė, neišmanymas.",
+      "c": "Iš vidaus, iš žmonių širdies, išeina pikti sumanymai, paleistuvystės, vagystės, žmogžudystės, svetimavimai, godumas, suktybės, klasta, begėdystės, pavydas, šmeižtai, puikybė, neišmanymas.",
+      "d": "Iš vidaus, iš žmonių širdies, išeina pikti sumanymai, paleistuvystės, vagystės, žmogžudystės, svetimavimai, godumas, suktybės, klasta, begėdystės, pavydas, šmeižtai, puikybė, neišmanymas."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_011",
+    "question": "Kur Jėzus nukeliavo po to, kai išvykęs iš ten?",
+    "options": {
+      "a": "Į Tyro sritis",
+      "b": "Į Sidono sritis",
+      "c": "Į Dekapolio krašto vidurį",
+      "d": "Į Galilėjos ežero"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_012",
+    "question": "Ką Jėzus tarė moteriai, kuri maldavo išvaryti iš jos dukrelės demoną?",
+    "options": {
+      "a": "Leisk pirmiau pasisotinti vaikams. Juk negražu imti vaikų duoną ir mesti šunyčiams.",
+      "b": "Leisk pirmiau pasisotinti vaikams. Juk negražu imti vaikų duoną ir mesti šunyčiams.",
+      "c": "Leisk pirmiau pasisotinti vaikams. Juk negražu imti vaikų duoną ir mesti šunyčiams.",
+      "d": "Leisk pirmiau pasisotinti vaikams. Juk negražu imti vaikų duoną ir mesti šunyčiams."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_7"
+  }
+]

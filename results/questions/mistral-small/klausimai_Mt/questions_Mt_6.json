@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_6_001",
+    "question": "Kas yra pagrindinė priežastis, kodėl žmonės gali daryti išmaldą, maldas ir pasninkauti?",
+    "options": {
+      "a": "Norėdami būti matomi žmonėmis ir gauti jų pripažinimą.",
+      "b": "Norėdami būti matomi Dievu ir gauti jo pripažinimą.",
+      "c": "Norėdami būti matomi savo šeima ir gauti jų pripažinimą.",
+      "d": "Norėdami būti matomi draugais ir gauti jų pripažinimą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_002",
+    "question": "Kur mūsų Tėvas yra, pagal Jėzaus mokslininkus?",
+    "options": {
+      "a": "Viename iš trijų.",
+      "b": "Slaptoje.",
+      "c": "Danguje.",
+      "d": "Visur."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_003",
+    "question": "Kas yra pagrindinė priežastis, kodėl žmonės gali melstis?",
+    "options": {
+      "a": "Norėdami būti matomi žmonėmis ir gauti jų pripažinimą.",
+      "b": "Norėdami būti matomi Dievu ir gauti jo pripažinimą.",
+      "c": "Norėdami būti matomi savo šeima ir gauti jų pripažinimą.",
+      "d": "Norėdami būti matomi draugais ir gauti jų pripažinimą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_004",
+    "question": "Kur mūsų Tėvas yra, pagal Jėzaus mokslininkus?",
+    "options": {
+      "a": "Viename iš trijų.",
+      "b": "Slaptoje.",
+      "c": "Danguje.",
+      "d": "Visur."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_005",
+    "question": "Kas yra pagrindinė priežastis, kodėl žmonės gali pasninkauti?",
+    "options": {
+      "a": "Norėdami būti matomi žmonėmis ir gauti jų pripažinimą.",
+      "b": "Norėdami būti matomi Dievu ir gauti jo pripažinimą.",
+      "c": "Norėdami būti matomi savo šeima ir gauti jų pripažinimą.",
+      "d": "Norėdami būti matomi draugais ir gauti jų pripažinimą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_006",
+    "question": "Kur mūsų Tėvas yra, pagal Jėzaus mokslininkus?",
+    "options": {
+      "a": "Viename iš trijų.",
+      "b": "Slaptoje.",
+      "c": "Danguje.",
+      "d": "Visur."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_007",
+    "question": "Kas yra pagrindinė priežastis, kodėl žmonės gali krauti lobius?",
+    "options": {
+      "a": "Norėdami būti matomi žmonėmis ir gauti jų pripažinimą.",
+      "b": "Norėdami būti matomi Dievu ir gauti jo pripažinimą.",
+      "c": "Norėdami būti matomi savo šeima ir gauti jų pripažinimą.",
+      "d": "Norėdami būti matomi draugais ir gauti jų pripažinimą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_008",
+    "question": "Kur mūsų Tėvas yra, pagal Jėzaus mokslininkus?",
+    "options": {
+      "a": "Viename iš trijų.",
+      "b": "Slaptoje.",
+      "c": "Danguje.",
+      "d": "Visur."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_009",
+    "question": "Kas yra pagrindinė priežastis, kodėl žmonės gali rūpintis savo gyvenimu?",
+    "options": {
+      "a": "Norėdami būti matomi žmonėmis ir gauti jų pripažinimą.",
+      "b": "Norėdami būti matomi Dievu ir gauti jo pripažinimą.",
+      "c": "Norėdami būti matomi savo šeima ir gauti jų pripažinimą.",
+      "d": "Norėdami būti matomi draugais ir gauti jų pripažinimą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_010",
+    "question": "Kur mūsų Tėvas yra, pagal Jėzaus mokslininkus?",
+    "options": {
+      "a": "Viename iš trijų.",
+      "b": "Slaptoje.",
+      "c": "Danguje.",
+      "d": "Visur."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  },
+  {
+    "id": "Mt_6_011",
+    "question": "Kas yra pagrindinė priežastis, kodėl žmonės gali rūpintis savo drabužiais?",
+    "options": {
+      "a": "Norėdami būti matomi žmonėmis ir gauti jų pripažinimą.",
+      "b": "Norėdami būti matomi Dievu ir gauti jo pripažinimą.",
+      "c": "Norėdami būti matomi savo šeima ir gauti jų pripažinimą.",
+      "d": "Norėdami būti matomi draugais ir gauti jų pripažinimą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_6"
+  }
+]

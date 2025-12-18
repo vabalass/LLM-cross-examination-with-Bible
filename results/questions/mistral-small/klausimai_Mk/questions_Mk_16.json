@@ -1,0 +1,80 @@
+[
+  {
+    "id": "Mk_16_001",
+    "question": "Kas nusipirko kvepalų, kad galėtų Jėzų patepti?",
+    "options": {
+      "a": "Marija Magdalietė, Marija, Jokūbo motina ir Salomė",
+      "b": "Petras, Jokūbas ir Jono",
+      "c": "Marija Magdalietė ir Martyna",
+      "d": "Marija Magdalietė ir Marija, Jokūbo motina"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_002",
+    "question": "Kas pamatė jaunuolį baltais drabužiais kapo rūsyje?",
+    "options": {
+      "a": "Marija Magdalietė",
+      "b": "Marija, Jokūbo motina",
+      "c": "Salomė",
+      "d": "Visos trys moterys"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_003",
+    "question": "Kas pasakė moterims, kad Jėzus prisikėlė?",
+    "options": {
+      "a": "Jaunuolis baltais drabužiais",
+      "b": "Petras",
+      "c": "Vienuolis",
+      "d": "Jėzus pačias"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_004",
+    "question": "Kam pirmiausia pasirodė Jėzus prisikėlęs?",
+    "options": {
+      "a": "Petrui",
+      "b": "Visoms moterims",
+      "c": "Marijai Magdalietei",
+      "d": "Vienuoliams"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_005",
+    "question": "Kas netikėjo, kad Jėzus prisikėlė, išgirdę Marijos Magdalietės pranešimą?",
+    "options": {
+      "a": "Petras ir Jokūbas",
+      "b": "Jėzaus bičiulai",
+      "c": "Vienuoliai",
+      "d": "Visos moterys"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_006",
+    "question": "Ką Jėzus pasakė Vienuoliams, kai pasirodė jie sėdėjo už stalo?",
+    "options": {
+      "a": "Priekaištavo jiems už netikėjimą ir širdies kietumą",
+      "b": "Pasakė jiems eiti į visą pasaulį ir skelbti Evangeliją",
+      "c": "Pasakė jiems, kad jis bus paimtas į dangų",
+      "d": "Pasakė jiems, kad jie bus išgelbėti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_16"
+  }
+]

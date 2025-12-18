@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Jn_14_001",
+    "question": "Kas pagrindinė Jėzaus pranešama žinija Jn 14:1-4?",
+    "options": {
+      "a": "Jie turės daug darbų",
+      "b": "Jie turės daug buveinių",
+      "c": "Jie turės daug laimės",
+      "d": "Jie turės daug pinigų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_002",
+    "question": "Kas klausė Jėzų, kur jis eina ir kaip jie žinos kelią?",
+    "options": {
+      "a": "Pilypas",
+      "b": "Tomas",
+      "c": "Judas",
+      "d": "Petras"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_003",
+    "question": "Ką Jėzus sakė apie save Jn 14:6?",
+    "options": {
+      "a": "Aš esu kelias, tiesa ir gyvenimas",
+      "b": "Aš esu kelias, tiesa ir mirtis",
+      "c": "Aš esu kelias, tiesa ir malonė",
+      "d": "Aš esu kelias, tiesa ir džiaugsmas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_004",
+    "question": "Kas klausė Jėzų parodyti Tėvą?",
+    "options": {
+      "a": "Tomas",
+      "b": "Pilypas",
+      "c": "Judas",
+      "d": "Petras"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_005",
+    "question": "Ką Jėzus sakė apie Tėvą ir save Jn 14:9?",
+    "options": {
+      "a": "Kas matė mane, matė ir Tėvą",
+      "b": "Kas matė Tėvą, matė ir mane",
+      "c": "Kas matė mane, matė ir Šventąjį Dvasį",
+      "d": "Kas matė Tėvą, matė ir Šventąjį Dvasį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_006",
+    "question": "Ką Jėzus sakė apie savo darbus Jn 14:10?",
+    "options": {
+      "a": "Žodžius, kuriuos jums kalbu, ne iš savęs kalbu",
+      "b": "Žodžius, kuriuos jums kalbu, iš savęs kalbu",
+      "c": "Žodžius, kuriuos jums kalbu, iš Tėvo kalbu",
+      "d": "Žodžius, kuriuos jums kalbu, iš Šventojo Dvasio kalbu"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_007",
+    "question": "Ką Jėzus sakė apie tikintis jį Jn 14:12?",
+    "options": {
+      "a": "Kas mane tiki, darys darbus, kuriuos aš darau",
+      "b": "Kas mane tiki, darys darbus, kuriuos Tėvas darau",
+      "c": "Kas mane tiki, darys darbus, kuriuos Šventasis Dvasis darau",
+      "d": "Kas mane tiki, darys darbus, kuriuos pasaulis darau"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_008",
+    "question": "Ką Jėzus sakė apie mylėti jį Jn 14:15?",
+    "options": {
+      "a": "Jei mane mylite, laikysitės mano įsakymų",
+      "b": "Jei mane mylite, darysitės mano įsakymų",
+      "c": "Jei mane mylite, kalbėsitės mano įsakymų",
+      "d": "Jei mane mylite, mąstysitės mano įsakymų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_009",
+    "question": "Ką Jėzus sakė apie Šventąjį Dvasį Jn 14:16-17?",
+    "options": {
+      "a": "Tiesos Dvasia, kuris liktų su jumis per amžius",
+      "b": "Tiesos Dvasia, kuris liktų su jumis per metus",
+      "c": "Tiesos Dvasia, kuris liktų su jumis per savaites",
+      "d": "Tiesos Dvasia, kuris liktų su jumis per dienas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  },
+  {
+    "id": "Jn_14_010",
+    "question": "Ką Jėzus sakė apie savo grįžimą Jn 14:18?",
+    "options": {
+      "a": "Nepaliksiu jūsų našlaičiais – ateisiu pas jus",
+      "b": "Paliksiu jūsų našlaičiais – ateisiu pas jus",
+      "c": "Nepaliksiu jūsų našlaičiais – neateisiu pas jus",
+      "d": "Paliksiu jūsų našlaičiais – neateisiu pas jus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_14"
+  }
+]

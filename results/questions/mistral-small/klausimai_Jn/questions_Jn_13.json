@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Jn_13_001",
+    "question": "Kas išduodavo Jėzų?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Judas Iskariotaitis",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_002",
+    "question": "Ką Jėzus padarė mokiniams, kad parodytų savo meilę?",
+    "options": {
+      "a": "Numazgo jims kojas",
+      "b": "Duodavo jims valgyti",
+      "c": "Mokė jus jie",
+      "d": "Duodavo jims pinigus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_003",
+    "question": "Kas atsakė Jėzui, kad jis negali mazgoti jo kojų?",
+    "options": {
+      "a": "Andriejus",
+      "b": "Simonas Petras",
+      "c": "Judas",
+      "d": "Jonas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_004",
+    "question": "Kas buvo prisiglaudęs prie Jėzaus krūtinės?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Judas",
+      "c": "Mokinys, kurį Jėzus mylėjo",
+      "d": "Jonas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_005",
+    "question": "Ką Jėzus padavė Judui, kad žymėtų jį kaip išdavėją?",
+    "options": {
+      "a": "Vyną",
+      "b": "Duoną",
+      "c": "Kąsnį",
+      "d": "Vandens"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_006",
+    "question": "Kas turėjo žinoti apie išdavystę?",
+    "options": {
+      "a": "Visi mokiniai",
+      "b": "Tik Jėzus",
+      "c": "Tik Simonas Petras",
+      "d": "Tik Judas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_007",
+    "question": "Ką Jėzus sakė, kai Judas išėjo?",
+    "options": {
+      "a": "Dabar Žmogaus Sūnus pašlovintas",
+      "b": "Dabar aš einu pas Tėvą",
+      "c": "Dabar jūs esate laisvi",
+      "d": "Dabar jūs turite bėgti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_008",
+    "question": "Ką Jėzus sakė apie savo mokinius?",
+    "options": {
+      "a": "Jie turi vieni kitiems mazgoti kojas",
+      "b": "Jie turi vieni kitiems duoti pinigus",
+      "c": "Jie turi vieni kitiems valgyti",
+      "d": "Jie turi vieni kitiems mokyti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_009",
+    "question": "Ką Jėzus sakė apie savo išdavimą?",
+    "options": {
+      "a": "Jis sakė, kad vienas iš jų išduos jį",
+      "b": "Jis sakė, kad visi jie išduos jį",
+      "c": "Jis sakė, kad niekas iš jų neįduos jį",
+      "d": "Jis sakė, kad tik Simonas Petras išduos jį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_010",
+    "question": "Ką Jėzus sakė apie savo grįžimą?",
+    "options": {
+      "a": "Jis sakė, kad jis grįš per tris dienas",
+      "b": "Jis sakė, kad jis grįš per savaitę",
+      "c": "Jis sakė, kad jis grįš per mėnesį",
+      "d": "Jis sakė, kad jis niekada negrįš"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_011",
+    "question": "Ką Jėzus sakė apie savo mokinius ir mylėtį?",
+    "options": {
+      "a": "Jie turi mylėti vieni kitių kaip jie myli vieni kitių",
+      "b": "Jie turi mylėti vieni kitių kaip jie myli jį",
+      "c": "Jie turi mylėti vieni kitių kaip jie myli save",
+      "d": "Jie turi mylėti vieni kitių kaip jie myli savo šeimas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  },
+  {
+    "id": "Jn_13_012",
+    "question": "Ką Jėzus sakė apie Simono Petro išsigynimą?",
+    "options": {
+      "a": "Jis sakė, kad Simonas Petras jį išsigins tris kartus",
+      "b": "Jis sakė, kad Simonas Petras jį išsigins vieną kartą",
+      "c": "Jis sakė, kad Simonas Petras jį išsigins du kartus",
+      "d": "Jis sakė, kad Simonas Petras jį niekada neišsigins"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_13"
+  }
+]

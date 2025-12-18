@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_23_001",
+    "question": "Ką žmonės skundėsi apie Jėzų, vedę jį pas Pilotą?",
+    "options": {
+      "a": "Jis draudėjo mokėti mokesčius ciesoriui.",
+      "b": "Jis draudėjo mokėti mokesčius Romos imperijai.",
+      "c": "Jis draudėjo mokėti mokesčius šventyklai.",
+      "d": "Jis draudėjo mokėti mokesčius žydų kunigams."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_002",
+    "question": "Ką Pilotas paklausė Jėzų?",
+    "options": {
+      "a": "Ar tu esi Dievo sūnus?",
+      "b": "Ar tu esi žydų karalius?",
+      "c": "Ar tu esi Mesijas?",
+      "d": "Ar tu esi pranašas?"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_003",
+    "question": "Ką Jėzus atsakė Pilotui?",
+    "options": {
+      "a": "„Taip yra, kaip sakai“",
+      "b": "„Ne, aš niekas tokis nesakiau“",
+      "c": "„Taip yra, bet tik Dievas žino“",
+      "d": "„Ne, aš nieko tokio nesakiau“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_004",
+    "question": "Ką Pilotas tarė aukštiesiems kunigams ir miniai?",
+    "options": {
+      "a": "„Aš nerandu šitame žmoguje jokios kaltės“",
+      "b": "„Aš nerandu šitame žmoguje jokios teisės“",
+      "c": "„Aš nerandu šitame žmoguje jokios galios“",
+      "d": "„Aš nerandu šitame žmoguje jokios meilės“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_005",
+    "question": "Ką žmonės tvirtino apie Jėzų?",
+    "options": {
+      "a": "Jis savo mokslu kursto tautą visoje Judėjoje, pradedant nuo Galilėjos iki čia.",
+      "b": "Jis savo mokslu kursto tautą visoje Galilėjoje, pradedant nuo Judėjos iki čia.",
+      "c": "Jis savo mokslu kursto tautą visoje Samarijoje, pradedant nuo Galilėjos iki čia.",
+      "d": "Jis savo mokslu kursto tautą visoje Romoje, pradedant nuo Galilėjos iki čia."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_006",
+    "question": "Ką Pilotas padarė, sužinojęs, kad Jėzus iš Erodo valdų?",
+    "options": {
+      "a": "Nusiuntė jį pas Erodą.",
+      "b": "Nusiuntė jį pas Herodą.",
+      "c": "Nusiuntė jį pas Pilatą.",
+      "d": "Nusiuntė jį pas Kaifą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_007",
+    "question": "Ką Erodas norėjo pamatyti Jėzų darantį?",
+    "options": {
+      "a": "Kokį nors stebuklą.",
+      "b": "Kokį nors šventą veiklą.",
+      "c": "Kokį nors malonę.",
+      "d": "Kokį nors dieviškumą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_008",
+    "question": "Ką Erodas padarė su Jėzumi?",
+    "options": {
+      "a": "Paniekino ir išjuokė.",
+      "b": "Palaikė ir pagyrė.",
+      "c": "Palaikė ir išjuokė.",
+      "d": "Paniekino ir pagyrė."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_009",
+    "question": "Ką Erodas padarė su Jėzumi po to?",
+    "options": {
+      "a": "Aprengė jį baltu drabužiu ir pasiuntė atgal Pilotui.",
+      "b": "Aprengė jį raudonu drabužiu ir pasiuntė atgal Pilotui.",
+      "c": "Aprengė jį žaliu drabužiu ir pasiuntė atgal Pilotui.",
+      "d": "Aprengė jį mėlynu drabužiu ir pasiuntė atgal Pilotui."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_010",
+    "question": "Ką Pilotas pareiškė apie Jėzų?",
+    "options": {
+      "a": "„Jūs atvedėte man šį žmogų, kaltindami jį žmonių kurstymu. Bet aš, jį apklausęs jūsų akyse, neradau nė vienos jam primetamos kaltės.“",
+      "b": "„Jūs atvedėte man šį žmogų, kaltindami jį žmonių malšinimu. Bet aš, jį apklausęs jūsų akyse, neradau nė vienos jam primetamos kaltės.“",
+      "c": "„Jūs atvedėte man šį žmogų, kaltindami jį žmonių maloninimu. Bet aš, jį apklausęs jūsų akyse, neradau nė vienos jam primetamos kaltės.“",
+      "d": "„Jūs atvedėte man šį žmogų, kaltindami jį žmonių maloninimu. Bet aš, jį apklausęs jūsų akyse, neradau nė vienos jam primetamos teisės.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_011",
+    "question": "Ką žmonės šaukė?",
+    "options": {
+      "a": "„Mirtis šitam! Paleisk mums Barabą!“",
+      "b": "„Mirtis šitam! Paleisk mums Jėzų!“",
+      "c": "„Mirtis šitam! Paleisk mums Simoną!“",
+      "d": "„Mirtis šitam! Paleisk mums Petrą!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_012",
+    "question": "Ką Pilotas nusprendė padaryti?",
+    "options": {
+      "a": "Patenkinti jų reikalavimą.",
+      "b": "Atmesti jų reikalavimą.",
+      "c": "Paleisti Jėzų.",
+      "d": "Paleisti Barabą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_013",
+    "question": "Ką Jėzus prabilo Jeruzalės dukroms?",
+    "options": {
+      "a": "„Verkite ne manęs, bet verčiau savęs ir savo vaikų!“",
+      "b": "„Verkite ne manęs, bet verčiau savęs ir savo motinos!“",
+      "c": "„Verkite ne manęs, bet verčiau savęs ir savo tėvo!“",
+      "d": "„Verkite ne manęs, bet verčiau savęs ir savo brolių!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_014",
+    "question": "Ką Jėzus sakė apie kalnus ir kalvas?",
+    "options": {
+      "a": "„Ateis dienos, kai sakys: 'Laimingos nevaisingosios! Laimingos negimdžiusios ir nežindžiusios!' Tada sakys kalnams: Griūkite ant mūsų! ir kalvoms: Pridenkite mus!“",
+      "b": "„Ateis dienos, kai sakys: 'Laimingos vaisingosios! Laimingos gimdžiusios ir žindžiusios!' Tada sakys kalnams: Griūkite ant mūsų! ir kalvoms: Pridenkite mus!“",
+      "c": "„Ateis dienos, kai sakys: 'Laimingos nevaisingosios! Laimingos gimdžiusios ir žindžiusios!' Tada sakys kalnams: Griūkite ant mūsų! ir kalvoms: Pridenkite mus!“",
+      "d": "„Ateis dienos, kai sakys: 'Laimingos vaisingosios! Laimingos negimdžiusios ir nežindžiusios!' Tada sakys kalnams: Griūkite ant mūsų! ir kalvoms: Pridenkite mus!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_015",
+    "question": "Ką Jėzus meldėsi ant kryžiaus?",
+    "options": {
+      "a": "„Tėve, atleisk jiems, nes jie nežino, ką darą“",
+      "b": "„Tėve, atleisk jiems, nes jie žino, ką darą“",
+      "c": "„Tėve, atleisk jiems, nes jie nežino, ką mes darome“",
+      "d": "„Tėve, atleisk jiems, nes jie žino, ką mes darome“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_016",
+    "question": "Ką vienas iš nukryžiuotųjų nusikaltėlių tarė Jėzui?",
+    "options": {
+      "a": "„Argi tu ne Mesijas? Išgelbėk save ir mus!“",
+      "b": "„Argi tu ne Mesijas? Išgelbėk save ir mūsų!“",
+      "c": "„Argi tu ne Mesijas? Išgelbėk save ir mums!“",
+      "d": "„Argi tu ne Mesijas? Išgelbėk save ir mums!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_017",
+    "question": "Ką antrasis nusikaltėlis tarė?",
+    "options": {
+      "a": "„Ir Dievo tu nebijai, kentėdamas tą pačią bausmę! Juk mudu teisingai gavome, ko mūsų darbai verti, o šitas nieko blogo nėra padaręs“",
+      "b": "„Ir Dievo tu nebijai, kentėdamas tą pačią bausmę! Juk mudu teisingai gavome, ko mūsų darbai verti, o šitas blogo padaręs“",
+      "c": "„Ir Dievo tu nebijai, kentėdamas tą pačią bausmę! Juk mudu teisingai gavome, ko mūsų darbai verti, o šitas nieko blogo nėra padaręs“",
+      "d": "„Ir Dievo tu nebijai, kentėdamas tą pačią bausmę! Juk mudu teisingai gavome, ko mūsų darbai verti, o šitas blogo padaręs“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_018",
+    "question": "Ką Jėzus atsakė antrajam nusikaltėliui?",
+    "options": {
+      "a": "„Iš tiesų sakau tau: šiandien su manimi būsi rojuje“",
+      "b": "„Iš tiesų sakau tau: šiandien su manimi būsi danguje“",
+      "c": "„Iš tiesų sakau tau: šiandien su manimi būsi švenčiamajame mieste“",
+      "d": "„Iš tiesų sakau tau: šiandien su manimi būsi švenčiamajame kalne“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Jn_18_001",
+    "question": "Kur Jėzus su savo mokiniais nuėjo po kalbėjimo?",
+    "options": {
+      "a": "Į Jeruzalę",
+      "b": "Į Nazaretą",
+      "c": "Anapus Kedrono upelio",
+      "d": "Į Betaniją"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_002",
+    "question": "Kas buvo Jėzaus išdavėjas?",
+    "options": {
+      "a": "Judas Iskariotas",
+      "b": "Simonas Petras",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_003",
+    "question": "Ką Jėzus atsakė, kai jį klausė „Ko ieškote?“?",
+    "options": {
+      "a": "Jie klausė: „Jėzaus Nazariečio!“, o Jėzus atsakė: „Tai aš“",
+      "b": "Jie klausė: „Jėzaus Galilietį!“, o Jėzus atsakė: „Tai aš nėra“",
+      "c": "Jie klausė: „Jėzaus Jeruzalietį!“, o Jėzus atsakė: „Tai aš nėra“",
+      "d": "Jie klausė: „Jėzaus Nazariečio!“, o Jėzus atsakė: „Tai aš nėra“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_004",
+    "question": "Kas nukirto Malko ausį?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Judas Iskariotas",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_005",
+    "question": "Kam Jėzus buvo nuvedžiamas po suėmimo?",
+    "options": {
+      "a": "Pas Aną ir Kajafą",
+      "b": "Pas Herodą",
+      "c": "Pas Pilotą",
+      "d": "Pas Kaifą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_006",
+    "question": "Kas buvo Anos pažįstamas mokinys?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Judas Iskariotas",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_007",
+    "question": "Ką klausė vyriausiasis kunigas Jėzų?",
+    "options": {
+      "a": "Apie jo mokinius bei mokslą",
+      "b": "Apie jo šeimą",
+      "c": "Apie jo darbus",
+      "d": "Apie jo keliones"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_008",
+    "question": "Ką Jėzus atsakė vyriausiajam kunigui apie savo mokymą?",
+    "options": {
+      "a": "Jis sakė, kad kalbėjo viešai ir nieko neslėpė",
+      "b": "Jis sakė, kad kalbėjo tik savo mokiniams",
+      "c": "Jis sakė, kad nieko nekalbėjo",
+      "d": "Jis sakė, kad kalbėjo tik savo šeimai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_009",
+    "question": "Ką Pilotas paklausė Jėzų?",
+    "options": {
+      "a": "Ar tu esi žydų karalius?",
+      "b": "Ar tu esi Dievo sūnus?",
+      "c": "Ar tu esi pranašas?",
+      "d": "Ar tu esi mesijas?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_010",
+    "question": "Ką Jėzus atsakė Pilotui apie savo karalystę?",
+    "options": {
+      "a": "Mano karalystė ne iš šio pasaulio",
+      "b": "Mano karalystė yra šio pasaulio",
+      "c": "Mano karalystė yra dvasinė",
+      "d": "Mano karalystė yra dvasinė ir pasaulietinė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_011",
+    "question": "Ką Pilotas tarė apie Jėzų žydams?",
+    "options": {
+      "a": "Aš nerandu jame jokios kaltės",
+      "b": "Jis yra piktadarys",
+      "c": "Jis turi būti nužudytas",
+      "d": "Jis turi būti paleistas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_012",
+    "question": "Kas buvo Barabas?",
+    "options": {
+      "a": "Plėšikas",
+      "b": "Prancūzas",
+      "c": "Prancūzas",
+      "d": "Prancūzas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  },
+  {
+    "id": "Jn_18_013",
+    "question": "Ką žydai šaukė, kai Pilotas pasiūlė paleisti Jėzų?",
+    "options": {
+      "a": "Ne šitą, bet Barabą!",
+      "b": "Paleisk Jėzų!",
+      "c": "Paleisk Barabą!",
+      "d": "Paleisk abu!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_18"
+  }
+]

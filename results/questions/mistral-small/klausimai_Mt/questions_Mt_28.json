@@ -1,0 +1,80 @@
+[
+  {
+    "id": "Mt_28_001",
+    "question": "Kas nužengė iš dangaus ir nurito šalin akmenį?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Marija Magdalietė",
+      "c": "Viešpaties angelas",
+      "d": "Sargybiniai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_002",
+    "question": "Ką angelas pasakė moterims?",
+    "options": {
+      "a": "Jūs esate laimingi",
+      "b": "Jūs nebijokite! Aš žinau, kad ieškote Jėzaus, kuris buvo nukryžiuotas",
+      "c": "Jūs turite grįžti namo",
+      "d": "Jūs turite pasakyti mokiniams, kad Jėzus mirė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_003",
+    "question": "Kur Jėzus pasakė mokiniams, kad jie jį pamatys?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Galilėjoje",
+      "c": "Nazarete",
+      "d": "Betleme"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_004",
+    "question": "Kas pranešė aukštiesiems kunigams apie įvykusį?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Sargybiniai",
+      "c": "Moterys",
+      "d": "Angelas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_005",
+    "question": "Ką aukštiesieji kunigai ir seniūnai primokė sargybinius sakyti?",
+    "options": {
+      "a": "Jėzus prisikėlė",
+      "b": "Jo mokiniai atėję naktį jį išvogė",
+      "c": "Jie nemato nieko",
+      "d": "Jie nemato Jėzaus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_28"
+  },
+  {
+    "id": "Mt_28_006",
+    "question": "Ką Jėzus pasakė mokiniams ant kalno?",
+    "options": {
+      "a": "Man duota visa valdžia danguje ir žemėje",
+      "b": "Jūs esate laimingi",
+      "c": "Jūs turite grįžti namo",
+      "d": "Jūs turite pasakyti visiems, kad aš prisikeliaujų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_28"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Mt_1_001",
+    "question": "Kas buvo Jėzaus tėvas pagal Biblijos tekstą?",
+    "options": {
+      "a": "Dovydas",
+      "b": "Juozapas",
+      "c": "Abraomas",
+      "d": "Dievas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_002",
+    "question": "Kiek kartų nuo Abraomo iki Dovydo pagal Biblijos tekstą?",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "14",
+      "d": "16"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_003",
+    "question": "Kas buvo Jėzaus motina?",
+    "options": {
+      "a": "Ruta",
+      "b": "Rachaba",
+      "c": "Marija",
+      "d": "Tamara"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_004",
+    "question": "Kas pasakė Juozapui sapne apie Marijos nėštumą?",
+    "options": {
+      "a": "Dievas",
+      "b": "Angelas",
+      "c": "Pranašas",
+      "d": "Dovydas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_005",
+    "question": "Kas buvo Jėzaus vardas, duotas pagal Biblijos tekstą?",
+    "options": {
+      "a": "Emanuelis",
+      "b": "Kristus",
+      "c": "Mesijus",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_006",
+    "question": "Kas buvo Jėzaus senelis?",
+    "options": {
+      "a": "Dovydas",
+      "b": "Jokūbas",
+      "c": "Juozapas",
+      "d": "Jesė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_007",
+    "question": "Kas buvo Jėzaus tėvo vardas?",
+    "options": {
+      "a": "Dovydas",
+      "b": "Juozapas",
+      "c": "Abraomas",
+      "d": "Jokūbas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_1"
+  },
+  {
+    "id": "Mt_1_008",
+    "question": "Kas buvo Jėzaus motinos vardas?",
+    "options": {
+      "a": "Ruta",
+      "b": "Rachaba",
+      "c": "Marija",
+      "d": "Tamara"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_1"
+  }
+]

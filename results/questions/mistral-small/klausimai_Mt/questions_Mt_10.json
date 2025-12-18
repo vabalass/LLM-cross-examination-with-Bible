@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Mt_10_001",
+    "question": "Kiek apaštalų pasiuntė Jėzus?",
+    "options": {
+      "a": "7",
+      "b": "10",
+      "c": "12",
+      "d": "15"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_002",
+    "question": "Kas buvo pirmasis iš dvylikos apaštalų?",
+    "options": {
+      "a": "Andriejus",
+      "b": "Simonas Petras",
+      "c": "Jokūbas",
+      "d": "Jonas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_003",
+    "question": "Ką Jėzus nurodė neimti su savimi kelionėje?",
+    "options": {
+      "a": "Kelionmaišį",
+      "b": "Lazdą",
+      "c": "Marškinius",
+      "d": "Visas minėtas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_004",
+    "question": "Ką turi daryti, jei kur jūsų nepriimtų ir jūsų žodžių neklausytų?",
+    "options": {
+      "a": "Nusikratykite ir dulkes nuo kojų",
+      "b": "Nusikratykite ir namus nuo stogo",
+      "c": "Nusikratykite ir žodžius nuo lūpų",
+      "d": "Nusikratykite ir pinigus iš piniginių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_005",
+    "question": "Ką Jėzus sakė apie mokinį ir mokytoją?",
+    "options": {
+      "a": "Mokinys yra aukštesnis už savo mokytoją",
+      "b": "Mokinys nėra aukštesnis už savo mokytoją",
+      "c": "Mokinys yra lygus savo mokytojui",
+      "d": "Mokinys yra žemesnis už savo mokytoją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_006",
+    "question": "Ką Jėzus sakė apie tą, kuris išpažįsta jį žmonių akivaizdoje?",
+    "options": {
+      "a": "Jis jį išpažinsiu savo dangiškojo Tėvo akivaizdoje",
+      "b": "Jis jį išsiginsiu savo dangiškojo Tėvo akivaizdoje",
+      "c": "Jis jį paliks savo dangiškojo Tėvo akivaizdoje",
+      "d": "Jis jį atmes savo dangiškojo Tėvo akivaizdoje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_007",
+    "question": "Ką Jėzus sakė apie tą, kuris neima savo kryžiaus ir neseka paskui jį?",
+    "options": {
+      "a": "Jis nevertas manęs",
+      "b": "Jis vertas manęs",
+      "c": "Jis bus išgelbėtas",
+      "d": "Jis bus atmetas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_008",
+    "question": "Ką Jėzus sakė apie tą, kuris priima pranašą?",
+    "options": {
+      "a": "Gaus pranašo užmokestį",
+      "b": "Gaus teisiojo užmokestį",
+      "c": "Gaus mokytojo užmokestį",
+      "d": "Gaus apaštalo užmokestį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_009",
+    "question": "Ką Jėzus sakė apie tą, kuris priima teisųjį?",
+    "options": {
+      "a": "Gaus pranašo užmokestį",
+      "b": "Gaus teisiojo užmokestį",
+      "c": "Gaus mokytojo užmokestį",
+      "d": "Gaus apaštalo užmokestį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_010",
+    "question": "Ką Jėzus sakė apie tą, kuris paduos bent taurę šalto vandens atsigerti vienam iš šitų žmonelių?",
+    "options": {
+      "a": "Tasai nepraras savo užmokesčio",
+      "b": "Tasai praras savo užmokestį",
+      "c": "Tasai gaus daug pinigų",
+      "d": "Tasai bus atmetas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_011",
+    "question": "Ką Jėzus sakė apie tą, kuris priima mane?",
+    "options": {
+      "a": "Priima tą, kuris yra mane siuntęs",
+      "b": "Priima tą, kuris yra mane atmetęs",
+      "c": "Priima tą, kuris yra mane pakeičęs",
+      "d": "Priima tą, kuris yra mane pakeitęs"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_012",
+    "question": "Ką Jėzus sakė apie tą, kuris priima pranašą dėl to, kad jis pranašas?",
+    "options": {
+      "a": "Gaus pranašo užmokestį",
+      "b": "Gaus teisiojo užmokestį",
+      "c": "Gaus mokytojo užmokestį",
+      "d": "Gaus apaštalo užmokestį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_013",
+    "question": "Ką Jėzus sakė apie tą, kuris priima teisųjį dėl to, kad jis teisusis?",
+    "options": {
+      "a": "Gaus pranašo užmokestį",
+      "b": "Gaus teisiojo užmokestį",
+      "c": "Gaus mokytojo užmokestį",
+      "d": "Gaus apaštalo užmokestį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  },
+  {
+    "id": "Mt_10_014",
+    "question": "Ką Jėzus sakė apie tą, kuris paduos bent taurę šalto vandens atsigerti vienam iš šitų žmonelių dėl to, kad jis yra mokinys?",
+    "options": {
+      "a": "Tasai nepraras savo užmokesčio",
+      "b": "Tasai praras savo užmokestį",
+      "c": "Tasai gaus daug pinigų",
+      "d": "Tasai bus atmetas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_10"
+  }
+]

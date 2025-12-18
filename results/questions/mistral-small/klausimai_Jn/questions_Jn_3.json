@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Jn_3_001",
+    "question": "Kas atėjo pas Jėzų nakčia ir kreipėsi į jį?",
+    "options": {
+      "a": "Petras",
+      "b": "Pilypas",
+      "c": "Nikodemas",
+      "d": "Andriejus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_002",
+    "question": "Ką Nikodemas sakė Jėzui apie jo ženklius?",
+    "options": {
+      "a": "Jie yra apgaudžiai",
+      "b": "Jie yra Dievo ženklių",
+      "c": "Jie yra žmonių darbai",
+      "d": "Jie yra neįmanomi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_003",
+    "question": "Ką Jėzus sakė Nikodemui apie atgimimą?",
+    "options": {
+      "a": "Jis sakė, kad reikia atgimti iš vandens ir kūno",
+      "b": "Jis sakė, kad reikia atgimti iš vandens ir Dvasios",
+      "c": "Jis sakė, kad reikia atgimti iš kūno ir Dvasios",
+      "d": "Jis sakė, kad reikia atgimti iš kūno ir kraujo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_004",
+    "question": "Ką Nikodemas klausė Jėzų apie atgimimą?",
+    "options": {
+      "a": "Argi jis gali antrą kartą įeiti į savo motinos įsčias ir vėl užgimti?",
+      "b": "Argi jis gali atgimti iš kūno?",
+      "c": "Argi jis gali atgimti iš Dvasios?",
+      "d": "Argi jis gali atgimti iš vandens?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_005",
+    "question": "Ką Jėzus sakė apie vėją?",
+    "options": {
+      "a": "Vėjas pučia, kur nori; jo ošimą girdi, bet nežinai, iš kur ateina ir kurlink nueina",
+      "b": "Vėjas pučia, kur nori; jo ošimą nežinai, bet žinai, iš kur ateina ir kurlink nueina",
+      "c": "Vėjas pučia, kur nori; jo ošimą girdi, bet žinai, iš kur ateina ir kurlink nueina",
+      "d": "Vėjas pučia, kur nori; jo ošimą nežinai, bet žinai, iš kur ateina"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_006",
+    "question": "Ką Jėzus sakė Nikodemui apie Izraelio mokytoją?",
+    "options": {
+      "a": "Tu esi Izraelio mokytojas ir šito nesupranti?",
+      "b": "Tu esi Izraelio mokytojas ir šito supranti?",
+      "c": "Tu esi Izraelio mokytojas ir šito nesupranti, bet mes suprantame",
+      "d": "Tu esi Izraelio mokytojas ir šito supranti, bet mes nesuprantame"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_007",
+    "question": "Ką Jėzus sakė apie Žmogaus Sūnų?",
+    "options": {
+      "a": "Niekas nėra pakilęs į dangų, kaip tik Žmogaus Sūnus, kuris nužengė iš dangaus",
+      "b": "Niekas nėra pakilęs į dangų, kaip tik Žmogaus Sūnus, kuris nužengė iš žemės",
+      "c": "Niekas nėra pakilęs į dangų, kaip tik Žmogaus Sūnus, kuris nužengė iš dangaus ir žemės",
+      "d": "Niekas nėra pakilęs į dangų, kaip tik Žmogaus Sūnus, kuris nužengė iš žemės ir dangaus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_008",
+    "question": "Ką Jėzus sakė apie Dievo meilę pasaulio atžvilgiu?",
+    "options": {
+      "a": "Dievas taip pamilo pasaulį, jog atidavė savo viengimį Sūnų, kad kiekvienas, kuris jį tiki, nepražūtų, bet turėtų amžinąjį gyvenimą",
+      "b": "Dievas taip pamilo pasaulį, jog atidavė savo viengimį Sūnų, kad kiekvienas, kuris jį tiki, prarastų amžinąjį gyvenimą",
+      "c": "Dievas taip pamilo pasaulį, jog atidavė savo viengimį Sūnų, kad kiekvienas, kuris jį tiki, turėtų amžinąjį gyvenimą, bet nepražūtų",
+      "d": "Dievas taip pamilo pasaulį, jog atidavė savo viengimį Sūnų, kad kiekvienas, kuris jį tiki, turėtų amžinąjį gyvenimą ir prarastų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_009",
+    "question": "Ką Jėzus sakė apie Dievo Sūnų?",
+    "options": {
+      "a": "Kas jį tiki, tas nebus pasmerktas, o kas netiki, jau yra nuteistas už tai, kad netiki viengimio Dievo Sūnaus",
+      "b": "Kas jį tiki, tas bus pasmerktas, o kas netiki, jau yra nuteistas už tai, kad netiki viengimio Dievo Sūnaus",
+      "c": "Kas jį tiki, tas nebus pasmerktas, o kas netiki, jau yra nuteistas už tai, kad tiki viengimio Dievo Sūnaus",
+      "d": "Kas jį tiki, tas bus pasmerktas, o kas netiki, jau yra nuteistas už tai, kad tiki viengimio Dievo Sūnaus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_010",
+    "question": "Ką Jėzus sakė apie šviesą ir tamsą?",
+    "options": {
+      "a": "Atėjo šviesa į pasaulį, bet žmonės labiau mylėjo tamsą nei šviesą, nes jų darbai buvo pikti",
+      "b": "Atėjo šviesa į pasaulį, bet žmonės labiau mylėjo šviesą nei tamsą, nes jų darbai buvo pikti",
+      "c": "Atėjo šviesa į pasaulį, bet žmonės labiau mylėjo tamsą nei šviesą, nes jų darbai buvo geri",
+      "d": "Atėjo šviesa į pasaulį, bet žmonės labiau mylėjo šviesą nei tamsą, nes jų darbai buvo geri"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_011",
+    "question": "Ką Jėzus sakė apie krikštyną?",
+    "options": {
+      "a": "Jėzus su mokiniais atėjo į Judėjos kraštą ir, ten su jais būdamas, krikštydino",
+      "b": "Jėzus su mokiniais atėjo į Galilėjos kraštą ir, ten su jais būdamas, krikštydino",
+      "c": "Jėzus su mokiniais atėjo į Samarijos kraštą ir, ten su jais būdamas, krikštydino",
+      "d": "Jėzus su mokiniais atėjo į Jeruzalės kraštą ir, ten su jais būdamas, krikštydino"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  },
+  {
+    "id": "Jn_3_012",
+    "question": "Ką Jėzus sakė apie Joną Krikštytąją?",
+    "options": {
+      "a": "Jonas atsakė: „Žmogus negali nieko pasiimti, jeigu nebus jam duota iš dangaus",
+      "b": "Jonas atsakė: „Žmogus negali nieko pasiimti, jeigu nebus jam duota iš žemės",
+      "c": "Jonas atsakė: „Žmogus negali nieko pasiimti, jeigu nebus jam duota iš Dievo",
+      "d": "Jonas atsakė: „Žmogus negali nieko pasiimti, jeigu nebus jam duota iš savo galios"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_3"
+  }
+]

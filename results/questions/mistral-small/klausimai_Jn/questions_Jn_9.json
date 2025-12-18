@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Jn_9_001",
+    "question": "Kas klausė Jėzų, kas nusidėjo, kad žmogus gimė aklas?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Jo mokiniai",
+      "c": "Žydai",
+      "d": "Jo tėvai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_002",
+    "question": "Ką Jėzus atsakė į klausimą, kas nusidėjo, kad žmogus gimė aklas?",
+    "options": {
+      "a": "Jis pats nusidėjo",
+      "b": "Jo tėvai nusidėjo",
+      "c": "Jame turi apsireikšti Dievo darbai",
+      "d": "Jis gimė aklas dėl praradimo"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_003",
+    "question": "Ką Jėzus padarė, kad atvėrė aklajo akis?",
+    "options": {
+      "a": "Jis jį palydėjo į Siloamą",
+      "b": "Jis jį išgijo",
+      "c": "Jis spjovė žemėn, padarė purvo iš seilių ir patepė juo aklajo akis",
+      "d": "Jis jį palydėjo pas pranašį"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_004",
+    "question": "Kur Jėzus liepė aklajam eiti nusiplauti?",
+    "options": {
+      "a": "Jordano upėje",
+      "b": "Siloamo tvenkinyje",
+      "c": "Tiberijado ežere",
+      "d": "Genesareto ežere"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_005",
+    "question": "Ką žmonės klausė aklajam, kai jis sugrįžo regintis?",
+    "options": {
+      "a": "Ar jis tikrai buvo aklas",
+      "b": "Kur jis buvo",
+      "c": "O kaipgi atsivėrė tau akys",
+      "d": "Kas jį išgijo"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_006",
+    "question": "Ką aklasis atsakė apie žmogų, kuris atvėrė jo akis?",
+    "options": {
+      "a": "Jis sakė, kad tai buvo pranašas",
+      "b": "Jis sakė, kad tai buvo Možis",
+      "c": "Jis sakė, kad tai buvo jo tėvai",
+      "d": "Jis sakė, kad tai buvo jo mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_007",
+    "question": "Ką fariziejai sakė apie Jėzų, kai sužinojo, kad jis atvėrė aklajo akis?",
+    "options": {
+      "a": "Jie sakė, kad jis pranašas",
+      "b": "Jie sakė, kad jis iš Dievo",
+      "c": "Jie sakė, kad jis nusidėjėlis",
+      "d": "Jie sakė, kad jis iš Mozės"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_008",
+    "question": "Ką aklasis atsakė fariziejams, kai jie klausė, ar jis tikrai buvęs aklas?",
+    "options": {
+      "a": "Jis sakė, kad jis niekada nebuvo aklas",
+      "b": "Jis sakė, kad jis tikrai buvęs aklas",
+      "c": "Jis sakė, kad jis nežino",
+      "d": "Jis sakė, kad jis neklausė jį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_009",
+    "question": "Ką aklasis sakė apie Jėzų, kai fariziejai klausė, ar jis nusidėjėlis?",
+    "options": {
+      "a": "Jis sakė, kad jis nežino, bet žino, kad buvęs aklas ir dabar regi",
+      "b": "Jis sakė, kad jis tikrai nusidėjėlis",
+      "c": "Jis sakė, kad jis nežino, bet žino, kad Jėzus pranašas",
+      "d": "Jis sakė, kad jis nežino, bet žino, kad Jėzus iš Dievo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_010",
+    "question": "Ką fariziejai atsakė aklajam, kai jis sakė, kad Jėzus atvėrė jo akis?",
+    "options": {
+      "a": "Jie sakė, kad jie tikėtų Jėzų",
+      "b": "Jie sakė, kad jie nežino, iš kur jis",
+      "c": "Jie sakė, kad jie tikėtų Možį",
+      "d": "Jie sakė, kad jie tikėtų Dievą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_011",
+    "question": "Ką aklasis atsakė fariziejams, kai jie klausė, ką Jėzus darė, kad atvėrė jo akis?",
+    "options": {
+      "a": "Jis sakė, kad Jėzus jį išgijo",
+      "b": "Jis sakė, kad Jėzus padarė purvo ir patepė juo jo akis",
+      "c": "Jis sakė, kad Jėzus jį palydėjo į Siloamą",
+      "d": "Jis sakė, kad Jėzus jį palydėjo pas pranašį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_012",
+    "question": "Ką aklasis sakė apie Jėzų, kai fariziejai klausė, ar jis norėtų tapti jo mokiniais?",
+    "options": {
+      "a": "Jis sakė, kad jis nežino",
+      "b": "Jis sakė, kad jis tikėtų Jėzų",
+      "c": "Jis sakė, kad jis ne tikėtų Jėzų",
+      "d": "Jis sakė, kad jis tikėtų Možį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  },
+  {
+    "id": "Jn_9_013",
+    "question": "Ką Jėzus sakė apie aklą, kai susitikė su juo po to, kai jį išmėtė iš sinagogos?",
+    "options": {
+      "a": "Jis sakė, kad jis tikrai nusidėjėlis",
+      "b": "Jis sakė, kad jis tikrai pranašas",
+      "c": "Jis sakė, kad jis tikrai iš Dievo",
+      "d": "Jis sakė, kad jis tikrai iš Možio"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_9"
+  }
+]

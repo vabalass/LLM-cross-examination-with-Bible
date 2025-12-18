@@ -1,0 +1,236 @@
+[
+  {
+    "id": "Lk_8_001",
+    "question": "Kas buvo su Jėzumi, kai jis keliavo per miestus ir kaimus?",
+    "options": {
+      "a": "Tik Dvylika apaštalų",
+      "b": "Tik moterys, išgydytos nuo piktųjų dvasių bei ligų",
+      "c": "Dvylika apaštalų ir kelios moterys, išgydytos nuo piktųjų dvasių bei ligų",
+      "d": "Tik moterys, išgydytos nuo piktųjų dvasių"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_002",
+    "question": "Kas yra „sėkla“ palyginime, kurį Jėzus pasakė?",
+    "options": {
+      "a": "Dievo karalystė",
+      "b": "Dievo žodis",
+      "c": "Dievo karalystės paslaptis",
+      "d": "Dievo žodžio paslaptis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_003",
+    "question": "Kas reiškia „pakelė“ palyginime?",
+    "options": {
+      "a": "Tie, kurie klauso žodžio ir jį vykdo",
+      "b": "Tie, kurie klausosi, paskui ateina velnias ir išrauna žodį iš jų širdies",
+      "c": "Tie, kurie klauso žodžio, bet tolyn eidami liko nusmelkti rūpesčių, turtų ir gyvenimo malonumų",
+      "d": "Tie, kurie klauso žodžio ir duoda vaisių kantrumu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_004",
+    "question": "Kas reiškia „uolų“ palyginime?",
+    "options": {
+      "a": "Tie, kurie klauso žodžio ir jį vykdo",
+      "b": "Tie, kurie klausosi, paskui ateina velnias ir išrauna žodį iš jų širdies",
+      "c": "Tie, kurie klauso žodžio, bet neturi šaknų: kurį laiką jie tiki, o gundomi atkrinta",
+      "d": "Tie, kurie klauso žodžio ir duoda vaisių kantrumu"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_005",
+    "question": "Kas reiškia „erškėčių“ palyginime?",
+    "options": {
+      "a": "Tie, kurie klauso žodžio ir jį vykdo",
+      "b": "Tie, kurie klausosi, paskui ateina velnias ir išrauna žodį iš jų širdies",
+      "c": "Tie, kurie klauso žodžio, bet tolyn eidami liko nusmelkti rūpesčių, turtų ir gyvenimo malonumų",
+      "d": "Tie, kurie klauso žodžio ir duoda vaisių kantrumu"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_006",
+    "question": "Kas reiškia „gerą žemę“ palyginime?",
+    "options": {
+      "a": "Tie, kurie klauso žodžio ir jį vykdo",
+      "b": "Tie, kurie klausosi, paskui ateina velnias ir išrauna žodį iš jų širdies",
+      "c": "Tie, kurie klauso žodžio, bet neturi šaknų: kurį laiką jie tiki, o gundomi atkrinta",
+      "d": "Tie, kurie klauso žodžio ir duoda vaisių kantrumu"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_007",
+    "question": "Kas yra Jėzaus tikroji giminystė?",
+    "options": {
+      "a": "Jo motina ir broliai",
+      "b": "Tie, kurie klausosi Dievo žodžio ir jį vykdo",
+      "c": "Jo mokiniai",
+      "d": "Tie, kurie klauso žodžio ir duoda vaisių kantrumu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_008",
+    "question": "Kas pasitiko Jėzų, kai jis atplaukė į geraziečių kraštą?",
+    "options": {
+      "a": "Vyras, kuris buvo demonų apsėstas",
+      "b": "Vyras, kuris buvo marinamas",
+      "c": "Vyras, kuris buvo kraujoplūdžiu sirgęs",
+      "d": "Vyras, kuris buvo sinagogos vyresnysis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_009",
+    "question": "Kuo vardu buvo demonas, kuris apsėdė vyrą geraziečių krašte?",
+    "options": {
+      "a": "Bevardis",
+      "b": "Legionas",
+      "c": "Beelzebubas",
+      "d": "Satanas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_010",
+    "question": "Kam Jėzus liepė grįžti namo ir papasakoti, kokių didžių dalykų jam padarė Dievas?",
+    "options": {
+      "a": "Vyras, kuris buvo demonų apsėstas",
+      "b": "Vyras, kuris buvo marinamas",
+      "c": "Vyras, kuris buvo kraujoplūdžiu sirgęs",
+      "d": "Vyras, kuris buvo sinagogos vyresnysis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_011",
+    "question": "Kas pasitiko Jėzų, kai jis grįžo ir minia jo laukė?",
+    "options": {
+      "a": "Vyras, kuris buvo demonų apsėstas",
+      "b": "Vyras, kuris buvo marinamas",
+      "c": "Vyras, kuris buvo kraujoplūdžiu sirgęs",
+      "d": "Vyras, vardu Jajiras, sinagogos vyresnysis"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_012",
+    "question": "Kas pasitiko Jėzų, kai jis ėjo minios apgultas?",
+    "options": {
+      "a": "Vyras, kuris buvo demonų apsėstas",
+      "b": "Vyras, kuris buvo marinamas",
+      "c": "Vyras, kuris buvo kraujoplūdžiu sirgęs",
+      "d": "Vyras, kuris buvo sinagogos vyresnysis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_013",
+    "question": "Kas pasakė Jėzui, kad mergaitė numirė?",
+    "options": {
+      "a": "Mergaitės motina",
+      "b": "Mergaitės tėvas",
+      "c": "Kažkas iš sinagogos vyresniojo namų",
+      "d": "Mergaitės brolis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_014",
+    "question": "Kas buvo su Jėzumi, kai jis atėjo į namus, kurioje buvo mirusi mergaitė?",
+    "options": {
+      "a": "Tik Petras",
+      "b": "Tik Petras, Jonas ir Jokūbas",
+      "c": "Petras, Jonas, Jokūbas ir mergaitės tėvas bei motina",
+      "d": "Tik mergaitės tėvas ir motina"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_015",
+    "question": "Ką Jėzus tarė, kai paėmė mergaitę už rankos?",
+    "options": {
+      "a": "Mergaitė, mieki!",
+      "b": "Mergaitė, kelkis!",
+      "c": "Mergaitė, miegoki!",
+      "d": "Mergaitė, atsikėl!"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_016",
+    "question": "Ką Jėzus liepė duoti mergaitei, kai jos dvasia sugrįžo?",
+    "options": {
+      "a": "Valgyti",
+      "b": "Miegoti",
+      "c": "Gydytis",
+      "d": "Kalbėti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_017",
+    "question": "Ką Jėzus liepė niekam nesakyti, kas buvo įvykę su mergaitė?",
+    "options": {
+      "a": "Tik tėvui",
+      "b": "Tik motinai",
+      "c": "Niekam",
+      "d": "Tik mokiniams"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_018",
+    "question": "Kas buvo su Jėzumi, kai jis keliavo per miestus ir kaimus?",
+    "options": {
+      "a": "Tik Dvylika apaštalų",
+      "b": "Tik moterys, išgydytos nuo piktųjų dvasių bei ligų",
+      "c": "Dvylika apaštalų ir kelios moterys, išgydytos nuo piktųjų dvasių bei ligų",
+      "d": "Tik moterys, išgydytos nuo piktųjų dvasių"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  }
+]

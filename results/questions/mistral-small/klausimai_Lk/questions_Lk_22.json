@@ -1,0 +1,288 @@
+[
+  {
+    "id": "Lk_22_001",
+    "question": "Kas išduode Jėzų aukštiesiems kunigams?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_002",
+    "question": "Ką Jėzus liepė Petrui ir Jonui paruošti?",
+    "options": {
+      "a": "Gėrimą",
+      "b": "Velykų vakarienę",
+      "c": "Malones",
+      "d": "Šventinę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_003",
+    "question": "Kas parodė Petrui ir Jonui vietą, kurioje galėtų valgyti Velykų vakarienę?",
+    "options": {
+      "a": "Vandens ąsočius nešiantis žmogus",
+      "b": "Šeimininkas",
+      "c": "Aukštasis kunigas",
+      "d": "Sargybinis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_004",
+    "question": "Ką Jėzus davė apaštalams, sakydamas, kad tai yra jo kūnas?",
+    "options": {
+      "a": "Vandens",
+      "b": "Vyną",
+      "c": "Duoną",
+      "d": "Žuvis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_005",
+    "question": "Ką Jėzus sakė apie savo išdaviką?",
+    "options": {
+      "a": "Jis bus malšintas",
+      "b": "Jis bus malšintas",
+      "c": "Jis bus malšintas",
+      "d": "Jis bus malšintas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_006",
+    "question": "Kas kilo tarp apaštalų po Velykų vakarienės?",
+    "options": {
+      "a": "Ginčas apie tobuliausią",
+      "b": "Ginčas apie malones",
+      "c": "Ginčas apie pinigus",
+      "d": "Ginčas apie kelionę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_007",
+    "question": "Ką Jėzus sakė apie savo mokinius ir karalystę?",
+    "options": {
+      "a": "Jie bus malšinti",
+      "b": "Jie bus malšinti",
+      "c": "Jie bus malšinti",
+      "d": "Jie bus malšinti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_008",
+    "question": "Ką Jėzus pranašavo Petrui?",
+    "options": {
+      "a": "Jis tris kartus išsigins jį",
+      "b": "Jis tris kartus išsigins jį",
+      "c": "Jis tris kartus išsigins jį",
+      "d": "Jis tris kartus išsigins jį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_009",
+    "question": "Ką Jėzus liepė savo mokinims pasiimti?",
+    "options": {
+      "a": "Piniginę ir krepšį",
+      "b": "Kalaviją",
+      "c": "Duoną ir vyną",
+      "d": "Vandens ąsočius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_010",
+    "question": "Kur Jėzus ėjo melstis po Velykų vakarienės?",
+    "options": {
+      "a": "Į miestą",
+      "b": "Į Alyvų kalną",
+      "c": "Į šventyklą",
+      "d": "Į jūrą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_011",
+    "question": "Ką Jėzus maldos metu sakė Dievui?",
+    "options": {
+      "a": "Atsitrauk nuo manęs",
+      "b": "Atsitrauk nuo manęs",
+      "c": "Atsitrauk nuo manęs",
+      "d": "Atsitrauk nuo manęs"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_012",
+    "question": "Kas sustiprino Jėzų jo maldos metu?",
+    "options": {
+      "a": "Angelas",
+      "b": "Petras",
+      "c": "Judas",
+      "d": "Jonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_013",
+    "question": "Ką Jėzus rado grįžęs po maldos?",
+    "options": {
+      "a": "Mokiniai melsdamiesi",
+      "b": "Mokiniai valgydami",
+      "c": "Mokiniai miegodami",
+      "d": "Mokiniai kalbėdami"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_014",
+    "question": "Kas išduode Jėzų suėmimo metu?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_015",
+    "question": "Ką vienas iš Jėzaus bičiulių padarė vyriausiojo kunigo tarnui?",
+    "options": {
+      "a": "Nukirto ausį",
+      "b": "Nukirto ranką",
+      "c": "Nukirto koją",
+      "d": "Nukirto galvą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_016",
+    "question": "Ką Jėzus padarė vyriausiojo kunigo tarnui?",
+    "options": {
+      "a": "Išgydė jo ausį",
+      "b": "Išgydė jo ranką",
+      "c": "Išgydė jo koją",
+      "d": "Išgydė jo galvą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_017",
+    "question": "Ką Jėzus sakė apie savo suėmimą?",
+    "options": {
+      "a": "Jis sakė, kad jis yra plėšikas",
+      "b": "Jis sakė, kad jis yra pranašas",
+      "c": "Jis sakė, kad jis yra Mesijas",
+      "d": "Jis sakė, kad jis yra karalius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_018",
+    "question": "Ką Petras padarė, kai jį išsigynė tris kartus?",
+    "options": {
+      "a": "Jis išėjo ir pravirko",
+      "b": "Jis išėjo ir prašė atleidimo",
+      "c": "Jis išėjo ir pasakė, kad myli Jėzų",
+      "d": "Jis išėjo ir pasakė, kad niekada neišsigins Jėzų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_019",
+    "question": "Ką Jėzų saugantys vyrai padarė?",
+    "options": {
+      "a": "Jie tyčiojosi iš jo ir mušė",
+      "b": "Jie tyciojosi iš jo ir mušė",
+      "c": "Jie tyciojosi iš jo ir mušė",
+      "d": "Jie tyciojosi iš jo ir mušė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_020",
+    "question": "Ką Jėzus atsakė, kai jį klausė, ar jis yra Mesijas?",
+    "options": {
+      "a": "Jis atsakė, kad jis nėra Mesijas",
+      "b": "Jis atsakė, kad jis yra Mesijas",
+      "c": "Jis atsakė, kad jis nežino",
+      "d": "Jis atsakė, kad jis neatsakys"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_021",
+    "question": "Ką Jėzus sakė apie savo būsimąją padėtį?",
+    "options": {
+      "a": "Jis sakė, kad jis bus malšintas",
+      "b": "Jis sakė, kad jis bus malšintas",
+      "c": "Jis sakė, kad jis bus malšintas",
+      "d": "Jis sakė, kad jis bus malšintas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_022",
+    "question": "Ką Jėzus sakė apie savo išdaviką?",
+    "options": {
+      "a": "Jis sakė, kad jis bus malšintas",
+      "b": "Jis sakė, kad jis bus malšintas",
+      "c": "Jis sakė, kad jis bus malšintas",
+      "d": "Jis sakė, kad jis bus malšintas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  }
+]

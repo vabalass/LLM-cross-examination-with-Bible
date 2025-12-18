@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Jn_10_001",
+    "question": "Kas neina pro vartus į avių gardą, bet įkopia pro kur kitur, tas, pasak Jėzaus, yra:",
+    "options": {
+      "a": "Gerasis ganytojas",
+      "b": "Avių sargas",
+      "c": "Vagis ir plėšikas",
+      "d": "Samdinys"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_002",
+    "question": "Kas ateina pro vartus į avių gardą, tas yra:",
+    "options": {
+      "a": "Svetimas",
+      "b": "Avių ganytojas",
+      "c": "Vagis",
+      "d": "Vilkas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_003",
+    "question": "Avys klauso ganytojo balso, nes:",
+    "options": {
+      "a": "Jie jas gąsdina",
+      "b": "Jie jas maitina",
+      "c": "Jie pažįsta jo balsą",
+      "d": "Jie bijo svetimų balsų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_004",
+    "question": "Jėzus pasakė, kad jis yra:",
+    "options": {
+      "a": "Avių gardas",
+      "b": "Avių vartai",
+      "c": "Avių ganytojas",
+      "d": "Avys"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_005",
+    "question": "Jėzus atėjo, kad žmonės turėtų:",
+    "options": {
+      "a": "Turto",
+      "b": "Valdžią",
+      "c": "Gyvenimą",
+      "d": "Šlovę"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_006",
+    "question": "Kas yra gerasis ganytojas, pasak Jėzaus?",
+    "options": {
+      "a": "Samdinys",
+      "b": "Vagis",
+      "c": "Aš (Jėzus)",
+      "d": "Tėvas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_007",
+    "question": "Gerasis ganytojas už avis daro ką?",
+    "options": {
+      "a": "Pabėga",
+      "b": "Guldo gyvybę",
+      "c": "Juos išvaro",
+      "d": "Juos parduoda"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_008",
+    "question": "Samdinys, kuriam avys ne savos, pamatęs sėlinantį vilką, ką daro?",
+    "options": {
+      "a": "Mūšis su vilku",
+      "b": "Vadovauja avims",
+      "c": "Palieka avis ir pabėga",
+      "d": "Šaukia kitus ganytojus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_009",
+    "question": "Ką Jėzus daro, nes jis yra gerasis ganytojas?",
+    "options": {
+      "a": "Pažįsta pasaulį",
+      "b": "Pažįsta savąsias avis",
+      "c": "Pažįsta vilkus",
+      "d": "Pažįsta Tėvo darbus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_010",
+    "question": "Ką reiškia Jėzaus žodžiai „Aš ir Tėvas esame viena“?",
+    "options": {
+      "a": "Jie yra identiški",
+      "b": "Jie turi tą patį vardą",
+      "c": "Jie yra vienos esmės",
+      "d": "Jie gyvena viename name"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_011",
+    "question": "Žydai norėjo užmušti Jėzų dėl:",
+    "options": {
+      "a": "Piktžodžiavimo, kad jis, būdamas žmogus, dedasi Dievu",
+      "b": "Jo gerų darbų",
+      "c": "To, kad jis nebuvo Mesijas",
+      "d": "To, kad jis kalbėjo su velniu"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_012",
+    "question": "Kaip žydai apibūdino Jėzaus kalbas, tarp kurių kilo nesutarimai?",
+    "options": {
+      "a": "Šventos ir išmintingos",
+      "b": "Velionio ir pasiutusios",
+      "c": "Išmintingos, bet ne Dievo",
+      "d": "Mokslinės ir tikslios"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_013",
+    "question": "Jėzus teigė, kad jo darbai, kuriuos jis daro Tėvo vardu, jį:",
+    "options": {
+      "a": "Paneigia",
+      "b": "Suklaidina",
+      "c": "Liudija",
+      "d": "Nuteisina"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  },
+  {
+    "id": "Jn_10_014",
+    "question": "Kada Jeruzalėje vyko Šventyklos pašventinimo iškilmė, minimame tekste?",
+    "options": {
+      "a": "Vasarą",
+      "b": "Pavasarį",
+      "c": "Rudeni",
+      "d": "Žiemą"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_10"
+  }
+]

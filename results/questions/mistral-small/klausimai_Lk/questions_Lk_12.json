@@ -1,0 +1,249 @@
+[
+  {
+    "id": "Lk_12_001",
+    "question": "Ką Jėzus patarė savo mokinims saugotis?",
+    "options": {
+      "a": "Turto",
+      "b": "Fariziejų raugo",
+      "c": "Dievo žodžio",
+      "d": "Savo draugų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_002",
+    "question": "Ką Jėzus sakė apie paslėptą?",
+    "options": {
+      "a": "Paslėpta bus amžinai paslėpta",
+      "b": "Paslėpta bus atidengta",
+      "c": "Paslėpta bus užmiršta",
+      "d": "Paslėpta bus sunaikinta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_003",
+    "question": "Ką Jėzus sakė apie žvirblius?",
+    "options": {
+      "a": "Jie yra Dievo užmiršti",
+      "b": "Jie yra vertesni už žmones",
+      "c": "Jie yra Dievo apsaugoti",
+      "d": "Jie yra Dievo malonės simboliai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_004",
+    "question": "Ką Jėzus sakė apie tą, kas išpažins jį žmonių akivaizdoje?",
+    "options": {
+      "a": "Tas bus išsigintas Dievo angelų akivaizdoje",
+      "b": "Tas bus baustinas",
+      "c": "Tas bus užmirštas",
+      "d": "Tas bus atleistas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_005",
+    "question": "Ką Jėzus sakė apie tą, kas piktžodžiautų Šventajai Dvasiai?",
+    "options": {
+      "a": "Tam bus atleista",
+      "b": "Tam bus malonė",
+      "c": "Tam nebus atleista",
+      "d": "Tam bus malonė ir atleidimas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_006",
+    "question": "Ką Jėzus patarė mokinims, kai jie bus vestys į sinagogas?",
+    "options": {
+      "a": "Rūpintis kaip ginsitės",
+      "b": "Rūpintis ką atsakinėsite",
+      "c": "Nesirūpintis, nes Šventoji Dvasia jus pamokys",
+      "d": "Rūpintis apie savo saugumą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_007",
+    "question": "Ką Jėzus sakė apie turtingą žmogų, kuris krauna turtus?",
+    "options": {
+      "a": "Jis bus laimingas",
+      "b": "Jis bus malonės",
+      "c": "Jis bus nubaustas",
+      "d": "Jis bus atleistas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_008",
+    "question": "Ką Jėzus sakė apie varnus?",
+    "options": {
+      "a": "Jie yra Dievo malonės simboliai",
+      "b": "Jie yra Dievo apsaugoti",
+      "c": "Jie yra Dievo užmiršti",
+      "d": "Jie yra Dievo malonės ir apsaugoti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_009",
+    "question": "Ką Jėzus sakė apie lelijas?",
+    "options": {
+      "a": "Jos yra Dievo malonės simboliai",
+      "b": "Jos yra Dievo apsaugotos",
+      "c": "Jos yra Dievo malonės ir apsaugotos",
+      "d": "Jos yra Dievo malonės simboliai ir apsaugotos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_010",
+    "question": "Ką Jėzus sakė apie turtą?",
+    "options": {
+      "a": "Turtas yra Dievo malonė",
+      "b": "Turtas yra Dievo malonė ir apsauga",
+      "c": "Turtas yra Dievo malonė, apsauga ir malonė",
+      "d": "Turtas yra Dievo malonė, apsauga, malonė ir malonė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_011",
+    "question": "Ką Jėzus sakė apie turtą ir išmaldą?",
+    "options": {
+      "a": "Išparduokite savo turtą ir išdalykite jį išmaldai",
+      "b": "Išparduokite savo turtą ir išdalykite jį išmaldai, kad gautumėte atleidimą",
+      "c": "Išparduokite savo turtą ir išdalykite jį išmaldai, kad gautumėte malonę",
+      "d": "Išparduokite savo turtą ir išdalykite jį išmaldai, kad gautumėte malonę ir atleidimą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_012",
+    "question": "Ką Jėzus sakė apie lobį danguje?",
+    "options": {
+      "a": "Lobis danguje yra Dievo malonė",
+      "b": "Lobis danguje yra Dievo malonė ir apsauga",
+      "c": "Lobis danguje yra Dievo malonė, apsauga ir malonė",
+      "d": "Lobis danguje yra Dievo malonė, apsauga, malonė ir malonė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_013",
+    "question": "Ką Jėzus sakė apie strėnas ir žiburius?",
+    "options": {
+      "a": "Tebūnie jūsų strėnos sujuostos ir žiburiai uždegti",
+      "b": "Tebūnie jūsų strėnos sujuostos ir žiburiai uždegti, kad gautumėte malonę",
+      "c": "Tebūnie jūsų strėnos sujuostos ir žiburiai uždegti, kad gautumėte malonę ir apsaugą",
+      "d": "Tebūnie jūsų strėnos sujuostos ir žiburiai uždegti, kad gautumėte malonę, apsaugą ir malonę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_014",
+    "question": "Ką Jėzus sakė apie tarnus, kurie laukia savo šeimininko?",
+    "options": {
+      "a": "Jie bus laimingi",
+      "b": "Jie bus malonės",
+      "c": "Jie bus malonės ir apsaugoti",
+      "d": "Jie bus malonės, apsaugoti ir laimingi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_015",
+    "question": "Ką Jėzus sakė apie tarnus, kurie nebesilaiko?",
+    "options": {
+      "a": "Jie bus laimingi",
+      "b": "Jie bus malonės",
+      "c": "Jie bus nubausti",
+      "d": "Jie bus malonės ir nubausti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_016",
+    "question": "Ką Jėzus sakė apie tarnus, kurie žino savo šeimininko valią?",
+    "options": {
+      "a": "Jie bus laimingi",
+      "b": "Jie bus malonės",
+      "c": "Jie bus malonės ir apsaugoti",
+      "d": "Jie bus malonės, apsaugoti ir laimingi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_017",
+    "question": "Ką Jėzus sakė apie tarnus, kurie nežino savo šeimininko valią?",
+    "options": {
+      "a": "Jie bus laimingi",
+      "b": "Jie bus malonės",
+      "c": "Jie bus malonės ir apsaugoti",
+      "d": "Jie bus malonės, apsaugoti ir laimingi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_018",
+    "question": "Ką Jėzus sakė apie ugnį, kurį jis atnešė?",
+    "options": {
+      "a": "Jis atnešė ugnį, kad lieptų",
+      "b": "Jis atnešė ugnį, kad lieptų ir malonėtų",
+      "c": "Jis atnešė ugnį, kad lieptų, malonėtų ir apsaugotų",
+      "d": "Jis atnešė ugnį, kad lieptų, malonėtų, apsaugotų ir laimintų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_019",
+    "question": "Ką Jėzus sakė apie nesantarvę?",
+    "options": {
+      "a": "Jis atnešė nesantarvę",
+      "b": "Jis atnešė nesantarvę ir malonę",
+      "c": "Jis atnešė nesantarvę, malonę ir apsaugą",
+      "d": "Jis atnešė nesantarvę, malonę, apsaugą ir laimę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  }
+]

@@ -26,7 +26,7 @@ def parse_questions_to_json(raw_text):
             return parsed_questions
 
         print("Parser klaida: JSON formatas neatitinka struktūros.")
-        return []
+        return ""
     except Exception as e:
         print(f"Parser klaida: {e}")
         return ""

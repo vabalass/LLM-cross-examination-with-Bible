@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Mk_12_001",
+    "question": "Kas yra pagrindinis vynuogyno savininko pasiuntinys, kuris buvo nužudytas?",
+    "options": {
+      "a": "Vynuogyno darbininkas",
+      "b": "Savininko sūnus",
+      "c": "Vynuogyno sargybinis",
+      "d": "Vynuogyno vartininkas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_002",
+    "question": "Ką vynuogyno savininkas padarė su vynininkais, kurie nužudė jo sūnų?",
+    "options": {
+      "a": "Išvijo juos iš vynuogyno",
+      "b": "Išžudė juos ir atidavo vynuogyną kitiems",
+      "c": "Atleido juos",
+      "d": "Pardavė vynuogyną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_003",
+    "question": "Ką Jėzus pasakė apie mokesčius ciesoriui?",
+    "options": {
+      "a": "Mokėti ciesoriui mokesčius",
+      "b": "Nemokėti ciesoriui mokesčius",
+      "c": "Kas ciesoriaus, atiduokite ciesoriui, o kas Dievo – Dievui",
+      "d": "Mokėti ciesoriui mokesčius, bet ne Dievui"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_004",
+    "question": "Ką Jėzus pasakė apie mirusiųjų prisikėlimą?",
+    "options": {
+      "a": "Mirusieji niekada neprisikelia",
+      "b": "Mirusieji prisikelia ir bus kaip angelai danguje",
+      "c": "Mirusieji prisikelia ir tęs prisišventę",
+      "d": "Mirusieji prisikelia ir tęs prisišventę ir tekės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_005",
+    "question": "Ką Jėzus pasakė apie Dievo karalystę?",
+    "options": {
+      "a": "Dievo karalystė yra toli",
+      "b": "Dievo karalystė yra artima",
+      "c": "Dievo karalystė yra tik tam, kas aukoja daug",
+      "d": "Dievo karalystė yra tik tam, kas laukia"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_006",
+    "question": "Kas klausė Jėzaus apie didžiausią įsakymą?",
+    "options": {
+      "a": "Fariziejus",
+      "b": "Erodininkas",
+      "c": "Rašto aiškintojas",
+      "d": "Sadukiejus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_007",
+    "question": "Koks yra didžiausias įsakymas?",
+    "options": {
+      "a": "Mylėk savo artimą kaip save patį",
+      "b": "Mylėk Viešpatį savo Dievą visa širdimi, visa siela, visu protu ir visomis jėgomis",
+      "c": "Mylėk Viešpatį savo Dievą ir mylėk savo artimą kaip save patį",
+      "d": "Mylėk savo artimą kaip save patį ir mylėk Viešpatį savo Dievą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_008",
+    "question": "Ką Jėzus pasakė apie Mesiją?",
+    "options": {
+      "a": "Mesijas yra Dovydo sūnus",
+      "b": "Mesijas yra Dovydo Viešpats",
+      "c": "Mesijas yra Dovydo sūnus ir Viešpats",
+      "d": "Mesijas yra Dovydo sūnus, bet ne Viešpats"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_009",
+    "question": "Ką Jėzus pasakė apie Rašto aiškintojus?",
+    "options": {
+      "a": "Jie yra geri ir tikrieji",
+      "b": "Jie yra blogi ir melagingi",
+      "c": "Jie mėgsta būti sveikinami ir būti garbinti, bet suryja našlių namus",
+      "d": "Jie yra geri ir tikrieji, bet suryja našlių namus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_010",
+    "question": "Ką Jėzus pasakė apie našlę, kuri įmetė du pinigėlius į aukų skrynią?",
+    "options": {
+      "a": "Ji įmetė mažiausiai iš visų",
+      "b": "Ji įmetė daugiausia iš visų",
+      "c": "Ji įmetė tiek pat kaip ir kiti",
+      "d": "Ji įmetė mažiau nei kiti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_011",
+    "question": "Ką Jėzus pasakė apie našlės auką?",
+    "options": {
+      "a": "Ji aukojo iš to, kas jiems atlieka",
+      "b": "Ji aukojo iš savo neturto visa, ką turėjo",
+      "c": "Ji aukojo iš to, kas jiems atlieka, bet mažiau nei kiti",
+      "d": "Ji aukojo iš savo neturto, bet mažiau nei kiti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_012",
+    "question": "Ką Jėzus pasakė apie vynuogyno savininko sūnų?",
+    "options": {
+      "a": "Jis buvo nužudytas vynininkais",
+      "b": "Jis buvo išvarytas iš vynuogyno",
+      "c": "Jis buvo atleistas",
+      "d": "Jis buvo parduotas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_013",
+    "question": "Ką Jėzus pasakė apie ciesoriaus atvaizdą ir įrašą?",
+    "options": {
+      "a": "Jis priklauso ciesoriui",
+      "b": "Jis priklauso Dievui",
+      "c": "Jis priklauso ir ciesoriui, ir Dievui",
+      "d": "Jis priklauso tik ciesoriui"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_014",
+    "question": "Ką Jėzus pasakė apie mirusiųjų prisikėlimą?",
+    "options": {
+      "a": "Mirusieji prisikelia ir bus kaip angelai danguje",
+      "b": "Mirusieji niekada neprisikelia",
+      "c": "Mirusieji prisikelia ir tęs prasišventę",
+      "d": "Mirusieji prisikelia ir tęs prasišventę ir tekės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_12"
+  }
+]

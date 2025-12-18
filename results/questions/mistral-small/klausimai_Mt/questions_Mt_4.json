@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Mt_4_001",
+    "question": "Kur Jėzus buvo nuvestas Dvasios?",
+    "options": {
+      "a": "Į miestą",
+      "b": "Į dykumą",
+      "c": "Į kalną",
+      "d": "Į ežerą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_002",
+    "question": "Kiek dienų ir naktų Jėzus išpasninkavo dykumoje?",
+    "options": {
+      "a": "Trisdešimt dienų ir trisdešimt naktų",
+      "b": "Keturiasdešimt dienų ir keturiasdešimt naktų",
+      "c": "Penkiasdešimt dienų ir penkiasdešimt naktų",
+      "d": "Šešiasdešimt dienų ir šešiasdešimt naktų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_003",
+    "question": "Ką velnias pasiūlė Jėzui, kad šis padarytų akmenis duona?",
+    "options": {
+      "a": "Lieptų Dievui",
+      "b": "Lieptų akmenims",
+      "c": "Lieptų velniui",
+      "d": "Lieptų angelams"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_004",
+    "question": "Kur velnias pastatė Jėzų ant šventyklos šelmens?",
+    "options": {
+      "a": "Į Jeruzalę",
+      "b": "Į Nazaretą",
+      "c": "Į Kafarnaumą",
+      "d": "Į šventąjį miestą"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_005",
+    "question": "Ką Jėzus atsakė velniui, kai šis pasiūlė jam visą pasaulio karalystę?",
+    "options": {
+      "a": "Aš tai priimsi",
+      "b": "Eik šalin, šėtone!",
+      "c": "Aš tai apsvarstysiu",
+      "d": "Aš tai atmiesiu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_006",
+    "question": "Kur Jėzus apsistojo po to, kai išgirdo, kad Jonas suimtas?",
+    "options": {
+      "a": "Į Jeruzalę",
+      "b": "Į Nazaretą",
+      "c": "Į Kafarnaumą",
+      "d": "Į Betanią"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_007",
+    "question": "Ką Jėzus ėmė skelbti nuo to meto?",
+    "options": {
+      "a": "Atsiverskite, nes čia pat dangaus karalystė!",
+      "b": "Atsiverskite, nes čia pat žemės karalystė!",
+      "c": "Atsiverskite, nes čia pat Dievo karalystė!",
+      "d": "Atsiverskite, nes čia pat žmonių karalystė!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_4"
+  },
+  {
+    "id": "Mt_4_008",
+    "question": "Ką Jėzus tarė Simonui ir Andriejui, kai jie metė tinklus į ežerą?",
+    "options": {
+      "a": "Eikite paskui mane! Aš padarysiu jus žmonių žvejais",
+      "b": "Eikite paskui mane! Aš padarysiu jus žvejais",
+      "c": "Eikite paskui mane! Aš padarysiu jus žvejais žmonių",
+      "d": "Eikite paskui mane! Aš padarysiu jus žvejais Dievo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_4"
+  }
+]

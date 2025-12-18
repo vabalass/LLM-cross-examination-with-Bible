@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mk_2_001",
+    "question": "Kur Jėzus buvo, kai keturi vyrai atnešė paralyžiuotą žmogų?",
+    "options": {
+      "a": "Jėzus buvo sinagogoje",
+      "b": "Jėzus buvo šventykloje",
+      "c": "Jėzus buvo namuose",
+      "d": "Jėzus buvo kalne"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_002",
+    "question": "Ką Jėzus pasakė paralyžiuotajam?",
+    "options": {
+      "a": "„Sūnau, tau atleidžiamos nuodėmės!“",
+      "b": "„Sūnau, kelkis ir eik namo!“",
+      "c": "„Sūnau, tu esi išgelbėtas!“",
+      "d": "„Sūnau, tu esi išvaduotas!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_003",
+    "question": "Kas buvo priešingai nuostabę, kai Jėzus atleidė paralyžiuotojo nuodėmes?",
+    "options": {
+      "a": "Mokytojai",
+      "b": "Rašto aiškintojai",
+      "c": "Fariziejai",
+      "d": "Mokslai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_004",
+    "question": "Ką Jėzus pasakė, kai pamatė Levį, Alfiejaus sūnų, sėdintį muitinėje?",
+    "options": {
+      "a": "„Sek paskui mane!“",
+      "b": "„Kelkis ir eik namo!“",
+      "c": "„Tau atleidžiamos nuodėmės!“",
+      "d": "„Tu esi išvaduotas!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_005",
+    "question": "Kas sėdėjo su Jėzumi ir jo mokiniais Levio namuose?",
+    "options": {
+      "a": "Mokytojai",
+      "b": "Rašto aiškintojai",
+      "c": "Muitininkai ir nusidėjėliai",
+      "d": "Fariziejai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_006",
+    "question": "Ką Jėzus atsakė, kai Rašto aiškintojai iš fariziejų prikišo jo mokiniams, kodėl jis valgo su muitininkais ir nusidėjėliais?",
+    "options": {
+      "a": "„Ne sveikiesiems reikia gydytojo, bet ligoniams! Aš atėjau ne teisiųjų šaukti, o nusidėjėlių“",
+      "b": "„Ne ligoniams reikia gydytojo, bet sveikiesiems! Aš atėjau ne nusidėjėlių šaukti, o teisiųjų“",
+      "c": "„Ne sveikiesiems reikia gydytojo, bet ligoniams! Aš atėjau ne nusidėjėlių šaukti, o teisiųjų“",
+      "d": "„Ne ligoniams reikia gydytojo, bet sveikiesiems! Aš atėjau ne teisiųjų šaukti, o nusidėjėlių“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_007",
+    "question": "Ką Jėzus pasakė apie naują vyną ir naujus vynmaišius?",
+    "options": {
+      "a": "„Jaunam vynui – nauji vynmaišiai!“",
+      "b": "„Jaunam vynui – senieji vynmaišiai!“",
+      "c": "„Senam vynui – nauji vynmaišiai!“",
+      "d": "„Senam vynui – senieji vynmaišiai!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_008",
+    "question": "Ką Jėzus atsakė, kai fariziejai priekaištavo, kad jo mokiniai skabė varpus šabo dieną?",
+    "options": {
+      "a": "„Šabas padarytas žmogui, ne žmogus šabui; taigi Žmogaus Sūnus yra ir šabo Viešpats“",
+      "b": "„Šabas padarytas žmogui, ne žmogus šabui; taigi Žmogaus Sūnus yra šabo Viešpats“",
+      "c": "„Šabas padarytas žmogui, ne žmogus šabui; taigi Žmogaus Sūnus yra ir šabo Viešpats“",
+      "d": "„Šabas padarytas žmogui, ne žmogus šabui; taigi Žmogaus Sūnus yra ir šabo Viešpats“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_009",
+    "question": "Ką Jėzus pasakė apie Dovydą ir padėtinės duonos?",
+    "options": {
+      "a": "„Nejau neskaitėte, ką prireikus padarė Dovydas, kai jis ir jo palydovai neturėjo maisto ir buvo išalkę: prie vyriausiojo kunigo Abiatarojis įėjo į Dievo namus ir valgė padėtinės duonos, ir davė jos valgyti savo palydovams, nors jos niekam nevalia valgyti, tik kunigams“",
+      "b": "„Nejau neskaitėte, ką prireikus padarė Dovydas, kai jis ir jo palydovai neturėjo maisto ir buvo išalkę: prie vyriausiojo kunigo Abiatarojis įėjo į Dievo namus ir valgė padėtinės duonos, ir davė jos valgyti savo palydovams, nors jos niekam nevalia valgyti, tik kunigams“",
+      "c": "„Nejau neskaitėte, ką prireikus padarė Dovydas, kai jis ir jo palydovai neturėjo maisto ir buvo išalkę: prie vyriausiojo kunigo Abiatarojis įėjo į Dievo namus ir valgė padėtinės duonos, ir davė jos valgyti savo palydovams, nors jos niekam nevalia valgyti, tik kunigams“",
+      "d": "„Nejau neskaitėte, ką prireikus padarė Dovydas, kai jis ir jo palydovai neturėjo maisto ir buvo išalkę: prie vyriausiojo kunigo Abiatarojis įėjo į Dievo namus ir valgė padėtinės duonos, ir davė jos valgyti savo palydovams, nors jos niekam nevalia valgyti, tik kunigams“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_2"
+  }
+]

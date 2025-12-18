@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Mk_8_001",
+    "question": "Kiek duonos kepalėlių turėjo Jėzus, kai padauginė duoną antrajį kartą?",
+    "options": {
+      "a": "Penkis",
+      "b": "Septynis",
+      "c": "Dvylika",
+      "d": "Keturis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_002",
+    "question": "Kiek žmonių buvo pasotinti antrajame duonos padauginime?",
+    "options": {
+      "a": "Penki tūkstančiai",
+      "b": "Keturi tūkstančiai",
+      "c": "Trys tūkstančiai",
+      "d": "Du tūkstančiai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_003",
+    "question": "Ką Jėzus liepė mokiniams padaryti su likusiomis duonos kąsneliomis?",
+    "options": {
+      "a": "Išmesti",
+      "b": "Surinkti",
+      "c": "Duoti gyvūnams",
+      "d": "Palikti žmonėms"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_004",
+    "question": "Kur Jėzus nuplaukė po antrojo duonos padauginimo?",
+    "options": {
+      "a": "Galilėją",
+      "b": "Dalmanutos sritį",
+      "c": "Judeją",
+      "d": "Samariją"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_005",
+    "question": "Ką fariziejai reikalavo Jėzui?",
+    "options": {
+      "a": "Duonos",
+      "b": "Ženklo iš dangaus",
+      "c": "Išsigelbėjimo",
+      "d": "Maldos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_006",
+    "question": "Ką Jėzus įspėjo mokinius saugoti?",
+    "options": {
+      "a": "Fariziejų ir Erodo raugo",
+      "b": "Maldos",
+      "c": "Dievo įsakymų",
+      "d": "Duonos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_007",
+    "question": "Kiek pilnų pintinių likučių pririnko mokiniai po pirmojo duonos padauginimo?",
+    "options": {
+      "a": "Septynis",
+      "b": "Dvylika",
+      "c": "Penkis",
+      "d": "Keturis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_008",
+    "question": "Kur Jėzus išgydė neregį?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Betsaidoje",
+      "c": "Galilėjoje",
+      "d": "Judejoje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_009",
+    "question": "Ką Jėzus padarė, kad išgydytų neregį?",
+    "options": {
+      "a": "Patepė seilėmis jo akis ir uždėjo ant jo rankas",
+      "b": "Padavė jam vaistus",
+      "c": "Pamaldavo už jį",
+      "d": "Liepėjo jam eiti namo ir grįžti kitą dieną"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_010",
+    "question": "Kuo žmonės laiko Jėzų, pagal mokinių atsakymą?",
+    "options": {
+      "a": "Dievu",
+      "b": "Jonu Krikštytoju, Eliju ar pranašu",
+      "c": "Karaliumi",
+      "d": "Mokytoju"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_011",
+    "question": "Ką Petras atsakė, kai Jėzus klausė, kuo jį laiko?",
+    "options": {
+      "a": "Tu esi Mesijas",
+      "b": "Tu esi Dievas",
+      "c": "Tu esi karalius",
+      "d": "Tu esi pranašas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_012",
+    "question": "Ką Jėzus pranašavo apie Žmogaus Sūnų?",
+    "options": {
+      "a": "Jis bus atmestas, nužudytas ir prisikels po trijų dienų",
+      "b": "Jis bus karalius",
+      "c": "Jis bus Dievo šventas",
+      "d": "Jis bus amžinas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_8"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Mt_18_001",
+    "question": "Kas klausė Jėzų, kas didžiausias dangaus karalystėje?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Vaikai",
+      "c": "Angelai",
+      "d": "Viešpatas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_002",
+    "question": "Ką Jėzus pasakė apie vaikus?",
+    "options": {
+      "a": "Jie yra mažiausi",
+      "b": "Jie yra didžiausi",
+      "c": "Jie neįeina į dangaus karalystę",
+      "d": "Jie yra kaip angelai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_003",
+    "question": "Ką Jėzus pasakė apie papiktinimus?",
+    "options": {
+      "a": "Jie yra geri",
+      "b": "Jie yra blogi",
+      "c": "Jie yra neišvengiami",
+      "d": "Jie yra malonūs"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_004",
+    "question": "Ką rekomenduoja Jėzus padaryti, jei ranka ar koja gundo tave nusidėti?",
+    "options": {
+      "a": "Nukirsk ją ir mesk šalin",
+      "b": "Gydyk ją",
+      "c": "Nekalbėk apie tai",
+      "d": "Maldaujis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_005",
+    "question": "Ką rekomenduoja Jėzus padaryti, jei akis gundo tave nusidėti?",
+    "options": {
+      "a": "Išlupk ją ir mesk šalin",
+      "b": "Gydyk ją",
+      "c": "Nekalbėk apie tai",
+      "d": "Maldaujis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_006",
+    "question": "Ką Jėzus pasakė apie mažutėlius?",
+    "options": {
+      "a": "Jie yra kaip angelai",
+      "b": "Jie yra mažiausi",
+      "c": "Jie yra didžiausi",
+      "d": "Jie yra kaip vaikai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_007",
+    "question": "Ką Jėzus pasakė apie paklydusią avį?",
+    "options": {
+      "a": "Jis džiaugiasi dėl jos labiau negu dėl devyniasdešimt devynių, kurios nebuvo paklydusios",
+      "b": "Jis niekada neieško paklydusių avių",
+      "c": "Jis palieka paklydusią avį",
+      "d": "Jis niekada nedžiaugiasi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_008",
+    "question": "Ką rekomenduoja Jėzus padaryti, jei brolis tau nusikalsta?",
+    "options": {
+      "a": "Eik ir bark jį prie keturių akių",
+      "b": "Ignoruok jį",
+      "c": "Paskelbk apie tai visiems",
+      "d": "Maldaujis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_009",
+    "question": "Ką Jėzus pasakė apie maldas?",
+    "options": {
+      "a": "Jeigu kas iš jūsų susitars žemėje dviese melsti kokio dalyko, jiems mano dangiškasis Tėvas jį suteiks",
+      "b": "Maldos niekada nepasibaigia",
+      "c": "Maldos yra naudingos tik vienišams",
+      "d": "Maldos yra naudingos tik grupėms"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_010",
+    "question": "Kiek kartų Petras klausė, ar turi atleisti savo brolių?",
+    "options": {
+      "a": "Septyniasdešimt septynis kartus",
+      "b": "Septynis kartus",
+      "c": "Tris kartus",
+      "d": "Dešimt kartų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  },
+  {
+    "id": "Mt_18_011",
+    "question": "Ką Jėzus pasakė apie beširdį skolininką?",
+    "options": {
+      "a": "Taip ir mano dangiškasis Tėvas padarys jums, jeigu kiekvienas iš tikros širdies neatleisite savo broliui",
+      "b": "Jis turi būti malšintas",
+      "c": "Jis turi būti atleistas",
+      "d": "Jis turi būti ignoruojamas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_18"
+  }
+]

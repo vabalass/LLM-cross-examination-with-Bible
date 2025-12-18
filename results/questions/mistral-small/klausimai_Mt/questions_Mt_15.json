@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Mt_15_001",
+    "question": "Kas paklausė Jėzaus, kodėl jo mokiniai laužo prosenių paprotį?",
+    "options": {
+      "a": "Fariziejai ir Rašto aiškintojai",
+      "b": "Mokiniai",
+      "c": "Petras",
+      "d": "Kananietė moteris"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_002",
+    "question": "Ką Jėzus atsakė Rašto aiškintojams ir fariziejams dėl papročių laužimo?",
+    "options": {
+      "a": "Jie laužo Dievo įsakymą dėl savojo papročio",
+      "b": "Jie gerbia Dievo įsakymus",
+      "c": "Jie yra geri pavyzdžiai",
+      "d": "Jie yra geresni už mokinius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_003",
+    "question": "Ką Jėzus sakė apie tikrąjį švarumą?",
+    "options": {
+      "a": "Ne kas patenka į burną, suteršia žmogų, bet kas išeina iš burnos, tai suteršia žmogų",
+      "b": "Valgymas nemazgotomis rankomis suteršia žmogų",
+      "c": "Visko reikia gerbti",
+      "d": "Reikia sekti visus papročius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_004",
+    "question": "Ką Jėzus sakė apie fariziejus?",
+    "options": {
+      "a": "Jie yra geri pavyzdžiai",
+      "b": "Jie yra akli aklųjų vadovai",
+      "c": "Jie yra geresni už mokinius",
+      "d": "Jie yra Dievo pasiuntiniai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_005",
+    "question": "Ką Jėzus sakė apie kananietę moterį?",
+    "options": {
+      "a": "Jis iš karto išgydė jos dukterį",
+      "b": "Jis sakė, kad ji negali gauti pagalbos",
+      "c": "Jis sakė, kad ji turi tikėti",
+      "d": "Jis sakė, kad ji negali gauti pagalbos, bet ji atsakė su didžiu tikėjimu"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_006",
+    "question": "Ką Jėzus padarė prie Galilėjos ežero?",
+    "options": {
+      "a": "Jis išgydė raišius, luošius, akluosius ir nebylius",
+      "b": "Jis pasakė kalbę",
+      "c": "Jis padauginė duoną",
+      "d": "Jis pasakė, kad jie turi sekti jį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_007",
+    "question": "Ką Jėzus padarė, kai matė, kad minia neturi ko valgyti?",
+    "options": {
+      "a": "Jis liepė žmonėms susėsti ant žemės ir padauginė septynis duonos kepaliukus ir žuvis",
+      "b": "Jis liepė žmonėms grįžti namo",
+      "c": "Jis liepė mokiniams duoti žmonėms savo duoną",
+      "d": "Jis liepė žmonėms ieškoti duonos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_008",
+    "question": "Kiek žmonių valgo padaugintą duoną?",
+    "options": {
+      "a": "Apie keturis tūkstančius vyrų, be moterų ir vaikų",
+      "b": "Apie penkis tūkstančius vyrų, be moterų ir vaikų",
+      "c": "Apie tris tūkstančius vyrų, be moterų ir vaikų",
+      "d": "Apie šešis tūkstančius vyrų, be moterų ir vaikų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_009",
+    "question": "Ką Jėzus sakė apie kananietę moterį?",
+    "options": {
+      "a": "Jis sakė, kad ji negali gauti pagalbos",
+      "b": "Jis sakė, kad ji turi tikėti",
+      "c": "Jis sakė, kad ji negali gauti pagalbos, bet ji atsakė su didžiu tikėjimu",
+      "d": "Jis sakė, kad ji turi grįžti namo"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_010",
+    "question": "Ką Jėzus sakė apie tikrąjį švarumą?",
+    "options": {
+      "a": "Ne kas patenka į burną, suteršia žmogų, bet kas išeina iš burnos, tai suteršia žmogų",
+      "b": "Valgymas nemazgotomis rankomis suteršia žmogų",
+      "c": "Visko reikia gerbti",
+      "d": "Reikia sekti visus papročius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_011",
+    "question": "Ką Jėzus sakė apie fariziejus?",
+    "options": {
+      "a": "Jie yra geri pavyzdžiai",
+      "b": "Jie yra akli aklųjų vadovai",
+      "c": "Jie yra geresni už mokinius",
+      "d": "Jie yra Dievo pasiuntiniai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_012",
+    "question": "Ką Jėzus padarė prie Galilėjos ežero?",
+    "options": {
+      "a": "Jis išgydė raišius, luošius, akluosius ir nebylius",
+      "b": "Jis pasakė kalbę",
+      "c": "Jis padauginė duoną",
+      "d": "Jis pasakė, kad jie turi sekti jį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  },
+  {
+    "id": "Mt_15_013",
+    "question": "Ką Jėzus padarė, kai matė, kad minia neturi ko valgyti?",
+    "options": {
+      "a": "Jis liepė žmonėms susėsti ant žemės ir padauginė septynis duonos kepaliukus ir žuvis",
+      "b": "Jis liepė žmonėms grįžti namo",
+      "c": "Jis liepė mokiniams duoti žmonėms savo duoną",
+      "d": "Jis liepė žmonėms ieškoti duonos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_15"
+  }
+]

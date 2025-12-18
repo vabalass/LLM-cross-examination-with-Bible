@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_17_001",
+    "question": "Ką Jėzus prašo Tėvo pirmiausia?",
+    "options": {
+      "a": "Kad Tėvas jį pašlovintų.",
+      "b": "Kad Tėvas duotų jam galią.",
+      "c": "Kad Tėvas jį išgelbėtų.",
+      "d": "Kad Tėvas jam atleistų."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_002",
+    "question": "Ką reiškia amžinasis gyvenimas pagal Jėzaus žodžius?",
+    "options": {
+      "a": "Visada būti linksmu.",
+      "b": "Pažinti vienintelį tikrąjį Dievą ir jo siųstąjį Jėzų – Mesiją.",
+      "c": "Gyventi be nuodėmės.",
+      "d": "Turėti daug turto."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_003",
+    "question": "Ką Jėzus padarė su Dievo duotais žodžiais?",
+    "options": {
+      "a": "Juos paslėpė.",
+      "b": "Juos sunaikino.",
+      "c": "Juos perdavė mokiniams.",
+      "d": "Juos pamiršo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_004",
+    "question": "Už ką Jėzus meldžia?",
+    "options": {
+      "a": "Tik už pasaulį.",
+      "b": "Tik už save.",
+      "c": "Už Tėvą.",
+      "d": "Ne už pasaulį, bet už jam pavestuosius."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_005",
+    "question": "Koks Jėzaus tikslas, kai jis prašo apsaugoti mokinius nuo piktojo?",
+    "options": {
+      "a": "Kad mokiniai taptų nepaprastai stiprūs.",
+      "b": "Kad mokiniai nenuklystų nuo Dievo kelio ir išliktų vieningi.",
+      "c": "Kad pasaulis bijotų piktojo.",
+      "d": "Kad mokiniai patys nugalėtų piktojo jėgas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_006",
+    "question": "Ką reiškia frazė „Jie nėra iš pasaulio, kaip ir aš ne iš pasaulio“?",
+    "options": {
+      "a": "Mokiniai yra fizinėje pasaulyje, bet jų dvasia yra kitur.",
+      "b": "Mokiniai neturi nieko bendro su pasaulio vertybėmis ir siekiais.",
+      "c": "Mokiniai yra izoliuoti nuo pasaulio.",
+      "d": "Mokiniai yra angelai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_007",
+    "question": "Kas yra tiesa, kuria Jėzus prašo pašventinti mokinius?",
+    "options": {
+      "a": "Šventoji Dvasia.",
+      "b": "Jėzaus mokymai.",
+      "c": "Tėvo žodis.",
+      "d": "Mokinių tikėjimas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_17"
+  },
+  {
+    "id": "Jn_17_008",
+    "question": "Kaip Jėzus nori, kad jo mokiniai būtų viena?",
+    "options": {
+      "a": "Kaip du broliai.",
+      "b": "Kaip jūra.",
+      "c": "Kaip Tėvas ir jis yra viena.",
+      "d": "Kaip saulė ir mėnulis."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "chapter": "Jn_17"
+  }
+]

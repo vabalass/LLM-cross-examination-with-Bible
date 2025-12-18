@@ -1,0 +1,197 @@
+[
+  {
+    "id": "Lk_20_001",
+    "question": "Kas klausė Jėzų apie Jono krikštą?",
+    "options": {
+      "a": "Aukštieji kunigai ir Rašto aiškintojai",
+      "b": "Vynininkai",
+      "c": "Sadukiejai",
+      "d": "Mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_002",
+    "question": "Kas buvo vynuogyno šeimininkas?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Vynininkai",
+      "c": "Vynuogyno šeimininkas",
+      "d": "Tarnai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_003",
+    "question": "Ką vynininkai padarė su vynuogyno šeimininko sūnumi?",
+    "options": {
+      "a": "Jį sutiko gerai",
+      "b": "Jį nusitempė už vynuogyno ir nužudė",
+      "c": "Jį paleido",
+      "d": "Jį išjuokė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_004",
+    "question": "Ką Jėzus klausė žmonių apie denarą?",
+    "options": {
+      "a": "Kieno atvaizdas ir įrašas jame?",
+      "b": "Kiek jis vertas?",
+      "c": "Kur jis buvo išmintas?",
+      "d": "Kas jį naudoja?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_005",
+    "question": "Kas nusiuntė šnipus, kad nutvėrę Jėzaus žodį, galėtų įskųsti jį?",
+    "options": {
+      "a": "Aukštieji kunigai ir Rašto aiškintojai",
+      "b": "Vynininkai",
+      "c": "Sadukiejai",
+      "d": "Mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_006",
+    "question": "Kas neigia mirusiųjų prisikėlimą?",
+    "options": {
+      "a": "Aukštieji kunigai",
+      "b": "Rašto aiškintojai",
+      "c": "Sadukiejai",
+      "d": "Vynininkai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_007",
+    "question": "Kas pasakė, kad Mesijas esąs Dovydo sūnus?",
+    "options": {
+      "a": "Aukštieji kunigai",
+      "b": "Rašto aiškintojai",
+      "c": "Sadukiejai",
+      "d": "Vynininkai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_008",
+    "question": "Kas turi būti atiduotas ciesoriui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_009",
+    "question": "Kas turi būti atiduotas Dievui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_010",
+    "question": "Kas turi būti atiduotas Dievui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_011",
+    "question": "Kas turi būti atiduotas Dievui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_012",
+    "question": "Kas turi būti atiduotas Dievui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_013",
+    "question": "Kas turi būti atiduotas Dievui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_014",
+    "question": "Kas turi būti atiduotas Dievui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_015",
+    "question": "Kas turi būti atiduotas Dievui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  }
+]

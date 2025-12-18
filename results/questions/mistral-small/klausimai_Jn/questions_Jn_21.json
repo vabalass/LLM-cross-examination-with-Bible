@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_21_001",
+    "question": "Kas pasakė: „Einu žvejoti“?",
+    "options": {
+      "a": "Tomas",
+      "b": "Simonas Petras",
+      "c": "Natanaelis",
+      "d": "Zebediejaus sūnūs"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_002",
+    "question": "Kas pasakė: „Juk tai Viešpats!“?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Tomas",
+      "c": "Natanaelis",
+      "d": "Tasai mokinys, kurį Jėzus mylėjo"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_003",
+    "question": "Kiek žuvų buvo pagauta?",
+    "options": {
+      "a": "Šimtą penkiasdešimt tris",
+      "b": "Šimtą penkiolika",
+      "c": "Šimtą penkiasdešimt",
+      "d": "Šimtą penkiasdešimt penkis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_004",
+    "question": "Kiek kartų Jėzus paklausė Simoną Petrą, ar myli jį?",
+    "options": {
+      "a": "Du kartus",
+      "b": "Tris kartus",
+      "c": "Keturis kartus",
+      "d": "Penkis kartus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_005",
+    "question": "Kas buvo padėtas ant žėrinčių žarijų?",
+    "options": {
+      "a": "Tik žuvis",
+      "b": "Tik duona",
+      "c": "Žuvis ir duona",
+      "d": "Tik vaisiai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_006",
+    "question": "Kas buvo paskutinis, kuris klausė Jėzaus apie kitų likimą?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Tomas",
+      "c": "Natanaelis",
+      "d": "Tasai mokinys, kurį Jėzus mylėjo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_007",
+    "question": "Kas buvo liudininkas, aprašęs šiuos įvykius?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Tomas",
+      "c": "Natanaelis",
+      "d": "Tasai mokinys, kurį Jėzus mylėjo"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_21"
+  },
+  {
+    "id": "Jn_21_008",
+    "question": "Kas pasakė: „Jei aš noriu, kad jis pasiliktų, kolei ateisiu, kas gi tau? Tu sek paskui mane!“?",
+    "options": {
+      "a": "Simonas Petras",
+      "b": "Tomas",
+      "c": "Natanaelis",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_21"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mt_7_001",
+    "question": "Kas pagal Jėzų turėtų būti padaryta prieš teisdamas kitus?",
+    "options": {
+      "a": "Pirmiau išimti rąstą iš savo akies",
+      "b": "Pirmiau išimti krislį iš brolio akies",
+      "c": "Pirmiau išimti krislį iš savo akies",
+      "d": "Pirmiau išimti rąstą iš brolio akies"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_002",
+    "question": "Ką Jėzus patarė neduoti šunims ir kiaulėms?",
+    "options": {
+      "a": "Duonos",
+      "b": "Šventenybių",
+      "c": "Žuvies",
+      "d": "Vandens"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_003",
+    "question": "Kas pagal Jėzų gauna, jei prašo?",
+    "options": {
+      "a": "Tik tėvai",
+      "b": "Tik vaikai",
+      "c": "Kiekvienas, kas prašo",
+      "d": "Tik žmonės"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_004",
+    "question": "Kas pagal Jėzų duos gera tiems, kurie jį prašo?",
+    "options": {
+      "a": "Žmonės",
+      "b": "Vaikai",
+      "c": "Dangiškasis Tėvas",
+      "d": "Tėvai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_005",
+    "question": "Kas pagal Jėzų yra įstatymas ir pranašai?",
+    "options": {
+      "a": "Aukso taisyklė",
+      "b": "Prašymas",
+      "c": "Netikri pranašai",
+      "d": "Du keliai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_006",
+    "question": "Kur pagal Jėzų yra kelias į gyvenimą?",
+    "options": {
+      "a": "Pro erdvus vartus ir platus kelias",
+      "b": "Pro ankštus vartus ir siaurą kelias",
+      "c": "Pro erdvus vartus ir siaurą kelias",
+      "d": "Pro ankštus vartus ir platus kelias"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_007",
+    "question": "Kas pagal Jėzų yra panašus į gerą medį?",
+    "options": {
+      "a": "Netikras pranašas",
+      "b": "Geras medis",
+      "c": "Netikęs medis",
+      "d": "Tikras pranašas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_008",
+    "question": "Kas pagal Jėzų įeis į dangaus karalystę?",
+    "options": {
+      "a": "Kas tik šaukia 'Viešpatie, Viešpatie!'",
+      "b": "Kas vykdo dangiškojo Tėvo valią",
+      "c": "Kas pranašavo tavo vardu",
+      "d": "Kas išvarinėjo demonus tavo vardu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_7"
+  },
+  {
+    "id": "Mt_7_009",
+    "question": "Kas pagal Jėzų panašus į išmintingą žmogų?",
+    "options": {
+      "a": "Kas klauso jo žodžių ir juos nevykdo",
+      "b": "Kas klauso jo žodžių ir juos vykdo",
+      "c": "Kas klauso jo žodžių ir juos pamirša",
+      "d": "Kas klauso jo žodžių ir juos keičia"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_7"
+  }
+]

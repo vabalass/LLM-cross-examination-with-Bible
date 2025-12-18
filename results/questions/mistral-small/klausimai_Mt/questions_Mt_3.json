@@ -1,0 +1,67 @@
+[
+  {
+    "id": "Mt_3_001",
+    "question": "Kas skelbė Judėjos dykumoje: „Atsiverskite, nes prisiartino dangaus karalystė“?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Petras",
+      "c": "Jonas Krikštytojas",
+      "d": "Paulas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_002",
+    "question": "Ką vilkėjo Jonas Krikštytojas?",
+    "options": {
+      "a": "Šilko drabužius",
+      "b": "Kupranugario vilnų apdarą",
+      "c": "Aukso apdangalą",
+      "d": "Medžio žieve"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_003",
+    "question": "Kas pasakė: „Angių išperos, kas jus pamokė bėgti nuo besiartinančios rūstybės“?",
+    "options": {
+      "a": "Jėzus",
+      "b": "Jonas Krikštytojas",
+      "c": "Petras",
+      "d": "Paulas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_004",
+    "question": "Ką Jonas Krikštytojas sakė apie ateinančią asmenybę?",
+    "options": {
+      "a": "Jis krikštys jus vandeniu",
+      "b": "Jis krikštys jus Šventąja Dvasia ir ugnimi",
+      "c": "Jis jus išgelbės nuo nuodėmių",
+      "d": "Jis jus pasveiksins"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_3"
+  },
+  {
+    "id": "Mt_3_005",
+    "question": "Ką Jėzus atsakė Jonui Krikštytojui, kai šis jį atkalbinėjo?",
+    "options": {
+      "a": "„Tai aš turėčiau būti tavo pakrikštytas, o tu ateini pas mane!“, „Šį kartą paklausyk! Taip mudviem dera atlikti visa, kas reikalinga teisumui“",
+      "b": "„Ateik su manimi ir mes krikštysime kartu“, „Šį kartą paklausyk! Taip mudviem dera atlikti visa, kas reikalinga teisumui“",
+      "c": "„Aš nebereikės krikšto, nes aš esu Dievo Sūnus“, „Šį kartą paklausyk! Taip mudviem dera atlikti visa, kas reikalinga teisumui“",
+      "d": "„Aš nebereikės krikšto, nes aš esu Dievo Sūnus“, „Aš nevertas jam nė kurpių nuauti“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_3"
+  }
+]

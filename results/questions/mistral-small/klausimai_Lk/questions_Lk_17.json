@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Lk_17_001",
+    "question": "Kas pagal Jėzų yra geriau nei papiktinti vieną iš mažutėlių?",
+    "options": {
+      "a": "Papiktinti visus mažutėlius",
+      "b": "Ant kaklo būti užmauta girnapusė ir būti įmestas į jūrą",
+      "c": "Būti atleidžiamas",
+      "d": "Būti atleistas nuo visų nuodėmių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_002",
+    "question": "Kiek kartų per dieną reikia atleisti savo brolį, jeigu jis nusižengia?",
+    "options": {
+      "a": "Tris kartus",
+      "b": "Penkis kartus",
+      "c": "Septynis kartus",
+      "d": "Beveik neįmanoma skaičiuoti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_003",
+    "question": "Ką reikia padaryti, kad tikėjimas būtų veiksmingas?",
+    "options": {
+      "a": "Turėti tikėjimą kaip kalno",
+      "b": "Turėti tikėjimą kaip garstyčios grūdelį",
+      "c": "Turėti tikėjimą kaip medį",
+      "d": "Turėti tikėjimą kaip jūrą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_004",
+    "question": "Kas turi dėkoti samdiniui, kad jis atliko, kas jam liepta?",
+    "options": {
+      "a": "Visi žmonės",
+      "b": "Niekas",
+      "c": "Tik samdinio šeima",
+      "d": "Tik samdinio draugai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_005",
+    "question": "Kiek raupsuotųjų vyrų pasitiko Jėzus?",
+    "options": {
+      "a": "Penki",
+      "b": "Dešimt",
+      "c": "Dvylika",
+      "d": "Vienas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_006",
+    "question": "Kas buvo vienintelis, kuris sugrįžo atgal ir dėkodamas parpuolė Jėzui po kojų?",
+    "options": {
+      "a": "Žydas",
+      "b": "Samarietis",
+      "c": "Fariziejus",
+      "d": "Mokytojas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_007",
+    "question": "Kada ateis Dievo karalystė?",
+    "options": {
+      "a": "Nepastebimai",
+      "b": "Su dideliu triukšmu",
+      "c": "Su dideliu šviesos spinduliu",
+      "d": "Su dideliu žaibu"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_008",
+    "question": "Ką reikia padaryti, kai žmonės sakys: 'Štai jis čia! Štai ten!'?",
+    "options": {
+      "a": "Eiti ir paskui juos",
+      "b": "Neikti ir nebėkiti paskui juos",
+      "c": "Paskui juos ir tikrinti",
+      "d": "Paskui juos ir padėti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_009",
+    "question": "Kaip bus Žmogaus Sūnaus dienomis?",
+    "options": {
+      "a": "Kaip yra buvę Nojaus laikais",
+      "b": "Kaip yra buvę Loto laikais",
+      "c": "Kaip yra buvę Abraomo laikais",
+      "d": "Kaip yra buvę Izrailo laikais"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_010",
+    "question": "Kas bus paimtas tą dieną, kai Žmogaus Sūnus apsireikš?",
+    "options": {
+      "a": "Visi žmonės",
+      "b": "Vienas iš dviese miegantys vienoje lovoje",
+      "c": "Viena iš dviejų mals drauge",
+      "d": "Visi žmonės, kurie yra laukuose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_011",
+    "question": "Kas bus paliktas tą dieną, kai Žmogaus Sūnus apsireikš?",
+    "options": {
+      "a": "Visi žmonės",
+      "b": "Vienas iš dviese miegantys vienoje lovoje",
+      "c": "Viena iš dviejų mals drauge",
+      "d": "Visi žmonės, kurie yra laukuose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_012",
+    "question": "Kur bus lavonų, ten sulėks ir koks gyvūnai?",
+    "options": {
+      "a": "Lapės",
+      "b": "Maitvanagiai",
+      "c": "Lapės",
+      "d": "Lapės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  }
+]

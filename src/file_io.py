@@ -43,4 +43,3 @@ def load_questions(question_file):
     except json.JSONDecodeError as e:
         print(f"file_io klaida: nepavyko išparsinti '{question_file}': {e}")
         return []
-    

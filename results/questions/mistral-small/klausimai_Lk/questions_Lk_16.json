@@ -1,0 +1,132 @@
+[
+  {
+    "id": "Lk_16_001",
+    "question": "Kas buvo apskųstas esą eikvojąs turtuolio turtą?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Mokytojas",
+      "d": "Dievas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_002",
+    "question": "Kiek skolingas buvo pirmasis šeimininko skolininkas?",
+    "options": {
+      "a": "Šimtą statinių aliejaus",
+      "b": "Šimtą saikųkviečių",
+      "c": "Penkiasdešimt statinių aliejaus",
+      "d": "Aštuoniasdešimt saikųkviečių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_003",
+    "question": "Kiek skolingas buvo antrasis šeimininko skolininkas?",
+    "options": {
+      "a": "Šimtą statinių aliejaus",
+      "b": "Šimtą saikųkviečių",
+      "c": "Penkiasdešimt statinių aliejaus",
+      "d": "Aštuoniasdešimt saikųkviečių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_004",
+    "question": "Kas pagyrė prievaizdą už gudrybę?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Šeimininkas",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_005",
+    "question": "Kas negali tarnauti dviem šeimininkams?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Tarnas",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_006",
+    "question": "Kas girdėjo Jėzaus kalbas ir šaipėsi iš jo?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Godūs pinigų fariziejai",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_007",
+    "question": "Kas vilkėjo purpuru bei ploniausia drobe ir kasdien ištaigingai puotaudavo?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Lozorius",
+      "d": "Mokytojas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_008",
+    "question": "Kas gulėjo votimis aptekęs prie turtuolio rūmų vartų?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Lozorius",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_009",
+    "question": "Kas buvo nuneštas į Abraomo prieglobstį?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Lozorius",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_010",
+    "question": "Kas atsakė turtuoliui, kad tarp jų ir jo žioji neperžengiama bedugnė?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Abraomas",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  }
+]

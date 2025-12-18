@@ -1,0 +1,327 @@
+[
+  {
+    "id": "Mt_26_001",
+    "question": "Kas pasakė Jėzui, kad jis bus atiduotas nukryžiuoti?",
+    "options": {
+      "a": "Aukštieji kunigai",
+      "b": "Tautos seniūnai",
+      "c": "Jėzus pats",
+      "d": "Mokiniai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_002",
+    "question": "Kas nusprendė suimti Jėzų klasta ir nužudyti?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Žmonės",
+      "c": "Aukštieji kunigai ir tautos seniūnai",
+      "d": "Romos kariuomenė"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_003",
+    "question": "Kodėl aukštieji kunigai ir tautos seniūnai nenorėjo suimti Jėzų per šventes?",
+    "options": {
+      "a": "Bijo, kad žmonės sukilęs",
+      "b": "Nebuvo pasirengę",
+      "c": "Nebijo Jėzaus",
+      "d": "Nebuvo įsakymo iš Romos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_004",
+    "question": "Kas atėjo pas Jėzų su alebastriniu brangaus kvapiojo aliejaus indu?",
+    "options": {
+      "a": "Moteris",
+      "b": "Mokinė",
+      "c": "Marija",
+      "d": "Elizabeta"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_005",
+    "question": "Kodėl mokiniai pasipiktino, kai moteris išpylė aliejų ant Jėzaus galvos?",
+    "options": {
+      "a": "Nebijo kvapo",
+      "b": "Manė, kad aliejų galima būtų parduoti ir duoti vargšams",
+      "c": "Nebijo Jėzaus",
+      "d": "Nebijo moters"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_006",
+    "question": "Kas išduojo Jėzų aukštiesiems kunigams?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas Iskarijotas",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_007",
+    "question": "Kiek aukštieji kunigai pasiūlė Judui už Jėzaus išdavystę?",
+    "options": {
+      "a": "Trisdešimt auksinių",
+      "b": "Trisdešimt sidabrinių",
+      "c": "Trisdešimt žemės dalių",
+      "d": "Trisdešimt drabužių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_008",
+    "question": "Kur Jėzus nurodė mokiniams paruošti Velykų vakarienę?",
+    "options": {
+      "a": "Jėzaus namuose",
+      "b": "Simono Raupsuotojo namuose",
+      "c": "Pas tokį žmogų",
+      "d": "Šventykloje"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_009",
+    "question": "Kas pasakė: „Mane išduos dažantis kartu su manim duoną dubenyje“?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_010",
+    "question": "Kas atliko Eucharistijos įsteigimą?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_011",
+    "question": "Kas pasakė: „Šią naktį jūs visi manimi pasipiktinsite“?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_012",
+    "question": "Kur Jėzus meldėsi po Paskutinės vakarienės?",
+    "options": {
+      "a": "Šventykloje",
+      "b": "Getsemane",
+      "c": "Jėzaus namuose",
+      "d": "Simono Raupsuotojo namuose"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_013",
+    "question": "Kas ištiesė ranką ir išsitraukė kalaviją, puolė vyriausiojo kunigo tarną?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_014",
+    "question": "Kas pasakė: „Kišk kalaviją atgal, kur buvo, nes visi, kurie griebiasi kalavijo, nuo kalavijo ir žus“?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_015",
+    "question": "Kur Jėzus buvo nuvedžiamas po suėmimo?",
+    "options": {
+      "a": "Šventykloje",
+      "b": "Getsemane",
+      "c": "Vyriausiojo kunigo Kajafos rūmuose",
+      "d": "Jėzaus namuose"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_016",
+    "question": "Kas pasakė: „Šitas yra sakęs: 'Aš galiu sugriauti Dievo šventyklą ir per tris dienas ją vėl atstatyti'“?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Aukštieji kunigai ir visa teismo taryba"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_017",
+    "question": "Kas pasakė: „Tu nieko neatsakai į šituos kaltinimus?!“?",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Vyriausiasis kunigas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_018",
+    "question": "Kas pasakė: „Prisaikdinu tave gyvuoju Dievu, kad mums pasakytum, ar tu Mesijas, Dievo Sūnus!“,",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Vyriausiasis kunigas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_019",
+    "question": "Kas pasakė: „Tu tai sakai. Bet ir aš jums sakau: nuo šiol jūs matysite Žmogaus Sūnų, sėdintį Visagalio dešinėje ir ateinantį dangaus debesyse!“,",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Jėzus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_020",
+    "question": "Kas pasakė: „Jis piktžodžiauja! Kam dar mums liudytojai?! Štai girdėjome piktžodžiavimą. Kaip jums regisi?“.",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Vyriausiasis kunigas"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_021",
+    "question": "Kas pasakė: „Vertas mirties!“,",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Vyriausiasis kunigas ir teismo taryba"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_022",
+    "question": "Kas pasakė: „Ir tu buvai su Jėzumi Galilėjiečiu“.",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Tarnaitė"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_023",
+    "question": "Kas pasakė: „Aš nežinau, ką tu sakai“.",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Tarnaitė"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_024",
+    "question": "Kas pasakė: „Tikrai tu vienas iš jų, nes ir tavo tarmė tave išduoda“.",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Stovėjusieji"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  },
+  {
+    "id": "Mt_26_025",
+    "question": "Kas pasakė: „Aš nepažįstu to žmogaus!“.",
+    "options": {
+      "a": "Petras",
+      "b": "Judas",
+      "c": "Jonas",
+      "d": "Stovėjusieji"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_26"
+  }
+]

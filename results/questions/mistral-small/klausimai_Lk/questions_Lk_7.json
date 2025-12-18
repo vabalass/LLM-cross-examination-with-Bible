@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Lk_7_001",
+    "question": "Kur Jėzus grįžo po pamokymų?",
+    "options": {
+      "a": "Jeruzalę",
+      "b": "Kafarnaumą",
+      "c": "Najiną",
+      "d": "Betanią"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_002",
+    "question": "Kas pasiuntė pas Jėzų prašydamas pagelbėti tarnui?",
+    "options": {
+      "a": "Šimtininkas",
+      "b": "Fariziejus",
+      "c": "Mokytojas",
+      "d": "Muitininkas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_003",
+    "question": "Ką šimtininkas pasakė Jėzui neateiti į jo namus?",
+    "options": {
+      "a": "Jis nesiverčia",
+      "b": "Jis nesuvertas",
+      "c": "Jis negali",
+      "d": "Jis nemato"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_004",
+    "question": "Ką Jėzus pasakė apie šimtininko tikėjimą?",
+    "options": {
+      "a": "Jis yra silpnas",
+      "b": "Jis yra didelis",
+      "c": "Jis yra menkas",
+      "d": "Jis yra blogas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_005",
+    "question": "Kur Jėzus pasuko po šimtininko tarno pagydymo?",
+    "options": {
+      "a": "Jeruzalę",
+      "b": "Kafarnaumą",
+      "c": "Najiną",
+      "d": "Betanią"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_006",
+    "question": "Ką Jėzus pasakė našlės, kurių sūnus buvo nešamas numirėlis?",
+    "options": {
+      "a": "Neverk!",
+      "b": "Kelkis!",
+      "c": "Eik!",
+      "d": "Miegok!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_007",
+    "question": "Ką Jėzus padarė, priėjęs prie numirėlio?",
+    "options": {
+      "a": "Palietė neštuvus",
+      "b": "Palietė numirėlį",
+      "c": "Palietė motiną",
+      "d": "Palietė minią"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_008",
+    "question": "Ką Jėzus pasakė numirėliui?",
+    "options": {
+      "a": "Neverk!",
+      "b": "Kelkis!",
+      "c": "Eik!",
+      "d": "Miegok!"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_009",
+    "question": "Ką žmonės pasakė apie Jėzų po jaunuolio prikėlimo?",
+    "options": {
+      "a": "Jis yra blogas",
+      "b": "Jis yra silpnas",
+      "c": "Jis yra didis pranašas",
+      "d": "Jis yra menkas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_010",
+    "question": "Kas nusiuntė mokinius pas Jėzų klausyti, ar jis yra tas, kuris turi ateiti?",
+    "options": {
+      "a": "Fariziejus",
+      "b": "Mokytojas",
+      "c": "Jonas Krikštytojas",
+      "d": "Muitininkas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_011",
+    "question": "Ką Jėzus pasakė apie Joną Krikštytoją?",
+    "options": {
+      "a": "Jis yra blogas",
+      "b": "Jis yra silpnas",
+      "c": "Jis yra didesnis už pranašą",
+      "d": "Jis yra menkas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_012",
+    "question": "Ką Jėzus pasakė apie šios kartos žmones?",
+    "options": {
+      "a": "Jie yra geri",
+      "b": "Jie yra blogi",
+      "c": "Jie yra panašūs į vaikus",
+      "d": "Jie yra panašūs į pranašus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_013",
+    "question": "Ką moteris, kuri buvo žinoma mieste nusidėjėlė, padarė Jėzui?",
+    "options": {
+      "a": "Jį pamatė",
+      "b": "Jį paliečia",
+      "c": "Jį pamatė ir paliečia",
+      "d": "Jį pamatė ir pasakė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_014",
+    "question": "Ką fariziejus samprotavo apie Jėzų?",
+    "options": {
+      "a": "Jis yra pranašas",
+      "b": "Jis yra blogas",
+      "c": "Jis yra silpnas",
+      "d": "Jis yra menkas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_015",
+    "question": "Ką Jėzus pasakė apie moterį, kuri jį tepė?",
+    "options": {
+      "a": "Jai atleidžiamos nuodėmės",
+      "b": "Jai atleidžiamos nuodėmės",
+      "c": "Jai atleidžiamos nuodėmės",
+      "d": "Jai atleidžiamos nuodėmės"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_016",
+    "question": "Ką Jėzus pasakė moteriai, kuri jį tepė?",
+    "options": {
+      "a": "Tavo tikėjimas išgelbėjo tave",
+      "b": "Tavo tikėjimas išgelbėjo tave",
+      "c": "Tavo tikėjimas išgelbėjo tave",
+      "d": "Tavo tikėjimas išgelbėjo tave"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  }
+]

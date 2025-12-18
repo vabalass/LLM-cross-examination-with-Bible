@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Mk_4_001",
+    "question": "Kur Jėzus mokė žmones?",
+    "options": {
+      "a": "Mieste",
+      "b": "Miške",
+      "c": "Paežerėje",
+      "d": "Kalno viršūnėje"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_002",
+    "question": "Kas nukrito palei kelią ir buvo sulesėtas paukščiais?",
+    "options": {
+      "a": "Sėklos",
+      "b": "Žmonės",
+      "c": "Uolės",
+      "d": "Medžiai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_003",
+    "question": "Kur sėklos nukrito ir greit sudygo dėl mažo žemės sluoksnio?",
+    "options": {
+      "a": "Palei kelią",
+      "b": "Uolėtoje dirvoje",
+      "c": "Tarp erškėčių",
+      "d": "Geroje žemėje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_004",
+    "question": "Kas nusmelkė sėklas, kurios nukrito tarp erškėčių?",
+    "options": {
+      "a": "Paukščiai",
+      "b": "Erškėčiai",
+      "c": "Uolės",
+      "d": "Vėjas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_005",
+    "question": "Kurios žemės sėklos davė derlių?",
+    "options": {
+      "a": "Palei kelią",
+      "b": "Uolėtoje dirvoje",
+      "c": "Tarp erškėčių",
+      "d": "Geroje žemėje"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_006",
+    "question": "Kas atėmė žodį iš žmonių, kurie jį išgirdo palei kelią?",
+    "options": {
+      "a": "Vėjas",
+      "b": "Erškėčiai",
+      "c": "Šėtonas",
+      "d": "Uolės"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_007",
+    "question": "Kodėl žmonės, kurie išgirdo žodį uolynėje, greit atkrinta?",
+    "options": {
+      "a": "Dėl vėjo",
+      "b": "Dėl negandos ar persekiojimo",
+      "c": "Dėl erškėčių",
+      "d": "Dėl sausros"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_008",
+    "question": "Kas nusmelkė žodį žmonėms, kurie jį išgirdo tarp erškėčių?",
+    "options": {
+      "a": "Paukščiai",
+      "b": "Pasaulio rūpesčiai, turto apgaulė ir aistros",
+      "c": "Uolės",
+      "d": "Vėjas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_009",
+    "question": "Kur Jėzus sakė, kad žiburys turi būti įstatytas?",
+    "options": {
+      "a": "Po indu",
+      "b": "Po lova",
+      "c": "Į žibintuvą",
+      "d": "Į uolynę"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_010",
+    "question": "Kas savaiminė dirva duoda vaisių?",
+    "options": {
+      "a": "Želmenį",
+      "b": "Varpą",
+      "c": "Pribrendusį grūdą varpoje",
+      "d": "Visus minėtus variantus"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_011",
+    "question": "Su kuo Jėzus palygino Dievo karalystę?",
+    "options": {
+      "a": "Su medžiu",
+      "b": "Su garstyčios grūdeliu",
+      "c": "Su uole",
+      "d": "Su paukščiu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_012",
+    "question": "Kas pažadino Jėzus, kai kilo vėtra?",
+    "options": {
+      "a": "Paukščiai",
+      "b": "Mokiniai",
+      "c": "Erškėčiai",
+      "d": "Uolės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_013",
+    "question": "Ką Jėzus tarė, kai pažadino vėtrą?",
+    "options": {
+      "a": "Nutilk, nusiramink!",
+      "b": "Kilk, susirūk!",
+      "c": "Miegok, ramu!",
+      "d": "Šauk, baisu!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_4"
+  }
+]

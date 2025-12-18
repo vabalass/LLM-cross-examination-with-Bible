@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Mt_16_001",
+    "question": "Ką fariziejai ir sadukiejai prašė Jėzaus parodyti?",
+    "options": {
+      "a": "Jėzaus galios",
+      "b": "Ženklo iš dangaus",
+      "c": "Jėzaus pranašystės",
+      "d": "Jėzaus mokslo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_002",
+    "question": "Ką Jėzus sakė apie fariziejų ir sadukiejų prašymą?",
+    "options": {
+      "a": "Jie turi gerą mintį",
+      "b": "Jie yra pikta ir neištikima giminė",
+      "c": "Jie yra geri žmonės",
+      "d": "Jie yra jo draugai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_003",
+    "question": "Ką Jėzus sakė savo mokinims, kai jie keldamiesi kitapus ežero?",
+    "options": {
+      "a": "Saugokitės duonos",
+      "b": "Saugokitės fariziejų ir sadukiejų raugo",
+      "c": "Saugokitės savo gyvybės",
+      "d": "Saugokitės savo turtų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_004",
+    "question": "Ką Jėzus sakė apie penkias duonos kepaliukus penkiems tūkstančiams vyrų?",
+    "options": {
+      "a": "Jie turėjo daug duonos",
+      "b": "Jie turėjo mažai duonos",
+      "c": "Jie turėjo penkias duonos kepaliukus",
+      "d": "Jie turėjo septynias duonos kepaliukus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_005",
+    "question": "Kuo žmonės laiko Žmogaus Sūnų?",
+    "options": {
+      "a": "Jonu Krikštytoju",
+      "b": "Eliju",
+      "c": "Jeremiju ar dar kuriuo iš pranašų",
+      "d": "Visais aukščiau minėtais"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_006",
+    "question": "Kuo Simonas Petras laiko Jėzų?",
+    "options": {
+      "a": "Pranašu",
+      "b": "Geru žmogumi",
+      "c": "Mesiju, gyvojo Dievo Sūnumi",
+      "d": "Savo draugu"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_007",
+    "question": "Ką Jėzus sakė Simonui Petriui apie jo išpažinimą?",
+    "options": {
+      "a": "Tu esi geras žmogus",
+      "b": "Tu esi manas draugas",
+      "c": "Tu esi Petras – Uola; ant tos uolos aš pastatysiu savo Bažnyčią",
+      "d": "Tu esi manas brolis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_008",
+    "question": "Ką Jėzus pradėjo aiškinti savo mokiniams nuo to meto?",
+    "options": {
+      "a": "Ką reikia daryti, kad būtų laimingi",
+      "b": "Ką reikia daryti, kad būtų sėkmingi",
+      "c": "Turįs eiti į Jeruzalę ir daug iškentėti nuo seniūnų, aukštųjų kunigų ir Rašto aiškintojų, būti nužudytas ir trečią dieną prisikelti",
+      "d": "Ką reikia daryti, kad būtų turtingi"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_16"
+  },
+  {
+    "id": "Mt_16_009",
+    "question": "Ką Jėzus sakė Petrui, kai šis draudė jį?",
+    "options": {
+      "a": "Tu esi geras žmogus",
+      "b": "Tu esi manas draugas",
+      "c": "Eik šalin, šėtone! Tu man papiktinimas, nes mąstai ne Dievo, o žmonių mintimis",
+      "d": "Tu esi manas brolis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mt_16"
+  }
+]

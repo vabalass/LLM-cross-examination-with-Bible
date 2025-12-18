@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Jn_2_001",
+    "question": "Kur vyko vestuvės, kuriose Jėzus padarė savo pirmąjį stebuklą?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Kafarnaume",
+      "c": "Kanoje",
+      "d": "Betanyje"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_002",
+    "question": "Kas pasakė Jėzui, kad vestuvėse nebėra vyno?",
+    "options": {
+      "a": "Jėzaus mokiniai",
+      "b": "Vestuvų svečiai",
+      "c": "Jėzaus motina",
+      "d": "Vestuvų organizatoriai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_003",
+    "question": "Kiek akmeninių indų buvo vestuvėse Kanoje?",
+    "options": {
+      "a": "penki",
+      "b": "šeši",
+      "c": "septyni",
+      "d": "aštuoni"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_004",
+    "question": "Ką Jėzus liepė pripilti į indus?",
+    "options": {
+      "a": "vyno",
+      "b": "alaus",
+      "c": "vandens",
+      "d": "alkoholinio gėrimų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_005",
+    "question": "Kur Jėzus nukeliavo po vestuves Kanoje?",
+    "options": {
+      "a": "Jeruzalę",
+      "b": "Kafarnaumą",
+      "c": "Nazaretą",
+      "d": "Betanyje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_006",
+    "question": "Ką Jėzus padarė Jeruzalės šventykloje?",
+    "options": {
+      "a": "Pardavė jaučius ir avis",
+      "b": "Išvijo prekiaujančius ir išbarstė pinigus",
+      "c": "Pakvietė visus į vakarienę",
+      "d": "Maldos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_007",
+    "question": "Ką Jėzus pasakė apie šventovę?",
+    "options": {
+      "a": "Jis pasakė, kad šventovė bus sugriauta ir per tris dienas atstatyta",
+      "b": "Jis pasakė, kad šventovė bus sugriauta ir per keturiasdešimt šešerius metus atstatyta",
+      "c": "Jis pasakė, kad šventovė bus sugriauta ir per metus atstatyta",
+      "d": "Jis nieko nepasakė apie šventovę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_2"
+  },
+  {
+    "id": "Jn_2_008",
+    "question": "Ką Jėzus žinojo apie žmones?",
+    "options": {
+      "a": "Jis žinojo, kas yra žmogaus viduje",
+      "b": "Jis žinojo, kas yra žmogaus išorėje",
+      "c": "Jis nieko nežinojo apie žmones",
+      "d": "Jis žinojo, kas yra žmogaus mintyse"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Jn_2"
+  }
+]
