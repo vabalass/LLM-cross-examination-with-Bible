@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_12"
+    },
+    "results": [
+        {
+            "id": "Jn_12_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tiesioginis ir teisingas, atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_12_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymo variantas „Brangius tepalus iš gryno nardo“ yra tiksli citata iš teksto."
+        },
+        {
+            "id": "Jn_12_003",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo, kas pasakė minimus žodžius, o atsakymas tiesiogiai randamas ištraukoje."
+        },
+        {
+            "id": "Jn_12_004",
+            "grade": 5,
+            "comment": "Klausimas puikiai patikrina skaitytojo supratimą apie Judo motyvus, o atsakymas tiksliai atspindi Biblijos paaiškinimą."
+        },
+        {
+            "id": "Jn_12_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs, atsakymas yra tiesioginė citata iš Biblijos ištraukos, padedanti gilinti supratimą."
+        },
+        {
+            "id": "Jn_12_006",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas – tiesioginė ir išsami Biblijos ištraukos citata."
+        },
+        {
+            "id": "Jn_12_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas „Ant asilaičio“ tiksliai atitinka tekste vartojamą terminą ir pranašystę."
+        },
+        {
+            "id": "Jn_12_008",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Jėzaus mokymą apie kviečių grūdą, o atsakymas yra tiksli citata."
+        },
+        {
+            "id": "Jn_12_009",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo Jėzaus sielos būseną, o atsakymas – tiesioginė citata iš ištraukos."
+        },
+        {
+            "id": "Jn_12_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs, atsakymas tiksliai atspindi Jėzaus galutinį prašymą Tėvui, nutraukiant apmąstymus."
+        },
+        {
+            "id": "Jn_12_011",
+            "grade": 3,
+            "comment": "Klausimas formuluojamas netiksliai („Kas išgirdo balsą?“ turėtų klausti apie asmenį, o ne balsą). Atsakymų variantai atspindi minios interpretacijas, iš kurių dvi yra paminėtos tekste, todėl yra du teisingi variantai (b ir a)."
+        },
+        {
+            "id": "Jn_12_012",
+            "grade": 4,
+            "comment": "Klausimas teisingas, tačiau atsakymo variantas „Jis turės būti iškeltas aukštyn“ yra citata iš žmonių klausimo Jėzui (v. 34), o ne tiesioginė Jėzaus ištarmė po jų klausimo."
+        },
+        {
+            "id": "Jn_12_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas yra tiksli citata iš Jėzaus mokymo apie šviesą ir tamsą."
+        },
+        {
+            "id": "Jn_12_014",
+            "grade": 5,
+            "comment": "Klausimas puikiai patikrina teksto supratimą, o atsakymas tiesiogiai nurodo priežastį, kodėl vyresnybės nariai netikėjo viešai."
+        },
+        {
+            "id": "Jn_12_015",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas yra tiesioginė ir esminė citata apie Jėzaus misiją."
+        },
+        {
+            "id": "Jn_12_016",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir svarbus teologiniu požiūriu, o atsakymas tiksliai atspindi Jėzaus žodžius apie teisėją."
+        }
+    ]
+}

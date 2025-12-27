@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_16"
+    },
+    "results": [
+        {
+            "id": "Jn_16_001",
+            "grade": 3,
+            "comment": "Klausimas ir atsakymas teisingi, tačiau atsakymo variante b) yra gramatinių klaidų ('pažįstami' ir 'Jėų' turėtų būti 'nepažįsta' ir 'Jėzaus')."
+        },
+        {
+            "id": "Jn_16_002",
+            "grade": 3,
+            "comment": "Klausimas ir atsakymas teisingi, tačiau atsakymo variante b) yra gramatinė klaida ('Jėumi' turėtų būti 'Jėzumi')."
+        },
+        {
+            "id": "Jn_16_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai ir išsamiai atspindi biblinę tiesą, apjungdamas kelias eilutes."
+        },
+        {
+            "id": "Jn_16_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas teisingai interpretuoja Jėzaus žodžius apie mirtį ir prisikėlimą, atsižvelgiant į platesnį kontekstą."
+        },
+        {
+            "id": "Jn_16_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai nurodo biblinėje ištraukoje minimą palyginimą."
+        },
+        {
+            "id": "Jn_16_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai apibendrina Jėzaus pažadą apie maldą jo vardu, nurodytą ištraukoje."
+        },
+        {
+            "id": "Jn_16_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai apibūdina mokinių reakciją ir nesupratimą, remiantis nurodytomis eilutėmis."
+        },
+        {
+            "id": "Jn_16_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai ir konkrečiai nurodo Jėzaus pareiškimą apie pasaulio kunigaikštį."
+        },
+        {
+            "id": "Jn_16_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas puikiai sintetina Šventosios Dvasios veikimo principus, išdėstytus keliose eilutėse."
+        },
+        {
+            "id": "Jn_16_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai atspindi Jėzaus ir Tėvo vienybę bei Šventosios Dvasios vaidmenį tai skelbiant."
+        },
+        {
+            "id": "Jn_16_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai cituoja ir tiksliai perteikia Jėzaus padrąsinimą ir pergalę."
+        }
+    ]
+}

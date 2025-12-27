@@ -3,9 +3,20 @@ from pathlib import Path
 import os
 import re
 
-def save_question_json(question_obj, filepath):
-    with open(filepath, "a", encoding="utf-8") as f:
-        f.write(json.dumps(question_obj, ensure_ascii=False) + "\n")
+def add_important_parameters_to_evaluations(evaluations_json, model, source_text_path):
+    updated_json = {
+        "metadata": {
+            "evaluator_model": model,
+            "source": source_text_path.stem
+        },
+        "results": evaluations_json  # Čia įsideda jūsų originalus sąrašas
+    }
+
+    return updated_json
+
+def save_json_file(json_obj, filepath):
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(json_obj, f, ensure_ascii=False, indent=4)
 
 def read_and_save_API_keys(api_keys_path):
     if api_keys_path := Path(api_keys_path):
@@ -16,11 +27,9 @@ def read_and_save_API_keys(api_keys_path):
                     os.environ[key.strip()] = value.strip()
 
 def calculate_questions_number(bible_text):
-    # Find all verse numbers (numbers at the start of text or after punctuation)
     verse_numbers = re.findall(r'\d+', bible_text)
     
     if verse_numbers:
-        # Get the last (highest) verse number
         last_verse = int(verse_numbers[-1])
         questions_number = max(1, last_verse // 3)
     else:
@@ -43,3 +52,26 @@ def load_questions(question_file):
     except json.JSONDecodeError as e:
         print(f"file_io klaida: nepavyko išparsinti '{question_file}': {e}")
         return []
+
+def find_first_json_in_file(filepath):
+    path = Path(filepath)
+
+    first_json = next((f for f in path.rglob("*.json") if f.is_file()), None)
+    if(first_json):
+        return first_json
+    else:
+        print("file_io klaida: nepavyko rasti json failo.")
+        return None
+
+def paths_exist(paths):
+    if not paths:
+        print("file_io įspėjimas: tikrinimui nebuvo pateikta jokių kelių.")
+        return False
+    
+    for path in paths:
+        if path is None or not Path(path).exists():
+            print(f"file_io klaida: neegzistuoja kelias {path}.")
+            return False
+        
+    return True
+    

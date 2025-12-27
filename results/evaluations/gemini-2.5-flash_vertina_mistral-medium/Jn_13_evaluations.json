@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_13"
+    },
+    "results": [
+        {
+            "id": "Jn_13_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai atspindi pagrindinį įvykį, aprašytą ištraukos pradžioje, su puikiai parinktais teisingu ir klaidingais variantais."
+        },
+        {
+            "id": "Jn_13_002",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o teisingas atsakymas yra tiesioginė Jėzaus citata, kuri giliai ugdo supratimą apie tarnystės svarbą."
+        },
+        {
+            "id": "Jn_13_003",
+            "grade": 5,
+            "comment": "Šis klausimas puikiai atspindi Jėzaus mokymą po kojų plovimo, o teisingas atsakymas yra esminė pamoka apie tarnystę ir pavyzdį."
+        },
+        {
+            "id": "Jn_13_004",
+            "grade": 5,
+            "comment": "Klausimas tiesiogiai atkreipia dėmesį į svarbų Jėzaus posakį, o atsakymas yra tiksli citata iš Šventojo Rašto, mokanti nuolankumo."
+        },
+        {
+            "id": "Jn_13_005",
+            "grade": 5,
+            "comment": "Klausimas puikiai formuluoja esmę apie išdavystės pranašystę, o teisingas atsakymas tiksliai cituoja Jėzaus žodžius iš Rašto."
+        },
+        {
+            "id": "Jn_13_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesioginis, o teisingas atsakymas detaliai aprašo, kaip Jėzus atskleidė savo išdavėją, gilindamas skaitytojo supratimą."
+        },
+        {
+            "id": "Jn_13_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, kadangi pateikiamas tikslus Jėzaus ištartas žodis Judui, kuris rodo Jėzaus viską žinojimą."
+        },
+        {
+            "id": "Jn_13_008",
+            "grade": 5,
+            "comment": "Šis klausimas atkreipia dėmesį į esminį teologinį momentą, o atsakymas yra tiksli Jėzaus citata apie Jo pašlovinimą."
+        },
+        {
+            "id": "Jn_13_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir svarbus, o atsakymas tiksliai nurodo naująjį įsakymą apie meilę, kuris yra centrinė krikščionybės vertybė."
+        },
+        {
+            "id": "Jn_13_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atspindi Jėzaus pranašystę apie Petro lydėjimą vėliau, kas ugdo gilų biblinio teksto supratimą."
+        },
+        {
+            "id": "Jn_13_011",
+            "grade": 5,
+            "comment": "Klausimas formuluotas aiškiai, o teisingas atsakymas yra tiksli ir svarbi Jėzaus pranašystė apie Petro išsigynimą, ugdanti budrumą ir savirefleksiją."
+        },
+        {
+            "id": "Jn_13_012",
+            "grade": 5,
+            "comment": "Klausimas puikiai atspindi Jėzaus mokymą apie meilę kaip atpažinimo ženklą, o atsakymas yra tiksli citata, ugdanti krikščioniškas vertybes."
+        }
+    ]
+}

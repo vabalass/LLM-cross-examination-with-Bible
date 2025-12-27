@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_14"
+    },
+    "results": [
+        {
+            "id": "Jn_14_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tiesiogiai cituojantis Šv. Raštą, o atsakymas yra tikslus ir lengvai randamas tekste."
+        },
+        {
+            "id": "Jn_14_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tiesiogiai susijęs su ištrauka, o teisingas atsakymas tiksliai atspindi Jėzaus pažadą."
+        },
+        {
+            "id": "Jn_14_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai suformuluoti, teisingas variantas yra tiksli ir esminė citata iš pateiktos ištraukos."
+        },
+        {
+            "id": "Jn_14_004",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o teisingas atsakymas yra tiesioginė ir esminė Jėzaus žodžių citata iš nurodytos eilutės."
+        },
+        {
+            "id": "Jn_14_005",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir ugdantis, o teisingas atsakymas tiksliai apibendrina Jėzaus pažadą apie Globėją, sujungdamas informaciją iš susijusių eilučių."
+        },
+        {
+            "id": "Jn_14_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, teisingas atsakymas yra tiesioginė ir išsami citata iš nurodytos Šv. Rašto ištraukos."
+        },
+        {
+            "id": "Jn_14_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesioginis, o teisingas atsakymas tiksliai atspindi Jėzaus pažadą, pateiktą nurodytoje eilutėje."
+        },
+        {
+            "id": "Jn_14_008",
+            "grade": 5,
+            "comment": "Klausimas puikiai ugdo supratimą apie Jėzaus ir Tėvo santykį, o teisingas atsakymas tiksliai ir išsamiai cituoja bei apibendrina esminius Jėzaus žodžius ištraukoje."
+        },
+        {
+            "id": "Jn_14_009",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas puikiai atspindi Jėzaus pažadą apie Tėvo ir Sūnaus apsigyvenimą pas tuos, kurie Jį myli ir laikosi Jo žodžio."
+        },
+        {
+            "id": "Jn_14_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, o teisingas atsakymas idealiai perteikia Jėzaus paliktą dovaną, pabrėžiant jos unikalumą."
+        }
+    ]
+}

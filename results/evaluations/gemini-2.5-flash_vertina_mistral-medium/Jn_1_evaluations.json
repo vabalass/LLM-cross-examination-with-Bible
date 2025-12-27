@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_1"
+    },
+    "results": [
+        {
+            "id": "Jn_1_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, nuoroda tiksli, o atsakymo variantai gerai parinkti, atitinkantys teksto prasmę."
+        },
+        {
+            "id": "Jn_1_002",
+            "grade": 5,
+            "comment": "Puikiai suformuluotas klausimas, tiksliai nurodantis Biblijos eilutę. Atsakymo variantai aiškūs, o teisingas atsakymas tiesiogiai atspindi teksto turinį."
+        },
+        {
+            "id": "Jn_1_003",
+            "grade": 5,
+            "comment": "Klausimas tikslus, atsakymo variantai gerai parinkti. Teisingas atsakymas tiesiogiai cituoja eilutę, ugdydamas teksto supratimą."
+        },
+        {
+            "id": "Jn_1_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, nurodo konkrečias eilutes. Atsakymo variantai gerai parinkti, o teisingas atsakymas lengvai randamas tekste."
+        },
+        {
+            "id": "Jn_1_005",
+            "grade": 5,
+            "comment": "Aiškus ir tikslus klausimas, tiesiogiai patvirtinamas Biblijos tekste. Visi atsakymų variantai gerai suformuluoti."
+        },
+        {
+            "id": "Jn_1_006",
+            "grade": 5,
+            "comment": "Klausimas aiškiai suformuluotas ir tiksliai nurodo eilutę. Atsakymo variantas „Savieji (izraelitai)“ yra puikus patikslinimas, ugdantis teksto supratimą."
+        },
+        {
+            "id": "Jn_1_007",
+            "grade": 5,
+            "comment": "Klausimas puikiai suformuluotas ir tiesiogiai remiasi pateikta eilute. Atsakymo variantai aiškūs, o teisingas atsakymas tiksliai atspindi Biblijos tekstą."
+        },
+        {
+            "id": "Jn_1_008",
+            "grade": 5,
+            "comment": "Aiškus ir tikslus klausimas, kuris tiesiogiai patvirtinamas nurodyta eilute. Atsakymo variantai gerai suderinti su klausimu ir lengvai atskiriami."
+        },
+        {
+            "id": "Jn_1_009",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymo variantai gerai suformuluoti, ypač teisingas atsakymas, kuris beveik tiesiogiai cituoja eilutę."
+        },
+        {
+            "id": "Jn_1_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir puikiai parodo skirtumus, nurodytus tekste. Atsakymo variantai gerai suformuluoti, o teisingas atsakymas tiksliai atspindi Biblijos žodžius."
+        },
+        {
+            "id": "Jn_1_011",
+            "grade": 5,
+            "comment": "Klausimas puikiai suformuluotas ir tiksliai nurodo eilutę. Atsakymo variantai gerai parinkti, o teisingas atsakymas tiesiogiai atspindi teksto turinį."
+        },
+        {
+            "id": "Jn_1_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, tiesiogiai nukreipiantis į Jono Krikštytojo savęs apibūdinimą. Atsakymo variantai gerai parinkti, o teisingas atsakymas yra tiksli citata."
+        },
+        {
+            "id": "Jn_1_013",
+            "grade": 5,
+            "comment": "Aiškus ir tikslus klausimas, nurodantis konkrečią eilutę. Atsakymo variantai gerai parinkti, o teisingas atsakymas tiesiogiai atspindi teksto turinį."
+        },
+        {
+            "id": "Jn_1_014",
+            "grade": 5,
+            "comment": "Klausimas puikiai suformuluotas ir tiesiogiai remiasi pateikta eilute. Atsakymo variantas „Balandį (Dvasią)“ yra tikslus ir naudingas dėl paaiškinimo."
+        },
+        {
+            "id": "Jn_1_015",
+            "grade": 5,
+            "comment": "Aiškus ir tikslus klausimas, tiesiogiai atspindintis Jono liudijimą po Dvasios nusileidimo. Atsakymo variantai gerai parinkti, o teisingas atsakymas tiksliai atspindi teksto prasmę."
+        },
+        {
+            "id": "Jn_1_016",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, atsakymo variantai gerai parinkti. Teisingas atsakymas yra tiksli citata iš Biblijos teksto."
+        },
+        {
+            "id": "Jn_1_017",
+            "grade": 5,
+            "comment": "Klausimas puikiai suformuluotas ir tiksliai nurodo eilutę. Atsakymo variantas „Radome Mesiją (Dievo Pateptąjį – Kristų)“ yra ypač geras dėl papildomo paaiškinimo."
+        }
+    ]
+}
