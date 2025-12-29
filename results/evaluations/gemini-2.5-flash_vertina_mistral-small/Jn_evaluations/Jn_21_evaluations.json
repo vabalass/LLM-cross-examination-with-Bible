@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_21"
+    },
+    "results": [
+        {
+            "id": "Jn_21_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai randamas Biblijos ištraukoje (Jn 21:3)."
+        },
+        {
+            "id": "Jn_21_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai randamas Biblijos ištraukoje (Jn 21:7)."
+        },
+        {
+            "id": "Jn_21_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai randamas Biblijos ištraukoje (Jn 21:11)."
+        },
+        {
+            "id": "Jn_21_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai randamas Biblijos ištraukoje (Jn 21:15-17), nurodant tris klausimus."
+        },
+        {
+            "id": "Jn_21_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai randamas Biblijos ištraukoje (Jn 21:9)."
+        },
+        {
+            "id": "Jn_21_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai randamas Biblijos ištraukoje (Jn 21:21), kur Petras klausia apie kito mokinio likimą."
+        },
+        {
+            "id": "Jn_21_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai randamas Biblijos ištraukoje (Jn 21:24), nurodant mokinį, kurį Jėzus mylėjo, kaip liudytoją."
+        },
+        {
+            "id": "Jn_21_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai randamas Biblijos ištraukoje (Jn 21:22)."
+        }
+    ]
+}

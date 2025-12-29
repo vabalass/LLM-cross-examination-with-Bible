@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_4"
+    },
+    "results": [
+        {
+            "id": "Mt_4_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Mt_4_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir tiesiogiai atsakomas pagal pateiktą ištrauką."
+        },
+        {
+            "id": "Mt_4_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, o pasirinkimai gerai atspindi teksto esmę."
+        },
+        {
+            "id": "Mt_4_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, o teisingas atsakymas tiesiogiai cituojamas iš teksto."
+        },
+        {
+            "id": "Mt_4_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, o teisingas atsakymas yra tiesioginė Jėzaus citata iš teksto."
+        },
+        {
+            "id": "Mt_4_006",
+            "grade": 3,
+            "comment": "Faktiškai teisingas, bet pasirinkimo formuluotė „Į Kafarnaumą“ yra gramatiškai netiksli su veiksmažodžiu „apsistojo“ (turėtų būti „Kafarnaume“)."
+        },
+        {
+            "id": "Mt_4_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, o teisingas atsakymas yra tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Mt_4_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, o teisingas atsakymas yra tiksli citata iš teksto."
+        }
+    ]
+}

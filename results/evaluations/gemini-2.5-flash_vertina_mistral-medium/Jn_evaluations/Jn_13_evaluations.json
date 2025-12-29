@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_13"
+    },
+    "results": [
+        {
+            "id": "Jn_13_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka teksto informaciją ir formuluotę, aiškiai apibūdinant Jėzaus poelgį."
+        },
+        {
+            "id": "Jn_13_002",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Jėzaus atsakymą Petrui, o teisingas variantas yra tiesioginė citata iš Šventojo Rašto."
+        },
+        {
+            "id": "Jn_13_003",
+            "grade": 5,
+            "comment": "Klausimas puikiai formuluotas ir teisingas atsakymas tiksliai cituoja Jėzaus įsakymą mokiniams po kojų plovimo."
+        },
+        {
+            "id": "Jn_13_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingas atsakymas yra tiesioginė citata, puikiai atspindinti Jėzaus mokymą apie tarno ir šeimininko santykį."
+        },
+        {
+            "id": "Jn_13_005",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo Jėzaus pranašystę apie išdavystę, o teisingas atsakymas yra tiesioginė citata iš Šventojo Rašto."
+        },
+        {
+            "id": "Jn_13_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tiksliai aprašo, kaip Jėzus nurodė savo išdavėją per vakarienę, atitinkant teksto informaciją."
+        },
+        {
+            "id": "Jn_13_007",
+            "grade": 5,
+            "comment": "Klausimas teisingas, o atsakymas yra tiesioginė Jėzaus citata, pasakyta Judui po kąsnio perdavimo, atitinkanti teksto logiką."
+        },
+        {
+            "id": "Jn_13_008",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Jėzaus žodžius apie jo pašlovinimą, o atsakymas yra tiesioginė citata iš pateiktos ištraukos."
+        },
+        {
+            "id": "Jn_13_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas yra tiesioginė Jėzaus duoto naujo įsakymo citata, puikiai atitinkanti tekstą."
+        },
+        {
+            "id": "Jn_13_010",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas yra tiesioginė Jėzaus citata, pasakyta Petrui, atitinkanti Šventojo Rašto formuluotę."
+        },
+        {
+            "id": "Jn_13_011",
+            "grade": 5,
+            "comment": "Klausimas yra puikiai suformuluotas ir teisingas atsakymas yra tiesioginė Jėzaus pranašystės apie Petro išsižadėjimą citata."
+        },
+        {
+            "id": "Jn_13_012",
+            "grade": 5,
+            "comment": "Klausimas idealiai atspindi Jėzaus mokymą, o atsakymas yra tiksli citata, pabrėžianti meilės svarbą kaip mokinių atpažinimo ženklą."
+        }
+    ]
+}

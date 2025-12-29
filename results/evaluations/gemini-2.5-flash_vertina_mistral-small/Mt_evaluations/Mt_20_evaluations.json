@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_20"
+    },
+    "results": [
+        {
+            "id": "Mt_20_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai atsakomas pagal ištrauką. Korektiškas atsakymas ir geros klaidingos parinktys."
+        },
+        {
+            "id": "Mt_20_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir reikalauja tikslaus teksto supratimo apie laiko apskaičiavimą. Atsakymas tiksliai atspindi tekste pateiktą informaciją."
+        },
+        {
+            "id": "Mt_20_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai nurodytas ištraukoje. Visos parinktys yra pagrįstos."
+        },
+        {
+            "id": "Mt_20_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai atsakomas pagal ištrauką. Korektiškas atsakymas ir geros klaidingos parinktys."
+        },
+        {
+            "id": "Mt_20_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai atsakomas pagal ištrauką. Korektiškas atsakymas ir geros klaidingos parinktys."
+        },
+        {
+            "id": "Mt_20_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai atsakomas pagal ištrauką. Korektiškas atsakymas ir geros klaidingos parinktys."
+        },
+        {
+            "id": "Mt_20_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai atsakomas pagal ištrauką. Korektiškas atsakymas ir geros klaidingos parinktys."
+        },
+        {
+            "id": "Mt_20_008",
+            "grade": 4,
+            "comment": "Klausimo turinys puikus, tačiau formuluotė 'tarp krikščionių' yra platesnė interpretacija, nei tiesiogiai nurodyta tekste 'tarp jūsų' (t.y. tarp mokinių)."
+        },
+        {
+            "id": "Mt_20_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai atsakomas pagal ištrauką. Korektiškas atsakymas ir geros klaidingos parinktys."
+        },
+        {
+            "id": "Mt_20_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai atsakomas pagal ištrauką. Korektiškas atsakymas ir geros klaidingos parinktys."
+        },
+        {
+            "id": "Mt_20_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai atsakomas pagal ištrauką. Korektiškas atsakymas ir geros klaidingos parinktys."
+        }
+    ]
+}

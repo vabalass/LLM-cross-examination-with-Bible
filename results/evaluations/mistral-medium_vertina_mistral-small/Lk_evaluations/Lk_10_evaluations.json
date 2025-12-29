@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Lk_10"
+    },
+    "results": [
+        {
+            "id": "Lk_10_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Lk_10_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        }
+    ]
+}

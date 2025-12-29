@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_20"
+    },
+    "results": [
+        {
+            "id": "Jn_20_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir teisingai nurodytas Biblijos ištraukoje (Jn 20:1)."
+        },
+        {
+            "id": "Jn_20_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir teisingai nurodytas Biblijos ištraukoje (Jn 20:4)."
+        },
+        {
+            "id": "Jn_20_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir teisingai nurodytas Biblijos ištraukoje (Jn 20:11-12)."
+        },
+        {
+            "id": "Jn_20_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir teisingai nurodytas Biblijos ištraukoje (Jn 20:16)."
+        },
+        {
+            "id": "Jn_20_005",
+            "grade": 4,
+            "comment": "Klausimas aiškus ir teisingas, tačiau yra smulki gramatinė klaida klausimo formuluotėje (\"mokinių grupė\" vietoj \"mokinių grupėje\")."
+        },
+        {
+            "id": "Jn_20_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir teisingai nurodytas Biblijos ištraukoje (Jn 20:25)."
+        },
+        {
+            "id": "Jn_20_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir teisingai nurodytas Biblijos ištraukoje (Jn 20:25)."
+        },
+        {
+            "id": "Jn_20_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir teisingai nurodytas Biblijos ištraukoje (Jn 20:28)."
+        },
+        {
+            "id": "Jn_20_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir teisingai nurodytas Biblijos ištraukoje (Jn 20:29)."
+        },
+        {
+            "id": "Jn_20_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir teisingai nurodytas Biblijos ištraukoje (Jn 20:22)."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_20"
+    },
+    "results": [
+        {
+            "id": "Jn_20_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai puikiai atitinka teksto informaciją, teisingas atsakymas yra tikslus ir aiškus."
+        },
+        {
+            "id": "Jn_20_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Marijos Magdalietės žodžius, pateiktus ištraukoje."
+        },
+        {
+            "id": "Jn_20_003",
+            "grade": 5,
+            "comment": "Klausimas teisingai atspindi įvykių seką, o teisingas atsakymas tiksliai nurodo asmenį, kuris pirmas pasiekė kapą, bet neįėjo."
+        },
+        {
+            "id": "Jn_20_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymo variantas puikiai atspindi Jono Evangelijos 20 skyriaus 6–7 eilučių informaciją."
+        },
+        {
+            "id": "Jn_20_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslus Jėzaus žodžių Marijai Magdalietei citavimas iš nurodytos Biblijos ištraukos."
+        },
+        {
+            "id": "Jn_20_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi Jono Evangelijos 20 skyriaus 20 eilutės informaciją."
+        },
+        {
+            "id": "Jn_20_007",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymo variantas tiksliai cituoja Jėzaus žodžius Tomui, pateiktus tekste."
+        },
+        {
+            "id": "Jn_20_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai cituoja Tomo išpažintį, nurodytą Evangelijos 20 skyriaus 28 eilutėje."
+        },
+        {
+            "id": "Jn_20_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiksli Jėzaus sentencijos apie tikinčiuosius, kurie nemato, citata iš teksto."
+        },
+        {
+            "id": "Jn_20_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi autoriaus nurodytą Evangelijos skyriaus pabaigos tikslą, pateiktą 31 eilutėje."
+        }
+    ]
+}

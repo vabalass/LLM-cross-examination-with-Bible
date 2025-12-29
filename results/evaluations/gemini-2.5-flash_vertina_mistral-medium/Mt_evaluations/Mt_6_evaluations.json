@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_6"
+    },
+    "results": [
+        {
+            "id": "Mt_6_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_6_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_6_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_6_004",
+            "grade": 4,
+            "comment": "Klausimas teisingas ir atsakymas teisingai interpretuoja frazę, tačiau ištrauka tiesiogiai nepaaiškina šios frazės prasmės, o ją pateikia. Tai yra interpretacinis klausimas, o ne tiesioginio teksto atkartojimas."
+        },
+        {
+            "id": "Mt_6_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_6_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką, įskaitant priežastį. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_6_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_6_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_6_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_6_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_6_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, variantai teisingi ir atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        }
+    ]
+}

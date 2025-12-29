@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Lk_4"
+    },
+    "results": [
+        {
+            "id": "Lk_4_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_003",
+            "grade": 4,
+            "comment": "Klausimas yra teisingas, bet formuluotė galėtų būti geresnė."
+        },
+        {
+            "id": "Lk_4_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Lk_4_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        }
+    ]
+}

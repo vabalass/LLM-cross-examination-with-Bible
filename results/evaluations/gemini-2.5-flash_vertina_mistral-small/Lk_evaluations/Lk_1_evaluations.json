@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_1"
+    },
+    "results": [
+        {
+            "id": "Lk_1_001",
+            "grade": 3,
+            "comment": "Klausimo formuluotė „pagrindinis pasakojimo aprašomasis asmuo“ yra šiek tiek neįprasta, labiau tiktų „pagrindinis veikėjas“. Nors Marija yra svarbi figūra, šis skyrius detaliai aprašo ir Zacharijo bei Elzbietos istoriją, ir Jono gimimą, tad „pagrindinio asmens“ apibrėžimas gali būti subjektyvus."
+        },
+        {
+            "id": "Lk_1_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir faktiškai teisingas pagal pateiktą Biblijos ištrauką. Atsakymas nekyla abejonių."
+        },
+        {
+            "id": "Lk_1_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir faktiškai teisingas. Nors tekste pirmiausia minima „Viešpaties angelas“, vėliau angelas pats save įvardija kaip Gabrielių, todėl tai yra pats tiksliausias atsakymas."
+        },
+        {
+            "id": "Lk_1_004",
+            "grade": 4,
+            "comment": "Klausimas faktiškai teisingas, tačiau formuluotė „Kas bus pagimdžiusi sūnų“ yra šiek tiek griozdiška. Geriau skambėtų „Kas pagimdys sūnų, pagal angelą?\"."
+        },
+        {
+            "id": "Lk_1_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir faktiškai teisingas pagal pateiktą Biblijos ištrauką. Atsakymas nekyla abejonių."
+        },
+        {
+            "id": "Lk_1_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir faktiškai teisingas pagal pateiktą Biblijos ištrauką. Atsakymas nekyla abejonių."
+        },
+        {
+            "id": "Lk_1_007",
+            "grade": 4,
+            "comment": "Klausimas faktiškai teisingas, tačiau formuluotė „Kas yra Marijos žmogus?“ yra šiek tiek neįprasta ir gali būti dviprasmiška. Tiksliau būtų „Kas yra Marijos sužadėtinis/vyras?\"."
+        },
+        {
+            "id": "Lk_1_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir faktiškai teisingas pagal pateiktą Biblijos ištrauką. Tai puikus klausimas, jei jis būtų unikalus."
+        },
+        {
+            "id": "Lk_1_009",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_010",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_011",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_012",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_013",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_014",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_015",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_016",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_017",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_018",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_019",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_020",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_021",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_022",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_023",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_024",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_025",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        },
+        {
+            "id": "Lk_1_026",
+            "grade": 0,
+            "comment": "Šis klausimas yra identiškas ankstesniam ir kartojamas 19 kartų. Toks pasikartojimas daro klausimų rinkinį visiškai netinkamu ir beprasmiu vertinimo tikslais."
+        }
+    ]
+}

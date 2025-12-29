@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_27"
+    },
+    "results": [
+        {
+            "id": "Mt_27_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_003",
+            "grade": 0,
+            "comment": "Visos parinktys yra identiškos ir faktiškai klaidingos, prieštaraujančios tekste nurodytam Judas poelgiui („pasikorė“)."
+        },
+        {
+            "id": "Mt_27_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_005",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_011",
+            "grade": 0,
+            "comment": "Klausimas netinkamas, nes tekste nėra informacijos apie Jėzaus veiksmus minios tyčioms, o visos parinktys yra identiškos ir faktiškai netikslios."
+        },
+        {
+            "id": "Mt_27_012",
+            "grade": 3,
+            "comment": "Klausimas teisingas pagal tekstą, tačiau turi didelių formos trūkumų dėl identiškų ir prasmės neturinčių klaidingų parinkčių."
+        },
+        {
+            "id": "Mt_27_013",
+            "grade": 3,
+            "comment": "Klausimas teisingas pagal tekstą, tačiau turi didelių formos trūkumų dėl identiškų parinkčių."
+        },
+        {
+            "id": "Mt_27_014",
+            "grade": 3,
+            "comment": "Klausimas teisingas pagal tekstą, tačiau turi didelių formos trūkumų dėl identiškų parinkčių."
+        },
+        {
+            "id": "Mt_27_015",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_016",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_017",
+            "grade": 3,
+            "comment": "Klausimas teisingas pagal tekstą, tačiau turi didelių formos trūkumų dėl identiškų parinkčių."
+        },
+        {
+            "id": "Mt_27_018",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_019",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_020",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Mt_27_021",
+            "grade": 0,
+            "comment": "Visos parinktys yra identiškos ir faktiškai klaidingos, prieštaraujančios tekste nurodytam Judas poelgiui („pasikorė“)."
+        },
+        {
+            "id": "Mt_27_022",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atsakymas puikiai atitinka Biblijos ištraukos informaciją."
+        }
+    ]
+}

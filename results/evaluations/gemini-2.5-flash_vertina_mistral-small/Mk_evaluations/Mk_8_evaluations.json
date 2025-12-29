@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_8"
+    },
+    "results": [
+        {
+            "id": "Mk_8_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Mk_8_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Mk_8_003",
+            "grade": 4,
+            "comment": "Klausimas teisingas turiniu, bet formuluotė „Ką Jėzus liepė“ nėra tiesiogiai patvirtinta tekste; tekste rašoma, kad likučiai buvo surinkti, bet nenurodoma, kad Jėzus tiesiogiai davė tokį įsakymą."
+        },
+        {
+            "id": "Mk_8_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Mk_8_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Mk_8_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Mk_8_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste, iš Jėzaus priminimo."
+        },
+        {
+            "id": "Mk_8_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Mk_8_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Mk_8_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Mk_8_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Mk_8_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        }
+    ]
+}

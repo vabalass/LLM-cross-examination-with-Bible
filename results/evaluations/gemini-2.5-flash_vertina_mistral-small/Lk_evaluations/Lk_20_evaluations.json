@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_20"
+    },
+    "results": [
+        {
+            "id": "Lk_20_001",
+            "grade": 1,
+            "comment": "Klausimo formuluotė klaidinga, nes Jėzus klausė aukštuosius kunigus ir Rašto aiškintojus apie Jono krikštą, o ne atvirkščiai."
+        },
+        {
+            "id": "Lk_20_002",
+            "grade": 4,
+            "comment": "Klausimas ir atsakymas yra teisingi pagal tekstą, tačiau atsakymas yra šiek tiek tautologiškas, dubliuojantis klausimo dalį."
+        },
+        {
+            "id": "Lk_20_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_20_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_20_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką, remiantis kontekstu."
+        },
+        {
+            "id": "Lk_20_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_20_007",
+            "grade": 1,
+            "comment": "Pateiktame tekste nenurodyta, kas pasakė, jog Mesijas yra Dovydo sūnus. Jėzus pats klausia „Kodėl sakoma“, nenurodydamas konkrečios grupės."
+        },
+        {
+            "id": "Lk_20_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_20_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_20_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką, tačiau šis klausimas yra identiškas ankstesniems."
+        },
+        {
+            "id": "Lk_20_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką, tačiau šis klausimas yra identiškas ankstesniems."
+        },
+        {
+            "id": "Lk_20_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką, tačiau šis klausimas yra identiškas ankstesniems."
+        },
+        {
+            "id": "Lk_20_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką, tačiau šis klausimas yra identiškas ankstesniems."
+        },
+        {
+            "id": "Lk_20_014",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką, tačiau šis klausimas yra identiškas ankstesniems."
+        },
+        {
+            "id": "Lk_20_015",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas visiškai atitinka Biblijos ištrauką, tačiau šis klausimas yra identiškas ankstesniems."
+        }
+    ]
+}

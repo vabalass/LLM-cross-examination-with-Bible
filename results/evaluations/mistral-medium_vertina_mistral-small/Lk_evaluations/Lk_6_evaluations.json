@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Lk_6"
+    },
+    "results": [
+        {
+            "id": "Lk_6_001",
+            "grade": 1,
+            "comment": "Faktiškai klaidingas, nes Jėzus neapmokėjo mokinių už varpų skabėjimą."
+        },
+        {
+            "id": "Lk_6_002",
+            "grade": 1,
+            "comment": "Faktiškai klaidingas, nes Jėzus neprieštaravo valgyti per šabą, bet paminėjo Dovydo pavyzdį."
+        },
+        {
+            "id": "Lk_6_003",
+            "grade": 5,
+            "comment": "Idealus visais aspektais, nes tiksliai atspindi tekstą ir yra aiškus."
+        },
+        {
+            "id": "Lk_6_004",
+            "grade": 5,
+            "comment": "Idealus visais aspektais, nes tiksliai atspindi tekstą ir yra aiškus."
+        },
+        {
+            "id": "Lk_6_005",
+            "grade": 5,
+            "comment": "Idealus visais aspektais, nes tiksliai atspindi tekstą ir yra aiškus."
+        },
+        {
+            "id": "Lk_6_006",
+            "grade": 5,
+            "comment": "Idealus visais aspektais, nes tiksliai atspindi tekstą ir yra aiškus."
+        },
+        {
+            "id": "Lk_6_007",
+            "grade": 3,
+            "comment": "Teisingas, bet yra techninių klaidų, nes pasikartoja klaidų variantai."
+        },
+        {
+            "id": "Lk_6_008",
+            "grade": 5,
+            "comment": "Idealus visais aspektais, nes tiksliai atspindi tekstą ir yra aiškus."
+        },
+        {
+            "id": "Lk_6_009",
+            "grade": 3,
+            "comment": "Teisingas, bet yra techninių klaidų, nes pasikartoja klaidų variantai."
+        },
+        {
+            "id": "Lk_6_010",
+            "grade": 3,
+            "comment": "Teisingas, bet yra techninių klaidų, nes pasikartoja klaidų variantai."
+        },
+        {
+            "id": "Lk_6_011",
+            "grade": 3,
+            "comment": "Teisingas, bet yra techninių klaidų, nes pasikartoja klaidų variantai."
+        },
+        {
+            "id": "Lk_6_012",
+            "grade": 3,
+            "comment": "Teisingas, bet yra techninių klaidų, nes pasikartoja klaidų variantai."
+        },
+        {
+            "id": "Lk_6_013",
+            "grade": 5,
+            "comment": "Idealus visais aspektais, nes tiksliai atspindi tekstą ir yra aiškus."
+        },
+        {
+            "id": "Lk_6_014",
+            "grade": 5,
+            "comment": "Idealus visais aspektais, nes tiksliai atspindi tekstą ir yra aiškus."
+        },
+        {
+            "id": "Lk_6_015",
+            "grade": 5,
+            "comment": "Idealus visais aspektais, nes tiksliai atspindi tekstą ir yra aiškus."
+        },
+        {
+            "id": "Lk_6_016",
+            "grade": 5,
+            "comment": "Idealus visais aspektais, nes tiksliai atspindi tekstą ir yra aiškus."
+        }
+    ]
+}

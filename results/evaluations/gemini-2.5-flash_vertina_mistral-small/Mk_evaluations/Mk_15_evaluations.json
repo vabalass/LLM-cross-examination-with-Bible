@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_15"
+    },
+    "results": [
+        {
+            "id": "Mk_15_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs. Nors aukštieji kunigai aktyviai kaltino, „visa teismo taryba“ yra tiksliausias bendrasis kaltintojas pagal 1 eilutę, apimantis visus išvardintus."
+        },
+        {
+            "id": "Mk_15_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiesioginė citata iš Biblijos ištraukos (2 eilutė)."
+        },
+        {
+            "id": "Mk_15_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiesioginė citata iš Biblijos ištraukos (2 eilutė)."
+        },
+        {
+            "id": "Mk_15_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atspindi Barabo aprašymą 7 eilutėje."
+        },
+        {
+            "id": "Mk_15_005",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atspindi minios prašymą, sukurstytą aukštųjų kunigų (11 eilutė)."
+        },
+        {
+            "id": "Mk_15_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiesioginė santrauka to, ką Pilotas padarė su Jėzumi (15 eilutė)."
+        },
+        {
+            "id": "Mk_15_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai apibūdina Simoną Kirėnietį pagal 21 eilutę."
+        },
+        {
+            "id": "Mk_15_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiesiogiai nurodytas Biblijos ištraukoje (22 eilutė)."
+        },
+        {
+            "id": "Mk_15_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiesioginė praeivių užgauliojimo citata iš 30 eilutės."
+        },
+        {
+            "id": "Mk_15_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiesioginė aukštųjų kunigų pasityčiojimo citata iš 31 eilutės."
+        },
+        {
+            "id": "Mk_15_011",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiesioginė Jėzaus šauksmo citata iš 34 eilutės."
+        },
+        {
+            "id": "Mk_15_012",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas teisingai interpretuoja šimtininką kaip kareivį, atsižvelgiant į kontekstą."
+        },
+        {
+            "id": "Mk_15_013",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiesiogiai nurodytas Biblijos ištraukoje (43 eilutė)."
+        },
+        {
+            "id": "Mk_15_014",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiksli Juozapo veiksmų santrauka iš 46 eilutės."
+        },
+        {
+            "id": "Mk_15_015",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas yra tiesiogiai nurodytas Biblijos ištraukoje (47 eilutė)."
+        }
+    ]
+}

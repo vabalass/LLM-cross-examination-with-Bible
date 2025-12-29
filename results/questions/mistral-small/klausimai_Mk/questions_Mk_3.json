@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "Mk_3_001",
+    "question": "Kas stebėjo, ar Jėzus gydys žmogų su padžiūvusia ranka šabo dieną?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Fariziejai",
+      "c": "Erodininkai",
+      "d": "Žmonės iš minios"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_002",
+    "question": "Ką Jėzus klausė fariziejų apie šabo dieną?",
+    "options": {
+      "a": "Ar šabo dieną leistina valgyti",
+      "b": "Ar šabo dieną leistina gydyti",
+      "c": "Ar šabo dieną leistina dirbti",
+      "d": "Ar šabo dieną leistina miegoti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_003",
+    "question": "Ką Jėzus liepė žmogui su padžiūvusia ranka?",
+    "options": {
+      "a": "Ištiesk ranką",
+      "b": "Nukreipti ranką",
+      "c": "Pasislėpti ranką",
+      "d": "Nepakelti rankos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_004",
+    "question": "Kur Jėzus pasitraukė su mokiniais?",
+    "options": {
+      "a": "Į kalną",
+      "b": "Prie ežero",
+      "c": "Į miestą",
+      "d": "Į sinagogą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_005",
+    "question": "Kas sekė Jėzų į Galilėją?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Erodininkai",
+      "c": "Didelė minia",
+      "d": "Rašto aiškintojai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_006",
+    "question": "Ką Jėzus liepė mokiniams paruošti?",
+    "options": {
+      "a": "Valgį",
+      "b": "Valtį",
+      "c": "Namą",
+      "d": "Kalną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_007",
+    "question": "Ką šaukdavo netyrosios dvasios, matydamos Jėzų?",
+    "options": {
+      "a": "Tu Dievo Sūnus!",
+      "b": "Tu mesų valdovas!",
+      "c": "Tu mūsų išgelbėtojas!",
+      "d": "Tu mūsų karalius!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_008",
+    "question": "Kiek apaštalų Jėzus paskyrė?",
+    "options": {
+      "a": "Dešimt",
+      "b": "Dvylika",
+      "c": "Penkiolika",
+      "d": "Vienuolika"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_009",
+    "question": "Kas buvo vienas iš dvylikos apaštalų?",
+    "options": {
+      "a": "Judas Iskariotas",
+      "b": "Pilypas",
+      "c": "Andriejus",
+      "d": "Visos minėtos atsakymo dalys yra teisingos"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_010",
+    "question": "Ką sakė Rašto aiškintojai apie Jėzų?",
+    "options": {
+      "a": "Jis turi Belzebulą",
+      "b": "Jis yra Dievo Sūnus",
+      "c": "Jis yra galingas gydytojas",
+      "d": "Jis yra geras mokytojas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_011",
+    "question": "Ką Jėzus sakė apie žmones, kurie vykdo Dievo valią?",
+    "options": {
+      "a": "Jie yra mano motina ir broliai",
+      "b": "Jie yra mano draugai",
+      "c": "Jie yra mano mokiniai",
+      "d": "Jie yra mano tėvai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Mk_3"
+  }
+]

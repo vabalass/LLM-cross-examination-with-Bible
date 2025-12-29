@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Mk_3"
+    },
+    "results": [
+        {
+            "id": "Mk_3_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        },
+        {
+            "id": "Mk_3_002",
+            "grade": 4,
+            "comment": "Klausimas ir atsakymas yra teisingi, bet klausimas galėtų būti aiškesnis, kad nepasikliūtų, kad Jėzus pasakė tai žmogui su padžiūvusia ranka, o ne fariziejams."
+        },
+        {
+            "id": "Mk_3_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        },
+        {
+            "id": "Mk_3_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        },
+        {
+            "id": "Mk_3_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        },
+        {
+            "id": "Mk_3_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        },
+        {
+            "id": "Mk_3_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        },
+        {
+            "id": "Mk_3_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        },
+        {
+            "id": "Mk_3_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        },
+        {
+            "id": "Mk_3_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        },
+        {
+            "id": "Mk_3_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti šaltiniu."
+        }
+    ]
+}

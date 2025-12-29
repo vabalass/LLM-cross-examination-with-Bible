@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Mt_6"
+    },
+    "results": [
+        {
+            "id": "Mt_6_001",
+            "grade": 1,
+            "comment": "Klausimas yra faktiškai klaidingas, nes teisingas atsakymas yra 'c', o ne 'a'."
+        },
+        {
+            "id": "Mt_6_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        },
+        {
+            "id": "Mt_6_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        },
+        {
+            "id": "Mt_6_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        },
+        {
+            "id": "Mt_6_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        },
+        {
+            "id": "Mt_6_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        },
+        {
+            "id": "Mt_6_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        },
+        {
+            "id": "Mt_6_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        },
+        {
+            "id": "Mt_6_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        },
+        {
+            "id": "Mt_6_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        },
+        {
+            "id": "Mt_6_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir gerai formuliuoti."
+        }
+    ]
+}

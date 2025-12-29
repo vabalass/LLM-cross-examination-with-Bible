@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Lk_2"
+    },
+    "results": [
+        {
+            "id": "Lk_2_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_016",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_2_017",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas pilnai atitinka Biblijos tekstą."
+        }
+    ]
+}

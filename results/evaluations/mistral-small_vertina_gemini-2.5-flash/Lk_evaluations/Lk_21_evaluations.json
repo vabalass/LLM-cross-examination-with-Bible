@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Lk_21"
+    },
+    "results": [
+        {
+            "id": "Lk_21_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_21_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        }
+    ]
+}

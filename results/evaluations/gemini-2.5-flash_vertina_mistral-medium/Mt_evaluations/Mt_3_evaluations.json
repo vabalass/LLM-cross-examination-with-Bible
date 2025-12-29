@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_3"
+    },
+    "results": [
+        {
+            "id": "Mt_3_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi pateiktą Šv. Rašto ištrauką. Distraktoriai yra bibliniai, bet klaidingi šiam kontekstui."
+        },
+        {
+            "id": "Mt_3_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs pagal pateiktą tekstą. Distraktoriai yra aiškiai neteisingi ir gerai suformuluoti."
+        },
+        {
+            "id": "Mt_3_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš Šv. Rašto ištraukos. Distraktoriai yra gerai parinkti ir kontrastuoja su teisingu atsakymu."
+        },
+        {
+            "id": "Mt_3_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi nurodytą informaciją ištraukoje. Distraktoriai yra pakankamai įtikinami, bet neteisingi, kas gerai patikrina žinias."
+        },
+        {
+            "id": "Mt_3_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra absoliučiai tikslūs pagal pateiktą tekstą. Distraktorius 'a' yra ypač geras, nes primena kitą Rašto vietą, bet nėra tiksli citata iš šios ištraukos."
+        }
+    ]
+}

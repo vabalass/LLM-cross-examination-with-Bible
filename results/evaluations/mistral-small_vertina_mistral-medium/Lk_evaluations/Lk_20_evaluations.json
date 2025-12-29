@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Lk_20"
+    },
+    "results": [
+        {
+            "id": "Lk_20_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_006",
+            "grade": 1,
+            "comment": "Klausimas yra teisingas, bet atsakymas yra klaidingas. Teisingas atsakymas yra „c\": „Reikia vykdyti savo pareigas ir prieš valstybę, ir prieš Dievą\"."
+        },
+        {
+            "id": "Lk_20_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_013",
+            "grade": 4,
+            "comment": "Klausimas ir atsakymas yra teisingi, bet atsakymo variantas „c\" yra neaiškus ir gali būti suprastas keliais būdais."
+        },
+        {
+            "id": "Lk_20_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Lk_20_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        }
+    ]
+}

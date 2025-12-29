@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_3"
+    },
+    "results": [
+        {
+            "id": "Mk_3_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka Biblijos ištrauką (Mk 3,2)."
+        },
+        {
+            "id": "Mk_3_002",
+            "grade": 4,
+            "comment": "Klausimas ir atsakymo variantai yra teisingi ir susiję su tekstu, tačiau teisingas atsakymas (b) yra šiek tiek supaprastinta ir interpretuota Jėzaus klausimo versija, bet tinkamiausia iš duotų variantų."
+        },
+        {
+            "id": "Mk_3_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka Biblijos ištrauką (Mk 3,5)."
+        },
+        {
+            "id": "Mk_3_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka Biblijos ištrauką (Mk 3,7)."
+        },
+        {
+            "id": "Mk_3_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka Biblijos ištrauką (Mk 3,7)."
+        },
+        {
+            "id": "Mk_3_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka Biblijos ištrauką (Mk 3,9)."
+        },
+        {
+            "id": "Mk_3_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka Biblijos ištrauką (Mk 3,11)."
+        },
+        {
+            "id": "Mk_3_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka Biblijos ištrauką (Mk 3,14)."
+        },
+        {
+            "id": "Mk_3_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas teisingai apima visus minėtus apaštalus, nurodytus ištraukoje (Mk 3,16-19)."
+        },
+        {
+            "id": "Mk_3_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka Biblijos ištrauką (Mk 3,22)."
+        },
+        {
+            "id": "Mk_3_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka Biblijos ištrauką (Mk 3,35)."
+        }
+    ]
+}

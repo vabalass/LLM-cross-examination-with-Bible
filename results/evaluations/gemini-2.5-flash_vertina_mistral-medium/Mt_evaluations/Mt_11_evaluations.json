@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_11"
+    },
+    "results": [
+        {
+            "id": "Mt_11_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka teksto ištrauką. Klausimas aiškus, o teisingas atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Mt_11_002",
+            "grade": 5,
+            "comment": "Klausimas tiksliai suformuluotas, o atsakymas teisingai interpretuoja ir apibendrina Jėzaus žodžius apie Joną, lyginant jį su karalių rūmuose gyvenančiais žmonėmis."
+        },
+        {
+            "id": "Mt_11_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai klausia apie tekste nurodytą faktą, o atsakymas yra tiksli citata iš Šventojo Rašto."
+        },
+        {
+            "id": "Mt_11_004",
+            "grade": 5,
+            "comment": "Klausimas puikiai formuluotas, o atsakymas yra tiesioginė ir tiksli citata iš nurodytos Biblijos ištraukos."
+        },
+        {
+            "id": "Mt_11_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai cituoja Jėzaus palyginimą apie savo kartą, o teisingas atsakymas yra tiksli citata."
+        },
+        {
+            "id": "Mt_11_006",
+            "grade": 2,
+            "comment": "Klausimo formuluotė yra klaidinanti: tekste Jėzus nebuvo 'kankinamas' už valgymą ir gėrimą, o jam buvo suteiktas neigiamas įvardis. Nors atsakymas teisingas pagal pateiktą įvardį, klaidinga prielaida sumažina kokybę."
+        },
+        {
+            "id": "Mt_11_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai atspindi Jėzaus priekaištus ir palyginimą apie minėtus miestus."
+        },
+        {
+            "id": "Mt_11_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka Biblijos ištrauką. Klausimas tikslus, o teisingas atsakymas yra tiesioginė citata, apibendrinanti Tėvo šlovinimo priežastį."
+        },
+        {
+            "id": "Mt_11_009",
+            "grade": 5,
+            "comment": "Klausimas tiesiogiai klausia apie Jėzaus kvietimą vargstantiems, o teisingas atsakymas yra tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Mt_11_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, o atsakymas yra tiesioginė citata iš Biblijos ištraukos."
+        }
+    ]
+}

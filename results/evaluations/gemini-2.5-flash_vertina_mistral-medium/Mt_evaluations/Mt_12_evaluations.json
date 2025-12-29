@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_12"
+    },
+    "results": [
+        {
+            "id": "Mt_12_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš teksto, todėl yra idealus. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus pateiktą pavyzdį. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš teksto. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai apibūdina Jėzaus veiksmus. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus palyginimą. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_007",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiesiogiai atspindi fariziejų ketinimus. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai apibūdina Jėzaus reakciją. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Izaijo pranašystę. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš teksto. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiesiogiai atspindi Jėzaus pasakytą perspėjimą. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_012",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai nurodo neatleistiną nuodėmę. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_013",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš teksto. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_014",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš teksto. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_015",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai apibūdina Jonos ženklą. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_12_016",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus pasmerkimą. Visi aspektai yra idealūs."
+        }
+    ]
+}

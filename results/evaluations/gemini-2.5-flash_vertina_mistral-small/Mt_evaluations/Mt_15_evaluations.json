@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_15"
+    },
+    "results": [
+        {
+            "id": "Mt_15_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka teksto turinį, yra tikslūs ir aiškūs."
+        },
+        {
+            "id": "Mt_15_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus žodžius ištraukoje."
+        },
+        {
+            "id": "Mt_15_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš teksto, perteikianti pagrindinę mintį apie tikrąjį švarumą."
+        },
+        {
+            "id": "Mt_15_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai cituoja Jėzaus apibūdinimą fariziejams."
+        },
+        {
+            "id": "Mt_15_005",
+            "grade": 4,
+            "comment": "Klausimas yra geras, o atsakymas teisingai apibendrina Jėzaus ir kananietės moters interakciją, nors 'negali gauti pagalbos' yra šiek tiek supaprastinta Jėzaus žodžių interpretacija."
+        },
+        {
+            "id": "Mt_15_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai nurodo Jėzaus veiksmus prie Galilėjos ežero, išdėstytus tekste."
+        },
+        {
+            "id": "Mt_15_007",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai apibūdina duonos padauginimo stebuklą, kaip aprašyta ištraukoje."
+        },
+        {
+            "id": "Mt_15_008",
+            "grade": 5,
+            "comment": "Klausimas tiksliai prašo skaitmeninės informacijos ir teisingas atsakymas yra tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Mt_15_009",
+            "grade": 4,
+            "comment": "Klausimas yra geras, o atsakymas teisingai apibendrina Jėzaus ir kananietės moters interakciją, nors 'negali gauti pagalbos' yra šiek tiek supaprastinta Jėzaus žodžių interpretacija."
+        },
+        {
+            "id": "Mt_15_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš teksto, perteikianti pagrindinę mintį apie tikrąjį švarumą."
+        },
+        {
+            "id": "Mt_15_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai cituoja Jėzaus apibūdinimą fariziejams."
+        },
+        {
+            "id": "Mt_15_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai nurodo Jėzaus veiksmus prie Galilėjos ežero, išdėstytus tekste."
+        },
+        {
+            "id": "Mt_15_013",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai apibūdina duonos padauginimo stebuklą, kaip aprašyta ištraukoje."
+        }
+    ]
+}

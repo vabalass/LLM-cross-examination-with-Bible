@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Jn_16"
+    },
+    "results": [
+        {
+            "id": "Jn_16_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_16_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šventąjį Raštą ir yra aiškiai suformuluotas."
+        }
+    ]
+}

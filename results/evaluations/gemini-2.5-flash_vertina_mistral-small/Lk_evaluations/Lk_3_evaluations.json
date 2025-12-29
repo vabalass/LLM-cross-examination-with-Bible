@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_3"
+    },
+    "results": [
+        {
+            "id": "Lk_3_001",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimo variantai yra idealiai suformuluoti ir tiksliai atspindi Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_3_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai randamas pateiktoje ištraukoje, be jokių neaiškumų."
+        },
+        {
+            "id": "Lk_3_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra puikūs, atspindintys tiesioginę informaciją iš Biblijos teksto."
+        },
+        {
+            "id": "Lk_3_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra puikūs, tiksliai atspindintys Jono Krikštytojo skelbiamą žinią ištraukoje."
+        },
+        {
+            "id": "Lk_3_005",
+            "grade": 5,
+            "comment": "Klausimas suformuluotas aiškiai, o teisingas atsakymas tiesiogiai cituoja Jono žodžius minioms."
+        },
+        {
+            "id": "Lk_3_006",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas yra puikūs, tiksliai atkartojantys Biblijos tekste minimus Jono nurodymus muitininkams."
+        },
+        {
+            "id": "Lk_3_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingas atsakymas puikiai atspindi Jono Krikštytojo žodžius kariams."
+        },
+        {
+            "id": "Lk_3_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra idealūs, tiksliai cituojantys Jono pranašystę apie ateinantįjį."
+        },
+        {
+            "id": "Lk_3_009",
+            "grade": 5,
+            "comment": "Klausimas puikiai atspindi faktą, kas įkalino Joną, o pasirinkimo variantai yra aiškūs."
+        },
+        {
+            "id": "Lk_3_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, tiksliai ir išsamiai apibūdinantys įvykius po Jėzaus krikšto."
+        },
+        {
+            "id": "Lk_3_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai atitinka tekste nurodytą Jėzaus amžių."
+        },
+        {
+            "id": "Lk_3_012",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingas atsakymas puikiai atspindi Luko evangelijos pateikiamą informaciją apie Jėzaus tėvą."
+        }
+    ]
+}

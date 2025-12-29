@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_4"
+    },
+    "results": [
+        {
+            "id": "Mt_4_001",
+            "grade": 5,
+            "comment": "Klausimas, variantai ir teisingas atsakymas idealiai atitinka Biblijos ištrauką. Jokių klaidų nerasta."
+        },
+        {
+            "id": "Mt_4_002",
+            "grade": 5,
+            "comment": "Klausimas, variantai ir teisingas atsakymas idealiai atitinka Biblijos ištrauką. Formuluotė yra tiksli ir aiški."
+        },
+        {
+            "id": "Mt_4_003",
+            "grade": 5,
+            "comment": "Klausimas, variantai ir teisingas atsakymas idealiai atitinka Biblijos ištrauką. Atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Mt_4_004",
+            "grade": 5,
+            "comment": "Klausimas, variantai ir teisingas atsakymas idealiai atitinka Biblijos ištrauką. Atsakymas yra tikslus faktas."
+        },
+        {
+            "id": "Mt_4_005",
+            "grade": 5,
+            "comment": "Klausimas, variantai ir teisingas atsakymas idealiai atitinka Biblijos ištrauką. Atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Mt_4_006",
+            "grade": 5,
+            "comment": "Klausimas, variantai ir teisingas atsakymas idealiai atitinka Biblijos ištrauką. Profesija aiškiai numanoma iš konteksto ir ankstesnio teksto."
+        },
+        {
+            "id": "Mt_4_007",
+            "grade": 5,
+            "comment": "Klausimas, variantai ir teisingas atsakymas idealiai atitinka Biblijos ištrauką. Atsakymas yra tiksli veiksmų apibendrinimas."
+        },
+        {
+            "id": "Mt_4_008",
+            "grade": 5,
+            "comment": "Klausimas, variantai ir teisingas atsakymas idealiai atitinka Biblijos ištrauką. Išvardintos visos tekste minimos sritys."
+        }
+    ]
+}

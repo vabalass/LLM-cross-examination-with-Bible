@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_21"
+    },
+    "results": [
+        {
+            "id": "Mt_21_001",
+            "grade": 1,
+            "comment": "Klausimas klausia, kur Jėzus pasiuntė mokinius, o tekste nurodoma 'į priešais esantį kaimą'. Pateiktas atsakymas 'Į Betfagę prie Alyvų kalno' yra vieta, kurioje jie jau buvo, o ne kur buvo išsiųsti, todėl atsakymas faktiškai klaidingas."
+        },
+        {
+            "id": "Mt_21_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_21_003",
+            "grade": 2,
+            "comment": "Nors atsakymas 'drabužius' yra teisingas, tekstas aiškiai nurodo, kad minia tiesė ir 'medžių šakas'. Kadangi nėra atsakymo apjungiančio abu, 'b' yra nepilnas atsakymas, klaidinantis, nes kitas teisingas variantas (c) paliktas kaip klaidingas."
+        },
+        {
+            "id": "Mt_21_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas 'Visos teisingosios atsakymo dalys' tiksliai apima visus minios šūkius iš Biblijos ištraukos."
+        },
+        {
+            "id": "Mt_21_005",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas 'Visos teisingosios atsakymo dalys' tiksliai apima visus Jėzaus veiksmus šventykloje, nurodytus tekste."
+        },
+        {
+            "id": "Mt_21_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atitinka Jėzaus žodžius ištraukoje, išlaikant ir formuluotę ('o' vietoj 'bet')."
+        },
+        {
+            "id": "Mt_21_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_21_008",
+            "grade": 3,
+            "comment": "Atsakymas 'a' yra teisingas ir tikslus citata, tačiau jame yra techninė klaida – 'skaitė' vietoj 'skaitę', nors tai nekeičia turinio prasmės."
+        },
+        {
+            "id": "Mt_21_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_21_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atitinka Jėzaus žodžius figmedžiui ištraukoje."
+        },
+        {
+            "id": "Mt_21_011",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atitinka Jėzaus mokymą apie tikėjimą ištraukoje."
+        },
+        {
+            "id": "Mt_21_012",
+            "grade": 1,
+            "comment": "Klausimo formuluotė 'Ką Jėzus klausė aukštųjų kunigų ir tautos seniūnų?' yra klaidinga. Tekstas aiškiai sako, kad 'aukštųjų kunigų ir tautos seniūnų, kurie klausė' Jėzų. Tai reiškia, kad jie klausė Jėzaus, o ne atvirkščiai."
+        },
+        {
+            "id": "Mt_21_013",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atitinka Jėzaus klausimą apie Jono krikštą ištraukoje."
+        },
+        {
+            "id": "Mt_21_014",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atitinka ištraukos pabaigoje duotą atsakymą į palyginimą."
+        },
+        {
+            "id": "Mt_21_015",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atitinka Jėzaus žodžius apie muitininkus ir ištvirkėles ištraukoje."
+        }
+    ]
+}

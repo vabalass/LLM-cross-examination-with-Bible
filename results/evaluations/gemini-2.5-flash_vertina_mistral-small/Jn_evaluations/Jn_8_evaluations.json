@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_8"
+    },
+    "results": [
+        {
+            "id": "Jn_8_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai ir tiksliai atitinka Biblijos ištrauką (Jn 8:2). Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Jn_8_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas 'b' tiksliai atspindi Biblijos ištraukos (Jn 8:3) turinį. Parinktos parinktys yra tinkamos."
+        },
+        {
+            "id": "Jn_8_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas yra tiesioginė ir tiksli citata iš Biblijos ištraukos (Jn 8:5). Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Jn_8_004",
+            "grade": 1,
+            "comment": "Nors klausimas aiškus, pateiktas teisingas atsakymas 'd' ('Nieką') yra faktiškai klaidingas. Tekste nurodoma, kad Jėzus 'ėmė pirštu rašyti ant žemės' (Jn 8:6), tad jis kažką rašė, nors turinys ir neatskleistas."
+        },
+        {
+            "id": "Jn_8_005",
+            "grade": 3,
+            "comment": "Nors atsakymas 'a' yra tiksli citata iš Šventojo Rašto (Jn 8:7), kitos parinktys ('b', 'c', 'd') yra identiškos 'a' parinkčiai, o tai yra didelė techninė/formos klaida, daranti klausimą neveiksmingu."
+        },
+        {
+            "id": "Jn_8_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai ir tiksliai atitinka Biblijos ištrauką (Jn 8:11). Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Jn_8_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai ir tiksliai atitinka Biblijos ištrauką (Jn 8:12). Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Jn_8_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai ir tiksliai atitinka Biblijos ištrauką (Jn 8:13). Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Jn_8_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas 'a' tiksliai ir konkrečiai cituoja tekstą (Jn 8:16), parinktys yra gerai atskirtos."
+        },
+        {
+            "id": "Jn_8_010",
+            "grade": 4,
+            "comment": "Klausimas ir atsakymas 'a' yra faktiškai teisingi ir tiksliai atspindi tekstą (Jn 8:23). Tačiau, 'c' parinktis taip pat yra tiesioginė citata iš to paties sakinio, todėl galėtų kilti dviprasmybių, nors 'a' yra pirma tekste paminėta frazė."
+        },
+        {
+            "id": "Jn_8_011",
+            "grade": 3,
+            "comment": "Nors atsakymas 'a' yra tiksli citata iš Šventojo Rašto (Jn 8:24), kitos parinktys ('b', 'c', 'd') yra identiškos 'a' parinkčiai, o tai yra didelė techninė/formos klaida."
+        },
+        {
+            "id": "Jn_8_012",
+            "grade": 3,
+            "comment": "Nors atsakymas 'a' yra tiksli citata iš Šventojo Rašto (Jn 8:29), kitos parinktys ('c', 'd') yra identiškos 'a' parinkčiai, o tai yra didelė techninė/formos klaida. Parinktis 'b' yra tinkamas klaidinantis atsakymas."
+        },
+        {
+            "id": "Jn_8_013",
+            "grade": 3,
+            "comment": "Nors atsakymas 'a' yra tiksli citata iš Šventojo Rašto (Jn 8:31-32), kitos parinktys ('b', 'c', 'd') yra identiškos 'a' parinkčiai, o tai yra didelė techninė/formos klaida."
+        },
+        {
+            "id": "Jn_8_014",
+            "grade": 3,
+            "comment": "Nors atsakymas 'a' yra tiksli citata iš Šventojo Rašto (Jn 8:33), kitos parinktys ('b', 'c', 'd') yra identiškos 'a' parinkčiai, o tai yra didelė techninė/formos klaida."
+        },
+        {
+            "id": "Jn_8_015",
+            "grade": 3,
+            "comment": "Nors atsakymas 'a' yra tiksli citata iš Šventojo Rašto (Jn 8:34), kitos parinktys ('b', 'c', 'd') yra identiškos 'a' parinkčiai, o tai yra didelė techninė/formos klaida."
+        },
+        {
+            "id": "Jn_8_016",
+            "grade": 3,
+            "comment": "Nors atsakymas 'a' yra tiksli citata iš Šventojo Rašto (Jn 8:36), kitos parinktys ('b', 'c', 'd') yra identiškos 'a' parinkčiai, o tai yra didelė techninė/formos klaida."
+        },
+        {
+            "id": "Jn_8_017",
+            "grade": 3,
+            "comment": "Nors atsakymas 'a' yra tiksli citata iš Šventojo Rašto (Jn 8:37), kitos parinktys ('b', 'c', 'd') yra identiškos 'a' parinkčiai, o tai yra didelė techninė/formos klaida."
+        },
+        {
+            "id": "Jn_8_018",
+            "grade": 3,
+            "comment": "Nors atsakymas 'a' yra tiksli citata iš Šventojo Rašto (Jn 8:44), kitos parinktys ('b', 'c', 'd') yra identiškos 'a' parinkčiai, o tai yra didelė techninė/formos klaida."
+        }
+    ]
+}

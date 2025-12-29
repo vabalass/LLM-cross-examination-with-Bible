@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_11"
+    },
+    "results": [
+        {
+            "id": "Mt_11_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiesiogiai ir tiksliai atspindi Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_11_002",
+            "grade": 3,
+            "comment": "Klausimas teisingas pagal tekstą, tačiau atsakymų variantuose yra identiškų parinkčių ('a' ir 'd'), o tai yra formos klaida."
+        },
+        {
+            "id": "Mt_11_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Biblijos ištrauką, be jokių turinio ar formos trūkumų."
+        },
+        {
+            "id": "Mt_11_004",
+            "grade": 3,
+            "comment": "Atsakymas faktiškai teisingas, tačiau visuose atsakymų variantuose yra gramatinė klaida ('vilkinčias' vietoj 'vilkintis')."
+        },
+        {
+            "id": "Mt_11_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai perteikia Jėzaus žodžių esmę apie Tyro ir Sidono likimą teismo dieną."
+        },
+        {
+            "id": "Mt_11_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai perteikia Jėzaus žodžių esmę apie Sodomos žemės likimą teismo dieną."
+        },
+        {
+            "id": "Mt_11_007",
+            "grade": 1,
+            "comment": "Nors klausimas aiškus, numatytas atsakymas ('d') yra semantiškai klaidingas: tekstas nurodo, kad Tėvas „apreiškė mažutėliams“ (revelation was *to* them), o ne kad „jie yra apreiškiami“ (they *are* revealed)."
+        },
+        {
+            "id": "Mt_11_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Biblijos ištrauką, be jokių trūkumų."
+        },
+        {
+            "id": "Mt_11_009",
+            "grade": 4,
+            "comment": "Klausimas ir teisingas atsakymas yra puikūs, tačiau kai kuriuose neteisinguose atsakymų variantuose yra gramatinių klaidų ('sunkia' vietoj 'sunki')."
+        },
+        {
+            "id": "Mt_11_010",
+            "grade": 3,
+            "comment": "Klausimas teisingas, tačiau visuose atsakymų variantuose yra didelių gramatinių klaidų, susijusių su įvardžiu ir veiksmažodžio derinimu ('Jis jį rasite' vietoj 'Ją rasite')."
+        }
+    ]
+}

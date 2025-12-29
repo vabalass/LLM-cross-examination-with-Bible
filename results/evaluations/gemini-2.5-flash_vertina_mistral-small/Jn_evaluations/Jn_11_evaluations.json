@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_11"
+    },
+    "results": [
+        {
+            "id": "Jn_11_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, tiksliai atitinka Biblijos ištrauką ir pateikia teisingą atsakymą."
+        },
+        {
+            "id": "Jn_11_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs pagal pateiktą tekstą."
+        },
+        {
+            "id": "Jn_11_003",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorių."
+        },
+        {
+            "id": "Jn_11_004",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorių."
+        },
+        {
+            "id": "Jn_11_005",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorių."
+        },
+        {
+            "id": "Jn_11_006",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorių."
+        },
+        {
+            "id": "Jn_11_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs pagal pateiktą tekstą."
+        },
+        {
+            "id": "Jn_11_008",
+            "grade": 4,
+            "comment": "Klausimas yra faktiškai teisingas, nes Morta išties pasakė šiuos žodžius. Tačiau identiškus žodžius pasakė ir Marija (Jn 11, 32), todėl klausimo formuluotė galėtų būti tikslesnė, kad būtų išvengta dviprasmybės."
+        },
+        {
+            "id": "Jn_11_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs pagal pateiktą tekstą, teisingai identifikuojantys citatos autorius."
+        },
+        {
+            "id": "Jn_11_010",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorių."
+        },
+        {
+            "id": "Jn_11_011",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorių."
+        },
+        {
+            "id": "Jn_11_012",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorių."
+        },
+        {
+            "id": "Jn_11_013",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorių."
+        },
+        {
+            "id": "Jn_11_014",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorius."
+        },
+        {
+            "id": "Jn_11_015",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo citatos autorių."
+        },
+        {
+            "id": "Jn_11_016",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs pagal pateiktą tekstą."
+        },
+        {
+            "id": "Jn_11_017",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs pagal pateiktą tekstą, teisingai apibendrinantys, kas ieškojo Jėzaus."
+        },
+        {
+            "id": "Jn_11_018",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas tiksliai nurodo įsakymo davėjus."
+        },
+        {
+            "id": "Jn_11_019",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs pagal pateiktą tekstą, teisingai identifikuojantys citatos autorius."
+        }
+    ]
+}

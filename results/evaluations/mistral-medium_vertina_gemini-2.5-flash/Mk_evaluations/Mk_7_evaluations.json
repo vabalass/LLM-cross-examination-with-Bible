@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mk_7"
+    },
+    "results": [
+        {
+            "id": "Mk_7_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mk_7_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_14"
+    },
+    "results": [
+        {
+            "id": "Lk_14_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka tekste pateiktą informaciją."
+        },
+        {
+            "id": "Lk_14_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš Šv. Rašto ištraukos."
+        },
+        {
+            "id": "Lk_14_003",
+            "grade": 3,
+            "comment": "Klausime ir atsakymų variantuose yra nedidelė techninė klaida: vietoj „galvijas“ parašyta „galvikas“."
+        },
+        {
+            "id": "Lk_14_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka tekste pateiktą informaciją."
+        },
+        {
+            "id": "Lk_14_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka tekste pateiktą informaciją."
+        },
+        {
+            "id": "Lk_14_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš Šv. Rašto ištraukos."
+        },
+        {
+            "id": "Lk_14_007",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš Šv. Rašto ištraukos."
+        },
+        {
+            "id": "Lk_14_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš Šv. Rašto ištraukos."
+        },
+        {
+            "id": "Lk_14_009",
+            "grade": 2,
+            "comment": "Nors atsakymas yra tiesioginė retorinio klausimo citata, jis klaidingai pateikia Jėzaus patarimą. Retorinis klausimas reiškia, kad IŠLAIDAS REIKIA skaičiuoti, o ne jų neskaičiuoti."
+        },
+        {
+            "id": "Lk_14_010",
+            "grade": 2,
+            "comment": "Nors atsakymas yra tiesioginė retorinio klausimo citata, jis klaidingai pateikia Jėzaus patarimą. Retorinis klausimas reiškia, kad karalius TURI svarstyti, o ne nesvarstyti."
+        },
+        {
+            "id": "Lk_14_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš Šv. Rašto ištraukos."
+        }
+    ]
+}

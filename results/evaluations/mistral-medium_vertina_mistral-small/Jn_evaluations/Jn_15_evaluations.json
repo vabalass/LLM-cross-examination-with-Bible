@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Jn_15"
+    },
+    "results": [
+        {
+            "id": "Jn_15_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Jn_15_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Jn_15_003",
+            "grade": 3,
+            "comment": "Klausimas turi techninę klaidą, nes šakelės yra mokiniai, bet ne visi mokiniai yra šakelės."
+        },
+        {
+            "id": "Jn_15_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Jn_15_005",
+            "grade": 4,
+            "comment": "Klausimas teisingas, bet galėtų būti aiškesnis, nurodant, kad didžiausia meilė yra gyvybę už draugus atiduoti."
+        },
+        {
+            "id": "Jn_15_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Jn_15_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Jn_15_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Jn_15_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka ištraukos turinį."
+        }
+    ]
+}

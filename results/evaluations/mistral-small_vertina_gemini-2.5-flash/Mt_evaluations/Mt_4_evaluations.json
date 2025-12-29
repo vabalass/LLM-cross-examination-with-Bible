@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Mt_4"
+    },
+    "results": [
+        {
+            "id": "Mt_4_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_4_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_4_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_4_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_4_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_4_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_4_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_4_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        }
+    ]
+}

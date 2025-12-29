@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_11"
+    },
+    "results": [
+        {
+            "id": "Mk_11_001",
+            "grade": 4,
+            "comment": "Klausimas ir parinktys yra aiškūs. Nors 'Į Betfagę' galėtų būti konkretesnis atsakymas pagal kontekstą, 'Į kaimą prie Alyvų kalno' taip pat yra teisingas apibūdinimas pagal pateiktą tekstą."
+        },
+        {
+            "id": "Mk_11_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiesiogiai cituoja Biblijos ištrauką. Visi aspektai atitinka tobulumo reikalavimus."
+        },
+        {
+            "id": "Mk_11_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai atspindi Biblijos ištraukos turinį. Visi aspektai atitinka tobulumo reikalavimus."
+        },
+        {
+            "id": "Mk_11_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiesiogiai cituoja Biblijos ištrauką. Visi aspektai atitinka tobulumo reikalavimus."
+        },
+        {
+            "id": "Mk_11_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai apibūdina ištraukoje nurodytą priežastį. Visi aspektai atitinka tobulumo reikalavimus."
+        },
+        {
+            "id": "Mk_11_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai ir išsamiai apibūdina Jėzaus veiksmus šventykloje. Visi aspektai atitinka tobulumo reikalavimus."
+        },
+        {
+            "id": "Mk_11_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiesiogiai cituoja Jėzaus žodžius iš Biblijos ištraukos. Visi aspektai atitinka tobulumo reikalavimus."
+        },
+        {
+            "id": "Mk_11_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai perteikia Jėzaus mokymą apie tikėjimą. Visi aspektai atitinka tobulumo reikalavimus."
+        },
+        {
+            "id": "Mk_11_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai nurodo Jėzaus patarimą, susijusį su malda. Visi aspektai atitinka tobulumo reikalavimus."
+        },
+        {
+            "id": "Mk_11_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiesiogiai cituoja aukštųjų kunigų ir Rašto aiškintojų klausimą. Visi aspektai atitinka tobulumo reikalavimus."
+        },
+        {
+            "id": "Mk_11_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiesiogiai cituoja Jėzaus klausimą iš Biblijos ištraukos. Visi aspektai atitinka tobulumo reikalavimus."
+        }
+    ]
+}

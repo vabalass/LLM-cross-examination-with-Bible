@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_14"
+    },
+    "results": [
+        {
+            "id": "Mt_14_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        },
+        {
+            "id": "Mt_14_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai aiškūs, teisingi ir atitinka Šventąjį Raštą."
+        }
+    ]
+}

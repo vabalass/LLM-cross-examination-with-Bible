@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_5"
+    },
+    "results": [
+        {
+            "id": "Mt_5_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai yra aiškūs, tiksliai atitinka Šv. Rašto ištrauką ir yra puikiai suformuluoti."
+        },
+        {
+            "id": "Mt_5_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai yra tikslūs, aiškūs ir tiesiogiai atspindi nurodytą Biblijos tekstą."
+        },
+        {
+            "id": "Mt_5_003",
+            "grade": 4,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas atitinka tekstą, tačiau žodis „romiečių“ turėtų būti „romiųjų“ (kilmininko linksnis), kas yra nedidelė gramatinė klaida."
+        },
+        {
+            "id": "Mt_5_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tiksliai atspindi tekste pateiktą informaciją, o atsakymo variantai yra teisingi."
+        },
+        {
+            "id": "Mt_5_005",
+            "grade": 5,
+            "comment": "Klausimas yra teisingas ir gerai suformuluotas, o pateiktas atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_5_006",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingai atspindi Biblijos tekste nurodytą palaiminimą ir jo atlygį."
+        },
+        {
+            "id": "Mt_5_007",
+            "grade": 4,
+            "comment": "Klausimas yra geras, tačiau teisingas atsakymas „Jų yra dangaus karalystė“ yra bendras apibūdinimas, o tekste konkrečiai minimas „gausus atlygis danguje“, kas galėtų būti dar tikslesnis atsakymo variantas."
+        },
+        {
+            "id": "Mt_5_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai yra aiškūs, o teisingas atsakymas tiksliai atspindi pateiktą Šv. Rašto ištrauką apie druską."
+        },
+        {
+            "id": "Mt_5_009",
+            "grade": 2,
+            "comment": "Nors klausimas yra aiškus, visi atsakymo variantai (b, c, d) yra identiški teisingam atsakymui (a), kas rodo didelius turinio trūkumus ir neleidžia įvertinti žinių."
+        },
+        {
+            "id": "Mt_5_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai yra puikiai suformuluoti ir tiesiogiai bei tiksliai atspindi Jėzaus žodžius apie Įstatymą."
+        },
+        {
+            "id": "Mt_5_011",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tikslus, o teisingas atsakymas tiesiogiai atspindi Jėzaus mokymą apie pyktį ir atsakomybę."
+        },
+        {
+            "id": "Mt_5_012",
+            "grade": 5,
+            "comment": "Klausimas yra gerai suformuluotas ir teisingas atsakymas tiksliai cituoja Jėzaus žodžius apie svetimavimą širdyje."
+        },
+        {
+            "id": "Mt_5_013",
+            "grade": 1,
+            "comment": "Klausimas klausia, ką Jėzus sakė apie skyrybas, tačiau visi atsakymo variantai cituoja tik senąjį įstatymą (Mt 5:31), kurį Jėzus vėliau patikslina (Mt 5:32). Tai yra faktiškai klaidinga, nes neatspindi Jėzaus naujojo mokymo."
+        },
+        {
+            "id": "Mt_5_014",
+            "grade": 2,
+            "comment": "Nors klausimas yra tinkamas, visi atsakymo variantai (b, c, d) yra identiški teisingam atsakymui (a), o tai rodo didelius turinio trūkumus, nes nėra tikro pasirinkimo."
+        },
+        {
+            "id": "Mt_5_015",
+            "grade": 2,
+            "comment": "Nors klausimas yra aiškus, visi atsakymo variantai (b, c, d) yra identiški teisingam atsakymui (a), o tai labai sumenkina klausimo vertę ir galimybę įvertinti žinias."
+        },
+        {
+            "id": "Mt_5_016",
+            "grade": 2,
+            "comment": "Nors klausimas yra aiškus, visi atsakymo variantai (b, c, d) yra identiški teisingam atsakymui (a), o tai rodo didelius turinio trūkumus, nes trūksta tikro pasirinkimo galimybės."
+        }
+    ]
+}

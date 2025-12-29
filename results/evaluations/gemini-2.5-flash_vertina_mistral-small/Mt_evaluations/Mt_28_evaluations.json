@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_28"
+    },
+    "results": [
+        {
+            "id": "Mt_28_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas idealiai atitinka Biblijos tekstą ir yra aiškiai suformuluoti."
+        },
+        {
+            "id": "Mt_28_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi angelo žodžius ištraukoje, o klaidingi atsakymai yra aiškūs."
+        },
+        {
+            "id": "Mt_28_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas teisingas, atitinkantis tiek angelo, tiek Jėzaus nurodymus moterims."
+        },
+        {
+            "id": "Mt_28_004",
+            "grade": 5,
+            "comment": "Klausimas tiesiogiai klausia apie įvykį, o teisingas atsakymas paimtas tiesiai iš teksto, su aiškiais distraktoriais."
+        },
+        {
+            "id": "Mt_28_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai perteikia aukštųjų kunigų ir seniūnų nurodymus sargybiniams, puikiai atspindint teksto detales."
+        },
+        {
+            "id": "Mt_28_006",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo vietą ir situaciją, o teisingas atsakymas yra tiesioginė Jėzaus citata, pradedanti Didįjį Pavedimą."
+        }
+    ]
+}

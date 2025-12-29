@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Mt_9"
+    },
+    "results": [
+        {
+            "id": "Mt_9_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        },
+        {
+            "id": "Mt_9_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingas ir aiškus."
+        }
+    ]
+}

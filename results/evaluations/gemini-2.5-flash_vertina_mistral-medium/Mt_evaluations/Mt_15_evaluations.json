@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_15"
+    },
+    "results": [
+        {
+            "id": "Mt_15_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Biblijos ištraukos pradžioje pateiktą fariziejų klausimą."
+        },
+        {
+            "id": "Mt_15_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai cituoja Jėzaus atsakymą fariziejams, pabrėžiant Dievo įsakymų viršenybę."
+        },
+        {
+            "id": "Mt_15_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi Jėzaus mokymą apie tikrąjį švarumą ir tai, kas suteršia žmogų."
+        },
+        {
+            "id": "Mt_15_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai perteikia Jėzaus palyginimą apie fariziejus kaip aklus aklųjų vadovus."
+        },
+        {
+            "id": "Mt_15_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai cituoja Jėzaus retorinį klausimą Petrui, kai šis prašė paaiškinimo."
+        },
+        {
+            "id": "Mt_15_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus paaiškinimą, kad tai, kas išeina iš burnos, eina iš širdies ir suteršia žmogų."
+        },
+        {
+            "id": "Mt_15_007",
+            "grade": 5,
+            "comment": "Klausimas yra gerai suformuluotas, prašant nurodyti, kas nesuteršia, ir teisingas atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Mt_15_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai nurodo Jėzaus pasitraukimo vietą po ginčo."
+        },
+        {
+            "id": "Mt_15_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi kananietės moters prašymą išgydyti jos demono kankinamą dukterį."
+        },
+        {
+            "id": "Mt_15_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai cituoja Jėzaus pirminį atsakymą kananietei apie jo misiją."
+        },
+        {
+            "id": "Mt_15_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai cituoja kananietės moters įtikinamą atsakymą Jėzui."
+        },
+        {
+            "id": "Mt_15_012",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai nurodo duonos ir žuvų kiekį antrojo padauginimo metu."
+        },
+        {
+            "id": "Mt_15_013",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai nurodo surinktų kąsnelių krepšių skaičių po duonos padauginimo."
+        }
+    ]
+}

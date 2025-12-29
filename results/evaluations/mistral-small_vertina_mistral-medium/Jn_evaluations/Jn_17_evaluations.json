@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Jn_17"
+    },
+    "results": [
+        {
+            "id": "Jn_17_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškus."
+        },
+        {
+            "id": "Jn_17_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškus."
+        },
+        {
+            "id": "Jn_17_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškus."
+        },
+        {
+            "id": "Jn_17_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškus."
+        },
+        {
+            "id": "Jn_17_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškus."
+        },
+        {
+            "id": "Jn_17_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškus."
+        },
+        {
+            "id": "Jn_17_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškus."
+        },
+        {
+            "id": "Jn_17_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškus."
+        }
+    ]
+}

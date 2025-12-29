@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Jn_19"
+    },
+    "results": [
+        {
+            "id": "Jn_19_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        },
+        {
+            "id": "Jn_19_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi ir aiškūs."
+        }
+    ]
+}

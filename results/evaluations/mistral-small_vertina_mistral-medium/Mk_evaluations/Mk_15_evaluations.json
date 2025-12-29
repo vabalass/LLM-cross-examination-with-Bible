@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Mk_15"
+    },
+    "results": [
+        {
+            "id": "Mk_15_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_15_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        }
+    ]
+}

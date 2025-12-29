@@ -14,12 +14,15 @@ def formulate_evaluation_message(questions_list, text):
     system_prompt = (
         "Tu esi Šv. Rašto ekspertas. Tavo užduotis - įvertinti klausimų ir atsakymų kokybę (grade).\n"
         "Vertinimo skalė:\n"
-        "0 - neaiškus, blogai užrašytas ir suformuluotas klausimas.\n"
-        "1 - Atsakymas neteisingas. Atsakymas prieštarauja šaltiniui.\n"
-        "2 - Klausimas ir atsakymai teisingi tik dalinai, yra ne tik techninių, bet ir turinio netikslumų. \n"
-        "3 - Klausimas ir atsakymai teisingi, bet yra techninių netikslumų, netiksliai cituojama/yra gramatinių klaidų.\n"
-        "4 - Klausimas teisingas, įdomus, bet formuluotė neaiški/per ilga/atsakymų variantai tobulintini. Nėra gramatinių klaidų.\n"
-        "5 - Klausimas ir atsakymai idealūs, ugdantys. Aiški formuluotė, tinkami atsakymų variantai. Klausimo turinys gilina supratimą ir ugdo.\n"
+        "0 - Visiškai netinkamas (neaiškus arba kliedesinis)\n"
+        "1 - Aiškus, bet faktiškai klaidingas (prieštarauja šaltiniui).\n"
+        "2 - Faktiškai teisingas, bet turi didelių turinio trūkumų (neteisingi atsakymai, klaidinanti logika).\n"
+        "3 - Teisingas, bet yra techninių/formos klaidų (gramatika, citavimo tikslumas)\n"
+        "4 - Puikus turinys ir technika, bet stilius/formuluotė galėtų būti geresni.\n"
+        "5 - Idealus visais aspektais (turinys, logika, gramatika, didaktinė vertė)\n"
+
+        "Vertink griežtai hierarchiškai: jei klausimas faktiškai neteisingas, jis negali gauti daugiau nei 1 balo,\n"
+        "net jei jo gramatika ideali. Jei klausimas teisingas, bet neaiškus, jis negali gauti daugiau nei 4 balų.\n"
 
         "Atsakymą pateik tik JSON formatu kaip sąrašą objektų, atitinkančių šią struktūrą:\n"
         "[\n"
@@ -59,7 +62,7 @@ def evaluate_questions_with_llm(model, message):
             return None
             
     except Exception as e:
-        print(f"llm_evaluation klaida generuojant įvertinimą: {e}")
+        print(f"llm_evaluation klaida generuojant įvertinimą su modelius {model}: {e}")
         return None
 
 def evaluate_questions(questions_path, model, source_text_path):
@@ -149,10 +152,10 @@ def evaluate_questions_with_one_model(folder_path, model, output_path, source_te
 
         if evaluations_json is not None:
             file_io.save_json_file(evaluations_json, evalutions_path)
-            print("llm_evaluations: klausimai sėkmingai išsaugoti!")
+            print("llm_evaluations: įvertinimai sėkmingai išsaugoti!")
         else:
             print("llm_evaluations klaida: gautas JSON None failas. Programa stabdoma.")
             sys.exit()
 
-    print("llm_evaluations: klausimai sėkmingai išsaugoti!")
+    print("llm_evaluations: visi įvertinimai sėkmingai išsaugoti!")
 

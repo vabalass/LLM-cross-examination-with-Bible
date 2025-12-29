@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_23"
+    },
+    "results": [
+        {
+            "id": "Mt_23_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi nurodytą Biblijos ištrauką. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus pasisakymą apie fariziejų naujatikius. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_003",
+            "grade": 5,
+            "comment": "Klausimas teisingai klausia, ką Jėzus pasakė, o ne fariziejų mokymą, ir pateikia teisingą atsakymą. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi Jėzaus kritiką fariziejams dėl dešimtinių. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai nurodo Jėzaus palyginimą su pabaltintais antkapiais. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai apibendrina Jėzaus kritiką dėl fariziejų veidmainystės su pranašų paminklais. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiksliai atkartoja Mt 23:15. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus kritiką fariziejų valdymo stiliui. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi fariziejų norą būti vadinamiems 'rabi'. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus palyginimą su taurės ir dubens valymu. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai apibendrina Jėzaus pranašystę apie Jeruzalės ateitį. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_012",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai apibūdina fariziejų elgesį su pranašais ir teisiaisiais. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mt_23_013",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi Jėzaus mokymą apie tarnavimą. Visi aspektai idealūs."
+        }
+    ]
+}

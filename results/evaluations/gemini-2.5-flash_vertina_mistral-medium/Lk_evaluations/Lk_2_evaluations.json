@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_2"
+    },
+    "results": [
+        {
+            "id": "Lk_2_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys atitinka tekstą, teisingas atsakymas tiesiogiai cituojamas iš nurodytos eilutės. Puiki klausimo ir atsakymo kokybė."
+        },
+        {
+            "id": "Lk_2_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys atitinka tekstą, teisingas atsakymas tiksliai nurodo vietą pagal Šventąjį Raštą. Idealu."
+        },
+        {
+            "id": "Lk_2_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys atitinka tekstą, teisingas atsakymas tiksliai atspindi Lk 2:7 eilutę. Ideali kokybė."
+        },
+        {
+            "id": "Lk_2_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys gerai suformuluotos, teisingas atsakymas tiksliai apibūdina įvykį pagal nurodytą eilutę. Puiki kokybė."
+        },
+        {
+            "id": "Lk_2_005",
+            "grade": 4,
+            "comment": "Klausimas puikus, tačiau teisingame atsakyme ('b') yra nedidelė gramatikos klaida ('gimusią' turėtų būti 'gimusį' atsižvelgiant į 'Mesiją, Išganytoją'). Turinys teisingas, bet formuluotė galėtų būti geresnė."
+        },
+        {
+            "id": "Lk_2_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys atitinka tekstą, teisingas atsakymas tiksliai apibūdina piemenų radybą Betliejuje. Ideali kokybė."
+        },
+        {
+            "id": "Lk_2_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys tinkamos, teisingas atsakymas tiesiogiai atspindi Marijos veiksmus, aprašytus Lk 2:19. Idealu."
+        },
+        {
+            "id": "Lk_2_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys atitinka tekstą, teisingas atsakymas tiksliai apibūdina piemenų reakciją po susitikimo. Idealu."
+        },
+        {
+            "id": "Lk_2_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys tinkamos, teisingas atsakymas tiesiogiai nurodytas Lk 2:21 eilutėje. Ideali kokybė."
+        },
+        {
+            "id": "Lk_2_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys gerai suformuluotos, teisingas atsakymas tiksliai atspindi Mozės Įstatymo reikalavimus Lk 2:24. Ideali kokybė."
+        },
+        {
+            "id": "Lk_2_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, parinktys atitinka tekstą, teisingas atsakymas tiesiogiai cituoja Simeonui duotą pažadą Lk 2:26. Idealu."
+        },
+        {
+            "id": "Lk_2_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas atsakymas yra tiksli Simeono giesmės citata iš Lk 2:29-32. Ideali kokybė."
+        },
+        {
+            "id": "Lk_2_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas atsakymas yra tiksli Simeono pranašystės citata Marijai iš Lk 2:34-35. Ideali kokybė."
+        },
+        {
+            "id": "Lk_2_014",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas atsakymas tiksliai apibendrina pranašės Onos aprašymą Lk 2:36-37 eilutėse. Ideali kokybė."
+        },
+        {
+            "id": "Lk_2_015",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas atsakymas tiksliai atspindi Onos reakciją pamačius kūdikį Jėzų, kaip aprašyta Lk 2:38. Idealu."
+        },
+        {
+            "id": "Lk_2_016",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas atsakymas tiksliai nurodo, kur Jėzus buvo rastas po trijų dienų, pagal Lk 2:46. Ideali kokybė."
+        },
+        {
+            "id": "Lk_2_017",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas atsakymas yra tiksli Jėzaus žodžių citata tėvams, kaip aprašyta Lk 2:49. Ideali kokybė."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_16"
+    },
+    "results": [
+        {
+            "id": "Lk_16_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Lk_16_002",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi teksto informaciją, o atsakymas yra aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Lk_16_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas (šeimininkas) tiesiogiai nurodytas tekste."
+        },
+        {
+            "id": "Lk_16_005",
+            "grade": 5,
+            "comment": "Klausimas yra tiesioginė citata, o atsakymas aiškiai nurodytas Biblijos ištraukoje."
+        },
+        {
+            "id": "Lk_16_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Lk_16_007",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas (turtuolis) aiškiai nurodytas tekste."
+        },
+        {
+            "id": "Lk_16_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Lk_16_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Lk_16_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, atsakymas tiesiogiai randamas tekste."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_5"
+    },
+    "results": [
+        {
+            "id": "Lk_5_001",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir aiškus, o pasirinktas atsakymas puikiai atspindi informaciją, pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Lk_5_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai cituoja Jėzaus žodžius iš teksto, todėl yra idealus."
+        },
+        {
+            "id": "Lk_5_003",
+            "grade": 5,
+            "comment": "Puikiai suformuluotas klausimas su atsakymu, kuris yra tiesioginė ir tiksli citata iš Biblijos ištraukos."
+        },
+        {
+            "id": "Lk_5_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai atitinka Jėzaus žodžius Simonui Petrui, nurodytus ištraukoje."
+        },
+        {
+            "id": "Lk_5_005",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingas atsakymas pateikiamas kaip tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Lk_5_006",
+            "grade": 5,
+            "comment": "Klausimas yra gerai suformuluotas, o atsakymas tiksliai atspindi visą Jėzaus nurodymą raupsuotajam."
+        },
+        {
+            "id": "Lk_5_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas atsakymas tiksliai apibūdina paralitiko patekimo būdą, nurodytą ištraukoje."
+        },
+        {
+            "id": "Lk_5_008",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas – tiesioginė Jėzaus citata, pasakyta pamačius tikėjimą."
+        },
+        {
+            "id": "Lk_5_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o pasirinktas atsakymas tiksliai atspindi veiksmą, kuriuo Jėzus įrodė savo galią atleisti nuodėmes."
+        },
+        {
+            "id": "Lk_5_010",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o atsakymas – tiesioginė Jėzaus komanda Leviui, nurodyta tekste."
+        },
+        {
+            "id": "Lk_5_011",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o atsakymas – tiesioginė fariziejų ir Rašto aiškintojų citata iš Biblijos ištraukos."
+        },
+        {
+            "id": "Lk_5_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas yra tiesioginė Jėzaus citata, paaiškinanti, kodėl jo mokiniai nepasninkauja."
+        },
+        {
+            "id": "Lk_5_013",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingas atsakymas tiesiogiai cituoja Jėzaus nurodymą, kaip elgtis su jaunu vynu ir vynmaišiais."
+        }
+    ]
+}

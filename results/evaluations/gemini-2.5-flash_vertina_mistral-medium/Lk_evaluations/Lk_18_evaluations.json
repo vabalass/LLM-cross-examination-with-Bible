@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_18"
+    },
+    "results": [
+        {
+            "id": "Lk_18_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi pagrindinę palyginimo idėją, nurodytą pačioje ištraukos pradžioje."
+        },
+        {
+            "id": "Lk_18_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai nurodo teisėjo motyvą – atsikratyti įkyrios našlės, kad ji „neapkultų“ (nevargintų) jo."
+        },
+        {
+            "id": "Lk_18_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai cituoja Jėzaus žodžius apie Dievo atsakymą į išrinktųjų maldas."
+        },
+        {
+            "id": "Lk_18_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus klausimą palyginimo pabaigoje."
+        },
+        {
+            "id": "Lk_18_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi fariziejaus maldą ir jo požiūrį į save, lyginant su kitais."
+        },
+        {
+            "id": "Lk_18_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai cituoja muitininko maldą."
+        },
+        {
+            "id": "Lk_18_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus palyginimo išvadą apie nuteisintąjį."
+        },
+        {
+            "id": "Lk_18_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai cituoja Jėzaus mokymą apie savęs aukštinimą."
+        },
+        {
+            "id": "Lk_18_009",
+            "grade": 2,
+            "comment": "Klausimas reikalauja priežasties, kuri nėra tiesiogiai nurodyta pateiktoje Biblijos ištraukoje, todėl pasirinktas atsakymas yra labiau interpretacija nei tiesioginė faktų konstatacija."
+        },
+        {
+            "id": "Lk_18_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai perteikia Jėzaus nurodymą turtingajam didikui."
+        },
+        {
+            "id": "Lk_18_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus palyginimą apie turtuolius ir Dievo karalystę."
+        },
+        {
+            "id": "Lk_18_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai perteikia Jėzaus pažadą tiems, kurie viską palieka dėl Dievo karalystės."
+        },
+        {
+            "id": "Lk_18_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi išsamią Jėzaus pranašystę apie Žmogaus Sūnaus kančią ir prisikėlimą."
+        },
+        {
+            "id": "Lk_18_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai nurodo neregį elgetos prašymą."
+        }
+    ]
+}

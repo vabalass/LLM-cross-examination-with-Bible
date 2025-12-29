@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_18"
+    },
+    "results": [
+        {
+            "id": "Jn_18_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Jn_18_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingai nurodo išdavėjo vardą, nors tekste pateiktas tik „Judas“."
+        },
+        {
+            "id": "Jn_18_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi įvykių eigą ir Jėzaus žodžius pagal ištrauką."
+        },
+        {
+            "id": "Jn_18_004",
+            "grade": 5,
+            "comment": "Klausimas tikslus, atsakymas tiesiogiai randamas Biblijos ištraukoje."
+        },
+        {
+            "id": "Jn_18_005",
+            "grade": 4,
+            "comment": "Klausimas teisingas, tačiau „Kaifas“ variante pasitaiko rašybos klaida, kuri galėtų sukelti nedidelę painiavą."
+        },
+        {
+            "id": "Jn_18_006",
+            "grade": 1,
+            "comment": "Nurodytas teisingas atsakymas („Simonas Petras“) prieštarauja teksto ištraukai, kurioje teigiama, kad „kitas mokinys“ buvo pažįstamas vyriausiajam kunigui, o Petrą įvedė būtent jis."
+        },
+        {
+            "id": "Jn_18_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka teksto informaciją."
+        },
+        {
+            "id": "Jn_18_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus atsakymą apie savo mokymą."
+        },
+        {
+            "id": "Jn_18_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai cituoja Piloto klausimą Jėzui."
+        },
+        {
+            "id": "Jn_18_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus žodžius Pilotui apie jo karalystę."
+        },
+        {
+            "id": "Jn_18_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai cituoja Piloto pareiškimą žydams."
+        },
+        {
+            "id": "Jn_18_012",
+            "grade": 3,
+            "comment": "Nors teisingas atsakymas yra tikslus, klaidingi atsakymai yra pasikartojantys ir beprasmiški, kas žymiai sumažina klausimo kokybę."
+        },
+        {
+            "id": "Jn_18_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi žydų šaukimą Piloto akivaizdoje."
+        }
+    ]
+}

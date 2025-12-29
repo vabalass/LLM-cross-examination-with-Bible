@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Lk_17"
+    },
+    "results": [
+        {
+            "id": "Lk_17_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_17_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        }
+    ]
+}

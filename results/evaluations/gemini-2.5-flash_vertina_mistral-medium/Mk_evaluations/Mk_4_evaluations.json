@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_4"
+    },
+    "results": [
+        {
+            "id": "Mk_4_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi informaciją iš nurodytos Biblijos ištraukos, atsakymo variantai aiškūs ir tinkami."
+        },
+        {
+            "id": "Mk_4_002",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir atsakymo variantas teisingai nurodo įvykį, aprašytą tekste."
+        },
+        {
+            "id": "Mk_4_003",
+            "grade": 5,
+            "comment": "Klausimas reikalauja specifinės informacijos, o teisingas atsakymas tiksliai atitinka Biblijos ištraukos detalę."
+        },
+        {
+            "id": "Mk_4_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš teksto, tiksliai perteikianti Jėzaus žodžius."
+        },
+        {
+            "id": "Mk_4_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai apibendrina Biblijos ištraukoje pateiktą palyginimo paaiškinimą."
+        },
+        {
+            "id": "Mk_4_006",
+            "grade": 5,
+            "comment": "Klausimas tiksliai pateikia Jėzaus žodžius iš palyginimo su žibintu, o teisingas atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Mk_4_007",
+            "grade": 4,
+            "comment": "Nors atsakymas teisingas ir atspindi principą, jis nėra tiesioginė frazės interpretacija iš teksto, tačiau puikiai iliustruoja jo prasmę."
+        },
+        {
+            "id": "Mk_4_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai ir glaustai apibendrina pagrindinę palyginimo su savaiminiu augimu mintį."
+        },
+        {
+            "id": "Mk_4_009",
+            "grade": 5,
+            "comment": "Klausimas yra tiesioginis ir teisingas atsakymas tiksliai nurodo objektą, su kuriuo Jėzus palygino Dievo karalystę."
+        },
+        {
+            "id": "Mk_4_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas atsakymas tiksliai atspindi Jėzaus veiksmus ir žodžius audros metu."
+        },
+        {
+            "id": "Mk_4_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš teksto, puikiai atspindinti Jėzaus kreipimąsi į mokinius po audros."
+        },
+        {
+            "id": "Mk_4_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas atsakymas tiksliai atspindi mokinių reakciją ir žodžius po audros nutildymo."
+        },
+        {
+            "id": "Mk_4_013",
+            "grade": 5,
+            "comment": "Klausimas aiškiai nurodo eilutę ir teisingas atsakymas yra tiesioginė citata iš nurodytos Biblijos ištraukos."
+        }
+    ]
+}

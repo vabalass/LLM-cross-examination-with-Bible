@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_21"
+    },
+    "results": [
+        {
+            "id": "Jn_21_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, o teisingas atsakymas tiesiogiai atitinka teksto pradžią."
+        },
+        {
+            "id": "Jn_21_002",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o teisingas atsakymas puikiai apibendrina mokinių veiksmus prieš Jėzaus pasirodymą."
+        },
+        {
+            "id": "Jn_21_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas yra tiesioginė citata iš Biblijos ištraukos."
+        },
+        {
+            "id": "Jn_21_004",
+            "grade": 5,
+            "comment": "Klausimas tiksliai patikrina konkretų skaičių, o teisingas atsakymas yra tiesiogiai nurodytas tekste."
+        },
+        {
+            "id": "Jn_21_005",
+            "grade": 5,
+            "comment": "Klausimas gerai suformuluotas, o teisingas atsakymas tiksliai atspindi tekste aprašytus Jėzaus paruoštus patiekalus."
+        },
+        {
+            "id": "Jn_21_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, o teisingas atsakymas atitinka tiesioginį teksto nurodymą apie klausimo pakartojimus."
+        },
+        {
+            "id": "Jn_21_007",
+            "grade": 5,
+            "comment": "Klausimas gerai suformuluotas, o teisingas atsakymas yra tiksli citata, atspindinti Jėzaus pranašystę apie Petro ateitį."
+        },
+        {
+            "id": "Jn_21_008",
+            "grade": 5,
+            "comment": "Klausimas puikiai atspindi teksto detales apie mylimą mokinį, o teisingas atsakymas tiksliai perteikia išplatintą gandą ir jo paaiškinimą."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_9"
+    },
+    "results": [
+        {
+            "id": "Jn_9_001",
+            "grade": 5,
+            "comment": "Klausimas ir visi atsakymo variantai yra idealūs, atitinkantys Šventojo Rašto tekstą ir gramatikos taisykles."
+        },
+        {
+            "id": "Jn_9_002",
+            "grade": 5,
+            "comment": "Klausimas ir visi atsakymo variantai yra idealūs, atitinkantys Šventojo Rašto tekstą ir gramatikos taisykles."
+        },
+        {
+            "id": "Jn_9_003",
+            "grade": 5,
+            "comment": "Klausimas ir visi atsakymo variantai yra idealūs, atitinkantys Šventojo Rašto tekstą ir gramatikos taisykles."
+        },
+        {
+            "id": "Jn_9_004",
+            "grade": 3,
+            "comment": "Klausimas teisingas, bet atsakymo variante 'd' yra techninė/rašybos klaida ('Stébuklas' vietoje 'Stebuklas')."
+        },
+        {
+            "id": "Jn_9_005",
+            "grade": 3,
+            "comment": "Klausimas teisingas, bet jame yra techninė/gramatinė klaida ('pagydyto ajo' vietoje 'pagydytojo')."
+        },
+        {
+            "id": "Jn_9_006",
+            "grade": 4,
+            "comment": "Turinys puikus, tačiau atsakymo variante 'b' naudojamas netinkamas žodis ('pasiliepsnojo'), o tai mažina bendrą formuluotės kokybę."
+        },
+        {
+            "id": "Jn_9_007",
+            "grade": 5,
+            "comment": "Klausimas ir visi atsakymo variantai yra idealūs, atitinkantys Šventojo Rašto tekstą ir gramatikos taisykles."
+        },
+        {
+            "id": "Jn_9_008",
+            "grade": 3,
+            "comment": "Klausimas teisingas, bet jame yra gramatinė klaida ('ką jis manai' vietoje 'ką jis mano')."
+        },
+        {
+            "id": "Jn_9_009",
+            "grade": 5,
+            "comment": "Klausimas ir visi atsakymo variantai yra idealūs, atitinkantys Šventojo Rašto tekstą ir gramatikos taisykles."
+        },
+        {
+            "id": "Jn_9_010",
+            "grade": 5,
+            "comment": "Klausimas ir visi atsakymo variantai yra idealūs, atitinkantys Šventojo Rašto tekstą ir gramatikos taisykles."
+        },
+        {
+            "id": "Jn_9_011",
+            "grade": 5,
+            "comment": "Klausimas ir visi atsakymo variantai yra idealūs, atitinkantys Šventojo Rašto tekstą ir gramatikos taisykles."
+        },
+        {
+            "id": "Jn_9_012",
+            "grade": 5,
+            "comment": "Klausimas ir visi atsakymo variantai yra idealūs, atitinkantys Šventojo Rašto tekstą ir gramatikos taisykles."
+        },
+        {
+            "id": "Jn_9_013",
+            "grade": 4,
+            "comment": "Turinys puikus, tačiau atsakymo variante 'c' yra gramatinė klaida ('tiesą' vietoje 'tiesa')."
+        }
+    ]
+}

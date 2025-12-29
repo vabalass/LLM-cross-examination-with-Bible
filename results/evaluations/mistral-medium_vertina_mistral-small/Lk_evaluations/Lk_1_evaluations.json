@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Lk_1"
+    },
+    "results": [
+        {
+            "id": "Lk_1_001",
+            "grade": 3,
+            "comment": "Klausimas yra teisingas, bet turi trūkumų, nes Marija nėra vienintelis pagrindinis asmuo."
+        },
+        {
+            "id": "Lk_1_002",
+            "grade": 5,
+            "comment": "Klausimas yra idealus visais aspektais."
+        },
+        {
+            "id": "Lk_1_003",
+            "grade": 3,
+            "comment": "Klausimas yra teisingas, bet turi trūkumų, nes Zacharijui pasirodė ne tik angelas, bet ir Gabrielius."
+        },
+        {
+            "id": "Lk_1_004",
+            "grade": 5,
+            "comment": "Klausimas yra idealus visais aspektais."
+        },
+        {
+            "id": "Lk_1_005",
+            "grade": 5,
+            "comment": "Klausimas yra idealus visais aspektais."
+        },
+        {
+            "id": "Lk_1_006",
+            "grade": 5,
+            "comment": "Klausimas yra idealus visais aspektais."
+        },
+        {
+            "id": "Lk_1_007",
+            "grade": 5,
+            "comment": "Klausimas yra idealus visais aspektais."
+        },
+        {
+            "id": "Lk_1_008",
+            "grade": 5,
+            "comment": "Klausimas yra idealus visais aspektais."
+        },
+        {
+            "id": "Lk_1_009",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_010",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_011",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_012",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_013",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_014",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_015",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_016",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_017",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_018",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_019",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_020",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_021",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_022",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_023",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_024",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_025",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        },
+        {
+            "id": "Lk_1_026",
+            "grade": 0,
+            "comment": "Klausimas yra visiškai netinkamas, nes jis pasikartoja."
+        }
+    ]
+}

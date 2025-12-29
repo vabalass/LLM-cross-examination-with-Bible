@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_16"
+    },
+    "results": [
+        {
+            "id": "Jn_16_001",
+            "grade": 5,
+            "comment": "Klausimas, variantai ir teisingas atsakymas puikiai atitinka Šventojo Rašto ištrauką ir yra aiškūs."
+        },
+        {
+            "id": "Jn_16_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiesiogiai paimti iš nurodytos ištraukos, o klaidingi variantai yra akivaizdžiai klaidingi."
+        },
+        {
+            "id": "Jn_16_003",
+            "grade": 5,
+            "comment": "Klausimas suformuluotas aiškiai, o teisingas atsakymas tiesiogiai atspindi Jėzaus žodžius ištraukoje."
+        },
+        {
+            "id": "Jn_16_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai nurodo veikėją, minimą Šventojo Rašto ištraukoje."
+        },
+        {
+            "id": "Jn_16_005",
+            "grade": 4,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs pagal ištrauką, tačiau kai kurie klaidingi variantai pasikartoja iš ankstesnių klausimų, sumažindami didaktinę vertę."
+        },
+        {
+            "id": "Jn_16_006",
+            "grade": 5,
+            "comment": "Klausimas puikiai atspindi Jėzaus žodžių prasmę, o teisingas atsakymas tinkamai interpretuoja duotą kontekstą apie liūdesį, pavirsiantį džiaugsmu."
+        },
+        {
+            "id": "Jn_16_007",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė citata iš Šventojo Rašto ištraukos, o klaidingi variantai aiškiai prieštarauja tekstui."
+        },
+        {
+            "id": "Jn_16_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas yra tikslus atkartojimas Jėzaus žodžių apie prašymą Tėvo vardu."
+        },
+        {
+            "id": "Jn_16_009",
+            "grade": 4,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs pagal ištrauką, tačiau keli klaidingi variantai yra pasikartojantys iš ankstesnių klausimų, prastindami bendrą kokybę."
+        },
+        {
+            "id": "Jn_16_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus paskutinius padrąsinimo žodžius mokiniams, o klaidingi variantai yra lengvai atmestini."
+        },
+        {
+            "id": "Jn_16_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir nukreiptas į esminę frazę, o teisingas atsakymas yra tiesioginė Jėzaus žodžių citata ištraukos pabaigoje."
+        }
+    ]
+}

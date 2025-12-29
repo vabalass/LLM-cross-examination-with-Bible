@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_7"
+    },
+    "results": [
+        {
+            "id": "Mt_7_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka teksto prasmę ir formulavimą, be jokių klaidų."
+        },
+        {
+            "id": "Mt_7_002",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi tekste pateiktą nurodymą, o atsakymas \"Šventenybių\" yra tiesioginė nuoroda į Mt 7,6."
+        },
+        {
+            "id": "Mt_7_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai ir tiksliai atspindi Jėzaus mokymą apie prašymą ir gavimą, kaip nurodyta Mt 7,8."
+        },
+        {
+            "id": "Mt_7_004",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingas atsakymas \"Dangiškasis Tėvas\" tiesiogiai cituoja Mt 7,11, perteikiant esminę ištraukos žinią."
+        },
+        {
+            "id": "Mt_7_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai identifikuoja Mt 7,12 kaip „Įstatymą ir Pranašus“, kas žinoma kaip Aukso taisyklė."
+        },
+        {
+            "id": "Mt_7_006",
+            "grade": 4,
+            "comment": "Klausimas yra teisingas, o pasirinktas atsakymas puikiai atitinka teksto prasmę, tačiau atsakymo formuluotėje yra nedidelė gramatinė klaida (\"siaurą kelias\" vietoje \"siauras kelias\")."
+        },
+        {
+            "id": "Mt_7_007",
+            "grade": 2,
+            "comment": "Klausimas suformuluotas klaidinančiai ir tautologiškai. Nors Jėzus kalba apie gerus ir netikusius medžius, klausimas „kas yra panašus į gerą medį?“ turėtų ieškoti analogijos, pavyzdžiui, tikro pranašo, o ne paties medžio."
+        },
+        {
+            "id": "Mt_7_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi esminę Mt 7,21 ištraukos žinią apie įėjimą į dangaus karalystę."
+        },
+        {
+            "id": "Mt_7_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiesiogiai atspindi Jėzaus palyginimą apie išmintingą žmogų, statantį ant uolos, kaip nurodyta Mt 7,24."
+        }
+    ]
+}

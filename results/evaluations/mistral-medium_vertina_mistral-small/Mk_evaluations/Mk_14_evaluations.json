@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mk_14"
+    },
+    "results": [
+        {
+            "id": "Mk_14_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_006",
+            "grade": 3,
+            "comment": "Klausimas turi techninę klaidą, nes Jeruzalė yra pernelyg bendras atsakymas."
+        },
+        {
+            "id": "Mk_14_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_011",
+            "grade": 3,
+            "comment": "Klausimas turi techninę klaidą, nes Jeruzalė yra pernelyg bendras atsakymas."
+        },
+        {
+            "id": "Mk_14_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_013",
+            "grade": 4,
+            "comment": "Klausimas yra teisingas, bet stilius galėtų būti geresnis."
+        },
+        {
+            "id": "Mk_14_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_016",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_017",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_018",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_019",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_020",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_021",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_022",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_023",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        },
+        {
+            "id": "Mk_14_024",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais."
+        }
+    ]
+}

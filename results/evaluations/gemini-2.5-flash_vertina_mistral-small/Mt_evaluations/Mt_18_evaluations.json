@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_18"
+    },
+    "results": [
+        {
+            "id": "Mt_18_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Mt_18_002",
+            "grade": 1,
+            "comment": "Atsakymas 'Jie yra didžiausi' yra faktiškai klaidingas. Jėzus sako, kad kas pasidarys *mažas kaip vaikelis*, tas bus didžiausias, ne patys vaikai yra didžiausi."
+        },
+        {
+            "id": "Mt_18_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Mt_18_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Mt_18_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Mt_18_006",
+            "grade": 1,
+            "comment": "Atsakymas 'Jie yra kaip angelai' yra faktiškai klaidingas. Tekstas sako, kad 'jų angelai danguje visuomet regi mano dangiškojo Tėvo veidą', o ne kad patys mažutėliai yra kaip angelai."
+        },
+        {
+            "id": "Mt_18_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Mt_18_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Mt_18_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Mt_18_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją, teisingai akcentuojant Petro klausimą."
+        },
+        {
+            "id": "Mt_18_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją, pateikdamas parabolės moralą."
+        }
+    ]
+}

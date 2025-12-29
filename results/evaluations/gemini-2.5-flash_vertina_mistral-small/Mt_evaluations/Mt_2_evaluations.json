@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_2"
+    },
+    "results": [
+        {
+            "id": "Mt_2_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs: teisingas, aiškus, tiesiogiai atsakomas pagal pateiktą ištrauką."
+        },
+        {
+            "id": "Mt_2_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs: teisingas, aiškus, tiesiogiai atsakomas pagal pateiktą ištrauką."
+        },
+        {
+            "id": "Mt_2_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs: teisingas, aiškus, tiesiogiai atsakomas pagal pateiktą ištrauką."
+        },
+        {
+            "id": "Mt_2_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs: teisingas, aiškus, tiesiogiai atsakomas pagal pateiktą ištrauką."
+        },
+        {
+            "id": "Mt_2_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs: teisingas, aiškus, tiesiogiai atsakomas pagal pateiktą ištrauką."
+        },
+        {
+            "id": "Mt_2_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs: teisingas, aiškus, o atsakymas yra tiksli išvada iš teksto (Erodas 'pasiuntęs [kareivius]')."
+        },
+        {
+            "id": "Mt_2_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs: teisingas, aiškus, tiesiogiai atsakomas pagal pateiktą ištrauką."
+        }
+    ]
+}

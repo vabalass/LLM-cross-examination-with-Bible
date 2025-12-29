@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_19"
+    },
+    "results": [
+        {
+            "id": "Mt_19_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka teksto informaciją. Abi parinktys yra aiškios ir teisingos."
+        },
+        {
+            "id": "Mt_19_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, atsakymas tiksliai nurodo tekste minimus asmenis."
+        },
+        {
+            "id": "Mt_19_003",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o pateiktas atsakymas tiesioginė citata iš Jėzaus žodžių tekste."
+        },
+        {
+            "id": "Mt_19_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus paaiškinimą apie Mozės įstatymą."
+        },
+        {
+            "id": "Mt_19_005",
+            "grade": 5,
+            "comment": "Klausimas tiesioginis, o teisingas atsakymas identiškai sutampa su tekste nurodytais asmenimis."
+        },
+        {
+            "id": "Mt_19_006",
+            "grade": 5,
+            "comment": "Klausimas tiksliai pateikia Jėzaus atsakymą į mokinių nuomonę apie tuokimąsi, atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Mt_19_007",
+            "grade": 5,
+            "comment": "Klausimas tiesioginis, o teisingas atsakymas yra tiksli Jėzaus žodžių citata apie vaikus."
+        },
+        {
+            "id": "Mt_19_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas identiškai atspindi jaunuolio užduotą klausimą Jėzui."
+        },
+        {
+            "id": "Mt_19_009",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas tiesiogiai cituoja Jėzaus nurodymus jaunuoliui apie turtą."
+        },
+        {
+            "id": "Mt_19_010",
+            "grade": 5,
+            "comment": "Klausimas aiškiai suformuluotas, o atsakymas tiksliai atspindi Jėzaus mokymą apie turtuolius ir Dievo karalystę."
+        }
+    ]
+}

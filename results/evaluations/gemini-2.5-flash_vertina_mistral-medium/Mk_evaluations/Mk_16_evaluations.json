@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_16"
+    },
+    "results": [
+        {
+            "id": "Mk_16_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka Šv. Rašto ištrauką. Formuluotė aiški, pasirinkimai gerai suformuluoti, teisingas atsakymas nurodytas."
+        },
+        {
+            "id": "Mk_16_002",
+            "grade": 5,
+            "comment": "Klausimas tiesiogiai atsakomas iš teksto. Pateiktas atsakymas yra tikslus ir išsamus angelo žodžių apibendrinimas."
+        },
+        {
+            "id": "Mk_16_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir remiasi konkrečia Šv. Rašto vieta, o teisingas atsakymas yra nedviprasmiškai nurodytas tekste."
+        },
+        {
+            "id": "Mk_16_004",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo eilutę ir prašo atsakymo, kuris yra pateiktas beveik pažodžiui Šv. Rašto ištraukoje."
+        },
+        {
+            "id": "Mk_16_005",
+            "grade": 5,
+            "comment": "Puikiai suformuluotas klausimas, reikalaujantis atpažinti nepaminėtą faktą. Teisingas atsakymas yra tiksliai nurodytas, atitinkantis pateiktą ištrauką."
+        },
+        {
+            "id": "Mk_16_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, nuoroda į eilutę tiksli, o atsakymas tiesiogiai atkartoja Šv. Rašto ištraukos teiginį apie mokinių veiksmus."
+        }
+    ]
+}

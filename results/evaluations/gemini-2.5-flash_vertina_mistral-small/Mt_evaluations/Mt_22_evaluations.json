@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_22"
+    },
+    "results": [
+        {
+            "id": "Mt_22_001",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_002",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_003",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_004",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_005",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_006",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_007",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_008",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_009",
+            "grade": 2,
+            "comment": "Klausimas naudoja veiksmažodį 'padarė', o atsakymai prasideda 'Atsakė, kad...'. Teisingas atsakymas 'a' yra per daug supaprastintas ir nevisiškai atspindi Jėzaus atsakymą, kuris apėmė ir 'kas Dievo – Dievui'."
+        },
+        {
+            "id": "Mt_22_010",
+            "grade": 2,
+            "comment": "Teisingas atsakymas 'a' yra per daug supaprastintas ir nevisiškai atspindi Jėzaus atsakymą, kuris apėmė ir 'kas Dievo – Dievui'."
+        },
+        {
+            "id": "Mt_22_011",
+            "grade": 1,
+            "comment": "Sadukiejai tiesiogiai neklausė, ar prisikėlimas yra 'ne tikras'. Jie pateikė scenarijų, kad pademonstruotų, jų manymu, prisikėlimo absurdiškumą. Klausimas klaidingai interpretuoja jų tiesioginį klausimą."
+        },
+        {
+            "id": "Mt_22_012",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_013",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinkimas yra tikslūs ir aiškiai atspindi informaciją pateiktą Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_22_014",
+            "grade": 1,
+            "comment": "Jėzus pats inicijavo klausimą apie Mesiją, o ne 'gavo klausimą'. Be to, jis ne 'atsakė', kad Mesijas yra Dovydo Viešpats, o retoriškai klausė, vesdamas fariziejus prie šios išvados."
+        },
+        {
+            "id": "Mt_22_015",
+            "grade": 1,
+            "comment": "Jėzus ne 'atsakė', kad Dovydas vadina Mesiją Viešpačiu, o retoriškai klausė, cituodamas psalmę ir mesdamas iššūkį fariziejų supratimui."
+        }
+    ]
+}

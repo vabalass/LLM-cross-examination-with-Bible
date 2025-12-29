@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_7"
+    },
+    "results": [
+        {
+            "id": "Mk_7_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka teksto informaciją, su aiškiais ir teisingais atsakymų variantais."
+        },
+        {
+            "id": "Mk_7_002",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas puikiai atitinka teksto informaciją, teisingai interpretuojant paaiškinimą skliausteliuose."
+        },
+        {
+            "id": "Mk_7_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka teksto informaciją, su aiškiais ir teisingais atsakymų variantais."
+        },
+        {
+            "id": "Mk_7_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atspindi tiesioginį klausimą iš teksto, o klaidinantys variantai yra gerai suformuluoti."
+        },
+        {
+            "id": "Mk_7_005",
+            "grade": 3,
+            "comment": "Klausimas teisingas, bet trys iš keturių atsakymų variantų yra identiški, kas yra didelė techninė/formos klaida."
+        },
+        {
+            "id": "Mk_7_006",
+            "grade": 3,
+            "comment": "Klausimas teisingas, bet trys iš keturių atsakymų variantų yra identiški, kas yra didelė techninė/formos klaida."
+        },
+        {
+            "id": "Mk_7_007",
+            "grade": 3,
+            "comment": "Klausimas teisingas, tačiau atsakymo variante yra nedidelė gramatinė klaida ('įsikibėte' vietoj 'įsikibę') ir visi atsakymų variantai yra identiški."
+        },
+        {
+            "id": "Mk_7_008",
+            "grade": 4,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi tekstą. Tačiau trys klaidingi atsakymų variantai kartojasi, kas sumažina didaktinę vertę."
+        },
+        {
+            "id": "Mk_7_009",
+            "grade": 3,
+            "comment": "Klausimas teisingas, bet trys iš keturių atsakymų variantų yra identiški, kas yra didelė techninė/formos klaida."
+        },
+        {
+            "id": "Mk_7_010",
+            "grade": 3,
+            "comment": "Klausimas teisingas, bet du atsakymų variantai yra identiški teisingam, o du kiti yra faktinės klaidos. Tai yra techninė/formos klaida."
+        },
+        {
+            "id": "Mk_7_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka teksto informaciją ir siūlo gerus, tekste paminėtus, klaidinančius variantus."
+        },
+        {
+            "id": "Mk_7_012",
+            "grade": 3,
+            "comment": "Klausimas teisingas, bet trys iš keturių atsakymų variantų yra identiški, kas yra didelė techninė/formos klaida."
+        }
+    ]
+}

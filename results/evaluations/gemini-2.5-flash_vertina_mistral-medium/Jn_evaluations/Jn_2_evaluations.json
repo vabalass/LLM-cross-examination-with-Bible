@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_2"
+    },
+    "results": [
+        {
+            "id": "Jn_2_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra aiškūs, tikslūs ir visiškai atitinka Biblijos ištrauką. Puikiai suformuluotas."
+        },
+        {
+            "id": "Jn_2_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra aiškūs, tikslūs ir tiesiogiai cituoja Biblijos ištrauką. Idealu."
+        },
+        {
+            "id": "Jn_2_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra aiškūs, tikslūs ir tiesiogiai paremti Biblijos tekstu. Puikiai suformuluotas."
+        },
+        {
+            "id": "Jn_2_004",
+            "grade": 1,
+            "comment": "Nors atsakymo esmė teisinga (pripildyti indus vandens), frazė „o vandenilis pavirto vynu“ yra klaidinanti ir neturi pagrindo tekste. Tai nebiblinis ir neteisingas stebuklo paaiškinimas."
+        },
+        {
+            "id": "Jn_2_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra aiškūs, tikslūs ir puikiai apibendrina Jėzaus veiksmus šventykloje, remiantis ištrauka."
+        },
+        {
+            "id": "Jn_2_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra aiškūs, tikslūs ir tiesiogiai cituoja Jėzaus žodžius ištraukoje. Idealu."
+        },
+        {
+            "id": "Jn_2_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra aiškūs, tikslūs ir puikiai atspindi tekste pateiktą informaciją apie Jėzaus žinias apie žmones."
+        },
+        {
+            "id": "Jn_2_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra aiškūs, tikslūs ir tiesiogiai nurodo vietovę, paminėtą Biblijos ištraukoje. Idealu."
+        }
+    ]
+}

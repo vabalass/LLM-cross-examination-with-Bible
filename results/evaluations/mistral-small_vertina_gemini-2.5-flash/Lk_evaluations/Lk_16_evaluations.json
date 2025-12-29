@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Lk_16"
+    },
+    "results": [
+        {
+            "id": "Lk_16_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_16_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        }
+    ]
+}

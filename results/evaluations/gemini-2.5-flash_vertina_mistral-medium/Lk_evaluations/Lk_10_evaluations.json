@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_10"
+    },
+    "results": [
+        {
+            "id": "Lk_10_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai ir tiksliai atspindi Biblijos ištraukos teiginį apie 72 mokinius."
+        },
+        {
+            "id": "Lk_10_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiksliai nurodo, kad mokiniai neturėjo neštis piniginės, krepšio ar autuvo, kas atitinka ištraukos instrukcijas."
+        },
+        {
+            "id": "Lk_10_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiksliai cituoja Jėzaus nurodymą, ką pasakyti įeinant į namus."
+        },
+        {
+            "id": "Lk_10_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai apibūdina Jėzaus instrukcijas, ką daryti nepriėmus mieste."
+        },
+        {
+            "id": "Lk_10_005",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai nurodo Kafarnaumą, kaip paminėta ištraukoje."
+        },
+        {
+            "id": "Lk_10_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai cituoja mokinių žodžius, grįžus po misijos."
+        },
+        {
+            "id": "Lk_10_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai perteikia Jėzaus nurodymą, kuo džiaugtis, paminėtą ištraukoje."
+        },
+        {
+            "id": "Lk_10_008",
+            "grade": 4,
+            "comment": "Klausimas geras, bet atsakymo pasirinkimas 'Dievo karalystės paslaptys' yra labiau interpretacija/apibendrinimas, o ne tiesioginė citata iš teksto, kuriame minima 'tai'."
+        },
+        {
+            "id": "Lk_10_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai apibendrina Jėzaus pasakytus žodžius apie pranašus ir karalius."
+        },
+        {
+            "id": "Lk_10_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai cituoja Įstatymo mokytojo atsakymą į Jėzaus klausimą."
+        },
+        {
+            "id": "Lk_10_011",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai nurodo samarietį kaip asmenį, kuris padėjo palyginime."
+        },
+        {
+            "id": "Lk_10_012",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai cituoja Jėzaus žodžius Mortai apie rūpinimąsi daugeliu dalykų."
+        },
+        {
+            "id": "Lk_10_013",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai cituoja Jėzaus žodžius apie Marijos pasirinkimą."
+        },
+        {
+            "id": "Lk_10_014",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai atspindi Jėzaus teiginį, kad mokinio niekinimas yra siuntėjo niekinimas."
+        }
+    ]
+}

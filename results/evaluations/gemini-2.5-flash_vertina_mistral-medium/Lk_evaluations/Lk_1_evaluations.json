@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_1"
+    },
+    "results": [
+        {
+            "id": "Lk_1_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingas, atsakymas tiksliai atspindi nurodytą Biblijos ištraukos informaciją."
+        },
+        {
+            "id": "Lk_1_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra puikūs, tiesiogiai atspindintys tekste pateiktą Zacharijo ir Elzbietos aprašymą."
+        },
+        {
+            "id": "Lk_1_003",
+            "grade": 5,
+            "comment": "Klausimas yra konkretus ir atsakymas tiksliai nurodo Zacharijo veiklą šventykloje, kaip aprašyta Biblijos ištraukoje."
+        },
+        {
+            "id": "Lk_1_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai atspindi angelo Gabrieliaus žinią Zacharijui ištraukoje."
+        },
+        {
+            "id": "Lk_1_005",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir atsakymas teisingai paaiškina Zacharijo nebylumo priežastį, remiantis tekstu."
+        },
+        {
+            "id": "Lk_1_006",
+            "grade": 5,
+            "comment": "Klausimas yra konkretus ir atsakymas tiksliai nurodo, kiek laiko Elzbieta slėpėsi, kaip aprašyta Biblijos ištraukoje."
+        },
+        {
+            "id": "Lk_1_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas teisingai nurodo vietą, kurioje angelas Gabrielius pasirodė Marijai."
+        },
+        {
+            "id": "Lk_1_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra puikūs, tiksliai atspindintys angelo Gabrieliaus pranašystę apie Marijos sūnų."
+        },
+        {
+            "id": "Lk_1_009",
+            "grade": 4,
+            "comment": "Atsakymas yra puikus turiniu, tačiau klausime yra nedidelė techninė klaida ('Gabrieluiši' vietoj 'Gabrieliui'), kuri nepakeičia prasmės."
+        },
+        {
+            "id": "Lk_1_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas teisingai apibūdina Marijos veiksmus, sužinojus apie Elzbietos nėštumą."
+        },
+        {
+            "id": "Lk_1_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra puikūs, tiesiogiai cituojantys Elzbietos žodžius Marijai."
+        },
+        {
+            "id": "Lk_1_012",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas tiksliai cituoja Marijos giesmės fragmentą apie Dievo veiksmus."
+        },
+        {
+            "id": "Lk_1_013",
+            "grade": 5,
+            "comment": "Klausimas yra konkretus ir atsakymas tiksliai nurodo, kiek laiko Marija prabuvo pas Elzbietą, kaip aprašyta ištraukoje."
+        },
+        {
+            "id": "Lk_1_014",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas teisingai apibūdina kaimynų ketinimus dėl Jono vardo."
+        },
+        {
+            "id": "Lk_1_015",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas teisingai paaiškina, kaip Zacharijas patvirtino sūnaus vardą, remiantis tekstu."
+        },
+        {
+            "id": "Lk_1_016",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas tiksliai nurodo Zacharijo veiksmą, kai atsivėrė jo lūpos, kaip aprašyta ištraukoje."
+        },
+        {
+            "id": "Lk_1_017",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra puikūs, tiksliai atspindintys Zacharijo pranašystę apie Joną."
+        },
+        {
+            "id": "Lk_1_018",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas tiksliai apibūdina Zacharijo giesmės turinį apie Dievo gailestingumą."
+        },
+        {
+            "id": "Lk_1_019",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas teisingai nurodo vietą, kurioje Jonas Krikštytojas augo ir tvirtėjo."
+        },
+        {
+            "id": "Lk_1_020",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas teisingai nurodo Zacharijo profesiją bei Elzbietos ryšį, remiantis tekstu."
+        },
+        {
+            "id": "Lk_1_021",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas tiksliai cituoja angelo Gabrieliaus žodžius Marijai apie Šventąją Dvasią."
+        },
+        {
+            "id": "Lk_1_022",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas tiksliai cituoja Elzbietos pareiškimą apie Marijos tikėjimą."
+        },
+        {
+            "id": "Lk_1_023",
+            "grade": 4,
+            "comment": "Atsakymas yra faktiškai teisingas ir gerai atspindi pranašystę, tačiau turi nedidelę gramatinę klaidą ('mokysi' vietoj 'mokys')."
+        },
+        {
+            "id": "Lk_1_024",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas tiksliai atspindi Marijos giesmės fragmentą apie Dievo malonę."
+        },
+        {
+            "id": "Lk_1_025",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas tiksliai apibūdina Zacharijo giesmės turinį apie Dievo šviesą."
+        },
+        {
+            "id": "Lk_1_026",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir atsakymas tiksliai cituoja Marijos pareiškimą apie jos palaiminimą kartose."
+        },
+        {
+            "id": "Lk_1_027",
+            "grade": 4,
+            "comment": "Atsakymas yra faktiškai teisingas ir gerai apibūdina Jono ateitį, tačiau turi nedidelę gramatinę klaidą ('mokysi' vietoj 'mokys')."
+        }
+    ]
+}

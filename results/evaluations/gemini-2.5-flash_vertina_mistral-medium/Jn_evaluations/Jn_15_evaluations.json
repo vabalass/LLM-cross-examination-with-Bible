@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_15"
+    },
+    "results": [
+        {
+            "id": "Jn_15_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus. Pateikti atsakymai tiesiogiai atspindi Biblijos ištrauką Jn 15,1."
+        },
+        {
+            "id": "Jn_15_002",
+            "grade": 5,
+            "comment": "Klausimas puikiai formuluotas ir tiesiogiai atsakomas pagal Jn 15,2. Teisingas atsakymas yra vienareikšmiškas."
+        },
+        {
+            "id": "Jn_15_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas 'a' tiksliai atspindi Jn 15,6 eilučių prasmę."
+        },
+        {
+            "id": "Jn_15_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiesiogiai cituoja Jn 15,7 eilutės pažadą, todėl yra puikiai sudarytas."
+        },
+        {
+            "id": "Jn_15_005",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo eilutę ir prašo pagrindinio įsakymo, kuris yra aiškiai išreikštas Jn 15,12."
+        },
+        {
+            "id": "Jn_15_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas 'a' tiksliai perteikia didžiausios meilės apibrėžimą, pateiktą Jn 15,13."
+        },
+        {
+            "id": "Jn_15_007",
+            "grade": 5,
+            "comment": "Klausimas gerai formuluotas ir teisingas atsakymas puikiai apibendrina pasaulio priešiškumo Jėzaus mokiniams priežastį pagal Jn 15,18-19."
+        },
+        {
+            "id": "Jn_15_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiesiogiai cituoja Įstatyme užrašytą žodį iš Jn 15,25."
+        },
+        {
+            "id": "Jn_15_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas 'b' tiksliai nurodo Globėją (Tiesos Dvasią), kaip paminėta Jn 15,26."
+        }
+    ]
+}

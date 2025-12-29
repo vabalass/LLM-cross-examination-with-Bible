@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_2"
+    },
+    "results": [
+        {
+            "id": "Mt_2_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiu visais aspektais, atitinka tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_2_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiu visais aspektais, atitinka tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_2_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiu visais aspektais, atitinka tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_2_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiu visais aspektais, atitinka tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_2_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiu visais aspektais, atitinka tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_2_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiu visais aspektais, atitinka tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_2_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiu visais aspektais, atitinka tekstą ir yra aiškiai suformuluotas."
+        }
+    ]
+}

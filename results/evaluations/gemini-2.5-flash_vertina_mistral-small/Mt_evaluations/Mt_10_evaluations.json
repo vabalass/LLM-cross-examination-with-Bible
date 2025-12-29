@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_10"
+    },
+    "results": [
+        {
+            "id": "Mt_10_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką. Visi aspektai yra idealūs."
+        },
+        {
+            "id": "Mt_10_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingas, o atsakymas tiesiogiai paimtas iš pateiktos ištraukos. Nėra jokių turinio ar formos trūkumų."
+        },
+        {
+            "id": "Mt_10_003",
+            "grade": 5,
+            "comment": "Klausimas yra išsamus ir teisingas, apimantis kelis atsakymus iš Biblijos ištraukos. Pateiktos parinktys yra tikslios ir atspindi tekstą."
+        },
+        {
+            "id": "Mt_10_004",
+            "grade": 5,
+            "comment": "Šis klausimas ir atsakymas yra tiesioginė citata iš Biblijos ištraukos. Visi aspektai yra idealūs ir aiškūs."
+        },
+        {
+            "id": "Mt_10_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs ir tiesiogiai paimti iš nurodytos Biblijos eilutės. Puikus turinys ir formuluotė."
+        },
+        {
+            "id": "Mt_10_006",
+            "grade": 4,
+            "comment": "Klausimas yra teisingas, tačiau pasirinkimo variantas 'a' turi gramatinę klaidą ('Jis jį išpažinsiu' turėtų būti 'Aš jį išpažinsiu'). Turinio teisingumas išlaikytas, bet formuluotė galėtų būti geresnė."
+        },
+        {
+            "id": "Mt_10_007",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi Biblijos ištrauką. Visi aspektai yra idealūs, atitinkantys nurodytas vertinimo kriterijų nuostatas."
+        },
+        {
+            "id": "Mt_10_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai cituoja Biblijos ištrauką. Turinio ir formos kokybė yra puiki."
+        },
+        {
+            "id": "Mt_10_009",
+            "grade": 5,
+            "comment": "Šis klausimas ir atsakymas yra tikslūs ir tiesiogiai paimti iš pateiktos ištraukos. Visais aspektais atitinka aukščiausius kokybės reikalavimus."
+        },
+        {
+            "id": "Mt_10_010",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingas, atsakymas tiesiogiai atitinka Biblijos tekstą. Klausimas idealus visais aspektais."
+        },
+        {
+            "id": "Mt_10_011",
+            "grade": 4,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tačiau tarp pasirinkimo variantų 'c' ir 'd' yra pasikartojimas. Tai yra nedidelis techninis/formos trūkumas."
+        },
+        {
+            "id": "Mt_10_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, o atsakymas tiesiogiai paimtas iš Biblijos ištraukos. Atitinka visus idealiam vertinimui keliamus reikalavimus."
+        },
+        {
+            "id": "Mt_10_013",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi Biblijos ištrauką. Visi aspektai yra idealūs, turinys ir logika nepriekaištingi."
+        },
+        {
+            "id": "Mt_10_014",
+            "grade": 5,
+            "comment": "Šis klausimas ir atsakymas yra tikslūs ir tiesiogiai paimti iš pateiktos ištraukos. Klausimas yra idealus visais aspektais."
+        }
+    ]
+}

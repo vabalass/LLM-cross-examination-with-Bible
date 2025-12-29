@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_13"
+    },
+    "results": [
+        {
+            "id": "Mt_13_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi informaciją iš Šv. Rašto ištraukos apie Jėzaus buvimo vietą kalbant miniai."
+        },
+        {
+            "id": "Mt_13_002",
+            "grade": 5,
+            "comment": "Klausimas tiksliai pateikia detalę iš palyginimo apie sėjėją, o pasirinktas atsakymas yra visiškai teisingas pagal tekstą."
+        },
+        {
+            "id": "Mt_13_003",
+            "grade": 5,
+            "comment": "Klausimas teisingai identifikuoja priežastį, kodėl grūdai nuvyto ant uolų, ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_13_004",
+            "grade": 5,
+            "comment": "Klausimas teisingai nurodo didžiausią derlingumą, paminėtą palyginime, o atsakymas yra tikslus pagal tekstą."
+        },
+        {
+            "id": "Mt_13_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atspindi Jėzaus paaiškinimą, kodėl jis kalbėjo palyginimais, tiesiogiai cituojant 13-ąjį posmą."
+        },
+        {
+            "id": "Mt_13_006",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo Izaijo pranašystės esmę, o atsakymas tiksliai atitinka tekste pateiktą citatą."
+        },
+        {
+            "id": "Mt_13_007",
+            "grade": 5,
+            "comment": "Klausimas teisingai identifikuoja pagrindinę priežastį, kodėl žmonės nesuprato Jėzaus žodžių, o atsakymas yra tikslus teksto apibendrinimas."
+        },
+        {
+            "id": "Mt_13_008",
+            "grade": 5,
+            "comment": "Klausimas tiksliai klausia, kas buvo palaiminta, o atsakymas yra tiesioginė citata iš 16-ojo posmo."
+        },
+        {
+            "id": "Mt_13_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi sėjėjo palyginimo aiškinimą apie pasėlio prie kelio reikšmę, kaip nurodyta 19-ame posme."
+        },
+        {
+            "id": "Mt_13_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka sėjėjo palyginimo aiškinimą apie pasėlio ant uolų prasmę, kaip aprašyta tekste."
+        },
+        {
+            "id": "Mt_13_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi sėjėjo palyginimo aiškinimą apie pasėlio tarp erškėčių reikšmę."
+        },
+        {
+            "id": "Mt_13_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi sėjėjo palyginimo aiškinimą apie pasėlio geroje žemėje prasmę."
+        },
+        {
+            "id": "Mt_13_013",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo raugių sėjėją palyginime, o atsakymas yra visiškai teisingas pagal tekstą."
+        },
+        {
+            "id": "Mt_13_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi tarnų pasiūlymą šeimininkui dėl raugių, kaip nurodyta tekste."
+        },
+        {
+            "id": "Mt_13_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi šeimininko nurodymą dėl raugių pjūties metu."
+        },
+        {
+            "id": "Mt_13_016",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai apibūdina garstyčios grūdelio palyginimą su dangaus karalyste."
+        },
+        {
+            "id": "Mt_13_017",
+            "grade": 2,
+            "comment": "Klausimas teisingai nurodo palyginimą, tačiau atsakymas „Su miltais, kurie išrūgo nuo raugo“ yra ne visai tikslus tiesioginis palyginimo objektas – Dangaus karalystė lyginama su pačiu raugu, kuris įmaišomas į miltus ir juos įrūgo."
+        },
+        {
+            "id": "Mt_13_018",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi sėjantįjį gerą sėklą palyginimo apie rauges aiškinime."
+        },
+        {
+            "id": "Mt_13_019",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi raugių reikšmę palyginimo apie rauges aiškinime."
+        },
+        {
+            "id": "Mt_13_020",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi tekste aprašytą piktojo ir nedorėlių likimą pasaulio pabaigoje."
+        }
+    ]
+}

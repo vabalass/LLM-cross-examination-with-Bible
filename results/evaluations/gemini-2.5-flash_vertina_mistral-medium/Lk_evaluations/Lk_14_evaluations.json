@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_14"
+    },
+    "results": [
+        {
+            "id": "Lk_14_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra visiškai tikslūs ir atspindi Biblijos ištrauką. Visi variantai yra aiškūs ir tinkami."
+        },
+        {
+            "id": "Lk_14_002",
+            "grade": 5,
+            "comment": "Klausimas tiksliai suformuluotas, o teisingas atsakymas tiesiogiai cituoja Jėzaus pateiktą pavyzdį iš Biblijos ištraukos."
+        },
+        {
+            "id": "Lk_14_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas puikiai atspindi Jėzaus palyginimo esmę apie paskutines vietas prie stalo."
+        },
+        {
+            "id": "Lk_14_004",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas idealiai apibendrina Jėzaus nurodymus dėl svečių kvietimo į vaišes."
+        },
+        {
+            "id": "Lk_14_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai išvardija visus tris svečių atsikalbėjimo motyvus, paminėtus ištraukoje."
+        },
+        {
+            "id": "Lk_14_006",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas detaliai ir teisingai aprašo dviejų etapų šeimininko nurodymus tarnui."
+        },
+        {
+            "id": "Lk_14_007",
+            "grade": 1,
+            "comment": "Atsakymo formuluotė „nemėgti savo šeimos daugiau nei Jėzaus“ yra faktiškai klaidinga ir neteisingai interpretuoja biblinį posakį „nelaiko neapykantoje“, kuris reiškia mylėti mažiau arba teikti pirmenybę Jėzui, o ne aktyviai nemėgti."
+        },
+        {
+            "id": "Lk_14_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiksliai pateikia vieną iš dviejų Jėzaus panaudotų pavyzdžių planavimo kontekste."
+        },
+        {
+            "id": "Lk_14_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiesiogiai atspindi Jėzaus žodžius apie besūrę druską ištraukoje."
+        },
+        {
+            "id": "Lk_14_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas teisingai interpretuoja parabolės moralą, susiejant jį su Dievo karalyste."
+        },
+        {
+            "id": "Lk_14_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai perteikia Jėzaus patarimą apie bokšto statybos planavimą."
+        }
+    ]
+}

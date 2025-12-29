@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_1"
+    },
+    "results": [
+        {
+            "id": "Mt_1_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais, atitinka turinį, logiką, gramatiką ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_1_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais, atitinka turinį, logiką, gramatiką ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_1_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais, atitinka turinį, logiką, gramatiką ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_1_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais, atitinka turinį, logiką, gramatiką ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_1_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais, atitinka turinį, logiką, gramatiką ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_1_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali visais aspektais, atitinka turinį, logiką, gramatiką ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_1_007",
+            "grade": 4,
+            "comment": "Klausimas yra teisingas, bet gali būti aiškesnis, kadangi Jėzaus tėvas gali būti suprantamas biologiniu arba įtėviu prasme."
+        },
+        {
+            "id": "Mt_1_008",
+            "grade": 1,
+            "comment": "Klausimas yra aiškus, bet klaidingas, nes Jėzaus motinos vardas yra nurodytas kituose Šventojo Rašto posmuose."
+        }
+    ]
+}

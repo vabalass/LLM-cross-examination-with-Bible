@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_7"
+    },
+    "results": [
+        {
+            "id": "Jn_7_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka tekste pateiktą informaciją apie Jėzaus buvimo vietą siekiant išvengti pavojaus."
+        },
+        {
+            "id": "Jn_7_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi teksto vietą, kurioje Jėzaus broliai ragina jį eiti į Judėją."
+        },
+        {
+            "id": "Jn_7_003",
+            "grade": 3,
+            "comment": "Nors atsakymas teisingas (Jėzus atsisakė, nes jo metas dar neatėjo), pasirinkimo formuluotė 'Nors jo metas dar neatėjo' yra techniškai netiksli (turėtų būti 'Nes jo metas dar neatėjo'), kas keičia priežastinį ryšį."
+        },
+        {
+            "id": "Jn_7_004",
+            "grade": 4,
+            "comment": "Atsakymas 'Žydai' yra faktiškai teisingas, nes minia susidėjo iš žydų, bet mažiau tikslus nei 'Minios dalis', kuri geriau atspindėtų tekstą 'Kiti neigė'."
+        },
+        {
+            "id": "Jn_7_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Jėzaus mokymo šaltinį, kaip jis pats jį apibūdino tekste."
+        },
+        {
+            "id": "Jn_7_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka tekste nurodytą minios nuomonės dalį apie Jėzų."
+        },
+        {
+            "id": "Jn_7_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai paaiškina žydų nuostabos priežastį dėl Jėzaus mokymo."
+        },
+        {
+            "id": "Jn_7_008",
+            "grade": 1,
+            "comment": "Klausimas klaidingas, nes tekste Jėzus pats vartoja frazę 'kalbu pats iš savo galvos' retoriškai, bet niekas kitas nepasako, kad Jėzus kalba iš savo galvos."
+        },
+        {
+            "id": "Jn_7_009",
+            "grade": 4,
+            "comment": "Atsakymas 'Žydai' yra faktiškai teisingas, nes minia susidėjo iš žydų, bet mažiau tikslus nei 'Minios dalis', kuri geriau atspindėtų tekstą 'Kiti neigė'."
+        },
+        {
+            "id": "Jn_7_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka tekste nurodytą minios nuomonės dalį apie Jėzų."
+        },
+        {
+            "id": "Jn_7_011",
+            "grade": 4,
+            "comment": "Atsakymas 'Žydai' yra faktiškai teisingas, nes minia susidėjo iš žydų, bet mažiau tikslus nei 'Minios dalis', kuri geriau atspindėtų tekstą 'Kiti neigė'."
+        },
+        {
+            "id": "Jn_7_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka tekste nurodytą minios nuomonės dalį apie Jėzų."
+        },
+        {
+            "id": "Jn_7_013",
+            "grade": 4,
+            "comment": "Atsakymas 'Žydai' yra faktiškai teisingas, nes minia susidėjo iš žydų, bet mažiau tikslus nei 'Minios dalis', kuri geriau atspindėtų tekstą 'Kiti neigė'."
+        },
+        {
+            "id": "Jn_7_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka tekste nurodytą minios nuomonės dalį apie Jėzų."
+        },
+        {
+            "id": "Jn_7_015",
+            "grade": 4,
+            "comment": "Atsakymas 'Žydai' yra faktiškai teisingas, nes minia susidėjo iš žydų, bet mažiau tikslus nei 'Minios dalis', kuri geriau atspindėtų tekstą 'Kiti neigė'."
+        },
+        {
+            "id": "Jn_7_016",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka tekste nurodytą minios nuomonės dalį apie Jėzų."
+        },
+        {
+            "id": "Jn_7_017",
+            "grade": 4,
+            "comment": "Atsakymas 'Žydai' yra faktiškai teisingas, nes minia susidėjo iš žydų, bet mažiau tikslus nei 'Minios dalis', kuri geriau atspindėtų tekstą 'Kiti neigė'."
+        }
+    ]
+}

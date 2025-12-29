@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Mk_4"
+    },
+    "results": [
+        {
+            "id": "Mk_4_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        },
+        {
+            "id": "Mk_4_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai teisingi, aiškūs ir tinkamai pagrįsti Biblijos ištrauka."
+        }
+    ]
+}

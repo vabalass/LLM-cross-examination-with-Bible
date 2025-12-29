@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_9"
+    },
+    "results": [
+        {
+            "id": "Mt_9_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją ir yra suformuluoti aiškiai bei tiksliai."
+        },
+        {
+            "id": "Mt_9_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi teksto įvykį ir Jėzaus nurodytą tikslą įrodyti nuodėmių atleidimo galią."
+        },
+        {
+            "id": "Mt_9_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai paimtas iš Biblijos ištraukos ir yra visiškai teisingas."
+        },
+        {
+            "id": "Mt_9_004",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi situaciją, o atsakymas yra tiesioginė Jėzaus citata iš teksto."
+        },
+        {
+            "id": "Mt_9_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto dialogą, nurodant tikslią Jėzaus citatą."
+        },
+        {
+            "id": "Mt_9_006",
+            "grade": 4,
+            "comment": "Klausimas reikalauja palyginimo prasmės interpretacijos, o ne tiesioginės citatos. Nors atsakymas teisingai perteikia prasmę, klausimo formuluotė galėtų būti tikslesnė nurodant analogijos reikšmę."
+        },
+        {
+            "id": "Mt_9_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs, atsakymas – tiesioginė teksto citata."
+        },
+        {
+            "id": "Mt_9_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas yra tiesioginė Jėzaus citata iš nurodytos ištraukos."
+        },
+        {
+            "id": "Mt_9_009",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas apjungia Jėzaus veiksmą ir žodžius, nurodytus tekste."
+        },
+        {
+            "id": "Mt_9_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas yra tiesioginė fariziejų citata iš teksto."
+        },
+        {
+            "id": "Mt_9_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto įvykius ir Jėzaus pasakytus žodžius."
+        },
+        {
+            "id": "Mt_9_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus nurodymą mokiniams ir yra tiesioginė citata."
+        }
+    ]
+}

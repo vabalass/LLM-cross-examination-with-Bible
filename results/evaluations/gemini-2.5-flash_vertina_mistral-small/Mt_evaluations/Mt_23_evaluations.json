@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_23"
+    },
+    "results": [
+        {
+            "id": "Mt_23_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto turinį ir formuluotę, tiksliai nurodant vienintelį Tėvą danguje."
+        },
+        {
+            "id": "Mt_23_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai cituoja teksto frazę apie Kristų kaip vienintelį Mokytoją."
+        },
+        {
+            "id": "Mt_23_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus žodžius apie tai, kas turi būti didesnis tarp mokinių – tarnas."
+        },
+        {
+            "id": "Mt_23_004",
+            "grade": 5,
+            "comment": "Klausimas tiksliai perteikia Jėzaus mokymą, o teisingas atsakymas tiesiogiai cituoja duotą ištrauką."
+        },
+        {
+            "id": "Mt_23_005",
+            "grade": 5,
+            "comment": "Klausimas teisingai atspindi Biblijos tekstą, o atsakymas tiksliai nurodo, kas bus išaukštintas."
+        },
+        {
+            "id": "Mt_23_006",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas 'Veidmainiai' yra pagrindinis apibūdinimas, naudojamas Jėzaus 'Vargas' kreipiniuose."
+        },
+        {
+            "id": "Mt_23_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas 'Veidmainiai' yra tinkamiausias bendrinis terminas, naudojamas šioje ištraukos dalyje."
+        },
+        {
+            "id": "Mt_23_008",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi teksto turinį, o atsakymas 'Veidmainiai' yra teisingas apibūdinimas pagal Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_23_009",
+            "grade": 5,
+            "comment": "Klausimas aiškiai formuluotas ir tiesiogiai susijęs su tekstu, o parinktas atsakymas yra teisingas."
+        },
+        {
+            "id": "Mt_23_010",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atkartojama teksto mintį, o atsakymas teisingai nurodo, kam skirtas šis palyginimas."
+        },
+        {
+            "id": "Mt_23_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto turinį, tiksliai nurodydami Jėzaus adresatus."
+        },
+        {
+            "id": "Mt_23_012",
+            "grade": 3,
+            "comment": "Klausimo formuluotė 'Kas... žudai' yra vienaskaita, labiau atitinkanti kreipinį į 'Jeruzalę' (37 eil.). Nors veidmainiai ir yra kaltinami pranašų žudymu (31, 34 eil.), klausimo ir atsakymo numerio neatitikimas bei tiesioginis susiejimas su 37 eilute yra techninė klaida."
+        },
+        {
+            "id": "Mt_23_013",
+            "grade": 1,
+            "comment": "Klausimas faktiškai klaidingas. Jėzus teigia, kad 'jūsų namai' bus palikti tušti (38 eil.), o ne žmonės ar 'veidmainiai' patys."
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_23"
+    },
+    "results": [
+        {
+            "id": "Lk_23_001",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tiesiogiai paimti iš pateiktos Biblijos ištraukos. Kiti variantai aiškiai neteisingi."
+        },
+        {
+            "id": "Lk_23_002",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Piloto klausimą, o teisingas atsakymas yra tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Lk_23_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tiesiogiai cituojantys Jėzaus atsakymą Pilotui."
+        },
+        {
+            "id": "Lk_23_004",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o teisingas atsakymas yra tiesioginė Piloto ištarta frazė iš Biblijos ištraukos."
+        },
+        {
+            "id": "Lk_23_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tiesiogiai paimti iš pateiktos Biblijos ištraukos. Kiti variantai keičia geografinius pavadinimus."
+        },
+        {
+            "id": "Lk_23_006",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Piloto veiksmą, o teisingas atsakymas yra tiesiogiai nurodytas tekste."
+        },
+        {
+            "id": "Lk_23_007",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tiesiogiai cituojantys Erodo lūkesčius."
+        },
+        {
+            "id": "Lk_23_008",
+            "grade": 5,
+            "comment": "Klausimas tiksliai aprašo Erodo elgesį su Jėzumi, o teisingas atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Lk_23_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tiesiogiai paimti iš pateiktos Biblijos ištraukos, įskaitant drabužio spalvą."
+        },
+        {
+            "id": "Lk_23_010",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Piloto pareiškimą, o teisingas atsakymas yra tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Lk_23_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tiesiogiai cituojantys minios šūksnius."
+        },
+        {
+            "id": "Lk_23_012",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Piloto galutinį sprendimą, o teisingas atsakymas yra tiesiogiai nurodytas tekste."
+        },
+        {
+            "id": "Lk_23_013",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tiesiogiai cituojantys Jėzaus žodžius Jeruzalės dukroms."
+        },
+        {
+            "id": "Lk_23_014",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Jėzaus žodžius apie kalnus ir kalvas, o teisingas atsakymas yra tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Lk_23_015",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tiesiogiai cituojantys Jėzaus maldą ant kryžiaus."
+        },
+        {
+            "id": "Lk_23_016",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi piktadario žodžius, o teisingas atsakymas yra tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Lk_23_017",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs, tiesiogiai cituojantys antrojo nusikaltėlio žodžius."
+        },
+        {
+            "id": "Lk_23_018",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Jėzaus atsakymą antrajam nusikaltėliui, o teisingas atsakymas yra tiesioginė citata iš teksto."
+        }
+    ]
+}

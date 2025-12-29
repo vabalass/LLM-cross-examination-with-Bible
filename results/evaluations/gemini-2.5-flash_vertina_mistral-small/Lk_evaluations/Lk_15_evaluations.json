@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_15"
+    },
+    "results": [
+        {
+            "id": "Lk_15_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, tikslus ir teisingai nurodo Jėzų kaip palyginimo pasakotoją, remiantis tekstu."
+        },
+        {
+            "id": "Lk_15_002",
+            "grade": 5,
+            "comment": "Klausimas aiškiai formuluotas ir teisingai nurodo tikslų avių skaičių, remiantis pateikta ištrauka."
+        },
+        {
+            "id": "Lk_15_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingai nurodo, kad Dievo angelai džiaugiasi dėl atsivertusio nusidėjėlio, kas tiesiogiai atitinka teksto mintį."
+        },
+        {
+            "id": "Lk_15_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškiai suformuluotas ir teisingai nurodo tikslų drachmų skaičių, remiantis pateikta ištrauka."
+        },
+        {
+            "id": "Lk_15_005",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tikslus, teisingai identifikuoja Jėzų kaip palyginimo pasakotoją, remiantis bendru kontekstu."
+        },
+        {
+            "id": "Lk_15_006",
+            "grade": 1,
+            "comment": "Klausimas yra klaidinamai suformuluotas. Frazė „žmogus, kuris pasakė palyginimą“ tiesiogiai nurodo Jėzų, o ne palyginimo tėvą, todėl atsakymas „2“ yra faktiškai klaidingas Jėzaus atžvilgiu."
+        },
+        {
+            "id": "Lk_15_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tikslus, o atsakymas tiesiogiai nurodo vietą, kurioje sūnus išleido turtą, kaip aprašyta tekste."
+        },
+        {
+            "id": "Lk_15_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingai nurodo konkrečią veiklą, kurią jaunesnysis sūnus atliko išleidęs turtą, kaip aprašyta tekste."
+        },
+        {
+            "id": "Lk_15_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas (b) puikiai ir išsamiai apibendrina tėvo nurodymus, kurie yra tiesiogiai nurodyti tekste."
+        },
+        {
+            "id": "Lk_15_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas (a) tiksliai ir išsamiai atspindi tėvo paaiškinimą, kodėl reikia švęsti, tiesiogiai remiantis tekstu."
+        }
+    ]
+}

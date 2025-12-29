@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Lk_5"
+    },
+    "results": [
+        {
+            "id": "Lk_5_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_005",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_011",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_012",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        },
+        {
+            "id": "Lk_5_013",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka visus vertinimo kriterijus."
+        }
+    ]
+}

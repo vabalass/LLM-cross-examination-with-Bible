@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_21"
+    },
+    "results": [
+        {
+            "id": "Lk_21_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiesiogiai atitinka Biblijos ištraukos teiginį apie Jėzaus pastebėjimus."
+        },
+        {
+            "id": "Lk_21_002",
+            "grade": 3,
+            "comment": "Atsakymas yra faktiškai teisingas pagal tekstą, tačiau atsakymų varianto 'd' formuluotėje yra gramatinė klaida ('malonūs' vietoje 'maloni')."
+        },
+        {
+            "id": "Lk_21_003",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas tiesiogiai ir aiškiai atspindi Jėzaus pranašystę apie šventyklos likimą."
+        },
+        {
+            "id": "Lk_21_004",
+            "grade": 4,
+            "comment": "Klausimas geras, o teisingas atsakymas 'būti atidžiais' gerai apibendrina Jėzaus perspėjimą 'Žiūrėkite, kad nebūtumėte suklaidinti', tačiau varianto 'a' formuluotė yra netinkama."
+        },
+        {
+            "id": "Lk_21_005",
+            "grade": 2,
+            "comment": "Nors atsakymas 'c' faktiškai teisingas, klausimo variantai yra prasti – variantai 'c' ir 'd' yra identiški, kas yra didelis techninis trūkumas."
+        },
+        {
+            "id": "Lk_21_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra puikiai suformuluoti ir tiesiogiai atspindi Jėzaus pranašystę apie persekiojimus."
+        },
+        {
+            "id": "Lk_21_007",
+            "grade": 1,
+            "comment": "Teisingas atsakymas ('būti atidžiais') faktiškai neatspindi konkretaus Jėzaus patarimo 'iš anksto negalvoti, kaip ginsitės' persekiojimo metu."
+        },
+        {
+            "id": "Lk_21_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiksliai atspindi Biblijos ištraukos teiginį apie Jeruzalės apsiaustį ir nuniokojimą."
+        },
+        {
+            "id": "Lk_21_009",
+            "grade": 1,
+            "comment": "Nurodytas teisingas atsakymas ('baisi nelemtis ir rūstybė') kalba apie žemiškas pasekmes, bet ne apie konkrečias kosmines katastrofas, aprašytas tekste (ženklai saulėje, mėnulyje, žvaigždėse)."
+        },
+        {
+            "id": "Lk_21_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra puikūs, tiesiogiai cituoja Jėzaus aprašymą apie Žmogaus Sūnaus atėjimą."
+        },
+        {
+            "id": "Lk_21_011",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiksliai atspindi Jėzaus patarimą žmonėms, kai jie matys Žmogaus Sūnų ateinantį."
+        },
+        {
+            "id": "Lk_21_012",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra idealūs, tiesiogiai atspindintys Jėzaus patarimą dėl budėjimo ir maldos."
+        }
+    ]
+}

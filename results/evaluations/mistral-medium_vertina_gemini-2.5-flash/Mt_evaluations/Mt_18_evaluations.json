@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_18"
+    },
+    "results": [
+        {
+            "id": "Mt_18_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        },
+        {
+            "id": "Mt_18_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka Šv. Rašto tekstą ir yra aiškiai suformuluotas."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_14"
+    },
+    "results": [
+        {
+            "id": "Mt_14_001",
+            "grade": 1,
+            "comment": "Klausime klausiama, kas pasakė, tačiau pasirinkime nurodomi tie, kam buvo pasakyta, o ne kas pasakė. Pagal ištrauką, tai pasakė Erodas, o ne jo tarnai."
+        },
+        {
+            "id": "Mt_14_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_14_012",
+            "grade": 4,
+            "comment": "Atsakymas teisingas pagal ištrauką, tačiau klausimo formuluotė 'Kas Jėzus padarė' nėra visiškai tiksli, kadangi tekstas nurodo įvykį ('vėjas nurimo'), o ne tiesioginį Jėzaus veiksmą, nors įvykis susijęs su Jo buvimu valtyje."
+        }
+    ]
+}

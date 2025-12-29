@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_11"
+    },
+    "results": [
+        {
+            "id": "Mk_11_001",
+            "grade": 3,
+            "comment": "Nors pasirinktas atsakymas 'b' yra logiška išvada iš konteksto, biblinėje ištraukoje konkrečiai nurodoma, kad mokiniai buvo pasiųsti 'į kaimą, kurį matote', o ne tiesiogiai į Betfagę ir Betaniją. Tai sukuria nedidelį netikslumą klausimo ir atsakymo formulavime."
+        },
+        {
+            "id": "Mk_11_002",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas puikiai atitinka Biblijos ištrauką (Mk 11, 3)."
+        },
+        {
+            "id": "Mk_11_003",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas puikiai atitinka Biblijos ištrauką (Mk 11, 8)."
+        },
+        {
+            "id": "Mk_11_004",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas puikiai atitinka Biblijos ištrauką (Mk 11, 8)."
+        },
+        {
+            "id": "Mk_11_005",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas puikiai atitinka Biblijos ištrauką (Mk 11, 15)."
+        },
+        {
+            "id": "Mk_11_006",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas puikiai atitinka Biblijos ištrauką (Mk 11, 17)."
+        },
+        {
+            "id": "Mk_11_007",
+            "grade": 3,
+            "comment": "Pasirinktas atsakymas 'd' teisingai interpretuoja tikėjimo galią, aprašytą Mk 11, 23-24, tačiau tai yra apibendrinimas, o ne tiesioginis Jėzaus ištartas žodis, kas sukelia nedidelį citavimo tikslumo trūkumą."
+        },
+        {
+            "id": "Mk_11_008",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas puikiai atitinka Biblijos ištrauką (Mk 11, 24)."
+        },
+        {
+            "id": "Mk_11_009",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas puikiai atitinka Biblijos ištrauką (Mk 11, 25)."
+        },
+        {
+            "id": "Mk_11_010",
+            "grade": 3,
+            "comment": "Biblijos ištraukoje (Mk 11, 28) Jėzaus klausia 'Kokia galia tai darai? Kas tau davė galią tai daryti?'. Kadangi abu klausimai ('a' ir 'b') yra tiesioginės citatos, nurodymas tik vieno teisingo atsakymo sukuria formos trūkumą."
+        },
+        {
+            "id": "Mk_11_011",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas puikiai atitinka Biblijos ištrauką (Mk 11, 30)."
+        }
+    ]
+}

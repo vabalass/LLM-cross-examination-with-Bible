@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_14"
+    },
+    "results": [
+        {
+            "id": "Mk_14_001",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_002",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_003",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_004",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_005",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_006",
+            "grade": 5,
+            "comment": "Nors tekste tiesiogiai nenurodyta „Jeruzalė“, „miestas“, kuriame buvo ruošiama Velykų vakarienė, bibliniame kontekste neabejotinai yra Jeruzalė, todėl atsakymas yra faktiškai teisingas."
+        },
+        {
+            "id": "Mk_14_007",
+            "grade": 2,
+            "comment": "Nors žmogus su ąsočiu sutiko mokinius ir nuvedė prie namų, kambarį jiems parodė namų šeimininkas, o ne tas pats žmogus, todėl atsakymo variantas nėra visiškai tikslus pagal tekstą."
+        },
+        {
+            "id": "Mk_14_008",
+            "grade": 3,
+            "comment": "Klausimo formuluotė „valgančio su jimi“ turi gramatinių klaidų, turėtų būti „valgančių su juo“."
+        },
+        {
+            "id": "Mk_14_009",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_010",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_011",
+            "grade": 5,
+            "comment": "Nors tekste tiesiogiai nenurodyta „Jeruzalė“, „miestas“, kuriame buvo ruošiama Velykų vakarienė (Eucharistija), bibliniame kontekste neabejotinai yra Jeruzalė, todėl atsakymas yra faktiškai teisingas."
+        },
+        {
+            "id": "Mk_14_012",
+            "grade": 3,
+            "comment": "Atsakymų variantai „gerbės“, „sekės“, „mylės“ turi gramatinių klaidų, turėtų būti „gerbsi“, „seksi“, „mylėsi“."
+        },
+        {
+            "id": "Mk_14_013",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_014",
+            "grade": 4,
+            "comment": "Atsakymo variante „c“ žodis „nuėję“ galėtų būti geriau suformuluotas kaip „nuvargę“, nors tai netrukdo suprasti prasmės."
+        },
+        {
+            "id": "Mk_14_015",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_016",
+            "grade": 3,
+            "comment": "Klausimo formuluotėje „radus jį miegančią“ yra gramatinė klaida, turėtų būti „radus jį miegantį“."
+        },
+        {
+            "id": "Mk_14_017",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_018",
+            "grade": 1,
+            "comment": "Pateiktoje Biblijos ištraukoje nėra tiesiogiai įvardijama, kas nukirto tarnui ausį, minima tik „Vienas iš ten stovinčių“. Todėl pateiktas teisingas atsakymas „Petras“ nėra tiesiogiai paremtas šaltiniu."
+        },
+        {
+            "id": "Mk_14_019",
+            "grade": 3,
+            "comment": "Klausimo formuluotėje „kai buvo suėmės“ yra gramatinė klaida, turėtų būti „kai buvo suimtas“."
+        },
+        {
+            "id": "Mk_14_020",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_021",
+            "grade": 5,
+            "comment": "Klausimas, atsakymai ir nurodytas teisingas variantas puikiai atitinka pateiktą Biblijos ištrauką ir yra nepriekaištingos kokybės."
+        },
+        {
+            "id": "Mk_14_022",
+            "grade": 3,
+            "comment": "Klausimo formuluotė „klaususiam ar jis esi Mesijas?“ turi gramatinę klaidą. Taip pat atsakymai „c“ ir „d“ yra identiški ir turi gramatinių klaidų."
+        },
+        {
+            "id": "Mk_14_023",
+            "grade": 4,
+            "comment": "Klausime praleistas kablelis prieš „ar“, nors tai netrukdo suprasti prasmę."
+        },
+        {
+            "id": "Mk_14_024",
+            "grade": 3,
+            "comment": "Klausimo formuluotėje „nepažįsta Jėzų?“ yra gramatinė klaida, turėtų būti „nepažįsta Jėzaus?“."
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_1"
+    },
+    "results": [
+        {
+            "id": "Jn_1_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, nuoroda į šaltinį tiksli, o atsakymas tiesiogiai atitinka pateiktą Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_1_002",
+            "grade": 5,
+            "comment": "Klausimas suformuluotas aiškiai, nurodyta eilutė teisinga, o pasirinktas atsakymas puikiai atspindi pateiktą informaciją."
+        },
+        {
+            "id": "Jn_1_003",
+            "grade": 5,
+            "comment": "Klausimas ir jo nuoroda yra tiksli, o teisingas atsakymas tiesiogiai cituojamas iš nurodytos eilutės."
+        },
+        {
+            "id": "Jn_1_004",
+            "grade": 5,
+            "comment": "Klausimas yra išsamus, nurodo teisingas eilutes ir teisingas atsakymas yra aiškiai apibrėžtas Biblijos ištraukoje."
+        },
+        {
+            "id": "Jn_1_005",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, atsakymas tiesiogiai paimtas iš nurodytos eilutės, o kitos parinktys yra akivaizdžiai klaidingos."
+        },
+        {
+            "id": "Jn_1_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, nuoroda į eilutę tiksli, o atsakymas teisingai interpretuoja sąvoką 'savieji' pagal kontekstą."
+        },
+        {
+            "id": "Jn_1_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, nurodo tikslią eilutę, o teisingas atsakymas yra tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Jn_1_008",
+            "grade": 5,
+            "comment": "Klausimas tikslus, nuoroda į eilutę teisinga, o atsakymas tiesiogiai atspindi Žodžio apibūdinimą ištraukoje."
+        },
+        {
+            "id": "Jn_1_009",
+            "grade": 5,
+            "comment": "Klausimas aiškiai suformuluotas, nuoroda į šaltinį teisinga, o pasirinktas atsakymas tiksliai apibendrina Jono žodžius."
+        },
+        {
+            "id": "Jn_1_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, nurodo tikslią eilutę, o teisingas atsakymas yra tiesioginė citata iš teksto."
+        },
+        {
+            "id": "Jn_1_011",
+            "grade": 5,
+            "comment": "Klausimas yra puikiai suformuluotas, nurodyta eilutė tiksli, o atsakymas tiesiogiai atitinka teksto teiginį."
+        },
+        {
+            "id": "Jn_1_012",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, nuoroda tiksli, o teisingas atsakymas yra tiesioginė Jono citata iš Izaijo pranašystės."
+        },
+        {
+            "id": "Jn_1_013",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, nuoroda į eilutę teisinga, o atsakymas tiesiogiai nurodo, kaip Jonas pavadino Jėzų."
+        },
+        {
+            "id": "Jn_1_014",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir nuoroda tiksli, o atsakymas 'Balandį (Dvasią)' puikiai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Jn_1_015",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, nurodyta eilutė teisinga, o atsakymas tiesiogiai paimtas iš Jono liudijimo."
+        },
+        {
+            "id": "Jn_1_016",
+            "grade": 5,
+            "comment": "Klausimas puikiai suformuluotas, nuoroda į eilutę tiksli, o atsakymas yra tiesioginė Jėzaus užklausa."
+        },
+        {
+            "id": "Jn_1_017",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, nuoroda tiksli, o atsakymas tiesiogiai cituoja Andriejaus žodžius apie Jėzų."
+        }
+    ]
+}

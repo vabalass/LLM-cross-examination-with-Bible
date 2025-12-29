@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Lk_18"
+    },
+    "results": [
+        {
+            "id": "Lk_18_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        },
+        {
+            "id": "Lk_18_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra pilnai teisingi ir aiškūs."
+        }
+    ]
+}

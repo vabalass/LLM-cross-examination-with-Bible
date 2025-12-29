@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_10"
+    },
+    "results": [
+        {
+            "id": "Jn_10_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymų variantai yra aiškūs, tikslūs ir puikiai atitinka pateiktą Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_10_002",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, atsakymo variantai teisingai atspindi ištraukos informaciją, o pasirinktas atsakymas yra išsamus ir aiškus."
+        },
+        {
+            "id": "Jn_10_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai cituoja Jėzaus žodžius iš nurodytos eilutės, o teisingas atsakymas yra tikslus."
+        },
+        {
+            "id": "Jn_10_004",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo eilutę ir pateikia tiesioginį klausimą, į kurį atsakoma tikslia citata iš Biblijos."
+        },
+        {
+            "id": "Jn_10_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tiksliai nurodo šaltinį, o teisingas atsakymas yra tiesioginė Jėzaus misijos citata iš eilutės."
+        },
+        {
+            "id": "Jn_10_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, gerai suformuluotas ir tiesiogiai atsakomas pagal pateiktą Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_10_007",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, atsakymo variantai gerai atspindi teksto turinį, o teisingas atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Jn_10_008",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymo variantas puikiai apibendrina eilutės turinį apie Jėzaus ir Tėvo tarpusavio pažinimą."
+        },
+        {
+            "id": "Jn_10_009",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir tiesiogiai cituoja Jėzaus pareiškimą apie savo galią iš nurodytos Biblijos eilutės."
+        },
+        {
+            "id": "Jn_10_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai cituoja žydų reakciją į Jėzaus žodžius, kaip nurodyta eilutėje."
+        },
+        {
+            "id": "Jn_10_011",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, atsakymas tiesiogiai paimtas iš nurodytos Biblijos eilutės ir puikiai atspindi teksto turinį."
+        },
+        {
+            "id": "Jn_10_012",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tiksliai atspindi Jėzaus atsakymą iš nurodytos Biblijos eilutės."
+        },
+        {
+            "id": "Jn_10_013",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir tiesiogiai atspindi Jėzaus teiginį apie savo darbus iš nurodytos eilutės."
+        },
+        {
+            "id": "Jn_10_014",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tiksliai nurodo šaltinį, o teisingas atsakymas yra tiesioginė Jėzaus citata iš eilutės."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_9"
+    },
+    "results": [
+        {
+            "id": "Mk_9_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_002",
+            "grade": 4,
+            "comment": "Klausimas yra teisingas turiniu, bet turi nedidelę gramatinę klaidą žodyje 'mokinčių' (turėtų būti 'mokinių')."
+        },
+        {
+            "id": "Mk_9_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mk_9_016",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi Biblijos ištraukos informaciją, yra aiškūs ir tikslūs."
+        }
+    ]
+}

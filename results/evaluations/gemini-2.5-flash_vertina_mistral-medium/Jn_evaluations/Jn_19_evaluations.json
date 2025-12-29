@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_19"
+    },
+    "results": [
+        {
+            "id": "Jn_19_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi teksto informaciją apie Piloto veiksmus."
+        },
+        {
+            "id": "Jn_19_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką apie kareivių patyčias."
+        },
+        {
+            "id": "Jn_19_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai apibūdina Jėzaus išvaizdą, kai Pilotas jį pristatė miniai."
+        },
+        {
+            "id": "Jn_19_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas aiškiai nurodo žydų reikalavimą, paminėtą tekste."
+        },
+        {
+            "id": "Jn_19_005",
+            "grade": 4,
+            "comment": "Atsakymas yra logiškai pagrįstas Piloto elgesiu, tačiau tekste tiesiogiai nenurodoma, kodėl būtent šiame kontekste jis dar labiau nusigando."
+        },
+        {
+            "id": "Jn_19_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs Jėzaus žodžiai, cituojami iš Biblijos ištraukos."
+        },
+        {
+            "id": "Jn_19_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi žydų spaudimą Pilotui, cituojant jų grasinimus."
+        },
+        {
+            "id": "Jn_19_008",
+            "grade": 4,
+            "comment": "Atsakymas teisingai nurodo vietą, tačiau lietuviškame pavadinime „Kįukolės vieta“ yra rašybos klaida (turėtų būti „Kaukolės vieta“)."
+        },
+        {
+            "id": "Jn_19_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi įrašą ant kryžiaus, kaip aprašyta tekste."
+        },
+        {
+            "id": "Jn_19_010",
+            "grade": 5,
+            "comment": "Atsakymas tiksliai ir išsamiai apibūdina kareivių veiksmus su Jėzaus drabužiais, remiantis tekstu."
+        },
+        {
+            "id": "Jn_19_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai nurodo asmenis, stovėjusius prie kryžiaus, kaip aprašyta ištraukoje."
+        },
+        {
+            "id": "Jn_19_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai cituoja Jėzaus žodžius, skirtus mylimajam mokiniui."
+        },
+        {
+            "id": "Jn_19_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi paskutinius Jėzaus žodžius prieš mirtį, paminėtus tekste."
+        },
+        {
+            "id": "Jn_19_014",
+            "grade": 5,
+            "comment": "Atsakymas tiksliai nurodo Juozapo iš Arimatėjos iniciatyvą ir veiksmus, susijusius su Jėzaus kūno nuėmimu."
+        }
+    ]
+}

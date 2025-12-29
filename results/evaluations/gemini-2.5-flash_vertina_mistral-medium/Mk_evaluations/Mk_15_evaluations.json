@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_15"
+    },
+    "results": [
+        {
+            "id": "Mk_15_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas 'b' tiesiogiai atspindi Biblijos ištraukos 10 eilutę. Visos parinktys yra prasmingos, bet tik viena yra teisinga."
+        },
+        {
+            "id": "Mk_15_002",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o teisingas atsakymas 'b' tiesiogiai cituojamas iš 2 eilutės. Visos parinktys yra aiškios ir gerai suformuluotos."
+        },
+        {
+            "id": "Mk_15_003",
+            "grade": 5,
+            "comment": "Klausimas aiškiai suformuluotas, o teisingas atsakymas 'b' yra tiksliai paimtas iš 7 eilutės. Parinktys yra tinkamos ir viena teisinga."
+        },
+        {
+            "id": "Mk_15_004",
+            "grade": 4,
+            "comment": "Klausimas šiek tiek dviprasmiškas, nes minia rėkė „Ant kryžiaus jį!“ atsakydama į Piloto klausimą, o ne tiesiogiai prašydama paleisti Barabą. Tačiau atsakymas yra teisingas remiantis tekstu, tik formulavimas galėtų būti tikslesnis."
+        },
+        {
+            "id": "Mk_15_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, o teisingas atsakymas 'b' išsamiai ir tiksliai apibendrina 17–19 eilučių aprašytus įvykius. Visos parinktys yra tinkamos."
+        },
+        {
+            "id": "Mk_15_006",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o teisingas atsakymas 'c' yra tiesioginė citata iš 26 eilutės. Parinktys yra aiškios ir gerai suformuluotos."
+        },
+        {
+            "id": "Mk_15_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas 'b' yra tiesiogiai pateikiamas 21 eilutėje. Visos parinktys yra tinkamos ir viena teisinga."
+        },
+        {
+            "id": "Mk_15_008",
+            "grade": 5,
+            "comment": "Klausimas aiškiai suformuluotas, o teisingas atsakymas 'c' tiksliai atspindi 23 eilutę, kurioje minima, kad Jėzus gėrimo negėrė. Parinktys yra tinkamos."
+        },
+        {
+            "id": "Mk_15_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas 'b' yra tiesioginė citata iš 39 eilutės. Visos parinktys yra aiškios ir gerai suformuluotos."
+        },
+        {
+            "id": "Mk_15_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, o teisingas atsakymas 'b' tiesiogiai nurodomas 38 eilutėje. Parinktys yra tinkamos ir viena teisinga."
+        },
+        {
+            "id": "Mk_15_011",
+            "grade": 5,
+            "comment": "Klausimas aiškiai suformuluotas, o teisingas atsakymas 'b' tiesiogiai atspindi 43 eilutę. Visos parinktys yra tinkamos ir viena teisinga."
+        },
+        {
+            "id": "Mk_15_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas 'b' yra tiksliai paimtas iš 46 eilutės. Parinktys yra aiškios ir gerai suformuluotos."
+        },
+        {
+            "id": "Mk_15_013",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o teisingas atsakymas 'b' tiesiogiai cituojamas iš 40 eilutės. Visos parinktys yra aiškios ir gerai suformuluotos."
+        },
+        {
+            "id": "Mk_15_014",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, o teisingas atsakymas 'a' tiesiogiai atspindi 34 eilutėje pateiktą citatą ir jos vertimą. Parinktys yra tinkamos."
+        },
+        {
+            "id": "Mk_15_015",
+            "grade": 1,
+            "comment": "Klausimas faktiškai klaidingas, nes jis klausia, kas nutiko Jėzui jau mirus, tačiau atsakymas 'b' (davimas gerti perrūgusio vyno) įvyko prieš Jėzaus mirtį, kaip nurodyta 36 eilutėje."
+        }
+    ]
+}

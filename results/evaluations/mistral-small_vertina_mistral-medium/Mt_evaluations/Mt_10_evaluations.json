@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Mt_10"
+    },
+    "results": [
+        {
+            "id": "Mt_10_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_005",
+            "grade": 1,
+            "comment": "Klausimas ir atsakymas neteisingi. Teisingas atsakymas yra b, nes tekstas nurodo, kad reikia nusikratyti dulkes nuo kojų, jei namai nebus verti."
+        },
+        {
+            "id": "Mt_10_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        },
+        {
+            "id": "Mt_10_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, teisingi ir aiški."
+        }
+    ]
+}

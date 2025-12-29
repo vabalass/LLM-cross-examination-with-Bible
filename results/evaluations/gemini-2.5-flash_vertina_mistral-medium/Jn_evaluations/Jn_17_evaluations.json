@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_17"
+    },
+    "results": [
+        {
+            "id": "Jn_17_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto dalį Jn 17,1. Aiškumas, tikslumas ir pasirinkimo galimybės idealios."
+        },
+        {
+            "id": "Jn_17_002",
+            "grade": 5,
+            "comment": "Klausimas tiesiogiai cituoja Jn 17,3 ir pateikia tikslų atsakymą. Idealiai suformuluotas ir teisingas."
+        },
+        {
+            "id": "Jn_17_003",
+            "grade": 5,
+            "comment": "Klausimas teisingai atspindi Jn 17,4 mintį, o teisingas atsakymas yra aiškus ir tiesiogiai paremtas tekstu."
+        },
+        {
+            "id": "Jn_17_004",
+            "grade": 5,
+            "comment": "Klausimas tiksliai perteikia Jėzaus maldą Jn 17,11 eilutėje, o atsakymas yra išsamus ir teisingas."
+        },
+        {
+            "id": "Jn_17_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai paimtas iš Jn 17,12, atitinkantis Šventojo Rašto teiginį."
+        },
+        {
+            "id": "Jn_17_006",
+            "grade": 5,
+            "comment": "Klausimas teisingai susieja apsaugą nuo piktojo su pašventinimu tiesa, kaip nurodyta Jn 17,15 ir 17 eilutėse. Tai puikiai atspindi teksto logiką."
+        },
+        {
+            "id": "Jn_17_007",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo Jėzaus maldos esmę dėl ateities tikinčiųjų Jn 17,21, o atsakymas yra visiškai teisingas."
+        },
+        {
+            "id": "Jn_17_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tiesiogiai paremtas Jn 17,24, o atsakymas tiksliai atspindi Jėzaus norą dėl mokinių."
+        }
+    ]
+}

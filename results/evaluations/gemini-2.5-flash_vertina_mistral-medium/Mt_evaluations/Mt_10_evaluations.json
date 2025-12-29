@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_10"
+    },
+    "results": [
+        {
+            "id": "Mt_10_001",
+            "grade": 5,
+            "comment": "Klausimas yra puikiai suformuluotas, o teisingas atsakymas tiesiogiai atspindi Biblijos ištrauką."
+        },
+        {
+            "id": "Mt_10_002",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas aiškiai identifikuoja asmenį, nepaminėtą apaštalų sąraše."
+        },
+        {
+            "id": "Mt_10_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra visiškai tikslūs, tiesiogiai cituojantys nurodytą eilutę."
+        },
+        {
+            "id": "Mt_10_004",
+            "grade": 5,
+            "comment": "Klausimas yra gerai suformuluotas, o teisingas atsakymas tiksliai išvardija visus paminėtus daiktus iš nurodytų eilučių."
+        },
+        {
+            "id": "Mt_10_005",
+            "grade": 1,
+            "comment": "Nurodytame Biblijos tekste (Mt 10,13) nėra nurodymo 'jų nebeįžvelgti ir eiti toliau tyliai', todėl atsakymas faktiškai klaidingas."
+        },
+        {
+            "id": "Mt_10_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingas atsakymas yra tiesioginė citata iš nurodytos eilutės."
+        },
+        {
+            "id": "Mt_10_007",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingas atsakymas yra tiesioginė citata iš nurodytos eilutės."
+        },
+        {
+            "id": "Mt_10_008",
+            "grade": 5,
+            "comment": "Klausimas yra puikiai suformuluotas, o teisingas atsakymas tiksliai ir išsamiai apibūdina Jėzaus pažadą."
+        },
+        {
+            "id": "Mt_10_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingas atsakymas yra tiesioginė citata iš nurodytos eilutės."
+        },
+        {
+            "id": "Mt_10_010",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas tiesiogiai cituoja eilutę ir pateikia naudingą paaiškinimą."
+        },
+        {
+            "id": "Mt_10_011",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas yra tiesioginė citata iš nurodytos eilutės."
+        },
+        {
+            "id": "Mt_10_012",
+            "grade": 5,
+            "comment": "Klausimas yra gerai suformuluotas, o teisingas atsakymas tiesiogiai nurodytas Biblijos ištraukoje."
+        },
+        {
+            "id": "Mt_10_013",
+            "grade": 3,
+            "comment": "Klausimo turinys yra teisingas, tačiau yra nedidelė techninė klaida ('negu Jėų' vietoj 'negu Jėzų')."
+        },
+        {
+            "id": "Mt_10_014",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas yra tiesioginė citata iš nurodytos eilutės."
+        }
+    ]
+}

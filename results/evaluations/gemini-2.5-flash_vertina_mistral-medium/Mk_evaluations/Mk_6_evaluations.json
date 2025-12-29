@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_6"
+    },
+    "results": [
+        {
+            "id": "Mk_6_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai atspindi tekste pateiktą informaciją."
+        },
+        {
+            "id": "Mk_6_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, o siūlomas atsakymas tiksliai atspindi žmonių reakciją, aprašytą tekste."
+        },
+        {
+            "id": "Mk_6_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs ir tiesiogiai cituoja Jėzaus žodžius, nurodytus Biblijos ištraukoje."
+        },
+        {
+            "id": "Mk_6_004",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o teisingas atsakymas tiesiogiai atspindi Biblijos ištraukos teiginį apie Jėzaus veiksmus tėviškėje."
+        },
+        {
+            "id": "Mk_6_005",
+            "grade": 1,
+            "comment": "Nors klausimas aiškus, pateiktas teisingas atsakymas yra faktiškai klaidingas. Biblijos ištraukoje nurodoma, kad apaštalams buvo leidžiama pasiimti lazdą ('be lazdos, nieko neimti' reiškia 'išskyrus lazdą nieko neimti'), o ne kad jie neturėjo jos imti."
+        },
+        {
+            "id": "Mk_6_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai cituoja Jėzaus nurodymus mokiniams, esančius Biblijos ištraukoje."
+        },
+        {
+            "id": "Mk_6_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai nurodo vieną iš populiarių nuomonių apie Jėzų, kuri sklido tarp žmonių ir yra paminėta tekste."
+        },
+        {
+            "id": "Mk_6_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai atspindi Biblijos ištraukoje pateiktą priežastį, kodėl Jonas Krikštytojas buvo suimtas."
+        },
+        {
+            "id": "Mk_6_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai nurodo Erodiados nurodymą dukrai, kaip aprašyta ištraukoje."
+        },
+        {
+            "id": "Mk_6_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai apibūdina Erodo reakciją ir spėjimą, išgirdus apie Jėzaus veiklą, kaip nurodyta ištraukoje."
+        },
+        {
+            "id": "Mk_6_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai cituoja Jėzaus žodžius mokiniams po jų grįžimo."
+        },
+        {
+            "id": "Mk_6_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai atspindi Jėzaus reakciją ir veiksmus, pamačius minią."
+        },
+        {
+            "id": "Mk_6_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai atitinka tekste nurodytą duonos ir žuvų kiekį."
+        },
+        {
+            "id": "Mk_6_014",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai atspindi Biblijos ištraukoje nurodytą pamaitintų vyrų skaičių."
+        },
+        {
+            "id": "Mk_6_015",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai apibūdina Jėzaus veiksmus ir žodžius, pamačius mokinius ežere."
+        },
+        {
+            "id": "Mk_6_016",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai nurodo įvykį, nutikusį Jėzui įlipus į valtį."
+        },
+        {
+            "id": "Mk_6_017",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai apibūdina žmonių reakciją ir veiksmus, kai Jėzus atvyko į Genezaretą."
+        },
+        {
+            "id": "Mk_6_018",
+            "grade": 2,
+            "comment": "Klausimas aiškus, tačiau atsakymas yra iš dalies klaidinantis. Tekstas nurodo, kad ligoniai, paliesdami Jėzaus apvadą, išgydavo, bet Jėzus jų 'nepalydėjo'. Terminologija neatspindi teksto tikslumo."
+        },
+        {
+            "id": "Mk_6_019",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai apibūdina Jėzaus veiksmus ir žodžius, pamačius mokinius vargstančius ežere. Tai yra Mk_6_015 klausimo dublikatas."
+        }
+    ]
+}

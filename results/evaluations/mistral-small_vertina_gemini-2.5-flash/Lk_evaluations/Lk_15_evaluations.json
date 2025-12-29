@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Lk_15"
+    },
+    "results": [
+        {
+            "id": "Lk_15_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_15_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_15_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_15_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_15_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_15_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_15_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_15_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        },
+        {
+            "id": "Lk_15_009",
+            "grade": 1,
+            "comment": "Klausimas yra neteisingas, nes jis klausia apie visus daiktus, išskyrus vieną, o teisingas atsakymas yra 'Naująjį arklį', kuris nėra paminėtas Biblijos tekste."
+        },
+        {
+            "id": "Lk_15_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas visiškai atitinka Biblijos tekstą, aiškus ir teisingas."
+        }
+    ]
+}

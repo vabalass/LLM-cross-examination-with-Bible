@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_15"
+    },
+    "results": [
+        {
+            "id": "Jn_15_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto dalį Jn 15:1, kur Jėzus save vadina tikruoju vynmedžiu."
+        },
+        {
+            "id": "Jn_15_002",
+            "grade": 5,
+            "comment": "Klausimas tiksliai formuluotas ir atsakymas tiesiogiai randamas Jn 15:2 eilutėje, kur teigiama, kad Tėvas išpjauna nevaisingas šakeles."
+        },
+        {
+            "id": "Jn_15_003",
+            "grade": 5,
+            "comment": "Klausimas teisingai interpretuoja „šakelių“ metaforą, nurodant, kad „jūs“ (mokiniai) yra šakelės, kaip aiškiai pasakyta Jn 15:5."
+        },
+        {
+            "id": "Jn_15_004",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi Jėzaus paaiškinimą, kad pasilikimas Jo meilėje susijęs su Jo įsakymų laikymusi, kaip nurodyta Jn 15:10."
+        },
+        {
+            "id": "Jn_15_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi nurodytą teksto dalį, kurioje apibrėžiama didžiausia meilė – gyvybę už draugus atiduoti (Jn 15:13)."
+        },
+        {
+            "id": "Jn_15_006",
+            "grade": 5,
+            "comment": "Klausimas teisingai identifikuoja, kad „jūs“ (mokiniai) yra tie, kuriuos Jėzus vadina draugais, kaip nurodyta Jn 15:15, pabrėžiant ne tarnų, o draugų statusą."
+        },
+        {
+            "id": "Jn_15_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atspindi priežastį, kodėl pasaulis nekenčia mokinių, kaip paaiškinta Jn 15:19: „Kadangi jūs – ne pasaulio“."
+        },
+        {
+            "id": "Jn_15_008",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o atsakymas tiesiogiai nurodytas Jn 15:26 kaip „Tiesos Dvasia“, kuri liudys apie Jėzų."
+        },
+        {
+            "id": "Jn_15_009",
+            "grade": 3,
+            "comment": "Klausimas ir atsakymas yra teisingi pagal Jn 15:14, tačiau atsakymo parinktyje yra nedidelė rašybos klaida („jims“ vietoje „jiems“)."
+        }
+    ]
+}

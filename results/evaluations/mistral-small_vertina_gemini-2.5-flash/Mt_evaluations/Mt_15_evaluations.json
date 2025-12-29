@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Mt_15"
+    },
+    "results": [
+        {
+            "id": "Mt_15_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Mt_15_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai teisingi, aiškūs ir atitinka Biblijos tekstą."
+        }
+    ]
+}

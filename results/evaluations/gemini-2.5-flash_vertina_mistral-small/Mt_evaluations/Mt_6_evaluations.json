@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_6"
+    },
+    "results": [
+        {
+            "id": "Mt_6_001",
+            "grade": 4,
+            "comment": "Klausimas teisingai atpažįsta veidmainių motyvaciją, kurios Šv. Raštas liepia vengti. Tačiau klausimo formuluotė \"kodėl žmonės gali daryti\" yra šiek tiek neaiški ir galėtų būti patobulinta."
+        },
+        {
+            "id": "Mt_6_002",
+            "grade": 0,
+            "comment": "Klausimo formuluotė „pagal Jėzaus mokslininkus“ yra nereikalinga ir kliedesinė. Be to, nurodytas teisingas atsakymas „Slaptoje“ prieštarauja tekste nurodytai Dievo buvimo vietai „danguje“."
+        },
+        {
+            "id": "Mt_6_003",
+            "grade": 4,
+            "comment": "Klausimas teisingai atpažįsta veidmainių motyvaciją, kurios Šv. Raštas liepia vengti. Tačiau klausimo formuluotė \"kodėl žmonės gali melstis\" yra šiek tiek neaiški ir galėtų būti patobulinta."
+        },
+        {
+            "id": "Mt_6_004",
+            "grade": 0,
+            "comment": "Klausimo formuluotė „pagal Jėzaus mokslininkus“ yra nereikalinga ir kliedesinė. Be to, nurodytas teisingas atsakymas „Slaptoje“ prieštarauja tekste nurodytai Dievo buvimo vietai „danguje“."
+        },
+        {
+            "id": "Mt_6_005",
+            "grade": 4,
+            "comment": "Klausimas teisingai atpažįsta veidmainių motyvaciją, kurios Šv. Raštas liepia vengti. Tačiau klausimo formuluotė \"kodėl žmonės gali pasninkauti\" yra šiek tiek neaiški ir galėtų būti patobulinta."
+        },
+        {
+            "id": "Mt_6_006",
+            "grade": 0,
+            "comment": "Klausimo formuluotė „pagal Jėzaus mokslininkus“ yra nereikalinga ir kliedesinė. Be to, nurodytas teisingas atsakymas „Slaptoje“ prieštarauja tekste nurodytai Dievo buvimo vietai „danguje“."
+        },
+        {
+            "id": "Mt_6_007",
+            "grade": 1,
+            "comment": "Nurodytas teisingas atsakymas \"Norėdami būti matomi žmonėmis ir gauti jų pripažinimą\" neatitinka Biblijos ištraukos apie lobius. Tekstas kalba apie lobių patvarumą ir širdies vietą, o ne apie žmonių pripažinimą."
+        },
+        {
+            "id": "Mt_6_008",
+            "grade": 0,
+            "comment": "Klausimo formuluotė „pagal Jėzaus mokslininkus“ yra nereikalinga ir kliedesinė. Be to, nurodytas teisingas atsakymas „Slaptoje“ prieštarauja tekste nurodytai Dievo buvimo vietai „danguje“."
+        },
+        {
+            "id": "Mt_6_009",
+            "grade": 1,
+            "comment": "Nurodytas teisingas atsakymas \"Norėdami būti matomi žmonėmis ir gauti jų pripažinimą\" neatitinka Biblijos ištraukos apie rūpestį gyvenimu. Tekstas kalba apie tikėjimo trūkumą ir pagonių elgesį, o ne apie žmonių pripažinimą."
+        },
+        {
+            "id": "Mt_6_010",
+            "grade": 0,
+            "comment": "Klausimo formuluotė „pagal Jėzaus mokslininkus“ yra nereikalinga ir kliedesinė. Be to, nurodytas teisingas atsakymas „Slaptoje“ prieštarauja tekste nurodytai Dievo buvimo vietai „danguje“."
+        },
+        {
+            "id": "Mt_6_011",
+            "grade": 1,
+            "comment": "Nurodytas teisingas atsakymas \"Norėdami būti matomi žmonėmis ir gauti jų pripažinimą\" neatitinka Biblijos ištraukos apie rūpestį drabužiais. Tekstas kalba apie Dievo apvaizdą ir tikėjimo trūkumą, o ne apie žmonių pripažinimą."
+        }
+    ]
+}

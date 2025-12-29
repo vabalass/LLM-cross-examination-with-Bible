@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_22"
+    },
+    "results": [
+        {
+            "id": "Lk_22_001",
+            "grade": 4,
+            "comment": "Klausimas suprantamas ir teisingas, tačiau žodis \"įsikūnijo\" galėtų būti pakeistas tikslesniu \"įėjo\", kad geriau atspindėtų Šventojo Rašto formuluotę."
+        },
+        {
+            "id": "Lk_22_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_004",
+            "grade": 1,
+            "comment": "Nors klausimas aiškus, teisingo atsakymo variantas „b“ turi didelę faktinę klaidą: „kol neatsikratys Dievo karalystėje“ turėtų būti „kol ji išsipildys Dievo karalystėje“."
+        },
+        {
+            "id": "Lk_22_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_012",
+            "grade": 4,
+            "comment": "Klausimo formuluotė \"kai jie keliaują be piniginės ir krepšio\" yra šiek tiek neaiški, nes Jėzus kalbėjo apie pokyčius, o ne apie ankstesnę misiją. Nepaisant to, teisingas atsakymas aiškiai nurodytas tekste."
+        },
+        {
+            "id": "Lk_22_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_014",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką. Papildomas paaiškinimas skliausteliuose yra naudingas."
+        },
+        {
+            "id": "Lk_22_015",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_016",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_017",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_018",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_019",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_020",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_021",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_022",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Lk_22_023",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tikslus ir atsakymas puikiai atitinka pateiktą ištrauką."
+        }
+    ]
+}

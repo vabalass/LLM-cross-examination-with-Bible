@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_8"
+    },
+    "results": [
+        {
+            "id": "Mt_8_001",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi teksto informaciją, o teisingas atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Mt_8_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištraukos detales."
+        },
+        {
+            "id": "Mt_8_003",
+            "grade": 5,
+            "comment": "Klausimas aiškiai formuluotas ir teisingas atsakymas tiksliai perteikia šimtininko tikėjimo esmę."
+        },
+        {
+            "id": "Mt_8_004",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas yra beveik tiesioginė Jėzaus žodžių citata."
+        },
+        {
+            "id": "Mt_8_005",
+            "grade": 5,
+            "comment": "Klausimas yra tiesioginis faktų patikrinimas, o atsakymas tiksliai atspindi įvykį."
+        },
+        {
+            "id": "Mt_8_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslios teksto citatos, puikiai iliustruojančios įvykį."
+        },
+        {
+            "id": "Mt_8_007",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o teisingas atsakymas yra tiesioginė Jėzaus žodžių citata."
+        },
+        {
+            "id": "Mt_8_008",
+            "grade": 5,
+            "comment": "Klausimas tiksliai aprašo įvykį, o teisingas atsakymas puikiai atspindi Jėzaus veiksmus."
+        },
+        {
+            "id": "Mt_8_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslios teksto citatos, atspindinčios demonų prašymą."
+        },
+        {
+            "id": "Mt_8_010",
+            "grade": 5,
+            "comment": "Klausimas aiškiai formuluotas, o atsakymas tiksliai apibūdina kiaulių likimą."
+        },
+        {
+            "id": "Mt_8_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi miestiečių reakciją į Jėzaus buvimą."
+        }
+    ]
+}

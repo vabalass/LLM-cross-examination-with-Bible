@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_3"
+    },
+    "results": [
+        {
+            "id": "Jn_3_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tikslus, atsakymas tiesiogiai randamas tekste."
+        },
+        {
+            "id": "Jn_3_002",
+            "grade": 3,
+            "comment": "Klausimas teisingas, o pasirinktas atsakymas geriausiai atspindi teksto prasmę, nors formuluotė 'Dievo ženklių' yra gramatiškai šiek tiek netiksli."
+        },
+        {
+            "id": "Jn_3_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra visiškai tikslūs ir atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Jn_3_004",
+            "grade": 5,
+            "comment": "Klausimas teisingas, o pasirinktas atsakymas yra tiksli citata iš Biblijos ištraukos."
+        },
+        {
+            "id": "Jn_3_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiksli citata iš Šventojo Rašto."
+        },
+        {
+            "id": "Jn_3_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir atsakymas yra tiesioginė citata iš teksto, be jokių klaidų."
+        },
+        {
+            "id": "Jn_3_007",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas tiesiogiai atspindi Biblijos tekstą."
+        },
+        {
+            "id": "Jn_3_008",
+            "grade": 5,
+            "comment": "Klausimas labai aiškus, o atsakymas yra tiksli ir pilna citata iš pagrindinės Jono 3:16 eilutės."
+        },
+        {
+            "id": "Jn_3_009",
+            "grade": 5,
+            "comment": "Klausimas teisingas ir atsakymas yra tiksli teksto citata, be jokių pakeitimų."
+        },
+        {
+            "id": "Jn_3_010",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas yra tikslus citata iš nurodytos Biblijos ištraukos."
+        },
+        {
+            "id": "Jn_3_011",
+            "grade": 2,
+            "comment": "Klausimas klaidingai formuluojamas 'ką Jėzus sakė apie krikštyną', nors atsakymas apibūdina Jėzaus veiksmus ir vietą, o ne pasakytus žodžius."
+        },
+        {
+            "id": "Jn_3_012",
+            "grade": 1,
+            "comment": "Klausimas klaidingai teigia, kad Jėzus pasakė šiuos žodžius apie Joną Krikštytoją, nors pagal tekstą tai pasakė pats Jonas."
+        }
+    ]
+}

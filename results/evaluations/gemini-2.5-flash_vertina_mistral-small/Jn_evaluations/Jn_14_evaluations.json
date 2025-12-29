@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_14"
+    },
+    "results": [
+        {
+            "id": "Jn_14_001",
+            "grade": 4,
+            "comment": "Klausimas aiškus ir teisingas, o atsakymas tiesiogiai atspindi pagrindinę Jėzaus žinią apie vietos ruošimą. Klausimo gramatika galėtų būti sklandesnė."
+        },
+        {
+            "id": "Jn_14_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, tikslus ir lengvai patikrinamas pagal pateiktą Biblijos ištrauką. Teisingas atsakymas parinktas idealiai."
+        },
+        {
+            "id": "Jn_14_003",
+            "grade": 5,
+            "comment": "Klausimas prašo tikslaus citatos iš nurodyto Biblijos skyriaus ir eilutės. Teisingas atsakymas yra identiškas citatai, kiti variantai aiškiai klaidingi."
+        },
+        {
+            "id": "Jn_14_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, tikslus ir lengvai patikrinamas pagal pateiktą Biblijos ištrauką. Teisingas atsakymas parinktas idealiai."
+        },
+        {
+            "id": "Jn_14_005",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo eilutę ir prašo citatos, kuri teisingai atspindi Jėzaus žodžius apie save ir Tėvą. Teisingas atsakymas yra tiksli citata."
+        },
+        {
+            "id": "Jn_14_006",
+            "grade": 4,
+            "comment": "Klausimas ir atsakymas yra faktiškai teisingi ir paremti tekstu. Nors klausimas klausia apie 'darbus', o atsakymas cituoja apie 'žodžius', kontekste tai glaudžiai susiję su Tėvo veikimu per Jėzų."
+        },
+        {
+            "id": "Jn_14_007",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo eilutę ir prašo citatos. Teisingas atsakymas yra tiksli ir išsami Jėzaus ištartų žodžių citata."
+        },
+        {
+            "id": "Jn_14_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, prašantis citatos iš nurodytos eilutės. Teisingas atsakymas yra tiksli citata, o kiti variantai yra akivaizdžiai klaidingi."
+        },
+        {
+            "id": "Jn_14_009",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo eilutes ir teisingas atsakymas apibendrina Šventosios Dvasios apibūdinimą ir jos amžinumą, kaip nurodyta tekste."
+        },
+        {
+            "id": "Jn_14_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, prašantis citatos iš nurodytos eilutės. Teisingas atsakymas yra tiksli citata, o kiti variantai yra akivaizdžiai klaidingi."
+        }
+    ]
+}

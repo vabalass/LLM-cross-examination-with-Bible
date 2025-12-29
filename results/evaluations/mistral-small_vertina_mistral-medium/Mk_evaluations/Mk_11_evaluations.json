@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Mk_11"
+    },
+    "results": [
+        {
+            "id": "Mk_11_001",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        },
+        {
+            "id": "Mk_11_002",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        },
+        {
+            "id": "Mk_11_003",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        },
+        {
+            "id": "Mk_11_004",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        },
+        {
+            "id": "Mk_11_005",
+            "grade": 1,
+            "comment": "Klausimas neteisingas, nes Jėzus prakeikė figmedį ne dėl alkanumo, bet dėl simbolinio prasmės."
+        },
+        {
+            "id": "Mk_11_006",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        },
+        {
+            "id": "Mk_11_007",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        },
+        {
+            "id": "Mk_11_008",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        },
+        {
+            "id": "Mk_11_009",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        },
+        {
+            "id": "Mk_11_010",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        },
+        {
+            "id": "Mk_11_011",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai apima tekstą."
+        }
+    ]
+}

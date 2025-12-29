@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_12"
+    },
+    "results": [
+        {
+            "id": "Lk_12_001",
+            "grade": 5,
+            "comment": "Puikiai suformuluotas klausimas, tiksliai atspindintis Biblijos ištraukos mintį ir faktiškai teisingas."
+        },
+        {
+            "id": "Lk_12_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi nurodytą Šv. Rašto vietą."
+        },
+        {
+            "id": "Lk_12_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai suformuluoti, tiksliai atspindintys Biblijos teksto prasmę."
+        },
+        {
+            "id": "Lk_12_004",
+            "grade": 5,
+            "comment": "Paprastas, bet tikslus faktinis klausimas."
+        },
+        {
+            "id": "Lk_12_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka nurodytą eilutę."
+        },
+        {
+            "id": "Lk_12_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tikslus, o teisingas atsakymas tiesiogiai paimtas iš Biblijos teksto."
+        },
+        {
+            "id": "Lk_12_007",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingas atsakymas tiesiogiai atspindi Šv. Rašto pranešimą."
+        },
+        {
+            "id": "Lk_12_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai suformuluoti, tiksliai atspindintys Biblijos teksto prasmę."
+        },
+        {
+            "id": "Lk_12_009",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo teksto vietą ir jo turinį, o atsakymas yra teisingas."
+        },
+        {
+            "id": "Lk_12_010",
+            "grade": 5,
+            "comment": "Klausimas puikiai atspindi nurodytą eilutę ir pateikia teisingą atsakymą."
+        },
+        {
+            "id": "Lk_12_011",
+            "grade": 5,
+            "comment": "Tikslus klausimas ir atsakymas, tiesiogiai cituojantys Šv. Rašto mintį."
+        },
+        {
+            "id": "Lk_12_012",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo teksto vietą ir teisingas atsakymas yra tiesioginis citavimas."
+        },
+        {
+            "id": "Lk_12_013",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_12_014",
+            "grade": 5,
+            "comment": "Aiškus ir teisingas klausimas, atitinkantis nurodytą eilutę."
+        },
+        {
+            "id": "Lk_12_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atspindi Jėzaus mokymą apie turtą."
+        },
+        {
+            "id": "Lk_12_016",
+            "grade": 5,
+            "comment": "Tikslus klausimas ir teisingas atsakymas, tiesiogiai paimtas iš Biblijos."
+        },
+        {
+            "id": "Lk_12_017",
+            "grade": 4,
+            "comment": "Klausimas šiek tiek dviprasmiškai suformuluotas („ką lygina su žmonėmis“, kai lyginami patys mokiniai su laukiančiaisiais), tačiau atsakymas teisingai apibūdina laukiančiųjų būseną."
+        },
+        {
+            "id": "Lk_12_018",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atspindi Biblijos teksto prasmę."
+        },
+        {
+            "id": "Lk_12_019",
+            "grade": 5,
+            "comment": "Tikslus klausimas ir teisingas atsakymas, atspindintis Jėzaus mokymą."
+        },
+        {
+            "id": "Lk_12_020",
+            "grade": 5,
+            "comment": "Klausimas teisingai interpretuoja „ugnies“ prasmę pagal tolesnes eilutes, kalbančias apie nesantarvę ir susiskaldymą."
+        },
+        {
+            "id": "Lk_12_021",
+            "grade": 5,
+            "comment": "Puikiai suformuluotas klausimas, tiksliai atspindintis Biblijos ištraukos mintį ir faktiškai teisingas."
+        }
+    ]
+}

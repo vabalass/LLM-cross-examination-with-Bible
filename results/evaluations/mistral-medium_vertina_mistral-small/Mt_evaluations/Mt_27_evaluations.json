@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_27"
+    },
+    "results": [
+        {
+            "id": "Mt_27_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_003",
+            "grade": 0,
+            "comment": "Klausimas turi techninių klaidų, visi atsakymų variantai yra identiški."
+        },
+        {
+            "id": "Mt_27_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_006",
+            "grade": 1,
+            "comment": "Atsakymas yra klaidingas, nes Jėzus patvirtino, kad yra žydų karalius."
+        },
+        {
+            "id": "Mt_27_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_011",
+            "grade": 0,
+            "comment": "Klausimas turi techninių klaidų, visi atsakymų variantai yra identiški."
+        },
+        {
+            "id": "Mt_27_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_013",
+            "grade": 0,
+            "comment": "Klausimas turi techninių klaidų, visi atsakymų variantai yra identiški."
+        },
+        {
+            "id": "Mt_27_014",
+            "grade": 0,
+            "comment": "Klausimas turi techninių klaidų, visi atsakymų variantai yra identiški."
+        },
+        {
+            "id": "Mt_27_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_016",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_017",
+            "grade": 0,
+            "comment": "Klausimas turi techninių klaidų, visi atsakymų variantai yra identiški."
+        },
+        {
+            "id": "Mt_27_018",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_019",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_020",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        },
+        {
+            "id": "Mt_27_021",
+            "grade": 0,
+            "comment": "Klausimas turi techninių klaidų, visi atsakymų variantai yra identiški."
+        },
+        {
+            "id": "Mt_27_022",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra ideali, atitinka visus kriterijus."
+        }
+    ]
+}

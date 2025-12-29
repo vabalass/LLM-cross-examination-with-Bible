@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_6"
+    },
+    "results": [
+        {
+            "id": "Lk_6_001",
+            "grade": 0,
+            "comment": "Klausimas neaiškus ir klaidinantis, o visos pateiktos pasirinkimo galimybės, įskaitant 'teisingą' atsakymą, yra visiškai neteisingos ir prieštarauja Biblijos ištraukai."
+        },
+        {
+            "id": "Lk_6_002",
+            "grade": 1,
+            "comment": "Klausimas aiškus, tačiau visos atsakymo galimybės yra faktiškai klaidingos ir neatspindi Jėzaus atsakymo fariziejams, todėl atsakymas prieštarauja šaltiniui."
+        },
+        {
+            "id": "Lk_6_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, pasirinkimo galimybės tikslios ir teisingas atsakymas (c) tiesiogiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_6_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas (a) yra tiesioginė Jėzaus citata iš nurodytos ištraukos."
+        },
+        {
+            "id": "Lk_6_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir pateikiamas teisingas atsakymas (c), kuris tiesiogiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_6_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas atsakymas (d) apibendrina teisingas pasirinkimo galimybes, kurios tiesiogiai nurodomos Biblijos ištraukoje."
+        },
+        {
+            "id": "Lk_6_007",
+            "grade": 4,
+            "comment": "Teisingas atsakymas yra tikslus ir tiesiogiai pagrįstas tekstu, tačiau kiti trys pasirinkimai yra identiški ir suformuluoti prastai, dėl ko sumažėja klausimo kokybė."
+        },
+        {
+            "id": "Lk_6_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas (a) yra tiesioginė Jėzaus citata iš nurodytos ištraukos."
+        },
+        {
+            "id": "Lk_6_009",
+            "grade": 4,
+            "comment": "Teisingas atsakymas (a) yra logiškas ir netiesiogiai nurodomas tekste (žmonės rinkosi 'pasiklausyti'), tačiau trys klaidingi variantai yra identiški ir suformuluoti prastai."
+        },
+        {
+            "id": "Lk_6_010",
+            "grade": 3,
+            "comment": "Atsakymo turinys yra teisingas ir tiesiogiai paimtas iš teksto, tačiau visos keturios atsakymo galimybės yra identiškos, o tai yra didelė formos klaida."
+        },
+        {
+            "id": "Lk_6_011",
+            "grade": 3,
+            "comment": "Atsakymo turinys teisingas (atspindi 'vargas jums'), tačiau 'vargdieniai' yra netobulas vertimas šiam kontekstui ir, kas svarbiausia, trys iš keturių pasirinkimų yra identiški."
+        },
+        {
+            "id": "Lk_6_012",
+            "grade": 3,
+            "comment": "Atsakymo turinys teisingas (atspindi 'vargas jums'), tačiau 'vargdieniai' yra netobulas vertimas šiam kontekstui ir trys iš keturių pasirinkimų yra identiški, kas yra formos klaida."
+        },
+        {
+            "id": "Lk_6_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas atsakymas (a) yra tiesioginė Jėzaus citata, o klaidingi pasirinkimai yra akivaizdžiai neteisingi ir gerai suformuluoti."
+        },
+        {
+            "id": "Lk_6_014",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas atsakymas (a) yra tiesioginė Jėzaus citata, o klaidingi pasirinkimai yra akivaizdžiai neteisingi ir gerai suformuluoti."
+        },
+        {
+            "id": "Lk_6_015",
+            "grade": 3,
+            "comment": "Atsakymo turinys yra teisingas ir tiesiogiai paimtas iš teksto, tačiau trys atsakymo galimybės yra identiškos teisingam atsakymui, o tai yra didelė formos klaida."
+        },
+        {
+            "id": "Lk_6_016",
+            "grade": 3,
+            "comment": "Atsakymo turinys yra teisingas ir tiesiogiai paimtas iš teksto, tačiau trys klaidingi pasirinkimai yra identiški vienas kitam, o tai yra didelė formos klaida."
+        }
+    ]
+}

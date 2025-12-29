@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_4"
+    },
+    "results": [
+        {
+            "id": "Mk_4_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealiai atitinka teksto informaciją, be jokių klaidų."
+        },
+        {
+            "id": "Mk_4_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiksliai perteikia Biblijos ištraukos faktus apie sėklas, kritusias prie kelio."
+        },
+        {
+            "id": "Mk_4_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra faktiškai teisingi ir aiškiai suformuluoti pagal pateiktą tekstą."
+        },
+        {
+            "id": "Mk_4_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi informaciją apie sėklas, nusmelktas erškėčių."
+        },
+        {
+            "id": "Mk_4_005",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingai nurodo, kuri žemė davė derlių, remiantis ištrauka."
+        },
+        {
+            "id": "Mk_4_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra faktiškai teisingi, tiksliai cituojantys šėtono vaidmenį."
+        },
+        {
+            "id": "Mk_4_007",
+            "grade": 5,
+            "comment": "Klausimas aiškiai formuluotas, o atsakymas tiksliai paaiškina, kodėl žmonės uolynėje atkrinta."
+        },
+        {
+            "id": "Mk_4_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto išaiškinimą apie žodžio nusmelkimą tarp erškėčių."
+        },
+        {
+            "id": "Mk_4_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai paimtas iš Jėzaus žodžių apie žiburį."
+        },
+        {
+            "id": "Mk_4_010",
+            "grade": 5,
+            "comment": "Klausimas teisingai apibendrina visus savaiminio augimo etapus, paminėtus tekste."
+        },
+        {
+            "id": "Mk_4_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, tiksliai nurodantys garstyčios grūdelio palyginimą."
+        },
+        {
+            "id": "Mk_4_012",
+            "grade": 3,
+            "comment": "Klausime yra nedidelė gramatinė klaida ('Kas pažadino Jėzus?' turėtų būti 'Kas pažadino Jėzų?'), tačiau turinys yra teisingas."
+        },
+        {
+            "id": "Mk_4_013",
+            "grade": 1,
+            "comment": "Klausimas yra faktiškai klaidingas: Jėzus ne 'pažadino vėtrą', o jį pažadino mokiniai, po ko jis sudraudė vėtrą."
+        }
+    ]
+}

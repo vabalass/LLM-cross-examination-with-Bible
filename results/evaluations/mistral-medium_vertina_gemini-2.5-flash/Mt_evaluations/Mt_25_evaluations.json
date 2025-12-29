@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_25"
+    },
+    "results": [
+        {
+            "id": "Mt_25_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        },
+        {
+            "id": "Mt_25_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas ideali visais aspektais."
+        }
+    ]
+}

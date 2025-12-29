@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_16"
+    },
+    "results": [
+        {
+            "id": "Mt_16_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai yra aiškūs, tiksliai atspindi Biblijos ištrauką. Korektiškas atsakymas tiesiogiai cituojamas tekste."
+        },
+        {
+            "id": "Mt_16_002",
+            "grade": 5,
+            "comment": "Klausimas puikiai formuluotas, o atsakymas tiesiogiai nurodytas ištraukoje, paaiškinant „raugo“ prasmę. Distraktoriai pagrįsti, bet neteisingi."
+        },
+        {
+            "id": "Mt_16_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tikslus. Pateikti atsakymo variantai tiesiogiai atitinka tekste nurodytus atsakymus, todėl įvertinimas idealus."
+        },
+        {
+            "id": "Mt_16_004",
+            "grade": 5,
+            "comment": "Klausimas tiesiogiai cituoja Jėzaus klausimą, o teisingas atsakymas yra tiksli Petro išpažinimo citata iš teksto."
+        },
+        {
+            "id": "Mt_16_005",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir konkrečiai klausia apie pažadą Petrui. Teisingas atsakymas yra tiesioginė Biblijos teksto citata."
+        },
+        {
+            "id": "Mt_16_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tiesiogiai nurodo poįvykį. Teisingas atsakymas tiksliai atspindi Jėzaus nurodymą mokiniams."
+        },
+        {
+            "id": "Mt_16_007",
+            "grade": 5,
+            "comment": "Klausimas puikiai perteikia Jėzaus pranašystę apie savo kančią ir prisikėlimą. Teisingas atsakymas tiksliai atitinka teksto turinį."
+        },
+        {
+            "id": "Mt_16_008",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo įvykį ir Jėzaus reakciją. Teisingas atsakymas yra tiesioginė Jėzaus citata, o tai rodo aukštą kokybę."
+        },
+        {
+            "id": "Mt_16_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir tiesiogiai cituoja Jėzaus mokymą apie sekimą Juo. Teisingas atsakymas yra tiksli teksto citata."
+        }
+    ]
+}

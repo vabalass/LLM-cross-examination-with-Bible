@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_11"
+    },
+    "results": [
+        {
+            "id": "Mt_11_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_11_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_11_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_11_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_11_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_11_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_11_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_11_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_11_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        },
+        {
+            "id": "Mt_11_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymai atitinka Šv. Rašto tekstą, aiškiai suformuluotas ir turi didaktinę vertę."
+        }
+    ]
+}

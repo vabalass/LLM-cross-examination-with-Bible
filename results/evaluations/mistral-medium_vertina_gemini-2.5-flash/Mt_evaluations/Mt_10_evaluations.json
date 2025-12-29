@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_10"
+    },
+    "results": [
+        {
+            "id": "Mt_10_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_005",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_006",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_007",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_010",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_011",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_012",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_013",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        },
+        {
+            "id": "Mt_10_014",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, teisingas ir atitinka tekstą. Visos opcijos yra tinkamos ir teisingas atsakymas yra aiškiai nurodytas."
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_12"
+    },
+    "results": [
+        {
+            "id": "Mk_12_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Biblijos ištraukos turinį. Pasirinktas atsakymas yra tiesioginė ištraukos citata."
+        },
+        {
+            "id": "Mk_12_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka Biblijos ištraukos žodžius ir kontekstą. Atsakymas yra tiesioginė Jėzaus citata."
+        },
+        {
+            "id": "Mk_12_003",
+            "grade": 5,
+            "comment": "Klausimas teisingai atspindi sadukiejų užduotą klausimą Jėzui. Pasirinktas atsakymas yra tikslus šio klausimo apibendrinimas."
+        },
+        {
+            "id": "Mk_12_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai cituoja Jėzaus žodžius sadukiejams. Atsakymas atspindi esminę Jėzaus mokymo dalį apie prisikėlimą."
+        },
+        {
+            "id": "Mk_12_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas teisingai atspindi Jėzaus išvadą remiantis Mozės knyga. Nors formulavimas šiek tiek išplėstas, jis tiksliai perteikia prasmę."
+        },
+        {
+            "id": "Mk_12_006",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo, kas yra didžiausias įsakymas pagal Jėzaus mokymą. Atsakymas yra tiesioginė ir išsami citata iš teksto."
+        },
+        {
+            "id": "Mk_12_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus nurodytą antrąjį didžiausią įsakymą. Atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Mk_12_008",
+            "grade": 5,
+            "comment": "Klausimas teisingai perteikia Jėzaus mokymą apie Mesiją, remiantis Dovydo žodžiais. Atsakymas tiksliai apibendrina Jėzaus iškeltą idėją."
+        },
+        {
+            "id": "Mk_12_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai apibendrina Jėzaus perspėjimą apie Rašto aiškintojus ir jų veiksmų pasekmes. Atsakymas yra tikslus ištraukos atspindys."
+        },
+        {
+            "id": "Mk_12_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus įvertinimą našlės aukai ir jos reikšmę. Atsakymas yra tiesioginis Jėzaus žodžių perteikimas."
+        },
+        {
+            "id": "Mk_12_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai perteikia Jėzaus klausimą apie denarą, prieš pateikiant pagrindinį atsakymą. Tai yra tiksli citata iš teksto."
+        },
+        {
+            "id": "Mk_12_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus cituojamą Raštų ištrauką apie akmenį. Atsakymas yra tiesioginė citata."
+        },
+        {
+            "id": "Mk_12_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai nurodo dvi priežastis, kodėl Rašto aiškintojai ir fariziejai bijojo suimti Jėzų. Atsakymas yra tikslus ištraukos apibendrinimas."
+        },
+        {
+            "id": "Mk_12_014",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai perteikia Jėzaus žodžius Rašto aiškintojui, kuris teisingai suprato didžiausią įsakymą. Atsakymas yra tiesioginė citata."
+        }
+    ]
+}

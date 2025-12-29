@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_4"
+    },
+    "results": [
+        {
+            "id": "Lk_4_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_003",
+            "grade": 3,
+            "comment": "Klausimas nevisiškai tikslus: velnias parodė karalystes, bet pasiūlė jų valdžią ir didybę. Atsakymas 'b' yra kas buvo parodyta, o 'd' yra kas buvo pasiūlyta (valdžia), kas yra tikslesnis siūlymo atspindys."
+        },
+        {
+            "id": "Lk_4_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai apibendrina Jėzaus veiksmus."
+        },
+        {
+            "id": "Lk_4_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai apibendrina Jėzaus veiksmus ligonių atžvilgiu."
+        },
+        {
+            "id": "Lk_4_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_4_014",
+            "grade": 2,
+            "comment": "Klausimas neaiškus ir turi daugiau nei vieną teisingą atsakymą pagal pateiktą tekstą. Jėzus skelbė žodį Kafarnaume (kuris yra Galilėjoje) iškart po Nazareto, o vėliau ir Judėjos sinagogose."
+        }
+    ]
+}

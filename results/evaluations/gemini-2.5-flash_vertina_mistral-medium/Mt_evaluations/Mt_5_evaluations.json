@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_5"
+    },
+    "results": [
+        {
+            "id": "Mt_5_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka pateiktą Biblijos ištrauką ir yra aiškiai suformuluoti."
+        },
+        {
+            "id": "Mt_5_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiesiogiai cituojamas iš Šventojo Rašto."
+        },
+        {
+            "id": "Mt_5_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus žodžius ištraukoje."
+        },
+        {
+            "id": "Mt_5_004",
+            "grade": 5,
+            "comment": "Klausimas yra taiklus, o teisingas atsakymas tiesiogiai paimtas iš Biblijos teksto."
+        },
+        {
+            "id": "Mt_5_005",
+            "grade": 5,
+            "comment": "Klausimas aiškiai formuluotas, o atsakymas tiesiogiai atspindi Jėzaus mokymą apie Įstatymą ir Pranašus."
+        },
+        {
+            "id": "Mt_5_006",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas puikiai atitinka pateiktą ištrauką."
+        },
+        {
+            "id": "Mt_5_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas atsakymas tiesiogiai nurodomas tekste."
+        },
+        {
+            "id": "Mt_5_008",
+            "grade": 5,
+            "comment": "Klausimas puikiai atspindi Jėzaus mokymą apie susitaikinimą, o teisingas atsakymas yra tikslus."
+        },
+        {
+            "id": "Mt_5_009",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiksliai perteikia Jėzaus nurodymą."
+        },
+        {
+            "id": "Mt_5_010",
+            "grade": 4,
+            "comment": "Turinys ir technika yra puikūs, tačiau atsakymo formuluotė 'jei reikia' šiek tiek sušvelnina originalaus teksto radikalumą, nors esmė išlieka teisinga."
+        },
+        {
+            "id": "Mt_5_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai atspindi ištraukoje pateiktą vienintelę išimtį skyryboms."
+        },
+        {
+            "id": "Mt_5_012",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi Jėzaus kategorišką nurodymą dėl priesaikų."
+        },
+        {
+            "id": "Mt_5_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai cituoja Jėzaus žodžius apie skolinimą."
+        },
+        {
+            "id": "Mt_5_014",
+            "grade": 5,
+            "comment": "Klausimas puikiai atspindi svarbiausią Jėzaus mokymą apie priešų meilę, o atsakymas yra tikslus."
+        },
+        {
+            "id": "Mt_5_015",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiksliai atspindi Jėzaus nurodymą."
+        },
+        {
+            "id": "Mt_5_016",
+            "grade": 5,
+            "comment": "Klausimas gerai formuluotas, o atsakymas tiksliai nurodo vieną iš Jėzaus pateiktų pavyzdžių."
+        }
+    ]
+}

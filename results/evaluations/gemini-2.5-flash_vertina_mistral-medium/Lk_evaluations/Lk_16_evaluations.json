@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_16"
+    },
+    "results": [
+        {
+            "id": "Lk_16_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o pasirinktas atsakymas tiesiogiai ir tiksliai atspindi prievaizdo veiksmus, aprašytus ištraukoje (Lk 16:4-7)."
+        },
+        {
+            "id": "Lk_16_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto dalį, kurioje šeimininkas pagiria prievaizdą už jo gudrumą (Lk 16:8)."
+        },
+        {
+            "id": "Lk_16_003",
+            "grade": 1,
+            "comment": "Atsakymas klaidingai interpretuoja „darytis bičiulių su apgaulinga Mamona“. Jėzus pataria naudoti turtus geriems darbams, kad pelnytume amžinąsias padangtes, o ne draugauti su turtingais žmonėmis dėl asmeninės ateities naudos."
+        },
+        {
+            "id": "Lk_16_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus mokymą apie ištikimybę mažmožiuose, kaip nurodyta ištraukoje (Lk 16:10)."
+        },
+        {
+            "id": "Lk_16_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai cituoja Jėzaus žodžius apie negalimumą tarnauti Dievui ir Mamonai (Lk 16:13)."
+        },
+        {
+            "id": "Lk_16_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai apibūdina Lozoriaus būklę, kaip aprašyta palyginime (Lk 16:20-21)."
+        },
+        {
+            "id": "Lk_16_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas teisingai nurodo, kur pateko Lozorius ir turtuolis po mirties, remiantis tekstu (Lk 16:22-23)."
+        },
+        {
+            "id": "Lk_16_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi turtuolio prašymą Abraomui, detaliai aprašytą ištraukoje (Lk 16:24)."
+        },
+        {
+            "id": "Lk_16_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai cituoja Abraomo paaiškinimą apie turtuolio ir Lozoriaus likimus (Lk 16:25)."
+        },
+        {
+            "id": "Lk_16_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Abraomo atsakymą turtuoliui dėl brolių įspėjimo, nurodyto Biblijos ištraukoje (Lk 16:29)."
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_4"
+    },
+    "results": [
+        {
+            "id": "Jn_4_001",
+            "grade": 1,
+            "comment": "Klausimas klaidingai identifikuoja priežastį. Jėzus paliko Judėją dėl fariziejų (v. 1-3), o ne dėl to, kad 'turėjo eiti per Samariją', kas yra maršrutas į Galilėją, ne išvykimo priežastis."
+        },
+        {
+            "id": "Jn_4_002",
+            "grade": 1,
+            "comment": "Korektiškas atsakymas 'c' klaidingai interpretuoja tekstą. Jokūbas davė lauką Juozapui, o ne šulinį (v. 5-6)."
+        },
+        {
+            "id": "Jn_4_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai atspindi Biblijos ištrauką (v. 9)."
+        },
+        {
+            "id": "Jn_4_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai cituoja Jėzaus žodžius apie 'gyvąjį vandenį' (v. 10, 14)."
+        },
+        {
+            "id": "Jn_4_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai atspindi Jėzaus žodžius apie moters penkis vyrus (v. 18)."
+        },
+        {
+            "id": "Jn_4_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai cituoja Jėzaus mokymą apie garbinimą 'dvasia ir tiesa' (v. 23-24)."
+        },
+        {
+            "id": "Jn_4_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai atspindi moters klausimą žmonėms: 'Ar tik jis nebus Mesijas?!' (v. 29)."
+        },
+        {
+            "id": "Jn_4_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai cituoja Jėzaus apibrėžimą apie jo maistą (v. 34)."
+        },
+        {
+            "id": "Jn_4_009",
+            "grade": 1,
+            "comment": "Visi atsakymo variantai, įskaitant teisingą, klaidingai atspindi Jėzaus žodžius. Jėzus pasakė, kad laukai 'jau boluoja ir prinokę pjūčiai', o ne kad pjūtis bus po keturių mėnesių (v. 35)."
+        },
+        {
+            "id": "Jn_4_010",
+            "grade": 3,
+            "comment": "Atsakymas yra teisingas, nes Jėzus cituoja priežodį (v. 37), tačiau visos pasirinkimo galimybės yra identiškos, o tai yra rimtas techninis trūkumas."
+        },
+        {
+            "id": "Jn_4_011",
+            "grade": 4,
+            "comment": "Atsakymas teisingas, nes 'dėl moters liudijimo' daug samariečių iš pradžių įtikėjo (v. 39), tačiau vėliau 'dar daugiau žmonių įtikėjo dėl jo pamokslų' (v. 41), todėl atsakymas gali būti ne visiškai išsamus."
+        },
+        {
+            "id": "Jn_4_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai atspindi Jėzaus kelionės kryptį (v. 43)."
+        },
+        {
+            "id": "Jn_4_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai cituoja Jėzaus pareiškimą (v. 44)."
+        },
+        {
+            "id": "Jn_4_014",
+            "grade": 1,
+            "comment": "Nors Jėzus išgydė valdininko sūnų, jis tai padarė būdamas Kanoje, o ne Kafarnaume (v. 46-50), todėl atsakymas, nurodantis Kafarnaumą, yra faktiškai klaidingas."
+        },
+        {
+            "id": "Jn_4_015",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai cituoja Jėzaus žodžius valdininkui (v. 50)."
+        },
+        {
+            "id": "Jn_4_016",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai atspindi valdininko veiksmus po Jėzaus žodžių (v. 50)."
+        },
+        {
+            "id": "Jn_4_017",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai atspindi tarnų pranešimą (v. 51)."
+        },
+        {
+            "id": "Jn_4_018",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai ir tiksliai atspindi tai, ką tėvas patyrė (v. 53)."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_17"
+    },
+    "results": [
+        {
+            "id": "Mt_17_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai atitinka Šventą Raštą, aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mt_17_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai atitinka Šventą Raštą, aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mt_17_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai atitinka Šventą Raštą, aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mt_17_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai atitinka Šventą Raštą, aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mt_17_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai atitinka Šventą Raštą, aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mt_17_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai atitinka Šventą Raštą, aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mt_17_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai atitinka Šventą Raštą, aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mt_17_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai atitinka Šventą Raštą, aiškūs ir tikslūs."
+        },
+        {
+            "id": "Mt_17_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymo variantai atitinka Šventą Raštą, aiškūs ir tikslūs."
+        }
+    ]
+}

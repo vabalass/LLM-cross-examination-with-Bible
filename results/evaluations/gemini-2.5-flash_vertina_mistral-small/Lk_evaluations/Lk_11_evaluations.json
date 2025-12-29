@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_11"
+    },
+    "results": [
+        {
+            "id": "Lk_11_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atitinka Biblijos tekstą."
+        },
+        {
+            "id": "Lk_11_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir atsakymas tiksliai atspindi pirmąją Tėve mūsų maldos eilutę."
+        },
+        {
+            "id": "Lk_11_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atspindi Jėzaus mokymą apie atleidimą."
+        },
+        {
+            "id": "Lk_11_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai cituoja Jėzaus žodžius apie maldą ir atsakymą."
+        },
+        {
+            "id": "Lk_11_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiesiogiai ir tiksliai nurodo, ką Dievas suteiks prašantiems."
+        },
+        {
+            "id": "Lk_11_006",
+            "grade": 5,
+            "comment": "Klausimas tikslus, atsakymas tiesiogiai nurodo, kuo Jėzus buvo kaltinamas."
+        },
+        {
+            "id": "Lk_11_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas teisingai apibendrina Jėzaus teiginį apie Dievo pirštą kaip demonų išvarymo šaltinį."
+        },
+        {
+            "id": "Lk_11_008",
+            "grade": 1,
+            "comment": "Teisingas atsakymas \"Jėzaus sekėjai\" (b) yra faktiškai klaidingas. Biblijos ištraukoje (Lk 11:19) Jėzus kalba apie fariziejų \"sekėjus\" (mokinius), kurie taip pat išvaro demonus, ir kurie bus \"jūsų\" (fariziejų) teisėjai."
+        },
+        {
+            "id": "Lk_11_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai atspindi netyrosios dvasios ieškojimą."
+        },
+        {
+            "id": "Lk_11_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiksliai nurodo, kiek dvasių su savimi pasiima sugrįžusi netyroji dvasia."
+        },
+        {
+            "id": "Lk_11_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai cituoja Jėzaus žodžius apie tikrąją palaimą."
+        },
+        {
+            "id": "Lk_11_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas, atsakymas tiksliai atspindi Jėzaus pareiškimą apie Jonos ženklą."
+        },
+        {
+            "id": "Lk_11_013",
+            "grade": 3,
+            "comment": "Klausimas teisingas, tačiau yra identiškas ankstesniam klausimui (Lk_11_012), kas yra techninis trūkumas klausimų rinkinyje."
+        },
+        {
+            "id": "Lk_11_014",
+            "grade": 3,
+            "comment": "Klausimas teisingas, tačiau yra identiškas ankstesniam klausimui (Lk_11_012), kas yra techninis trūkumas klausimų rinkinyje."
+        },
+        {
+            "id": "Lk_11_015",
+            "grade": 3,
+            "comment": "Klausimas teisingas, tačiau yra identiškas ankstesniam klausimui (Lk_11_012), kas yra techninis trūkumas klausimų rinkinyje."
+        },
+        {
+            "id": "Lk_11_016",
+            "grade": 3,
+            "comment": "Klausimas teisingas, tačiau yra identiškas ankstesniam klausimui (Lk_11_012), kas yra techninis trūkumas klausimų rinkinyje."
+        },
+        {
+            "id": "Lk_11_017",
+            "grade": 3,
+            "comment": "Klausimas teisingas, tačiau yra identiškas ankstesniam klausimui (Lk_11_012), kas yra techninis trūkumas klausimų rinkinyje."
+        }
+    ]
+}

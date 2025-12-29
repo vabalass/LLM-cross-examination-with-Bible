@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_21"
+    },
+    "results": [
+        {
+            "id": "Mt_21_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_002",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_005",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_012",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_013",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_014",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        },
+        {
+            "id": "Mt_21_015",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka tekstą."
+        }
+    ]
+}

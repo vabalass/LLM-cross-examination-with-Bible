@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_19"
+    },
+    "results": [
+        {
+            "id": "Jn_19_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tiesiogiai nurodytas tekste ir yra visiškai tikslus."
+        },
+        {
+            "id": "Jn_19_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas aiškiai pateikti pagal tekstą."
+        },
+        {
+            "id": "Jn_19_003",
+            "grade": 1,
+            "comment": "Nors klausimas aiškus, pateiktas teisingas atsakymas (c) yra faktiškai netikslus citavimas, sujungiantis dvi skirtingas Piloto frazes („Štai žmogus!“ ir „Štai jūsų karalius!“)."
+        },
+        {
+            "id": "Jn_19_004",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir atsakymas tiksliai atspindi tekste nurodytą priežastį."
+        },
+        {
+            "id": "Jn_19_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atitinka teksto turinį."
+        },
+        {
+            "id": "Jn_19_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai pateikiamas Biblijos ištraukoje."
+        },
+        {
+            "id": "Jn_19_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus žodžius Pilotui."
+        },
+        {
+            "id": "Jn_19_008",
+            "grade": 4,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tikslus, tačiau trys iš keturių parinkčių yra identiškos, o tai yra techninė klaida."
+        },
+        {
+            "id": "Jn_19_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir atsakymas tiesiogiai pateikiamas tekste su tiksliu vietos pavadinimu."
+        },
+        {
+            "id": "Jn_19_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai atspindi Piloto veiksmą, aprašytą tekste."
+        },
+        {
+            "id": "Jn_19_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai nurodo nukryžiavimo vietą, kaip aprašyta ištraukoje."
+        },
+        {
+            "id": "Jn_19_012",
+            "grade": 4,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tikslus, tačiau viena iš klaidingų parinkčių yra identiška teisingam atsakymui, o tai yra techninė klaida."
+        },
+        {
+            "id": "Jn_19_013",
+            "grade": 2,
+            "comment": "Klausimas teisingas, o atsakymas tikslus, tačiau visos keturios parinktys yra identiškos, o tai visiškai pažeidžia daugelio pasirinkimų klausimo logiką."
+        },
+        {
+            "id": "Jn_19_014",
+            "grade": 2,
+            "comment": "Klausimas teisingas, o atsakymas tikslus, tačiau visos keturios parinktys yra identiškos, kas pažeidžia daugelio pasirinkimų klausimo formatą ir logiką."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_3"
+    },
+    "results": [
+        {
+            "id": "Mt_3_001",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, tiesiogiai atsakomas ištraukos pradžioje, o teisingas atsakymas parinktas idealiai."
+        },
+        {
+            "id": "Mt_3_002",
+            "grade": 5,
+            "comment": "Klausimas tiesiogiai klausia apie konkretų faktą, o atsakymas yra tiksliai nurodytas ištraukoje ir teisingai parinktas."
+        },
+        {
+            "id": "Mt_3_003",
+            "grade": 5,
+            "comment": "Tiesioginis klausimas su tikslia citata, kurios autorius yra aiškiai nurodytas Biblijos ištraukoje. Atsakymas yra tobulas."
+        },
+        {
+            "id": "Mt_3_004",
+            "grade": 5,
+            "comment": "Klausimas teisingai identifikuoja kalbėtoją (Joną Krikštytoją) ir tiksliai nurodo jo pasakytus žodžius apie ateinančią asmenybę. Atsakymas yra tikslus ir aiškus."
+        },
+        {
+            "id": "Mt_3_005",
+            "grade": 2,
+            "comment": "Klausimas prašo nurodyti, ką atsakė Jėzus, tačiau 'teisingas' atsakymas (a) apima ne tik Jėzaus atsakymą, bet ir Jono Krikštytojo klausimą/atkalbinėjimą, kas yra didelis turinio trūkumas ir klaidinanti logika."
+        }
+    ]
+}

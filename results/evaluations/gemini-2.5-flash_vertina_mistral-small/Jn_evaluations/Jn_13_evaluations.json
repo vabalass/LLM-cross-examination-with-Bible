@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Jn_13"
+    },
+    "results": [
+        {
+            "id": "Jn_13_001",
+            "grade": 4,
+            "comment": "Klausimas ir atsakymas teisingi, bet veiksmažodžio forma „išduodavo“ galėtų būti tikslesnė (pvz., „išdavė“), nors kontekste suprantama."
+        },
+        {
+            "id": "Jn_13_002",
+            "grade": 3,
+            "comment": "Klausimas teisingas, bet pasirinkime „a“ yra gramatinė klaida („jims“ vietoj „jiems“). Kai kurie kiti pasirinkimai taip pat turi gramatinių trūkumų."
+        },
+        {
+            "id": "Jn_13_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs visais aspektais – aiškūs, gramatiškai taisyklingi ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Jn_13_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs visais aspektais – aiškūs, gramatiškai taisyklingi ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Jn_13_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs visais aspektais – aiškūs, gramatiškai taisyklingi ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Jn_13_006",
+            "grade": 4,
+            "comment": "Klausimas ir atsakymas teisingi, bet klausimo formuluotė „Kas turėjo žinoti“ galėtų būti tikslesnė, pvz., „Kas žinojo“, kadangi tekste kalbama apie tai, kas realiai žinojo."
+        },
+        {
+            "id": "Jn_13_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs visais aspektais – aiškūs, gramatiškai taisyklingi ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Jn_13_008",
+            "grade": 4,
+            "comment": "Klausimas ir teisingas atsakymas yra geri, bet kai kurie klaidingi pasirinkimai yra formuluojami gana griozdiškai ar su gramatiniais netikslumais."
+        },
+        {
+            "id": "Jn_13_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs visais aspektais – aiškūs, gramatiškai taisyklingi ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Jn_13_010",
+            "grade": 1,
+            "comment": "Klausimas yra faktiškai klaidingas ar klaidinantis, nes pateikta ištrauka kalba apie Jėzaus išėjimą ir mokinių negalėjimą dabar eiti kartu, o ne apie jo grįžimą."
+        },
+        {
+            "id": "Jn_13_011",
+            "grade": 1,
+            "comment": "Klausimas aiškus, bet teisingas atsakymas „b“ faktiškai klaidingas ir prieštarauja tekste pateiktam nurodymui mylėti vieniems kitus „kaip aš jus mylėjau“, o ne „kaip jie myli jį“."
+        },
+        {
+            "id": "Jn_13_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas idealūs visais aspektais – aiškūs, gramatiškai taisyklingi ir tiksliai atspindi teksto informaciją."
+        }
+    ]
+}

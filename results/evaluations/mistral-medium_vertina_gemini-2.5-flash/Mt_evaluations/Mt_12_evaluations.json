@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Mt_12"
+    },
+    "results": [
+        {
+            "id": "Mt_12_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_002",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_003",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_004",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_005",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_006",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_007",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_008",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_009",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_010",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_011",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_012",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_013",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_014",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_015",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        },
+        {
+            "id": "Mt_12_016",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir atitinka ištraukos turinį."
+        }
+    ]
+}

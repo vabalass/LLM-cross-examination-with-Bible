@@ -6,30 +6,43 @@ import llm_evaluation
 def main():
     parent_folder = Path(__file__).parent.parent
 
-    klausimu_autorius = "gemini-2.5-flash"
-    vertintojas = "mistral-medium"
+    klausimu_autorius = "mistral-small"
+    vertintojas = "gemini-2.5-flash"
+    evangelija = "mato_evangelija"
+    rezultatai = "Mt_evaluations"
+    klausimai = "klausimai_Mt"
 
     api_keys_path = parent_folder / "API_keys.txt"
-    source_text_path = parent_folder / "source_text" / "jono_evangelija"
-    output_path = parent_folder / "results/evaluations" / "mistral-medium_vertina_gemini-2.5-flash"
-    questions_path = parent_folder / "results/questions" / "" / "klausimai_Jn"
+    source_text_path = parent_folder / "source_text" / evangelija
+    output_path = parent_folder / "results/evaluations" / f"{vertintojas}_vertina_{klausimu_autorius}" / rezultatai
+    questions_path = parent_folder / "results/questions" / klausimu_autorius / klausimai
 
 
     file_io.read_and_save_API_keys(api_keys_path)
     
     models = [
-        #"gemini/gemini-2.5-flash-lite",
-        "gemini/gemini-2.5-flash",
-        #"mistral/mistral-medium-2508",
-        #"mistral/mistral-small-2506"
+        f"gemini/{vertintojas}",
+        #f"mistral/{vertintojas}-2508"
+        #f"mistral/{vertintojas}-2506"
     ]
     
-    # llm.generate_questions_from_all_text_files(
+    # llm_generation.generate_questions_from_all_text_files(
     #    folder_path=folder_path,
     #    model=models[0],
     #    output_path=output_path)
+
+    # llm_generation.process_one_text_file(
+    #     model="mistral/mistral-small-2506", 
+    #     question_output_path= parent_folder / "results/questions/mistral-small/klausimai_Mk/questions_Mk_3.json",
+    #     text_path= parent_folder / "source_text/morkaus_evangelija/Mk_3.txt"
+    #     )
     
-    llm_evaluation.evaluate_questions_with_one_model(questions_path, models[0], output_path, source_text_path)
+    llm_evaluation.evaluate_questions_with_one_model(
+        folder_path=questions_path, 
+        model=models[0], 
+        output_path=output_path, 
+        source_text_path=source_text_path
+    )
 
     
 

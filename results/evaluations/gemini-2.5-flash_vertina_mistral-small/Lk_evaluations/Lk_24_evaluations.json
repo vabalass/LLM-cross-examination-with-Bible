@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_24"
+    },
+    "results": [
+        {
+            "id": "Lk_24_001",
+            "grade": 1,
+            "comment": "Klausimas aiškus, tačiau nurodytas teisingas atsakymas 'Pirmadienį' yra faktiškai klaidingas pagal Biblijos tekstą 'Pirmąją savaitės dieną' (sekmadienį)."
+        },
+        {
+            "id": "Lk_24_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_007",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_012",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_013",
+            "grade": 4,
+            "comment": "Atsakymas 'Jis pasakė, kad jis yra Raštų centras' yra teisingas esme, tačiau yra interpretacija, o ne tiesioginis Jėzaus pasakytų žodžių atkartojimas iš teksto."
+        },
+        {
+            "id": "Lk_24_014",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_015",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_016",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Lk_24_017",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką."
+        }
+    ]
+}

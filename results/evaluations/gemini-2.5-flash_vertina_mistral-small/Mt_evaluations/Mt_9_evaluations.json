@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_9"
+    },
+    "results": [
+        {
+            "id": "Mt_9_001",
+            "grade": 1,
+            "comment": "Klausimas yra aiškus, tačiau nurodytas teisingas atsakymas ('a' - Mokiniai) nėra tiesiogiai patvirtintas pateiktoje Biblijos ištraukoje (Mt 9), kurioje tik sakoma, kad 'jam atnešė' ir 'pamatęs jų tikėjimą', nenurodant konkrečių asmenų."
+        },
+        {
+            "id": "Mt_9_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        },
+        {
+            "id": "Mt_9_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        },
+        {
+            "id": "Mt_9_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        },
+        {
+            "id": "Mt_9_005",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        },
+        {
+            "id": "Mt_9_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        },
+        {
+            "id": "Mt_9_007",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        },
+        {
+            "id": "Mt_9_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        },
+        {
+            "id": "Mt_9_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        },
+        {
+            "id": "Mt_9_010",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, remiantis teksto implikacija ir kontekstu."
+        },
+        {
+            "id": "Mt_9_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        },
+        {
+            "id": "Mt_9_012",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas puikiai atitinka Biblijos ištrauką, be jokių klaidų."
+        }
+    ]
+}

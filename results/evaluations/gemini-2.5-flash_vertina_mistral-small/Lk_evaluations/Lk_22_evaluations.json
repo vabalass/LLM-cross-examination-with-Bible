@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_22"
+    },
+    "results": [
+        {
+            "id": "Lk_22_001",
+            "grade": 3,
+            "comment": "Klausimas teisingas, tačiau yra gramatinė klaida žodyje „išduode“ (turėtų būti „išdavė“)."
+        },
+        {
+            "id": "Lk_22_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, aiškūs ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Lk_22_003",
+            "grade": 1,
+            "comment": "Nurodytas teisingas atsakymas (a) yra faktiškai klaidingas. Biblijoje rašoma, kad kambarį parodė namų šeimininkas (Lk 22:11-12), ne vandens ąsotį nešęs žmogus."
+        },
+        {
+            "id": "Lk_22_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, aiškūs ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Lk_22_005",
+            "grade": 0,
+            "comment": "Visos atsakymų parinktys yra identiškos ir faktiškai klaidingos/bekūnsės, neatitinkančios Biblijos teksto („vargas tam žmogui“)."
+        },
+        {
+            "id": "Lk_22_006",
+            "grade": 4,
+            "comment": "Klausimas teisingas, tačiau atsakymo variantas „apie tobuliausią“ nėra tiksliausia formuluotė, tekste sakoma „kuris... didžiausiu“."
+        },
+        {
+            "id": "Lk_22_007",
+            "grade": 0,
+            "comment": "Visos atsakymų parinktys yra identiškos ir faktiškai klaidingos/bekūnsės, neatitinkančios Biblijos teksto."
+        },
+        {
+            "id": "Lk_22_008",
+            "grade": 2,
+            "comment": "Klausimas teisingas, tačiau visos atsakymų parinktys yra identiškos ir teisingos, o tai rodo didelius turinio trūkumus (neteisingai sudaryti atsakymų variantai)."
+        },
+        {
+            "id": "Lk_22_009",
+            "grade": 4,
+            "comment": "Klausimas teisingas, atsakymas „a“ taip pat, tačiau variantas „b“ (kalavijas) taip pat yra paminėtas tekste kaip tai, ką mokiniai turėtų turėti (nors ir įsigyti), todėl klausimo formuluotė galėjo būti tikslesnė."
+        },
+        {
+            "id": "Lk_22_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, aiškūs ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Lk_22_011",
+            "grade": 2,
+            "comment": "Visos atsakymų parinktys yra identiškos ir netikslios. Nors Jėzus prašė atitolinti nuo jo kančią („atimk šitą taurę“), formuluotė „atsitrauk nuo manęs“ nėra tikslus Biblijos teksto citavimas ir keičia prasmę."
+        },
+        {
+            "id": "Lk_22_012",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, aiškūs ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Lk_22_013",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, aiškūs ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Lk_22_014",
+            "grade": 3,
+            "comment": "Klausimas teisingas, tačiau yra gramatinė klaida žodyje „išduode“ (turėtų būti „išdavė“)."
+        },
+        {
+            "id": "Lk_22_015",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, aiškūs ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Lk_22_016",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, aiškūs ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Lk_22_017",
+            "grade": 1,
+            "comment": "Nurodytas teisingas atsakymas (c) yra faktiškai klaidingas šiam kontekstui. Jėzus klausė, ar jis plėšikas (variantas a), kai jį areštavo, o apie Mesiją kalbėjo vėliau, teisme."
+        },
+        {
+            "id": "Lk_22_018",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra idealūs, aiškūs ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Lk_22_019",
+            "grade": 2,
+            "comment": "Klausimas teisingas, tačiau visos atsakymų parinktys yra identiškos ir turi rašybos klaidą („tyciojosi“ vietoj „tyčiojosi“), o tai rodo didelius turinio trūkumus."
+        },
+        {
+            "id": "Lk_22_020",
+            "grade": 4,
+            "comment": "Klausimas teisingas. Nors Jėzus tiesiogiai nepasakė „Aš esu Mesijas“, jo atsakymas „Taip yra, kaip sakote: Aš Esu!“ yra stiprus patvirtinimas Dievo Sūnaus statuso, susijusio su Mesijo titulu. Formuluotė galėtų būti tikslesnė."
+        },
+        {
+            "id": "Lk_22_021",
+            "grade": 0,
+            "comment": "Visos atsakymų parinktys yra identiškos ir faktiškai klaidingos/bekūnsės, visiškai neatitinkančios Biblijos teksto apie Jėzaus būsimąją padėtį."
+        },
+        {
+            "id": "Lk_22_022",
+            "grade": 0,
+            "comment": "Klausimas yra dublikuotas (tas pats kaip Lk_22_005). Visos atsakymų parinktys yra identiškos ir faktiškai klaidingos/bekūnsės, neatitinkančios Biblijos teksto („vargas tam žmogui“)."
+        }
+    ]
+}

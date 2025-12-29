@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_1"
+    },
+    "results": [
+        {
+            "id": "Mt_1_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, teisingas ir tiksliai atspindi teksto informaciją."
+        },
+        {
+            "id": "Mt_1_002",
+            "grade": 5,
+            "comment": "Klausimas suformuluotas aiškiai, o atsakymas yra teisingas, tiesiogiai paimtas iš nurodytos Biblijos ištraukos."
+        },
+        {
+            "id": "Mt_1_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir pateikia teisingą atsakymą pagal nurodytą Šventojo Rašto vietą."
+        },
+        {
+            "id": "Mt_1_004",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi teksto informaciją apie kartų ciklus, o atsakymas yra teisingas."
+        },
+        {
+            "id": "Mt_1_005",
+            "grade": 5,
+            "comment": "Klausimas yra elementarus ir teisingas, atsakymas tiesiogiai nurodytas ištraukoje."
+        },
+        {
+            "id": "Mt_1_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai atitinka Biblijos tekste aprašytą įvykį."
+        },
+        {
+            "id": "Mt_1_007",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo angelo žodžius ir Jėzaus vardo prasmę, o atsakymas yra visiškai teisingas."
+        },
+        {
+            "id": "Mt_1_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir pateikia teisingą Juozapo plano aprašymą pagal nurodytą tekstą."
+        }
+    ]
+}

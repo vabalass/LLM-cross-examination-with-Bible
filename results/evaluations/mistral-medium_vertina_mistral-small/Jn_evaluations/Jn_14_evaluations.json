@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-medium-2508",
+        "source": "Jn_14"
+    },
+    "results": [
+        {
+            "id": "Jn_14_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_14_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_14_003",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_14_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_14_005",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_14_006",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_14_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_14_008",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_14_009",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        },
+        {
+            "id": "Jn_14_010",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas atitinka Šventąjį Raštą, aiškiai suformuluotas."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_19"
+    },
+    "results": [
+        {
+            "id": "Mt_19_001",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo vietą ir nuorodą, o teisingas atsakymas tiesiogiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Mt_19_002",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, nuoroda į eiles tiksli, o teisingas atsakymas – tiesioginė Jėzaus žodžių citata."
+        },
+        {
+            "id": "Mt_19_003",
+            "grade": 5,
+            "comment": "Klausimas aiškiai formuluotas, nurodo tinkamą eilutę, o teisingas atsakymas identiškai atspindi Jėzaus paaiškinimą."
+        },
+        {
+            "id": "Mt_19_004",
+            "grade": 5,
+            "comment": "Klausimas yra tiesioginis ir tikslus, o teisingas atsakymas yra išsamus ir teisingas, atitinkantis nurodytą eilutę."
+        },
+        {
+            "id": "Mt_19_005",
+            "grade": 5,
+            "comment": "Klausimas aiškiai aprašo įvykį, o teisingas atsakymas tiksliai atspindi Jėzaus veiksmus, paminėtus ištraukoje."
+        },
+        {
+            "id": "Mt_19_006",
+            "grade": 5,
+            "comment": "Klausimas yra identiškas jaunuolio užduotam klausimui tekste, todėl atsakymas yra visiškai tikslus."
+        },
+        {
+            "id": "Mt_19_007",
+            "grade": 5,
+            "comment": "Klausimas teisingai atspindi Jėzaus pasiūlymą, o atsakymas yra tikslus ir išsamus, atitinkantis pateiktą tekstą."
+        },
+        {
+            "id": "Mt_19_008",
+            "grade": 5,
+            "comment": "Klausimas tikslus, nurodomas tinkamas palyginimas, o atsakymas teisingai nurodo, kas yra lyginama."
+        },
+        {
+            "id": "Mt_19_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir nuoroda tiksli, o atsakymas yra tiesioginė Jėzaus žodžių citata iš Biblijos ištraukos."
+        },
+        {
+            "id": "Mt_19_010",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus, o teisingas atsakymas visiškai atspindi Jėzaus pažadą, pateiktą nurodytoje eilutėje."
+        }
+    ]
+}

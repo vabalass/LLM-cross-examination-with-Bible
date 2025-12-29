@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mk_14"
+    },
+    "results": [
+        {
+            "id": "Mk_14_001",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka teksto informaciją. Formuluotė aiški ir tiksli."
+        },
+        {
+            "id": "Mk_14_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiesiogiai paimti iš Biblijos ištraukos. Viskas atitinka nurodymus."
+        },
+        {
+            "id": "Mk_14_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir pateikia teisingą atsakymą pagal pateiktą tekstą. Nėra jokių klaidų."
+        },
+        {
+            "id": "Mk_14_004",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas yra tiesioginė Jėzaus citata iš teksto. Atitinka visus reikalavimus."
+        },
+        {
+            "id": "Mk_14_005",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingas atsakymas nurodo konkrečią detalę iš teksto. Puikus vertinimas."
+        },
+        {
+            "id": "Mk_14_006",
+            "grade": 5,
+            "comment": "Klausimas suformuluotas aiškiai, o atsakymas tiesiogiai randamas tekste. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mk_14_007",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atspindi Jėzaus nurodymus. Formuluotė yra tiksli ir be priekaištų."
+        },
+        {
+            "id": "Mk_14_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas atsakymas yra tiesioginė Jėzaus citata. Atitinka aukščiausius standartus."
+        },
+        {
+            "id": "Mk_14_009",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tikslūs pagal teksto informaciją. Nėra jokių klaidų."
+        },
+        {
+            "id": "Mk_14_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas yra tiesioginė Jėzaus citata iš teksto. Idealus atitikimas."
+        },
+        {
+            "id": "Mk_14_011",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atitinka Jėzaus pranašystę Petrui. Tikslumas ir aiškumas yra idealūs."
+        },
+        {
+            "id": "Mk_14_012",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tikslus ir lengvai randamas tekste. Visi aspektai puikūs."
+        },
+        {
+            "id": "Mk_14_013",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas yra tiesioginė Jėzaus maldos citata. Be priekaištų."
+        },
+        {
+            "id": "Mk_14_014",
+            "grade": 5,
+            "comment": "Klausimas tikslus, o atsakymas yra tiesioginė Jėzaus citata mokiniams. Aukščiausias įvertinimas."
+        },
+        {
+            "id": "Mk_14_015",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus ir teisingas atsakymas tiesiogiai nurodomas tekste. Viskas idealu."
+        },
+        {
+            "id": "Mk_14_016",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas puikiai atspindi konkretų įvykį Jėzaus suėmimo metu. Visiškai teisinga."
+        },
+        {
+            "id": "Mk_14_017",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas yra tiesioginė Jėzaus citata. Puikiai atitinka tekstą."
+        },
+        {
+            "id": "Mk_14_018",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi mokinių elgesį Jėzaus suėmimo metu. Nėra klaidų."
+        },
+        {
+            "id": "Mk_14_019",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiksliai apibūdina Petro išsigynimą. Idealus vertinimas."
+        },
+        {
+            "id": "Mk_14_020",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tiesioginė Jėzaus citata aukščiausiajam kunigui. Visiškai teisinga ir aišku."
+        },
+        {
+            "id": "Mk_14_021",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o teisingas atsakymas tiksliai aprašo vyriausiojo kunigo reakciją. Puikus atitikimas."
+        },
+        {
+            "id": "Mk_14_022",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiesiogiai atspindi Jėzaus patirtus išbandymus. Visi aspektai idealūs."
+        },
+        {
+            "id": "Mk_14_023",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir teisingas atsakymas tiksliai nurodo Petro reakciją. Puikus vertinimas."
+        },
+        {
+            "id": "Mk_14_024",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tiesioginė Jėzaus citata apie ateities įvykius. Be priekaištų."
+        }
+    ]
+}

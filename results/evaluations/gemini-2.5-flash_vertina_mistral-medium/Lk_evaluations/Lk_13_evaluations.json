@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_13"
+    },
+    "results": [
+        {
+            "id": "Lk_13_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, tiksliai atspindi teksto esmę ir turi vienareikšmiškai teisingą atsakymą."
+        },
+        {
+            "id": "Lk_13_002",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo informaciją, kurią galima lengvai rasti tekste, o pateiktos galimybės yra aiškios."
+        },
+        {
+            "id": "Lk_13_003",
+            "grade": 5,
+            "comment": "Klausimas aiškus ir tiesiogiai atspindi palyginimo detales, su teisinga pasirinkimo galimybe."
+        },
+        {
+            "id": "Lk_13_004",
+            "grade": 5,
+            "comment": "Klausimas yra tiesioginis faktų patikrinimas iš teksto, o atsakymas aiškiai nurodytas."
+        },
+        {
+            "id": "Lk_13_005",
+            "grade": 5,
+            "comment": "Klausimas yra tiesioginis citavimas iš teksto, o teisingas atsakymas identiškai atkartojamas vienoje iš galimybių."
+        },
+        {
+            "id": "Lk_13_006",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi garstyčios grūdo palyginimo detales ir jo išsipildymą tekste."
+        },
+        {
+            "id": "Lk_13_007",
+            "grade": 5,
+            "comment": "Klausimas ir pasirinktas atsakymas yra tiesioginis citavimas iš teksto, perteikiantis Jėzaus mokymą apie išgelbėtųjų skaičių."
+        },
+        {
+            "id": "Lk_13_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus palyginimo pabaigą ir šeimininko atsakymą nepažįstantiems."
+        },
+        {
+            "id": "Lk_13_009",
+            "grade": 3,
+            "comment": "Nors pasirinktas atsakymas yra teisingas citavimas, klausimas turi trūkumų, nes ir kita opcija ('b') taip pat yra tiesioginis Jėzaus pasakymas tame pačiame kontekste, todėl galimos dvi teisingos pasirinkimo galimybės."
+        },
+        {
+            "id": "Lk_13_010",
+            "grade": 5,
+            "comment": "Klausimas tiesiogiai cituoja Jėzaus žodžius apie Jeruzalę ir jo palyginimą su višta, o teisingas atsakymas atitinka tekstą."
+        },
+        {
+            "id": "Lk_13_011",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Jėzaus palyginimą apie Dievo karalystę ir raugą, tiesiogiai cituojant tekstą."
+        }
+    ]
+}

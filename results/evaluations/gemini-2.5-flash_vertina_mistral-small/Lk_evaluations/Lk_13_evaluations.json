@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_13"
+    },
+    "results": [
+        {
+            "id": "Lk_13_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Lk_13_002",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai perteikia Jėzaus mokymo esmę, kad minėtieji galilėjiečiai nebuvo didesni nusidėjėliai, o įvykis buvo perspėjimas visiems."
+        },
+        {
+            "id": "Lk_13_003",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai perteikia Jėzaus mokymo esmę, kad Siloamo bokšto auka nebuvo didesni nusidėjėliai, o įvykis buvo perspėjimas visiems."
+        },
+        {
+            "id": "Lk_13_004",
+            "grade": 3,
+            "comment": "Klausimas turi gramatinę klaidą („nevaizdavo“ vietoj „nenešė“ vaisių), tačiau atsakymas yra faktiškai teisingas ir tiesiogiai cituoja teksto šeimininko žodžius."
+        },
+        {
+            "id": "Lk_13_005",
+            "grade": 1,
+            "comment": "Klausimas formuluotas klaidingai – Jėzus nepasakė tų žodžių sodininkui tiesiogiai, o pasakojo palyginimą, kuriame sodininkas kreipėsi į šeimininką. Taip pat yra gramatinė klaida („nevaizdavo“)."
+        },
+        {
+            "id": "Lk_13_006",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Lk_13_007",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Lk_13_008",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka teksto informaciją apie Dievo karalystės palyginimą."
+        },
+        {
+            "id": "Lk_13_009",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka teksto informaciją apie Dievo karalystės palyginimą."
+        },
+        {
+            "id": "Lk_13_010",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymo variantai tinkami, o teisingas atsakymas tiesiogiai atitinka teksto informaciją."
+        },
+        {
+            "id": "Lk_13_011",
+            "grade": 4,
+            "comment": "Klausimo formuluotė „netikintis žydus“ yra interpretacija, o ne tiesioginė citata, nors kontekstas numano, kad kalbama apie tuos, kurie atmetė Jėzų. Atsakymas yra teisingas pagal teksto prasmę."
+        }
+    ]
+}

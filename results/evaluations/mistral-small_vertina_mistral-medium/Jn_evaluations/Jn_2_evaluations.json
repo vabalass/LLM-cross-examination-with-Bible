@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "mistral/mistral-small-2506",
+        "source": "Jn_2"
+    },
+    "results": [
+        {
+            "id": "Jn_2_001",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_2_002",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_2_003",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_2_004",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_2_005",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_2_006",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_2_007",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai atitinka Biblijos ištrauką."
+        },
+        {
+            "id": "Jn_2_008",
+            "grade": 5,
+            "comment": "Klausimas teisingas, aiškus ir tinkamai atitinka Biblijos ištrauką."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Lk_7"
+    },
+    "results": [
+        {
+            "id": "Lk_7_001",
+            "grade": 5,
+            "comment": "Klausimas aiškus, atsakymas tikslus ir lengvai randamas tekste."
+        },
+        {
+            "id": "Lk_7_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas yra tikslūs pagal pateiktą tekstą."
+        },
+        {
+            "id": "Lk_7_003",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingai nurodo šimtininko žodžius, kurie paminėti tekste."
+        },
+        {
+            "id": "Lk_7_004",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiksliai atspindi Jėzaus žodžius, pasakytus miniai."
+        },
+        {
+            "id": "Lk_7_005",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o teisingas atsakymas tiesiogiai paimtas iš Biblijos ištraukos."
+        },
+        {
+            "id": "Lk_7_006",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingas atsakymas tiesiogiai cituoja Jėzaus žodžius ištraukoje."
+        },
+        {
+            "id": "Lk_7_007",
+            "grade": 5,
+            "comment": "Klausimas puikiai apibūdina Jėzaus veiksmus, o atsakymas tiesiogiai cituoja įvykių eigą."
+        },
+        {
+            "id": "Lk_7_008",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas atspindi tekste aprašytą žmonių reakciją į stebuklą."
+        },
+        {
+            "id": "Lk_7_009",
+            "grade": 5,
+            "comment": "Klausimas yra labai tikslus, o teisingas atsakymas yra tiesioginė Jono Krikštytojo užduoto klausimo citata."
+        },
+        {
+            "id": "Lk_7_010",
+            "grade": 5,
+            "comment": "Atsakymas teisingai apibendrina Jėzaus žodžius apie jo vykdomus stebuklus."
+        },
+        {
+            "id": "Lk_7_011",
+            "grade": 5,
+            "comment": "Klausimas aiškus, o atsakymas tiesiogiai cituoja Jėzaus įvertinimą apie Joną Krikštytoją."
+        },
+        {
+            "id": "Lk_7_012",
+            "grade": 5,
+            "comment": "Klausimas yra tikslus ir teisingas atsakymas puikiai atspindi Jėzaus palyginimą."
+        },
+        {
+            "id": "Lk_7_013",
+            "grade": 5,
+            "comment": "Klausimas tiksliai nurodo Simono mintis, o atsakymas tiesiogiai cituoja šiuos samprotavimus."
+        },
+        {
+            "id": "Lk_7_014",
+            "grade": 5,
+            "comment": "Klausimas tiksliai apibūdina Jėzaus palyginimą, o atsakymas teisingai perteikia jo esmę ir moralą."
+        },
+        {
+            "id": "Lk_7_015",
+            "grade": 5,
+            "comment": "Klausimas yra labai tikslus, o atsakymas tiesiogiai cituoja Jėzaus žodžius nusidėjėlei."
+        },
+        {
+            "id": "Lk_7_016",
+            "grade": 5,
+            "comment": "Klausimas tiksliai atspindi tekste aprašytus prie stalo sėdėjusiųjų svarstymus."
+        }
+    ]
+}

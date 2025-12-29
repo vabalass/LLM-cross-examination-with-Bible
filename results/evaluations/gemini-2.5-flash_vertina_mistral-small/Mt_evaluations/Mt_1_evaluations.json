@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "evaluator_model": "gemini/gemini-2.5-flash",
+        "source": "Mt_1"
+    },
+    "results": [
+        {
+            "id": "Mt_1_001",
+            "grade": 5,
+            "comment": "Klausimas teisingai atspindi Biblijos teksto esmę apie Jėzaus tėvystę per Šventąją Dvasią, o ne per Juozapą."
+        },
+        {
+            "id": "Mt_1_002",
+            "grade": 5,
+            "comment": "Klausimas ir atsakymas tiesiogiai atspindi Biblijos tekste nurodytą informaciją apie kartų skaičių."
+        },
+        {
+            "id": "Mt_1_003",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai paimtas iš Biblijos teksto."
+        },
+        {
+            "id": "Mt_1_004",
+            "grade": 5,
+            "comment": "Klausimas ir teisingas atsakymas tiksliai atspindi Biblijos tekste aprašytą įvykį."
+        },
+        {
+            "id": "Mt_1_005",
+            "grade": 5,
+            "comment": "Klausimas tiksliai klausia apie Jėzui duotą vardą, o teisingas atsakymas aiškiai nurodytas Biblijos tekste."
+        },
+        {
+            "id": "Mt_1_006",
+            "grade": 5,
+            "comment": "Klausimas remiasi genealogija, kurioje aiškiai nurodoma, kad Juozapo tėvas, taigi Jėzaus (įstatymu) senelis, buvo Jokūbas."
+        },
+        {
+            "id": "Mt_1_007",
+            "grade": 1,
+            "comment": "Biblijos tekstas aiškiai nurodo, kad Jėzus buvo pradėtas Šventosios Dvasios, o Juozapas yra Marijos vyras, bet ne biologinis Jėzaus tėvas. Todėl klausimas ir teisingas atsakymas, identifikuojantis Juozapą kaip Jėzaus tėvą, prieštarauja teksto išaiškinimui apie Jėzaus gimimą."
+        },
+        {
+            "id": "Mt_1_008",
+            "grade": 5,
+            "comment": "Klausimas yra aiškus, o atsakymas tiesiogiai paimtas iš Biblijos teksto."
+        }
+    ]
+}
