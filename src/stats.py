@@ -1,3 +1,4 @@
+# Sugeneruota su Gemini-2.5-flash
 
 import json
 from collections import defaultdict
@@ -24,14 +25,14 @@ def get_stats():
                         except:
                             pass
     
-    # Įvertinimai pagal modelį
+    # Įvertinimai pagal modelį (kiek gavo, ne kiek davė)
     grades_by_model = defaultdict(lambda: defaultdict(int))
     
     for eval_dir in evaluations_dir.iterdir():
         if eval_dir.is_dir() and eval_dir.name != "testing_evaluations":
             parts = eval_dir.name.split("_vertina_")
             if len(parts) == 2:
-                evaluator_model = parts[0]
+                evaluated_model = parts[1]  # Modelis kurį vertino
                 
                 for gospel_dir in eval_dir.iterdir():
                     if gospel_dir.is_dir() and "_evaluations" in gospel_dir.name:
@@ -42,7 +43,7 @@ def get_stats():
                                     if "results" in data:
                                         for result in data["results"]:
                                             grade = result.get("grade")
-                                            grades_by_model[evaluator_model][grade] += 1
+                                            grades_by_model[evaluated_model][grade] += 1
                             except:
                                 pass
     
@@ -52,7 +53,6 @@ def get_stats():
     return len(models), total_questions, total_grades, grades_by_model
 
 def print_statistics():
-    """Atspausdina supaprastintą statistiką"""
     num_models, total_questions, total_grades, grades_by_model = get_stats()
     
     print(f"Modelių skaičius: {num_models}")
