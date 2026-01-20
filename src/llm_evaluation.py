@@ -14,7 +14,7 @@ def formulate_evaluation_message(questions_list, text):
     system_prompt = (
         "Tu esi Šv. Rašto ekspertas. Tavo užduotis - įvertinti klausimų ir atsakymų kokybę (grade).\n"
         "Vertinimo skalė:\n"
-        "0 - Visiškai netinkamas (neaiškus arba kliedesinis)\n"
+        "0 - Visiškai netinkamas (neaiškus arba kliedesys)\n"
         "1 - Aiškus, bet faktiškai klaidingas (prieštarauja šaltiniui).\n"
         "2 - Faktiškai teisingas, bet turi didelių turinio trūkumų (neteisingi atsakymai, klaidinanti logika).\n"
         "3 - Teisingas, bet yra techninių/formos klaidų (gramatika, citavimo tikslumas)\n"
@@ -34,7 +34,7 @@ def formulate_evaluation_message(questions_list, text):
         "]"
     )
     
-    user_prompt = user_prompt = f"Biblijos ištrauka:\n{text}\n\nKlausimai vertinimui:\n{questions_json_str}" 
+    user_prompt = f"Biblijos ištrauka:\n{text}\n\nKlausimai vertinimui:\n{questions_json_str}" 
     
     return [
         {"role": "system", "content": system_prompt},
