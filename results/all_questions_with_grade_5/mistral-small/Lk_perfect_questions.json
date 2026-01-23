@@ -1,0 +1,3174 @@
+[
+  {
+    "id": "Lk_1_002",
+    "question": "Kas yra Zacharijo žmonos vardas?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_005",
+    "question": "Kas bus vardas Elzbietos sūnaus?",
+    "options": {
+      "a": "Jonas",
+      "b": "Jėzus",
+      "c": "Zacharijas",
+      "d": "Gabrielius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_006",
+    "question": "Kas bus vardas Marijos sūnaus?",
+    "options": {
+      "a": "Jonas",
+      "b": "Jėzus",
+      "c": "Zacharijas",
+      "d": "Gabrielius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_1_008",
+    "question": "Kas yra Marijos giminaitė?",
+    "options": {
+      "a": "Marija",
+      "b": "Elzbieta",
+      "c": "Ana",
+      "d": "Ruta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_1"
+  },
+  {
+    "id": "Lk_10_001",
+    "question": "Kiek mokinių išsiuntė Jėzus?",
+    "options": {
+      "a": "70",
+      "b": "72",
+      "c": "700",
+      "d": "720"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_002",
+    "question": "Ką Jėzus sakė mokiniams, kad padarytų, jei pjūtis didelė, o darbininkų maža?",
+    "options": {
+      "a": "Melskitės pjūties šeimininką, kad atsiųstų darbininkų į savo pjūtį",
+      "b": "Melskitės, kad pjūtis mažėtų",
+      "c": "Melskitės, kad darbininkai atsisakytų darbo",
+      "d": "Melskitės, kad darbininkai gautų daugiau užmokestį"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_004",
+    "question": "Ką mokiniai turėjo sakyti, užsukę į miestą, kur jie nebuvo priimami?",
+    "options": {
+      "a": "Mes jums nukratome net jūsų miesto dulkes, prilipusias prie mūsų kojų, bet vis tiek žinokite: Dievo karalystė jau čia pat!",
+      "b": "Mes jums nukratome net jūsų miesto dulkes, prilipusias prie mūsų kojų, bet vis tiek žinokite: Dievo karalystė niekur nėra!",
+      "c": "Mes jums nukratome net jūsų miesto dulkes, prilipusias prie mūsų kojų, bet vis tiek žinokite: Dievo karalystė ateis tik po mūsų mirties!",
+      "d": "Mes jums nukratome net jūsų miesto dulkes, prilipusias prie mūsų kojų, bet vis tiek žinokite: Dievo karalystė yra tik mūsų!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_005",
+    "question": "Ką Jėzus sakė apie Choraziną ir Betsaidą?",
+    "options": {
+      "a": "Vargas tau, Chorazine! Vargas tau, Betsaida! Jeigu Tyre ir Sidone būtų padaryta stebuklų, kokie padaryti pas jus, jie seniai būtų atsivertę ir atgailoję su ašutine ir pelenuose.",
+      "b": "Vargas tau, Chorazine! Vargas tau, Betsaida! Jūs esate geresni už Tyre ir Sidonę.",
+      "c": "Vargas tau, Chorazine! Vargas tau, Betsaida! Jūs esate blogesni už Tyre ir Sidonę.",
+      "d": "Vargas tau, Chorazine! Vargas tau, Betsaida! Jūs esate lygūs Tyre ir Sidonėms."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_006",
+    "question": "Ką Jėzus sakė apie Kafarnaumą?",
+    "options": {
+      "a": "Tu, Kafarnaume, negi būsi išaukštintas iki dangaus?! Tu nugarmėsi iki pragaro!",
+      "b": "Tu, Kafarnaume, būsi išaukštintas iki dangaus!",
+      "c": "Tu, Kafarnaume, nugarmėsi iki pragaro!",
+      "d": "Tu, Kafarnaume, esi geresnis už visus kitus miestus."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_008",
+    "question": "Ką mokiniai sakė Jėzui, sugrįžę iš pasiuntinybės?",
+    "options": {
+      "a": "Viešpatie, mums paklūsta net demonai dėl tavo vardo.",
+      "b": "Viešpatie, mums paklūsta tik žmonės dėl tavo vardo.",
+      "c": "Viešpatie, mums paklūsta tik demonai, bet ne žmonės.",
+      "d": "Viešpatie, mums paklūsta tik žmonės, bet ne demonai."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_009",
+    "question": "Ką Jėzus sakė apie mokinių džiaugsmą?",
+    "options": {
+      "a": "Džiaukitės, kad jūsų vardai įrašyti danguje.",
+      "b": "Džiaukitės, kad dvasios jums pavaldžios.",
+      "c": "Džiaukitės, kad jūs galite mindžioti gyvates bei skorpionus.",
+      "d": "Džiaukitės, kad jūs galite mindžioti viską."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_010",
+    "question": "Ką Jėzus sakė apie Tėvą ir Sūnų?",
+    "options": {
+      "a": "Viskas man yra mano Tėvo atiduota. Ir niekas nežino, kas yra Sūnus, tik Tėvas, nei kas yra Tėvas, tik Sūnus ir tas, kam Sūnus panorės apreikšti.",
+      "b": "Viskas man yra mano Tėvo atiduota. Ir visi žino, kas yra Sūnus ir kas yra Tėvas.",
+      "c": "Viskas man yra mano Tėvo atiduota. Ir tik Tėvas žino, kas yra Sūnus.",
+      "d": "Viskas man yra mano Tėvo atiduota. Ir tik Sūnus žino, kas yra Tėvas."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_011",
+    "question": "Ką Jėzus sakė mokiniams apie jų privilegiją?",
+    "options": {
+      "a": "Palaimintos akys, kurios regi, ką jūs regite. Sakau jums: daugel pranašų ir karalių troško išvysti, ką jūs matote, bet neišvydo, ir išgirsti, ką jūs girdite, bet neišgirdo.",
+      "b": "Palaimintos akys, kurios regi, ką jūs regite. Sakau jums: daugel pranašų ir karalių troško išvysti, ką jūs matote, ir išvydo, ir išgirsti, ką jūs girdite, ir išgirdo.",
+      "c": "Palaimintos akys, kurios regi, ką jūs regite. Sakau jums: niekas pranašų ir karalių troško išvysti, ką jūs matote, bet neišvydo, ir išgirsti, ką jūs girdite, bet neišgirdo.",
+      "d": "Palaimintos akys, kurios regi, ką jūs regite. Sakau jums: niekas pranašų ir karalių troško išvysti, ką jūs matote, ir išvydo, ir išgirsti, ką jūs girdite, ir išgirdo."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_012",
+    "question": "Ką Jėzus sakė Įstatymo mokytojui apie amžinąjį gyvenimą?",
+    "options": {
+      "a": "Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela, visomis jėgomis ir visu protu, o savo artimą kaip save patį.",
+      "b": "Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela, visomis jėgomis ir visu protu, bet savo artimą ne.",
+      "c": "Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela, visomis jėgomis, bet ne visu protu, o savo artimą kaip save patį.",
+      "d": "Mylėk Viešpatį, savo Dievą, visa širdimi, visa siela, visu protu, bet ne visomis jėgomis, o savo artimą kaip save patį."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_013",
+    "question": "Kas parodė gailestingumą patekusiam į plėšikų rankas?",
+    "options": {
+      "a": "Kunigas",
+      "b": "Levitas",
+      "c": "Samarietis",
+      "d": "Niekas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_10_014",
+    "question": "Ką Jėzus sakė Mortai apie Mariją?",
+    "options": {
+      "a": "Morta, Morta, tu rūpiniesi ir sielojiesi daugeliu dalykų, o reikia tik vieno. Marija išsirinko geriausiąją dalį, kuri nebus iš jos atimta.",
+      "b": "Morta, Morta, tu rūpiniesi ir sielojiesi daugeliu dalykų, o reikia visų. Marija išsirinko geriausiąją dalį, kuri nebus iš jos atimta.",
+      "c": "Morta, Morta, tu rūpiniesi ir sielojiesi daugeliu dalykų, o reikia tik vieno. Marija išsirinko blogiausiąją dalį, kuri nebus iš jos atimta.",
+      "d": "Morta, Morta, tu rūpiniesi ir sielojiesi daugeliu dalykų, o reikia visų. Marija išsirinko blogiausiąją dalį, kuri nebus iš jos atimta."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_10"
+  },
+  {
+    "id": "Lk_11_001",
+    "question": "Kas paprašė Jėzaus išmokyti juos melstis?",
+    "options": {
+      "a": "Petras",
+      "b": "Jonas",
+      "c": "Vienas mokinys",
+      "d": "Vienas fariziejus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_002",
+    "question": "Kas yra pirmoji maldos dalis, kurią Jėzus moko?",
+    "options": {
+      "a": "Duok mums kasdienės duonos",
+      "b": "Atleisk mums mūsų kaltes",
+      "c": "Tėve, teesie šventas tavo vardas",
+      "d": "Neleisk mūsų gundyti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_003",
+    "question": "Kas Jėzus pasakė, kad turėtume daryti, jei mes norime, kad mūsų kaltės būtų atleistas?",
+    "options": {
+      "a": "Maldauti kasdien",
+      "b": "Atsileisti kitiems jų kaltes",
+      "c": "Daryti malonę Dievui",
+      "d": "Sekti Jėzaus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_004",
+    "question": "Kas Jėzus pasakė, kad turėtume daryti, jei mes norime gauti, ko prašome?",
+    "options": {
+      "a": "Maldauti kasdien",
+      "b": "Prašyti, ieškoti, belskiti",
+      "c": "Daryti malonę Dievui",
+      "d": "Sekti Jėzaus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_005",
+    "question": "Kas Jėzus pasakė, kad Dievas suteiks tiems, kurie jį prašo?",
+    "options": {
+      "a": "Duonos",
+      "b": "Žuvį",
+      "c": "Šventąją Dvasią",
+      "d": "Kiaušinius"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_006",
+    "question": "Kas Jėzus pasakė, kad jie sakė, kad jis išvaro demonus?",
+    "options": {
+      "a": "Dievo galia",
+      "b": "Jono galia",
+      "c": "Belzebulo galia",
+      "d": "Savo galia"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_007",
+    "question": "Kas Jėzus pasakė, kad jis išvaro demonus?",
+    "options": {
+      "a": "Dievo galia",
+      "b": "Jono galia",
+      "c": "Belzebulo galia",
+      "d": "Savo galia"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_009",
+    "question": "Kas Jėzus pasakė, kad netyroji dvasia, išėjusi iš žmogaus, ieško?",
+    "options": {
+      "a": "Naujo žmogaus",
+      "b": "Poilsio",
+      "c": "Maldos",
+      "d": "Dievo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_010",
+    "question": "Kas Jėzus pasakė, kad netyroji dvasia, sugrįžusi į žmogų, pasiima?",
+    "options": {
+      "a": "Vieną dvasią",
+      "b": "Du dvasias",
+      "c": "Septynias dvasias",
+      "d": "Dešimt dvasių"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_011",
+    "question": "Kas Jėzus pasakė, kad palaiminti?",
+    "options": {
+      "a": "Tie, kurie klausosi Dievo žodžio ir jo laikosi",
+      "b": "Tie, kurie tavo nešiojo",
+      "c": "Tie, kurie tavo žindė",
+      "d": "Tie, kurie tavo klausosi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_11_012",
+    "question": "Kas Jėzus pasakė, kad jis bus šiai kartai?",
+    "options": {
+      "a": "Ženklas",
+      "b": "Malda",
+      "c": "Dievo žodis",
+      "d": "Dievo sūnus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_11"
+  },
+  {
+    "id": "Lk_12_001",
+    "question": "Ką Jėzus patarė savo mokinims saugotis?",
+    "options": {
+      "a": "Turto",
+      "b": "Fariziejų raugo",
+      "c": "Dievo žodžio",
+      "d": "Savo draugų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_002",
+    "question": "Ką Jėzus sakė apie paslėptą?",
+    "options": {
+      "a": "Paslėpta bus amžinai paslėpta",
+      "b": "Paslėpta bus atidengta",
+      "c": "Paslėpta bus užmiršta",
+      "d": "Paslėpta bus sunaikinta"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_005",
+    "question": "Ką Jėzus sakė apie tą, kas piktžodžiautų Šventajai Dvasiai?",
+    "options": {
+      "a": "Tam bus atleista",
+      "b": "Tam bus malonė",
+      "c": "Tam nebus atleista",
+      "d": "Tam bus malonė ir atleidimas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_006",
+    "question": "Ką Jėzus patarė mokinims, kai jie bus vestys į sinagogas?",
+    "options": {
+      "a": "Rūpintis kaip ginsitės",
+      "b": "Rūpintis ką atsakinėsite",
+      "c": "Nesirūpintis, nes Šventoji Dvasia jus pamokys",
+      "d": "Rūpintis apie savo saugumą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_008",
+    "question": "Ką Jėzus sakė apie varnus?",
+    "options": {
+      "a": "Jie yra Dievo malonės simboliai",
+      "b": "Jie yra Dievo apsaugoti",
+      "c": "Jie yra Dievo užmiršti",
+      "d": "Jie yra Dievo malonės ir apsaugoti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_011",
+    "question": "Ką Jėzus sakė apie turtą ir išmaldą?",
+    "options": {
+      "a": "Išparduokite savo turtą ir išdalykite jį išmaldai",
+      "b": "Išparduokite savo turtą ir išdalykite jį išmaldai, kad gautumėte atleidimą",
+      "c": "Išparduokite savo turtą ir išdalykite jį išmaldai, kad gautumėte malonę",
+      "d": "Išparduokite savo turtą ir išdalykite jį išmaldai, kad gautumėte malonę ir atleidimą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_013",
+    "question": "Ką Jėzus sakė apie strėnas ir žiburius?",
+    "options": {
+      "a": "Tebūnie jūsų strėnos sujuostos ir žiburiai uždegti",
+      "b": "Tebūnie jūsų strėnos sujuostos ir žiburiai uždegti, kad gautumėte malonę",
+      "c": "Tebūnie jūsų strėnos sujuostos ir žiburiai uždegti, kad gautumėte malonę ir apsaugą",
+      "d": "Tebūnie jūsų strėnos sujuostos ir žiburiai uždegti, kad gautumėte malonę, apsaugą ir malonę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_015",
+    "question": "Ką Jėzus sakė apie tarnus, kurie nebesilaiko?",
+    "options": {
+      "a": "Jie bus laimingi",
+      "b": "Jie bus malonės",
+      "c": "Jie bus nubausti",
+      "d": "Jie bus malonės ir nubausti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_12_019",
+    "question": "Ką Jėzus sakė apie nesantarvę?",
+    "options": {
+      "a": "Jis atnešė nesantarvę",
+      "b": "Jis atnešė nesantarvę ir malonę",
+      "c": "Jis atnešė nesantarvę, malonę ir apsaugą",
+      "d": "Jis atnešė nesantarvę, malonę, apsaugą ir laimę"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_12"
+  },
+  {
+    "id": "Lk_13_001",
+    "question": "Kas pasakė Jėzui apie galilėjiečius, kurių kraują Pilotas sumaišė su jų aukomis?",
+    "options": {
+      "a": "Pranišai",
+      "b": "Keli žmonės",
+      "c": "Fariziejai",
+      "d": "Sinagogos vyresnysis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_002",
+    "question": "Ką Jėzus pasakė apie galilėjiečius, kurių kraują Pilotas sumaišė su jų aukomis?",
+    "options": {
+      "a": "Jie buvo didesni nusidėjėliai už visus kitus galilėjiečius",
+      "b": "Jie buvo mažesni nusidėjėliai už visus kitus galilėjiečius",
+      "c": "Jie buvo tokie pat nusidėjėliai kaip visi kiti galilėjiečiai",
+      "d": "Jie buvo šventieji"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_003",
+    "question": "Ką Jėzus pasakė apie aštuoniolika žmonių, kuriuos užgriuvo bokštas prie Siloamo tvenkinio?",
+    "options": {
+      "a": "Jie buvo kaltesni už visus kitus Jeruzalės gyventojus",
+      "b": "Jie buvo mažesni nusidėjėliai už visus kitus Jeruzalės gyventojus",
+      "c": "Jie buvo tokie pat nusidėjėliai kaip visi kiti Jeruzalės gyventojai",
+      "d": "Jie buvo šventieji"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_006",
+    "question": "Ką Jėzus pasakė moteriai, aštuoniolika metų kenčianti nuo ligos dvasios?",
+    "options": {
+      "a": "Esi išvaduota iš savo ligos!",
+      "b": "Esi laiminga!",
+      "c": "Esi malonė Dievui!",
+      "d": "Esi išvaduota iš savo nuodėmių!"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_007",
+    "question": "Ką Jėzus pasakė sinagogos vyresniesiui, kuris supykęs, kad Jėzus pagydė šabo dieną?",
+    "options": {
+      "a": "Tu esi malonė Dievui!",
+      "b": "Tu esi išvaduotas iš savo nuodėmių!",
+      "c": "Veidmainiai! Argi kas iš jūsų neatriša šabo dieną nuo ėdžių savo jaučio ar asilo ir nenuveda pagirdyti?!",
+      "d": "Tu esi laiminga!"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_008",
+    "question": "Ką Jėzus pasakė apie Dievo karalystę?",
+    "options": {
+      "a": "Ji panaši į garstyčios grūdą, kurį ėmė žmogus ir pasėjo savo darže",
+      "b": "Ji panaši į raugą, kurį ėmusi moteris įmaišė į tris saikus miltų",
+      "c": "Ji panaši į medį, kurį ėmė žmogus ir pasodino savo darže",
+      "d": "Ji panaši į uogą, kurį ėmė žmogus ir pasodino savo darže"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_009",
+    "question": "Ką Jėzus pasakė apie Dievo karalystę?",
+    "options": {
+      "a": "Ji panaši į garstyčios grūdą, kurį ėmė žmogus ir pasėjo savo darže",
+      "b": "Ji panaši į raugą, kurį ėmusi moteris įmaišė į tris saikus miltų",
+      "c": "Ji panaši į medį, kurį ėmė žmogus ir pasodino savo darže",
+      "d": "Ji panaši į uogą, kurį ėmė žmogus ir pasodino savo darže"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_13_010",
+    "question": "Ką Jėzus pasakė apie siaurą išganymo taką?",
+    "options": {
+      "a": "Pasistenkite įeiti pro plačius vartus!",
+      "b": "Pasistenkite įeiti pro ankštus vartus!",
+      "c": "Pasistenkite įeiti pro aukštus vartus!",
+      "d": "Pasistenkite įeiti pro žemus vartus!"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_13"
+  },
+  {
+    "id": "Lk_14_001",
+    "question": "Kada Jėzus išgydė vandenlige sergančiojo?",
+    "options": {
+      "a": "Šeštadienį",
+      "b": "Šabo dieną",
+      "c": "Sekmadienį",
+      "d": "Pirmadienį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_002",
+    "question": "Ką Jėzus klausė Įstatymo mokytojų ir fariziejų?",
+    "options": {
+      "a": "Ar valia per šabą gydyti ar ne?",
+      "b": "Ar valia per šabą dirbti ar ne?",
+      "c": "Ar valia per šabą valgyti ar ne?",
+      "d": "Ar valia per šabą miegoti ar ne?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_004",
+    "question": "Ką Jėzus patarė, kai matė, kaip svečiai rinkosi pirmąsias vietas prie stalo?",
+    "options": {
+      "a": "Nesisėsk pirmoje vietoje",
+      "b": "Nesisėsk antroje vietoje",
+      "c": "Nesisėsk trečioje vietoje",
+      "d": "Nesisėsk paskutinėje vietoje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_005",
+    "question": "Ką Jėzus patarė, kai būsi pakviestas?",
+    "options": {
+      "a": "Verčiau eik ir sėskis paskutinėje vietoje",
+      "b": "Verčiau eik ir sėskis pirmoje vietoje",
+      "c": "Verčiau eik ir sėskis antroje vietoje",
+      "d": "Verčiau eik ir sėskis trečioje vietoje"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_006",
+    "question": "Ką Jėzus patarė, kai rengiamas vaišes?",
+    "options": {
+      "a": "Verčiau pasikviesk vargšų, paliegėlių, luošų ir aklų",
+      "b": "Verčiau pasikviesk draugų, brolių, giminaičių ir turtingų kaimynų",
+      "c": "Verčiau pasikviesk tėvų, motinų, žmonų ir vaikų",
+      "d": "Verčiau pasikviesk karalių, kunigų, valdovų ir kunigaikščių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_007",
+    "question": "Ką Jėzus pasakė apie žmogų, kuris iškėlė didelę puotą ir pakvietė daug svečių?",
+    "options": {
+      "a": "Nė vienas iš anų kviestųjų žmonių neragaus mano vaišių",
+      "b": "Visi iš anų kviestųjų žmonių neragaus mano vaišių",
+      "c": "Kiekvienas iš anų kviestųjų žmonių neragaus mano vaišių",
+      "d": "Niekas iš anų kviestųjų žmonių neragaus mano vaišių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_008",
+    "question": "Ką Jėzus pasakė apie ateinančius pas jį?",
+    "options": {
+      "a": "Jei kas ateina pas mane ir nelaiko neapykantoje savo tėvo, motinos, žmonos, vaikų, brolių, seserų ir net savo gyvybės, – negali būti mano mokinys",
+      "b": "Jei kas ateina pas mane ir laiko neapykantoje savo tėvo, motinos, žmonos, vaikų, brolių, seserų ir net savo gyvybės, – negali būti mano mokinys",
+      "c": "Jei kas ateina pas mane ir nelaiko neapykantoje savo tėvo, motinos, žmonos, vaikų, brolių, seserų ir net savo turto, – negali būti mano mokinys",
+      "d": "Jei kas ateina pas mane ir laiko neapykantoje savo tėvo, motinos, žmonos, vaikų, brolių, seserų ir net savo turto, – negali būti mano mokinys"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_14_011",
+    "question": "Ką Jėzus pasakė apie druską?",
+    "options": {
+      "a": "Druska – geras daiktas. Bet jei druska netektų sūrumo, kuo ją reikėtų pasūdyti?",
+      "b": "Druska – blogas daiktas. Bet jei druska netektų sūrumo, kuo ją reikėtų pasūdyti?",
+      "c": "Druska – geras daiktas. Bet jei druska netektų sūrumo, kuo ją reikėtų pasūdyti ir išmesti?",
+      "d": "Druska – blogas daiktas. Bet jei druska netektų sūrumo, kuo ją reikėtų pasūdyti ir išmesti?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_14"
+  },
+  {
+    "id": "Lk_15_001",
+    "question": "Kas pasakė palyginimą apie paklydusią avį?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Rašto aiškintojai",
+      "c": "Jėzus",
+      "d": "Muitininkai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_002",
+    "question": "Kiek avių turėjo žmogus, kuris pametė vieną?",
+    "options": {
+      "a": "50",
+      "b": "100",
+      "c": "150",
+      "d": "200"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_003",
+    "question": "Kas džiaugiasi dėl vieno atsivertusio nusidėjėlio?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Rašto aiškintojai",
+      "c": "Dievo angelai",
+      "d": "Muitininkai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_004",
+    "question": "Kiek drachmų turėjo moteris, kuri pametė vieną?",
+    "options": {
+      "a": "5",
+      "b": "10",
+      "c": "15",
+      "d": "20"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_005",
+    "question": "Kas pasakė palyginimą apie pamestą drachmą?",
+    "options": {
+      "a": "Fariziejai",
+      "b": "Rašto aiškintojai",
+      "c": "Jėzus",
+      "d": "Muitininkai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_007",
+    "question": "Kur jaunesnysis sūnus išleido savo turtą?",
+    "options": {
+      "a": "Namie",
+      "b": "Tolygėje",
+      "c": "Tolimoje šalyje",
+      "d": "Kaimyne"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_008",
+    "question": "Ką jaunesnysis sūnus darė, kai išleido visą turtą?",
+    "options": {
+      "a": "Grįžo namo",
+      "b": "Tarnavo kiaulių ganytoju",
+      "c": "Tarnavo samdiniu",
+      "d": "Tarnavo muitininku"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_009",
+    "question": "Ką tėvas liepė padaryti, kai jaunesnysis sūnus grįžo?",
+    "options": {
+      "a": "Išvaryti jį",
+      "b": "Atnešti geriausią drabužį ir apvilkti jį, užmaukyti jam ant piršto žiedą, apaukoti kojas, atvesti nupenėtą veršį ir papjauti",
+      "c": "Nesėklioti jį",
+      "d": "Nesakyti su juo"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_15_010",
+    "question": "Kodėl tėvas liepė puotauti ir linksmintis?",
+    "options": {
+      "a": "Nes jaunesnysis sūnus buvo miręs ir vėl atgijo, buvo pražuvęs ir atsirado",
+      "b": "Nes vyresnysis sūnus buvo miręs ir vėl atgijo, buvo pražuvęs ir atsirado",
+      "c": "Nes tėvas norėjo puotauti",
+      "d": "Nes tėvas norėjo linksmintis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_15"
+  },
+  {
+    "id": "Lk_16_001",
+    "question": "Kas buvo apskųstas esą eikvojąs turtuolio turtą?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Mokytojas",
+      "d": "Dievas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_002",
+    "question": "Kiek skolingas buvo pirmasis šeimininko skolininkas?",
+    "options": {
+      "a": "Šimtą statinių aliejaus",
+      "b": "Šimtą saikųkviečių",
+      "c": "Penkiasdešimt statinių aliejaus",
+      "d": "Aštuoniasdešimt saikųkviečių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_003",
+    "question": "Kiek skolingas buvo antrasis šeimininko skolininkas?",
+    "options": {
+      "a": "Šimtą statinių aliejaus",
+      "b": "Šimtą saikųkviečių",
+      "c": "Penkiasdešimt statinių aliejaus",
+      "d": "Aštuoniasdešimt saikųkviečių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_004",
+    "question": "Kas pagyrė prievaizdą už gudrybę?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Šeimininkas",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_005",
+    "question": "Kas negali tarnauti dviem šeimininkams?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Tarnas",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_006",
+    "question": "Kas girdėjo Jėzaus kalbas ir šaipėsi iš jo?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Godūs pinigų fariziejai",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_007",
+    "question": "Kas vilkėjo purpuru bei ploniausia drobe ir kasdien ištaigingai puotaudavo?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Lozorius",
+      "d": "Mokytojas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_008",
+    "question": "Kas gulėjo votimis aptekęs prie turtuolio rūmų vartų?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Lozorius",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_009",
+    "question": "Kas buvo nuneštas į Abraomo prieglobstį?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Lozorius",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_16_010",
+    "question": "Kas atsakė turtuoliui, kad tarp jų ir jo žioji neperžengiama bedugnė?",
+    "options": {
+      "a": "Turtuolis",
+      "b": "Prievaizdas",
+      "c": "Abraomas",
+      "d": "Mokytojas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_16"
+  },
+  {
+    "id": "Lk_17_001",
+    "question": "Kas pagal Jėzų yra geriau nei papiktinti vieną iš mažutėlių?",
+    "options": {
+      "a": "Papiktinti visus mažutėlius",
+      "b": "Ant kaklo būti užmauta girnapusė ir būti įmestas į jūrą",
+      "c": "Būti atleidžiamas",
+      "d": "Būti atleistas nuo visų nuodėmių"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_002",
+    "question": "Kiek kartų per dieną reikia atleisti savo brolį, jeigu jis nusižengia?",
+    "options": {
+      "a": "Tris kartus",
+      "b": "Penkis kartus",
+      "c": "Septynis kartus",
+      "d": "Beveik neįmanoma skaičiuoti"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_003",
+    "question": "Ką reikia padaryti, kad tikėjimas būtų veiksmingas?",
+    "options": {
+      "a": "Turėti tikėjimą kaip kalno",
+      "b": "Turėti tikėjimą kaip garstyčios grūdelį",
+      "c": "Turėti tikėjimą kaip medį",
+      "d": "Turėti tikėjimą kaip jūrą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_004",
+    "question": "Kas turi dėkoti samdiniui, kad jis atliko, kas jam liepta?",
+    "options": {
+      "a": "Visi žmonės",
+      "b": "Niekas",
+      "c": "Tik samdinio šeima",
+      "d": "Tik samdinio draugai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_005",
+    "question": "Kiek raupsuotųjų vyrų pasitiko Jėzus?",
+    "options": {
+      "a": "Penki",
+      "b": "Dešimt",
+      "c": "Dvylika",
+      "d": "Vienas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_006",
+    "question": "Kas buvo vienintelis, kuris sugrįžo atgal ir dėkodamas parpuolė Jėzui po kojų?",
+    "options": {
+      "a": "Žydas",
+      "b": "Samarietis",
+      "c": "Fariziejus",
+      "d": "Mokytojas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_007",
+    "question": "Kada ateis Dievo karalystė?",
+    "options": {
+      "a": "Nepastebimai",
+      "b": "Su dideliu triukšmu",
+      "c": "Su dideliu šviesos spinduliu",
+      "d": "Su dideliu žaibu"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_17_009",
+    "question": "Kaip bus Žmogaus Sūnaus dienomis?",
+    "options": {
+      "a": "Kaip yra buvę Nojaus laikais",
+      "b": "Kaip yra buvę Loto laikais",
+      "c": "Kaip yra buvę Abraomo laikais",
+      "d": "Kaip yra buvę Izrailo laikais"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_17"
+  },
+  {
+    "id": "Lk_18_001",
+    "question": "Kas yra pagrindinis palyginimo, kurį pasakė Jėzus, veikėjas?",
+    "options": {
+      "a": "Fariziejus",
+      "b": "Teisėjas",
+      "c": "Muitininkas",
+      "d": "Didikas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_002",
+    "question": "Ką prašė našlė teisėjo?",
+    "options": {
+      "a": "Apginti jos teises",
+      "b": "Duoti pinigų",
+      "c": "Išgelbėti nuo skriaudiko",
+      "d": "Padėti rasti darbą"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_004",
+    "question": "Ką Jėzus sakė apie Dievo apgynimą?",
+    "options": {
+      "a": "Dievas niekada neapgins",
+      "b": "Dievas apgins tik naktimis",
+      "c": "Dievas apgins savo išrinktųjų",
+      "d": "Dievas apgins tik dienas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_005",
+    "question": "Kas melstėsi šventyklos palyginime?",
+    "options": {
+      "a": "Fariziejus ir muitininkas",
+      "b": "Teisėjas ir našlė",
+      "c": "Didikas ir vaikas",
+      "d": "Petras ir Jėzus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_006",
+    "question": "Ką fariziejus sakė savo maldoje?",
+    "options": {
+      "a": "Dėkojo už savo gerumą",
+      "b": "Prašė atleidimo",
+      "c": "Prašė pinigų",
+      "d": "Prašė sveikatos"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_007",
+    "question": "Ką muitininkas sakė savo maldoje?",
+    "options": {
+      "a": "Dėkojo už savo gerumą",
+      "b": "Prašė atleidimo",
+      "c": "Prašė pinigų",
+      "d": "Prašė sveikatos"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_008",
+    "question": "Kas, Jėzaus žodžiais, nuėjo į namus nuteisintas?",
+    "options": {
+      "a": "Fariziejus",
+      "b": "Muitininkas",
+      "c": "Teisėjas",
+      "d": "Didikas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_009",
+    "question": "Ką Jėzus sakė apie vaikus?",
+    "options": {
+      "a": "Jie negali ateiti pas mane",
+      "b": "Jie yra Dievo karalystės pavyzdys",
+      "c": "Jie negali melstis",
+      "d": "Jie negali būti išgelbėti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_010",
+    "question": "Ką didikas paklausė Jėzaus?",
+    "options": {
+      "a": "Ką turiu daryti, kad laimėčiau amžinąjį gyvenimą?",
+      "b": "Ką turiu daryti, kad taptu turtingas?",
+      "c": "Ką turiu daryti, kad taptu žinomas?",
+      "d": "Ką turiu daryti, kad taptu sėkmingas?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_011",
+    "question": "Ką Jėzus pasakė didikui, kad jis turi padaryti?",
+    "options": {
+      "a": "Parduoti viską ir išdalyti vargšams",
+      "b": "Rasti darbą",
+      "c": "Mokytis gerai",
+      "d": "Keliauti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_013",
+    "question": "Ką Petras sakė Jėzui?",
+    "options": {
+      "a": "Mes viską palikę, nuėjome paskui tave",
+      "b": "Mes noriame turtų",
+      "c": "Mes noriame būti žinomi",
+      "d": "Mes noriame būti sėkmingi"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_18_014",
+    "question": "Ką Jėzus pranašavo apie save?",
+    "options": {
+      "a": "Jis bus atiduotas pagonims, išjuoktas, paniekintas ir apspjaudytas, bet trečią dieną prisikels",
+      "b": "Jis bus atiduotas pagonims ir nužudys",
+      "c": "Jis bus atiduotas pagonims ir prisikels pirmą dieną",
+      "d": "Jis bus atiduotas pagonims ir prisikels antrojoje dieną"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_18"
+  },
+  {
+    "id": "Lk_19_001",
+    "question": "Kas buvo Zachiejus?",
+    "options": {
+      "a": "Mokytojas",
+      "b": "Muitininkų viršininkas ir turtuolis",
+      "c": "Žemdirbis",
+      "d": "Žvejas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_002",
+    "question": "Kodėl Zachiejus įlipo į šilkmedį?",
+    "options": {
+      "a": "Norėjo ramiai pasimiegoti",
+      "b": "Norėjo pamatyti Jėzų, nes buvo žemo ūgio",
+      "c": "Norėjo pasislėpti nuo muitininkų",
+      "d": "Norėjo surinkti vaisius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_003",
+    "question": "Ką Jėzus tarė Zachiejui, pažvelgęs aukštyn?",
+    "options": {
+      "a": "„Zachiejau, lipk aukščiau!“",
+      "b": "„Zachiejau, greit lipk žemyn! Man reikia šiandien apsilankyti tavo namuose“",
+      "c": "„Zachiejau, palik šilmedį!“",
+      "d": "„Zachiejau, ateik man pasakoti apie savo darbus!“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_005",
+    "question": "Ką Zachiejus pasakė Viešpačiui?",
+    "options": {
+      "a": "„Štai, Viešpatie, visą savo turtą atiduodu vargšams ir, jei ką nors nuskriaudžiau, grąžinsiu keturgubai“",
+      "b": "„Štai, Viešpatie, pusę savo turto atiduodu vargšams ir, jei ką nors nuskriaudžiau, grąžinsiu keturgubai“",
+      "c": "„Štai, Viešpatie, visą savo turtą atiduodu vargšams ir, jei ką nors nuskriaudžiau, grąžinsiu dvigubai“",
+      "d": "„Štai, Viešpatie, pusę savo turto atiduodu vargšams ir, jei ką nors nuskriaudžiau, grąžinsiu dvigubai“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_006",
+    "question": "Ką Jėzus tarė apie Zachiejų?",
+    "options": {
+      "a": "„Į šiuos namus šiandien atėjo malonė, nes ir jis yra Abraomo palikuonis“",
+      "b": "„Į šiuos namus šiandien atėjo išganymas, nes ir jis yra Abraomo palikuonis“",
+      "c": "„Į šiuos namus šiandien atėjo malonė, nes ir jis yra Izaoko palikuonis“",
+      "d": "„Į šiuos namus šiandien atėjo išganymas, nes ir jis yra Izaoko palikuonis“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_007",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnų?",
+    "options": {
+      "a": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo pražuvę“",
+      "b": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo prarasti“",
+      "c": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo nuodėmingi“",
+      "d": "„Žmogaus Sūnus atėjo ieškoti ir gelbėti, kas buvo turtuoli“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_009",
+    "question": "Ką Jėzus pasakė apie minų palyginimą?",
+    "options": {
+      "a": "„Kiekvienam, kas turi, bus atimta, o neturinčiam bus pridėta“",
+      "b": "„Kiekvienam, kas turi, bus pridėta, o iš neturinčio bus atimta net ir tai, ką turėjo“",
+      "c": "„Kiekvienam, kas turi, bus atimta, o iš neturinčio bus pridėta“",
+      "d": "„Kiekvienam, kas turi, bus pridėta, o iš neturinčio bus atimta“"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_010",
+    "question": "Ką Jėzus pasakė apie savo priešus?",
+    "options": {
+      "a": "„Mano priešus, nenorėjusius, kad būčiau jų karalius, atveskite čionai ir nugalabykite mano akyse!“",
+      "b": "„Mano priešus, nenorėjusius, kad būčiau jų karalius, atveskite čionai ir nugalėkite mano akyse!“",
+      "c": "„Mano priešus, nenorėjusius, kad būčiau jų karalius, atveskite čionai ir nugalėkite mano rankose!“",
+      "d": "„Mano priešus, nenorėjusius, kad būčiau jų karalius, atveskite čionai ir nugalėkite mano rankose!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_012",
+    "question": "Ką žmonės tiesė ant kelio, kai Jėzus jojo ant asilaitžio?",
+    "options": {
+      "a": "Drabužius",
+      "b": "Žiedus",
+      "c": "Vaisius",
+      "d": "Gėles"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_013",
+    "question": "Ką žmonės šaukė, besiartinant prie Alyvų kalno šlaito?",
+    "options": {
+      "a": "„Garbė karaliui, kuris ateina Viešpaties vardu! Ramybė danguje, šlovė aukštybėse!“",
+      "b": "„Garbė karaliui, kuris ateina Viešpaties vardu! Ramybė žemėje, šlovė aukštybėse!“",
+      "c": "„Garbė karaliui, kuris ateina Viešpaties vardu! Ramybė danguje, šlovė žemėje!“",
+      "d": "„Garbė karaliui, kuris ateina Viešpaties vardu! Ramybė žemėje, šlovė žemėje!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_19_017",
+    "question": "Ką Jėzus pradėjo daryti, įžengęs į šventyklą?",
+    "options": {
+      "a": "Maldauti",
+      "b": "Varyti laukan prekiautojus",
+      "c": "Mokyti",
+      "d": "Gydyti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_19"
+  },
+  {
+    "id": "Lk_2_001",
+    "question": "Kas išleido įsakymą surašyti visus valstybės gyventojus?",
+    "options": {
+      "a": "Cesaris Augustas",
+      "b": "Kvirijus",
+      "c": "Herodas",
+      "d": "Pilipas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_002",
+    "question": "Iš kurio miesto Juozapas ėjo į Betliejų?",
+    "options": {
+      "a": "Jeruzalė",
+      "b": "Nazaretas",
+      "c": "Galilėja",
+      "d": "Kafarnaumas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_003",
+    "question": "Kas pasakė piemenims apie Jėzaus gimimą?",
+    "options": {
+      "a": "Angelai",
+      "b": "Marija",
+      "c": "Juozapas",
+      "d": "Simeonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_004",
+    "question": "Kas buvo Jėzaus motina?",
+    "options": {
+      "a": "Ona",
+      "b": "Marija",
+      "c": "Elizabeta",
+      "d": "Ana"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_005",
+    "question": "Kur Jėzus buvo paguldytas gimimo metu?",
+    "options": {
+      "a": "Vystyklose",
+      "b": "Ėdžiose",
+      "c": "Lovelyje",
+      "d": "Užeigoje"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_006",
+    "question": "Kas nurodė Jėzui duoti vardą?",
+    "options": {
+      "a": "Angelai",
+      "b": "Marija",
+      "c": "Juozapas",
+      "d": "Simeonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_007",
+    "question": "Kam Jėzus buvo paaukojamas šventykloje?",
+    "options": {
+      "a": "Viešpačiui",
+      "b": "Angelams",
+      "c": "Piemenims",
+      "d": "Mokytojams"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_008",
+    "question": "Kas šlovino Dievą ir sakė: „Dabar gali, Valdove, kaip buvai žadėjęs, leisti savo tarnui ramiai iškeliauti“?",
+    "options": {
+      "a": "Marija",
+      "b": "Juozapas",
+      "c": "Simeonas",
+      "d": "Ona"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_009",
+    "question": "Kas buvo pranašė ir kalbėjo apie kūdikį visiems, kurie laukė Jeruzalės išvadavimo?",
+    "options": {
+      "a": "Simeonas",
+      "b": "Ona",
+      "c": "Marija",
+      "d": "Juozapas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_010",
+    "question": "Kur Jėzus augo po paaukojimo šventykloje?",
+    "options": {
+      "a": "Jeruzalė",
+      "b": "Betliejus",
+      "c": "Nazaretas",
+      "d": "Galilėja"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_011",
+    "question": "Kiek metų Jėzus buvo, kai jis pasiliko Jeruzalėje?",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "14",
+      "d": "16"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_012",
+    "question": "Kur Jėzus buvo rastas po trijų dienų ieškant?",
+    "options": {
+      "a": "Šventykloje",
+      "b": "Užeigoje",
+      "c": "Piemenų lauke",
+      "d": "Nazarete"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_013",
+    "question": "Kas stebėjosi Jėzaus išmanymu ir atsakymais šventykloje?",
+    "options": {
+      "a": "Marija",
+      "b": "Juozapas",
+      "c": "Mokytojai",
+      "d": "Piemenys"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_014",
+    "question": "Kas sakė: „Kam gi manęs ieškojote? Argi nežinojote, kad man reikia būti savo Tėvo reikaluose?“?",
+    "options": {
+      "a": "Marija",
+      "b": "Juozapas",
+      "c": "Jėzus",
+      "d": "Simeonas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_015",
+    "question": "Kur Jėzus grįžo po įvykių Jeruzalėje?",
+    "options": {
+      "a": "Betliejus",
+      "b": "Galilėja",
+      "c": "Nazaretas",
+      "d": "Jeruzalė"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_016",
+    "question": "Kas laikė visus įvykius savo širdyje?",
+    "options": {
+      "a": "Juozapas",
+      "b": "Marija",
+      "c": "Simeonas",
+      "d": "Ona"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_2_017",
+    "question": "Kas augo išmintimi, metais ir Dievo malonėje?",
+    "options": {
+      "a": "Juozapas",
+      "b": "Marija",
+      "c": "Jėzus",
+      "d": "Simeonas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_2"
+  },
+  {
+    "id": "Lk_20_003",
+    "question": "Ką vynininkai padarė su vynuogyno šeimininko sūnumi?",
+    "options": {
+      "a": "Jį sutiko gerai",
+      "b": "Jį nusitempė už vynuogyno ir nužudė",
+      "c": "Jį paleido",
+      "d": "Jį išjuokė"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_004",
+    "question": "Ką Jėzus klausė žmonių apie denarą?",
+    "options": {
+      "a": "Kieno atvaizdas ir įrašas jame?",
+      "b": "Kiek jis vertas?",
+      "c": "Kur jis buvo išmintas?",
+      "d": "Kas jį naudoja?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_005",
+    "question": "Kas nusiuntė šnipus, kad nutvėrę Jėzaus žodį, galėtų įskųsti jį?",
+    "options": {
+      "a": "Aukštieji kunigai ir Rašto aiškintojai",
+      "b": "Vynininkai",
+      "c": "Sadukiejai",
+      "d": "Mokiniai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_006",
+    "question": "Kas neigia mirusiųjų prisikėlimą?",
+    "options": {
+      "a": "Aukštieji kunigai",
+      "b": "Rašto aiškintojai",
+      "c": "Sadukiejai",
+      "d": "Vynininkai"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_008",
+    "question": "Kas turi būti atiduotas ciesoriui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_20_009",
+    "question": "Kas turi būti atiduotas Dievui?",
+    "options": {
+      "a": "Visa",
+      "b": "Kas ciesoriaus",
+      "c": "Kas Dievo",
+      "d": "Kas vynininkų"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_20"
+  },
+  {
+    "id": "Lk_21_001",
+    "question": "Kas Jėzus pastebėjo, kai žiūrėjo į turtuolius, dedančius savo dovanas į aukų skrynią?",
+    "options": {
+      "a": "Jis pastebėjo, kad jie buvo labai maloningi.",
+      "b": "Jis pastebėjo, kad jie buvo labai turtingi.",
+      "c": "Jis pastebėjo vieną vargšę našlę, kuri įmetė du smulkius pinigėlius.",
+      "d": "Jis pastebėjo, kad jie buvo labai malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_003",
+    "question": "Ką Jėzus pranašavo apie Jeruzalės šventyklą?",
+    "options": {
+      "a": "Jis pranašavo, kad ji bus išpuošta dar gražiau.",
+      "b": "Jis pranašavo, kad ji bus išgriauta.",
+      "c": "Jis pranašavo, kad ji bus perdaryta.",
+      "d": "Jis pranašavo, kad ji bus palikta nepaliesta."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_006",
+    "question": "Ką Jėzus pranašavo apie persekiojimus?",
+    "options": {
+      "a": "Jis pranašavo, kad žmonės bus maloningi.",
+      "b": "Jis pranašavo, kad žmonės bus turtingi.",
+      "c": "Jis pranašavo, kad žmonės pakels prieš jus rankas ir ims jus persekioti.",
+      "d": "Jis pranašavo, kad žmonės bus malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_008",
+    "question": "Ką Jėzus pranašavo apie Jeruzalės apsiaustį?",
+    "options": {
+      "a": "Jis pranašavo, kad ji bus išpuošta gražiau.",
+      "b": "Jis pranašavo, kad ji bus išgriauta.",
+      "c": "Jis pranašavo, kad ji bus perdaryta.",
+      "d": "Jis pranašavo, kad ji bus palikta nepaliesta."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_010",
+    "question": "Ką Jėzus pranašavo apie Žmogaus Sūnų atėjimą?",
+    "options": {
+      "a": "Jis pranašavo, kad jis ateis paslaptingai.",
+      "b": "Jis pranašavo, kad jis ateis debesyje su didžia galybe ir garbe.",
+      "c": "Jis pranašavo, kad jis ateis maloningai.",
+      "d": "Jis pranašavo, kad jis ateis turtingai."
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_011",
+    "question": "Ką Jėzus patarė žmonėms, kai jie matys Žmogaus Sūnų ateinantį?",
+    "options": {
+      "a": "Jis patarė jims būti maloningais.",
+      "b": "Jis patarė jims būti turtingais.",
+      "c": "Jis patarė jims atsitieskite ir pakelkite galvas.",
+      "d": "Jis patarė jims būti malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_21_012",
+    "question": "Ką Jėzus patarė žmonėms, kad jie galėtų išvengti būsimųjų nelaimių?",
+    "options": {
+      "a": "Jis patarė jims būti maloningais.",
+      "b": "Jis patarė jims būti turtingais.",
+      "c": "Jis patarė jims visą laiką budėti ir melskitės.",
+      "d": "Jis patarė jims būti malonūs."
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_21"
+  },
+  {
+    "id": "Lk_22_002",
+    "question": "Ką Jėzus liepė Petrui ir Jonui paruošti?",
+    "options": {
+      "a": "Gėrimą",
+      "b": "Velykų vakarienę",
+      "c": "Malones",
+      "d": "Šventinę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_004",
+    "question": "Ką Jėzus davė apaštalams, sakydamas, kad tai yra jo kūnas?",
+    "options": {
+      "a": "Vandens",
+      "b": "Vyną",
+      "c": "Duoną",
+      "d": "Žuvis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_010",
+    "question": "Kur Jėzus ėjo melstis po Velykų vakarienės?",
+    "options": {
+      "a": "Į miestą",
+      "b": "Į Alyvų kalną",
+      "c": "Į šventyklą",
+      "d": "Į jūrą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_012",
+    "question": "Kas sustiprino Jėzų jo maldos metu?",
+    "options": {
+      "a": "Angelas",
+      "b": "Petras",
+      "c": "Judas",
+      "d": "Jonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_013",
+    "question": "Ką Jėzus rado grįžęs po maldos?",
+    "options": {
+      "a": "Mokiniai melsdamiesi",
+      "b": "Mokiniai valgydami",
+      "c": "Mokiniai miegodami",
+      "d": "Mokiniai kalbėdami"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_015",
+    "question": "Ką vienas iš Jėzaus bičiulių padarė vyriausiojo kunigo tarnui?",
+    "options": {
+      "a": "Nukirto ausį",
+      "b": "Nukirto ranką",
+      "c": "Nukirto koją",
+      "d": "Nukirto galvą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_016",
+    "question": "Ką Jėzus padarė vyriausiojo kunigo tarnui?",
+    "options": {
+      "a": "Išgydė jo ausį",
+      "b": "Išgydė jo ranką",
+      "c": "Išgydė jo koją",
+      "d": "Išgydė jo galvą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_22_018",
+    "question": "Ką Petras padarė, kai jį išsigynė tris kartus?",
+    "options": {
+      "a": "Jis išėjo ir pravirko",
+      "b": "Jis išėjo ir prašė atleidimo",
+      "c": "Jis išėjo ir pasakė, kad myli Jėzų",
+      "d": "Jis išėjo ir pasakė, kad niekada neišsigins Jėzų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_22"
+  },
+  {
+    "id": "Lk_23_001",
+    "question": "Ką žmonės skundėsi apie Jėzų, vedę jį pas Pilotą?",
+    "options": {
+      "a": "Jis draudėjo mokėti mokesčius ciesoriui.",
+      "b": "Jis draudėjo mokėti mokesčius Romos imperijai.",
+      "c": "Jis draudėjo mokėti mokesčius šventyklai.",
+      "d": "Jis draudėjo mokėti mokesčius žydų kunigams."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_002",
+    "question": "Ką Pilotas paklausė Jėzų?",
+    "options": {
+      "a": "Ar tu esi Dievo sūnus?",
+      "b": "Ar tu esi žydų karalius?",
+      "c": "Ar tu esi Mesijas?",
+      "d": "Ar tu esi pranašas?"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_003",
+    "question": "Ką Jėzus atsakė Pilotui?",
+    "options": {
+      "a": "„Taip yra, kaip sakai“",
+      "b": "„Ne, aš niekas tokis nesakiau“",
+      "c": "„Taip yra, bet tik Dievas žino“",
+      "d": "„Ne, aš nieko tokio nesakiau“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_004",
+    "question": "Ką Pilotas tarė aukštiesiems kunigams ir miniai?",
+    "options": {
+      "a": "„Aš nerandu šitame žmoguje jokios kaltės“",
+      "b": "„Aš nerandu šitame žmoguje jokios teisės“",
+      "c": "„Aš nerandu šitame žmoguje jokios galios“",
+      "d": "„Aš nerandu šitame žmoguje jokios meilės“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_005",
+    "question": "Ką žmonės tvirtino apie Jėzų?",
+    "options": {
+      "a": "Jis savo mokslu kursto tautą visoje Judėjoje, pradedant nuo Galilėjos iki čia.",
+      "b": "Jis savo mokslu kursto tautą visoje Galilėjoje, pradedant nuo Judėjos iki čia.",
+      "c": "Jis savo mokslu kursto tautą visoje Samarijoje, pradedant nuo Galilėjos iki čia.",
+      "d": "Jis savo mokslu kursto tautą visoje Romoje, pradedant nuo Galilėjos iki čia."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_006",
+    "question": "Ką Pilotas padarė, sužinojęs, kad Jėzus iš Erodo valdų?",
+    "options": {
+      "a": "Nusiuntė jį pas Erodą.",
+      "b": "Nusiuntė jį pas Herodą.",
+      "c": "Nusiuntė jį pas Pilatą.",
+      "d": "Nusiuntė jį pas Kaifą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_007",
+    "question": "Ką Erodas norėjo pamatyti Jėzų darantį?",
+    "options": {
+      "a": "Kokį nors stebuklą.",
+      "b": "Kokį nors šventą veiklą.",
+      "c": "Kokį nors malonę.",
+      "d": "Kokį nors dieviškumą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_008",
+    "question": "Ką Erodas padarė su Jėzumi?",
+    "options": {
+      "a": "Paniekino ir išjuokė.",
+      "b": "Palaikė ir pagyrė.",
+      "c": "Palaikė ir išjuokė.",
+      "d": "Paniekino ir pagyrė."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_009",
+    "question": "Ką Erodas padarė su Jėzumi po to?",
+    "options": {
+      "a": "Aprengė jį baltu drabužiu ir pasiuntė atgal Pilotui.",
+      "b": "Aprengė jį raudonu drabužiu ir pasiuntė atgal Pilotui.",
+      "c": "Aprengė jį žaliu drabužiu ir pasiuntė atgal Pilotui.",
+      "d": "Aprengė jį mėlynu drabužiu ir pasiuntė atgal Pilotui."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_010",
+    "question": "Ką Pilotas pareiškė apie Jėzų?",
+    "options": {
+      "a": "„Jūs atvedėte man šį žmogų, kaltindami jį žmonių kurstymu. Bet aš, jį apklausęs jūsų akyse, neradau nė vienos jam primetamos kaltės.“",
+      "b": "„Jūs atvedėte man šį žmogų, kaltindami jį žmonių malšinimu. Bet aš, jį apklausęs jūsų akyse, neradau nė vienos jam primetamos kaltės.“",
+      "c": "„Jūs atvedėte man šį žmogų, kaltindami jį žmonių maloninimu. Bet aš, jį apklausęs jūsų akyse, neradau nė vienos jam primetamos kaltės.“",
+      "d": "„Jūs atvedėte man šį žmogų, kaltindami jį žmonių maloninimu. Bet aš, jį apklausęs jūsų akyse, neradau nė vienos jam primetamos teisės.“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_011",
+    "question": "Ką žmonės šaukė?",
+    "options": {
+      "a": "„Mirtis šitam! Paleisk mums Barabą!“",
+      "b": "„Mirtis šitam! Paleisk mums Jėzų!“",
+      "c": "„Mirtis šitam! Paleisk mums Simoną!“",
+      "d": "„Mirtis šitam! Paleisk mums Petrą!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_012",
+    "question": "Ką Pilotas nusprendė padaryti?",
+    "options": {
+      "a": "Patenkinti jų reikalavimą.",
+      "b": "Atmesti jų reikalavimą.",
+      "c": "Paleisti Jėzų.",
+      "d": "Paleisti Barabą."
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_013",
+    "question": "Ką Jėzus prabilo Jeruzalės dukroms?",
+    "options": {
+      "a": "„Verkite ne manęs, bet verčiau savęs ir savo vaikų!“",
+      "b": "„Verkite ne manęs, bet verčiau savęs ir savo motinos!“",
+      "c": "„Verkite ne manęs, bet verčiau savęs ir savo tėvo!“",
+      "d": "„Verkite ne manęs, bet verčiau savęs ir savo brolių!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_014",
+    "question": "Ką Jėzus sakė apie kalnus ir kalvas?",
+    "options": {
+      "a": "„Ateis dienos, kai sakys: 'Laimingos nevaisingosios! Laimingos negimdžiusios ir nežindžiusios!' Tada sakys kalnams: Griūkite ant mūsų! ir kalvoms: Pridenkite mus!“",
+      "b": "„Ateis dienos, kai sakys: 'Laimingos vaisingosios! Laimingos gimdžiusios ir žindžiusios!' Tada sakys kalnams: Griūkite ant mūsų! ir kalvoms: Pridenkite mus!“",
+      "c": "„Ateis dienos, kai sakys: 'Laimingos nevaisingosios! Laimingos gimdžiusios ir žindžiusios!' Tada sakys kalnams: Griūkite ant mūsų! ir kalvoms: Pridenkite mus!“",
+      "d": "„Ateis dienos, kai sakys: 'Laimingos vaisingosios! Laimingos negimdžiusios ir nežindžiusios!' Tada sakys kalnams: Griūkite ant mūsų! ir kalvoms: Pridenkite mus!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_015",
+    "question": "Ką Jėzus meldėsi ant kryžiaus?",
+    "options": {
+      "a": "„Tėve, atleisk jiems, nes jie nežino, ką darą“",
+      "b": "„Tėve, atleisk jiems, nes jie žino, ką darą“",
+      "c": "„Tėve, atleisk jiems, nes jie nežino, ką mes darome“",
+      "d": "„Tėve, atleisk jiems, nes jie žino, ką mes darome“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_016",
+    "question": "Ką vienas iš nukryžiuotųjų nusikaltėlių tarė Jėzui?",
+    "options": {
+      "a": "„Argi tu ne Mesijas? Išgelbėk save ir mus!“",
+      "b": "„Argi tu ne Mesijas? Išgelbėk save ir mūsų!“",
+      "c": "„Argi tu ne Mesijas? Išgelbėk save ir mums!“",
+      "d": "„Argi tu ne Mesijas? Išgelbėk save ir mums!“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_017",
+    "question": "Ką antrasis nusikaltėlis tarė?",
+    "options": {
+      "a": "„Ir Dievo tu nebijai, kentėdamas tą pačią bausmę! Juk mudu teisingai gavome, ko mūsų darbai verti, o šitas nieko blogo nėra padaręs“",
+      "b": "„Ir Dievo tu nebijai, kentėdamas tą pačią bausmę! Juk mudu teisingai gavome, ko mūsų darbai verti, o šitas blogo padaręs“",
+      "c": "„Ir Dievo tu nebijai, kentėdamas tą pačią bausmę! Juk mudu teisingai gavome, ko mūsų darbai verti, o šitas nieko blogo nėra padaręs“",
+      "d": "„Ir Dievo tu nebijai, kentėdamas tą pačią bausmę! Juk mudu teisingai gavome, ko mūsų darbai verti, o šitas blogo padaręs“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_23_018",
+    "question": "Ką Jėzus atsakė antrajam nusikaltėliui?",
+    "options": {
+      "a": "„Iš tiesų sakau tau: šiandien su manimi būsi rojuje“",
+      "b": "„Iš tiesų sakau tau: šiandien su manimi būsi danguje“",
+      "c": "„Iš tiesų sakau tau: šiandien su manimi būsi švenčiamajame mieste“",
+      "d": "„Iš tiesų sakau tau: šiandien su manimi būsi švenčiamajame kalne“"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_23"
+  },
+  {
+    "id": "Lk_24_002",
+    "question": "Kas nebuvo rasta kapo?",
+    "options": {
+      "a": "Akmenys",
+      "b": "Jėzaus kūnas",
+      "c": "Drabužiai",
+      "d": "Tepalai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_003",
+    "question": "Kiek vyrai pasirodė moterims prie kapo?",
+    "options": {
+      "a": "Vienas",
+      "b": "Du",
+      "c": "Trys",
+      "d": "Keturi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_004",
+    "question": "Kas pasakė moterims, kad Jėzus prisikėlė?",
+    "options": {
+      "a": "Angelai",
+      "b": "Vyrai spindinčiais drabužiais",
+      "c": "Apaštalai",
+      "d": "Petras"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_005",
+    "question": "Kas nubėgo prie kapo po moterų pranešimo?",
+    "options": {
+      "a": "Jokūbas",
+      "b": "Petras",
+      "c": "Jonas",
+      "d": "Andriejus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_006",
+    "question": "Kur keliavo du mokiniai, kurie susitiko Jėzų?",
+    "options": {
+      "a": "Jericho",
+      "b": "Emaus",
+      "c": "Nazaretas",
+      "d": "Betanija"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_007",
+    "question": "Kas buvo vienas iš dviejų mokinčių, kurie keliavo į Emausą?",
+    "options": {
+      "a": "Petras",
+      "b": "Andriejus",
+      "c": "Kleopas",
+      "d": "Jonas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_008",
+    "question": "Ką Jėzus aiškino mokinims kelyje į Emausą?",
+    "options": {
+      "a": "Apie karalystę",
+      "b": "Apie pranašus",
+      "c": "Apie Raštus apie save",
+      "d": "Apie dorybę"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_009",
+    "question": "Ką Jėzus padarė, kai vakarieniaudavo su mokiniais?",
+    "options": {
+      "a": "Palaikė pamokslą",
+      "b": "Laužė duoną ir davė jiems",
+      "c": "Malšino audrą",
+      "d": "Išgijo vandenį į vyną"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_010",
+    "question": "Ką mokiniai jautė, kai Jėzus aiškino Raštus?",
+    "options": {
+      "a": "Jie jautė pyką",
+      "b": "Jie jautė širdys užsidegti",
+      "c": "Jie jautė trošką",
+      "d": "Jie jautė baimę"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_011",
+    "question": "Ką Jėzus parodė apaštalams, kad įtikinti juos, kad jis yra jis?",
+    "options": {
+      "a": "Savo rankas ir kojas",
+      "b": "Savo drabužius",
+      "c": "Savo veidą",
+      "d": "Savo žodžius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_012",
+    "question": "Ką Jėzus valgo apaštalų akyse?",
+    "options": {
+      "a": "Duoną",
+      "b": "Keptą žuvį",
+      "c": "Vyną",
+      "d": "Vaisius"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_014",
+    "question": "Ką Jėzus pasakė apie Mesiją?",
+    "options": {
+      "a": "Jis pasakė, kad Mesijas turi kentėti ir trečią dieną prisikelti",
+      "b": "Jis pasakė, kad Mesijas turi būti karalius",
+      "c": "Jis pasakė, kad Mesijas turi būti pranašas",
+      "d": "Jis pasakė, kad Mesijas turi būti dvasia"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_015",
+    "question": "Ką Jėzus pasakė apie apaštalus?",
+    "options": {
+      "a": "Jie turi skelbti apie jį visoms tautoms",
+      "b": "Jie turi būti jo pavaldiniai",
+      "c": "Jie turi būti jo draugai",
+      "d": "Jie turi būti jo mokytojai"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_016",
+    "question": "Ką Jėzus pasakė apie Tėvą?",
+    "options": {
+      "a": "Jis pasakė, kad Tėvas atsiųs jėgą",
+      "b": "Jis pasakė, kad Tėvas atsiųs malonę",
+      "c": "Jis pasakė, kad Tėvas atsiųs dvasią",
+      "d": "Jis pasakė, kad Tėvas atsiųs žodžius"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_24_017",
+    "question": "Kur Jėzus nusivedė apaštalus?",
+    "options": {
+      "a": "Jeruzalėje",
+      "b": "Nazarete",
+      "c": "Betanijoje",
+      "d": "Emaus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_24"
+  },
+  {
+    "id": "Lk_3_001",
+    "question": "Kada prasidėjo Jono Krikštytojo veikla?",
+    "options": {
+      "a": "Penkioliktais ciesoriaus Tiberijaus viešpatavimo metais",
+      "b": "Pirmuoju ciesoriaus Tiberijaus viešpatavimo metais",
+      "c": "Penkioliktu ciesoriaus Tiberijaus viešpatavimo metais",
+      "d": "Penkioliktais ciesoriaus Kaligulos viešpatavimo metais"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_002",
+    "question": "Kas valdė Judėją, kai Jono Krikštytojo veikla prasidėjo?",
+    "options": {
+      "a": "Herodas Didysis",
+      "b": "Poncijus Pilotas",
+      "c": "Herodas Antipas",
+      "d": "Kvirinijus"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_003",
+    "question": "Kas buvo Jono Krikštytojo tėvas?",
+    "options": {
+      "a": "Zacharijas",
+      "b": "Jokūbas",
+      "c": "Jonas",
+      "d": "Simonas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_004",
+    "question": "Ką skelbė Jono Krikštytojas?",
+    "options": {
+      "a": "Atsivertimo krikštą nuodėmėms atleisti",
+      "b": "Naująjį Įstatymą",
+      "c": "Dievo karalystės atėjimą",
+      "d": "Amžinąjį gyvenimą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_005",
+    "question": "Ką Jono Krikštytojas sakė minioms, kurios ateinėjo krikštytis?",
+    "options": {
+      "a": "Duokite tikrų atsivertimo vaisių",
+      "b": "Melskitės Dievui",
+      "c": "Sekite manęs",
+      "d": "Mokykitės manęs"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_006",
+    "question": "Ką Jono Krikštytojas sakė muitininkams?",
+    "options": {
+      "a": "Nereikalaukite daugiau, negu jums nustatyta",
+      "b": "Atsisakykite savo darbo",
+      "c": "Mokykitės manęs",
+      "d": "Melskitės Dievui"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_007",
+    "question": "Ką Jono Krikštytojas sakė kariams?",
+    "options": {
+      "a": "Nieko neskriauskite ir neįdavinėkite dėl pelno, tenkinkitės savo alga",
+      "b": "Atsisakykite savo darbo",
+      "c": "Mokykitės manęs",
+      "d": "Melskitės Dievui"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_008",
+    "question": "Ką Jono Krikštytojas sakė apie ateinančį po jį?",
+    "options": {
+      "a": "Jis krikštys jus Šventąja Dvasia ir ugnimi",
+      "b": "Jis atneš Dievo karalystę",
+      "c": "Jis išgelbės jus nuo nuodėmių",
+      "d": "Jis mokys jus Dievo žodžių"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_009",
+    "question": "Kas uždarė Joną į kalėjimą?",
+    "options": {
+      "a": "Poncijus Pilotas",
+      "b": "Herodas Antipas",
+      "c": "Kvirinijus",
+      "d": "Herodas Didysis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_010",
+    "question": "Ką įvyko, kai Jėzus pasikrikštijo?",
+    "options": {
+      "a": "Atsivėrė dangus ir Šventoji Dvasia nusileido ant jo tarsi balandis",
+      "b": "Jis pamatė Dievo vaizdą",
+      "c": "Jis girdėjo Dievo balsą",
+      "d": "Jis pamatė Šventąją Dvasią"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_3_012",
+    "question": "Kas buvo Jėzaus tėvas pagal Luko evangeliją?",
+    "options": {
+      "a": "Juozapas",
+      "b": "Helis",
+      "c": "Matatas",
+      "d": "Levis"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_3"
+  },
+  {
+    "id": "Lk_4_001",
+    "question": "Kas vedžiojo Jėzų po dykumą?",
+    "options": {
+      "a": "Dievas",
+      "b": "Šventoji Dvasia",
+      "c": "Velnias",
+      "d": "Angelai"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_002",
+    "question": "Kiek dienų Jėzus praleido dykumoje?",
+    "options": {
+      "a": "Trisdešimt",
+      "b": "Keturiasdešimt",
+      "c": "Penkiasdešimt",
+      "d": "Šešiasdešimt"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_004",
+    "question": "Ką Jėzus atsakė velniui, kai šis jį gundė?",
+    "options": {
+      "a": "Aš esu Dievo Sūnus",
+      "b": "Parašyta: Žmogus gyvas ne viena duona!",
+      "c": "Aš nieko nenorėjau",
+      "d": "Aš esu čia, kad tave išgelbėčiau"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_005",
+    "question": "Kur velnias nusivedė Jėzų, kad jį gundytų?",
+    "options": {
+      "a": "Į Jeruzalę",
+      "b": "Į Nazaretą",
+      "c": "Į Kafarnaumą",
+      "d": "Į Betanią"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_006",
+    "question": "Ką Jėzus atsakė velniui, kai šis jį gundė šventyklos šlemens viršuje?",
+    "options": {
+      "a": "Aš esu Dievo Sūnus",
+      "b": "Parašyta: Negundyk Viešpaties, savo Dievo!",
+      "c": "Aš nieko nenorėjau",
+      "d": "Aš esu čia, kad tave išgelbėčiau"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_007",
+    "question": "Kur Jėzus pradėjo mokyti po gundymų dykumoje?",
+    "options": {
+      "a": "Nazarete",
+      "b": "Jeruzalėje",
+      "c": "Galilėjoje",
+      "d": "Kafarnaume"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_008",
+    "question": "Ką Jėzus skaityė sinagogoje Nazarete?",
+    "options": {
+      "a": "Pranašo Izaijo knygą",
+      "b": "Pranašo Jeremijo knygą",
+      "c": "Pranašo Danieliaus knygą",
+      "d": "Pranašo Ezechieliaus knygą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_009",
+    "question": "Ką Jėzus atsakė žmonėms, kai jie klausė, ar jis ne Juozapo sūnus?",
+    "options": {
+      "a": "Taip, aš esu Juozapo sūnus",
+      "b": "Ne, aš esu Dievo Sūnus",
+      "c": "Jūs, be abejo, man priminsite patarlę: 'Gydytojau, pats pasigydyk'",
+      "d": "Aš esu čia, kad tave išgelbėčiau"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_010",
+    "question": "Ką Jėzus padarė, kai demonas apsėtasis žmogus pradėjo šaukti sinagogoje?",
+    "options": {
+      "a": "Jis išvijo demoną",
+      "b": "Jis pagydė žmogų",
+      "c": "Jis sudraudė demoną ir išvijo jį",
+      "d": "Jis pasakė demonui, kad jis yra Dievo Sūnus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_011",
+    "question": "Ką Jėzus padarė, kai atėjo į Simoną namie?",
+    "options": {
+      "a": "Jis pagydė Simoną",
+      "b": "Jis pagydė Simonos uošvę",
+      "c": "Jis pagydė Simonos vaiką",
+      "d": "Jis pagydė Simoną ir jo šeimą"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_012",
+    "question": "Ką Jėzus padarė, kai saule leidžiantis žmonės vedė ligonius prie jo?",
+    "options": {
+      "a": "Jis pagydė juos",
+      "b": "Jis sudraudė juos",
+      "c": "Jis sudraudė juos ir pagydė juos",
+      "d": "Jis pasakė juoms, kad jie turi tikėti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_4_013",
+    "question": "Ką Jėzus pasakė žmonėms, kai jie mėgino jį sulaikyti, kad jis jų nepaliktų?",
+    "options": {
+      "a": "Aš esu čia, kad tave išgelbėčiau",
+      "b": "Aš esu čia, kad tave mokyčiau",
+      "c": "Ir kitiems miestams aš turiu skelbti gerąją naujieną apie Dievo karalystę, nes tam ir esu siųstas",
+      "d": "Aš esu čia, kad tave išgelbėčiau ir mokyčiau"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_4"
+  },
+  {
+    "id": "Lk_5_001",
+    "question": "Kur Jėzus stovėjo, kai pamatė dvi valtis prie Genezareto ežero?",
+    "options": {
+      "a": "Ant kalno",
+      "b": "Prie ežero kranto",
+      "c": "Viename mieste",
+      "d": "Prie muitinės"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_002",
+    "question": "Kas buvo vienas iš Simono bendrų, kurie buvo sužavėti dideliu žuvų valksmu?",
+    "options": {
+      "a": "Andriejus",
+      "b": "Jokūbas",
+      "c": "Judas",
+      "d": "Tomas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_005",
+    "question": "Kur Jėzus traukdavosi melstis?",
+    "options": {
+      "a": "Į miestuose",
+      "b": "Į nuošalesnes vietas",
+      "c": "Prie ežero",
+      "d": "Ant kalno"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_006",
+    "question": "Kas nešė paralyžiuotą žmogų prie Jėzaus?",
+    "options": {
+      "a": "Jo draugai",
+      "b": "Fariziejai",
+      "c": "Įstatymo mokytojai",
+      "d": "Vyrai neštuvais"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_009",
+    "question": "Ką Jėzus atsakė fariziejams apie pasninkavimą?",
+    "options": {
+      "a": "Argi galite versti pasninkauti vestuvių svečius, kol su jais yra jaunikis",
+      "b": "Pasninkaujate, bet reikia maldautis daugiau",
+      "c": "Pasninkavimas yra svarbus, bet reikia ir maldauti",
+      "d": "Pasninkavimas yra blogas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_010",
+    "question": "Ką Jėzus pasakė apie naują vyną ir senus vynmaišius?",
+    "options": {
+      "a": "Jauną vyną reikia pilti į naujus vynmaišius",
+      "b": "Senus vynmaišius reikia pildyti nauju vynu",
+      "c": "Jauną vyną reikia pildyti į senus vynmaišius",
+      "d": "Vynmaišiai turi būti visada nauji"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_011",
+    "question": "Ką Jėzus pasakė apie seną ir naują vyną?",
+    "options": {
+      "a": "Jaunas vynas geresnis už seną",
+      "b": "Senasis vynas geresnis",
+      "c": "Vynas turi būti visada naujas",
+      "d": "Vynas turi būti visada senas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_012",
+    "question": "Kas buvo Levis?",
+    "options": {
+      "a": "Muitininkas",
+      "b": "Žvejas",
+      "c": "Fariziejus",
+      "d": "Įstatymo mokytojas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_5_013",
+    "question": "Ką Jėzus tarė Leviui, pastebėdamas jį muitinėje?",
+    "options": {
+      "a": "Sek paskui mane",
+      "b": "Palik viską ir sek paskui mane",
+      "c": "Tavo nuodėmės tau atleistos",
+      "d": "Imk savo patalą ir eik namo"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_5"
+  },
+  {
+    "id": "Lk_6_003",
+    "question": "Kas buvo padaryta žmogui su padžiūvusia ranka per šabą?",
+    "options": {
+      "a": "Jis buvo išgąstintas",
+      "b": "Jis buvo išgirdintas",
+      "c": "Jis buvo išgydytas",
+      "d": "Jis buvo išgirtintas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_004",
+    "question": "Ką Jėzus klausė rašto aiškintojų ir fariziejų?",
+    "options": {
+      "a": "Ar per šabą leistina gera daryti, ar bloga?",
+      "b": "Ar per šabą leistina valgyti, ar ne?",
+      "c": "Ar per šabą leistina dirbti, ar ne?",
+      "d": "Ar per šabą leistina miegoti, ar ne?"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_005",
+    "question": "Kiek apaštalų Jėzus paskyrė?",
+    "options": {
+      "a": "10",
+      "b": "11",
+      "c": "12",
+      "d": "13"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_006",
+    "question": "Kas buvo vienas iš dvylikos apaštalų?",
+    "options": {
+      "a": "Petras",
+      "b": "Andriejus",
+      "c": "Jokūbas",
+      "d": "Visos aukščiau minėtos"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_008",
+    "question": "Ką Jėzus sakė apie šabo dieną?",
+    "options": {
+      "a": "Žmogaus Sūnus yra ir šabo Viešpats",
+      "b": "Žmogaus Sūnus yra ir šabo Tėvas",
+      "c": "Žmogaus Sūnus yra ir šabo Duktė",
+      "d": "Žmogaus Sūnus yra ir šabo Motina"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_013",
+    "question": "Ką Jėzus sakė apie priešus?",
+    "options": {
+      "a": "Mylėkite savo priešus, darykite gera tiems, kurie jūsų nekenčia",
+      "b": "Mylėkite savo priešus, darykite gera tiems, kurie jūsų myli",
+      "c": "Mylėkite savo priešus, darykite gera tiems, kurie jūsų myli",
+      "d": "Mylėkite savo priešus, darykite gera tiems, kurie jūsų myli"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_6_014",
+    "question": "Ką Jėzus sakė apie gailestingumą?",
+    "options": {
+      "a": "Būkite gailestingi, kaip ir jūsų Tėvas gailestingas",
+      "b": "Būkite gailestingi, kaip ir jūsų Tėvas nedailus",
+      "c": "Būkite gailestingi, kaip ir jūsų Tėvas nedailus",
+      "d": "Būkite gailestingi, kaip ir jūsų Tėvas nedailus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_6"
+  },
+  {
+    "id": "Lk_7_001",
+    "question": "Kur Jėzus grįžo po pamokymų?",
+    "options": {
+      "a": "Jeruzalę",
+      "b": "Kafarnaumą",
+      "c": "Najiną",
+      "d": "Betanią"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_002",
+    "question": "Kas pasiuntė pas Jėzų prašydamas pagelbėti tarnui?",
+    "options": {
+      "a": "Šimtininkas",
+      "b": "Fariziejus",
+      "c": "Mokytojas",
+      "d": "Muitininkas"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_004",
+    "question": "Ką Jėzus pasakė apie šimtininko tikėjimą?",
+    "options": {
+      "a": "Jis yra silpnas",
+      "b": "Jis yra didelis",
+      "c": "Jis yra menkas",
+      "d": "Jis yra blogas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_005",
+    "question": "Kur Jėzus pasuko po šimtininko tarno pagydymo?",
+    "options": {
+      "a": "Jeruzalę",
+      "b": "Kafarnaumą",
+      "c": "Najiną",
+      "d": "Betanią"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_007",
+    "question": "Ką Jėzus padarė, priėjęs prie numirėlio?",
+    "options": {
+      "a": "Palietė neštuvus",
+      "b": "Palietė numirėlį",
+      "c": "Palietė motiną",
+      "d": "Palietė minią"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_008",
+    "question": "Ką Jėzus pasakė numirėliui?",
+    "options": {
+      "a": "Neverk!",
+      "b": "Kelkis!",
+      "c": "Eik!",
+      "d": "Miegok!"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_009",
+    "question": "Ką žmonės pasakė apie Jėzų po jaunuolio prikėlimo?",
+    "options": {
+      "a": "Jis yra blogas",
+      "b": "Jis yra silpnas",
+      "c": "Jis yra didis pranašas",
+      "d": "Jis yra menkas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_011",
+    "question": "Ką Jėzus pasakė apie Joną Krikštytoją?",
+    "options": {
+      "a": "Jis yra blogas",
+      "b": "Jis yra silpnas",
+      "c": "Jis yra didesnis už pranašą",
+      "d": "Jis yra menkas"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_7_012",
+    "question": "Ką Jėzus pasakė apie šios kartos žmones?",
+    "options": {
+      "a": "Jie yra geri",
+      "b": "Jie yra blogi",
+      "c": "Jie yra panašūs į vaikus",
+      "d": "Jie yra panašūs į pranašus"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_7"
+  },
+  {
+    "id": "Lk_8_001",
+    "question": "Kas buvo su Jėzumi, kai jis keliavo per miestus ir kaimus?",
+    "options": {
+      "a": "Tik Dvylika apaštalų",
+      "b": "Tik moterys, išgydytos nuo piktųjų dvasių bei ligų",
+      "c": "Dvylika apaštalų ir kelios moterys, išgydytos nuo piktųjų dvasių bei ligų",
+      "d": "Tik moterys, išgydytos nuo piktųjų dvasių"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_002",
+    "question": "Kas yra „sėkla“ palyginime, kurį Jėzus pasakė?",
+    "options": {
+      "a": "Dievo karalystė",
+      "b": "Dievo žodis",
+      "c": "Dievo karalystės paslaptis",
+      "d": "Dievo žodžio paslaptis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_004",
+    "question": "Kas reiškia „uolų“ palyginime?",
+    "options": {
+      "a": "Tie, kurie klauso žodžio ir jį vykdo",
+      "b": "Tie, kurie klausosi, paskui ateina velnias ir išrauna žodį iš jų širdies",
+      "c": "Tie, kurie klauso žodžio, bet neturi šaknų: kurį laiką jie tiki, o gundomi atkrinta",
+      "d": "Tie, kurie klauso žodžio ir duoda vaisių kantrumu"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_005",
+    "question": "Kas reiškia „erškėčių“ palyginime?",
+    "options": {
+      "a": "Tie, kurie klauso žodžio ir jį vykdo",
+      "b": "Tie, kurie klausosi, paskui ateina velnias ir išrauna žodį iš jų širdies",
+      "c": "Tie, kurie klauso žodžio, bet tolyn eidami liko nusmelkti rūpesčių, turtų ir gyvenimo malonumų",
+      "d": "Tie, kurie klauso žodžio ir duoda vaisių kantrumu"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_006",
+    "question": "Kas reiškia „gerą žemę“ palyginime?",
+    "options": {
+      "a": "Tie, kurie klauso žodžio ir jį vykdo",
+      "b": "Tie, kurie klausosi, paskui ateina velnias ir išrauna žodį iš jų širdies",
+      "c": "Tie, kurie klauso žodžio, bet neturi šaknų: kurį laiką jie tiki, o gundomi atkrinta",
+      "d": "Tie, kurie klauso žodžio ir duoda vaisių kantrumu"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_007",
+    "question": "Kas yra Jėzaus tikroji giminystė?",
+    "options": {
+      "a": "Jo motina ir broliai",
+      "b": "Tie, kurie klausosi Dievo žodžio ir jį vykdo",
+      "c": "Jo mokiniai",
+      "d": "Tie, kurie klauso žodžio ir duoda vaisių kantrumu"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_009",
+    "question": "Kuo vardu buvo demonas, kuris apsėdė vyrą geraziečių krašte?",
+    "options": {
+      "a": "Bevardis",
+      "b": "Legionas",
+      "c": "Beelzebubas",
+      "d": "Satanas"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_013",
+    "question": "Kas pasakė Jėzui, kad mergaitė numirė?",
+    "options": {
+      "a": "Mergaitės motina",
+      "b": "Mergaitės tėvas",
+      "c": "Kažkas iš sinagogos vyresniojo namų",
+      "d": "Mergaitės brolis"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_014",
+    "question": "Kas buvo su Jėzumi, kai jis atėjo į namus, kurioje buvo mirusi mergaitė?",
+    "options": {
+      "a": "Tik Petras",
+      "b": "Tik Petras, Jonas ir Jokūbas",
+      "c": "Petras, Jonas, Jokūbas ir mergaitės tėvas bei motina",
+      "d": "Tik mergaitės tėvas ir motina"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_016",
+    "question": "Ką Jėzus liepė duoti mergaitei, kai jos dvasia sugrįžo?",
+    "options": {
+      "a": "Valgyti",
+      "b": "Miegoti",
+      "c": "Gydytis",
+      "d": "Kalbėti"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_017",
+    "question": "Ką Jėzus liepė niekam nesakyti, kas buvo įvykę su mergaitė?",
+    "options": {
+      "a": "Tik tėvui",
+      "b": "Tik motinai",
+      "c": "Niekam",
+      "d": "Tik mokiniams"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_8_018",
+    "question": "Kas buvo su Jėzumi, kai jis keliavo per miestus ir kaimus?",
+    "options": {
+      "a": "Tik Dvylika apaštalų",
+      "b": "Tik moterys, išgydytos nuo piktųjų dvasių bei ligų",
+      "c": "Dvylika apaštalų ir kelios moterys, išgydytos nuo piktųjų dvasių bei ligų",
+      "d": "Tik moterys, išgydytos nuo piktųjų dvasių"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_8"
+  },
+  {
+    "id": "Lk_9_001",
+    "question": "Ką Jėzus suteikė Dvylikai, išsiunčiant juos?",
+    "options": {
+      "a": "Pinigų ir maisto",
+      "b": "Galią ir valdžią visiems demonams tramdyti ir ligoms gydyti",
+      "c": "Lazdas ir krepšius",
+      "d": "Naują drabužį"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_002",
+    "question": "Ką Jėzus pasakė Dvylikai apie kelionę?",
+    "options": {
+      "a": "Niekada nepasitraukti nuo žmonių",
+      "b": "Nieko neimkite kelionei: nei lazdos, nei krepšio, nei duonos, nei pinigų",
+      "c": "Imkite daug maisto ir pinigų",
+      "d": "Keliauokite tik naktimis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_004",
+    "question": "Ką Jėzus pasakė, kai Dvylika sakė, kad neturi maisto miniai?",
+    "options": {
+      "a": "Jie turi nuėti ir nupirkti maisto",
+      "b": "Jie turi palikti žmones ir eiti namo",
+      "c": "Jūs duokite jiems valgyti!",
+      "d": "Jie turi maldautis, kad Dievas duotų maisto"
+    },
+    "correct": "c",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_005",
+    "question": "Kiek kepalėlių duonos ir žuvų Jėzus padaugino?",
+    "options": {
+      "a": "Penkis kepalėlius duonos ir dvi žuvis",
+      "b": "Tris kepalėlius duonos ir tris žuvis",
+      "c": "Penkis kepalėlius duonos ir penias žuvis",
+      "d": "Dešimt kepalėlių duonos ir dešimt žuvų"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_007",
+    "question": "Ką Jėzus pasakė apie Žmogaus Sūnų?",
+    "options": {
+      "a": "Jis pasakė, kad Žmogaus Sūnus bus amžinai valdys",
+      "b": "Jis pasakė, kad Žmogaus Sūnus turi būti atmestas ir nužudytas, bet trečią dieną prisikeltų",
+      "c": "Jis pasakė, kad Žmogaus Sūnus bus paskendintas jūroje",
+      "d": "Jis pasakė, kad Žmogaus Sūnus bus paskendintas ugnimi"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_009",
+    "question": "Kas pasirodė Jėzui kalne?",
+    "options": {
+      "a": "Mozė ir Elijas",
+      "b": "Petras ir Jokūbas",
+      "c": "Jonas ir Jokūbas",
+      "d": "Petras ir Andriejus"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_010",
+    "question": "Ką Petras pasakė, kai matė Mozę ir Eliją?",
+    "options": {
+      "a": "Petras pasakė, kad jie turi nužudyti Mozę ir Eliją",
+      "b": "Petras pasakė, kad jie turi padaryti tris palapines: vieną Jėzui, kitą Mozei ir trečią Elijui",
+      "c": "Petras pasakė, kad jie turi palikti kalną",
+      "d": "Petras pasakė, kad jie turi maldautis"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_012",
+    "question": "Ką Jėzus pasakė apie nuomariu sergančio berniuko tėvą?",
+    "options": {
+      "a": "Jėzus pasakė, kad tėvas turi nužudyti berniuką",
+      "b": "Jėzus pasakė, kad tėvas turi palikti berniuką",
+      "c": "Jėzus pasakė, kad tėvas turi maldauti",
+      "d": "Jėzus pasakė, kad tėvas turi atnešti berniuką"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_014",
+    "question": "Ką Jėzus pasakė apie Joną, kuris išvarė demonus jo vardo?",
+    "options": {
+      "a": "Jėzus pasakė, kad jie turi nužudyti Joną",
+      "b": "Jėzus pasakė, kas ne prieš jus, tas už jus",
+      "c": "Jėzus pasakė, kad jie turi drausti Joną",
+      "d": "Jėzus pasakė, kad jie turi maldauti"
+    },
+    "correct": "b",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_016",
+    "question": "Ką Jėzus pasakė apie žmogų, kuris norėjo pirmiau pareiti tėvo palaidoti?",
+    "options": {
+      "a": "Jėzus pasakė, kad jis turi palikti mirusiems laidoti savo numirėlius, o tu eik ir skelbk Dievo karalystę",
+      "b": "Jėzus pasakė, kad jis turi nužudyti tėvą",
+      "c": "Jėzus pasakė, kad jis turi maldauti",
+      "d": "Jėzus pasakė, kad jis turi palikti tėvą"
+    },
+    "correct": "a",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  },
+  {
+    "id": "Lk_9_018",
+    "question": "Ką Jėzus pasakė apie žmogų, kuris prideda ranką prie arklo ir žvalgosi atgal?",
+    "options": {
+      "a": "Jėzus pasakė, kad jis turi nužudyti žmogų",
+      "b": "Jėzus pasakė, kad jis turi maldauti",
+      "c": "Jėzus pasakė, kad jis turi palikti žmogų",
+      "d": "Jėzus pasakė, kad jis netinka Dievo karalystei"
+    },
+    "correct": "d",
+    "model": "mistral/mistral-small-2506",
+    "chapter": "Lk_9"
+  }
+]

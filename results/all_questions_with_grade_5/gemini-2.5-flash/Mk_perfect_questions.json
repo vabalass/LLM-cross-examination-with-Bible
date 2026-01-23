@@ -1,0 +1,2837 @@
+[
+  {
+    "id": "Mk_1_001",
+    "question": "Kaip pranašo Izaijo parašyta, kas turėjo nutiesti kelią Viešpačiui?",
+    "options": {
+      "a": "Mozė",
+      "b": "Savo pasiuntinys",
+      "c": "Elijas",
+      "d": "Pats Viešpats"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_002",
+    "question": "Kokie du patiekalai buvo Jono Krikštytojo maistas?",
+    "options": {
+      "a": "Duona ir vynas",
+      "b": "Žuvis ir medus",
+      "c": "Skėriai ir lauko medus",
+      "d": "Pienas ir figos"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_003",
+    "question": "Ką Jonas Krikštytojas pasakė apie ateinantįjį po jo?",
+    "options": {
+      "a": "Kad jis bus silpnesnis už jį",
+      "b": "Kad jis krikštys vandeniu, kaip ir Jonas",
+      "c": "Kad jis nevertas nusilenkęs atrišti ateinančiojo kurpių dirželio",
+      "d": "Kad jis atneš ugnį į žemę"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_004",
+    "question": "Iš kurios vietovės atėjo Jėzus, kad būtų pakrikštytas Jordane?",
+    "options": {
+      "a": "Betliejaus",
+      "b": "Galilėjos Nazareto",
+      "c": "Jeruzalės",
+      "d": "Kafarnaumo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_005",
+    "question": "Kas įvyko Jėzaus krikšto metu, vos jam išbridus iš vandens?",
+    "options": {
+      "a": "Griaustinis nuskambėjo danguje",
+      "b": "Dvasia, tarsi balandis, nusileido ant jo",
+      "c": "Pasirodė angelas",
+      "d": "Visi susirinkusieji puolė žemėn"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_006",
+    "question": "Ką išgirdo Jėzus iš dangaus po savo krikšto?",
+    "options": {
+      "a": "„Eik ir skelbk karalystę!“",
+      "b": "„Tu mano mylimasis Sūnus, tavimi aš gėriuosi“",
+      "c": "„Šiandien aš tave pagimdžiau“",
+      "d": "„Tavo nuodėmės atleistos“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_007",
+    "question": "Kiek dienų Jėzus praleido dykumoje, gundomas šėtono?",
+    "options": {
+      "a": "Septynias dienas",
+      "b": "Trisdešimt dienų",
+      "c": "Keturiasdešimt dienų",
+      "d": "Dvi dienas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_008",
+    "question": "Koks įvykis paskatino Jėzų grįžti į Galilėją ir pradėti skelbti gerąją Dievo naujieną?",
+    "options": {
+      "a": "Romos valdžios įsakymas",
+      "b": "Jono suėmimas",
+      "c": "Savo mokinių prašymas",
+      "d": "Sapnas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_009",
+    "question": "Kokį kvietimą Jėzus adresavo Simonui ir Andriejui?",
+    "options": {
+      "a": "„Eikite paskui mane! Aš padarysiu jus kareivių vadais“",
+      "b": "„Eikite paskui mane! Aš padarysiu jus žmonių žvejais“",
+      "c": "„Eikite paskui mane! Aš padarysiu jus didžiais mokytojais“",
+      "d": "„Eikite paskui mane! Aš padarysiu jus išminčiais“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_010",
+    "question": "Kuo stebėjosi žmonės Kafarnaumo sinagogoje, klausydami Jėzaus mokslo?",
+    "options": {
+      "a": "Jo jaunu amžiumi",
+      "b": "Kad jis mokė kaip turintis galią, o ne kaip Rašto aiškintojai",
+      "c": "Jo iškalba",
+      "d": "Jo naujais palyginimais"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_011",
+    "question": "Kaip netyroji dvasia sinagogoje identifikavo Jėzų?",
+    "options": {
+      "a": "Kaip Eliją",
+      "b": "Kaip pranašą",
+      "c": "Kaip Dievo šventąjį",
+      "d": "Kaip Pasaulio gelbėtoją"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_012",
+    "question": "Kuo sirgo Simono uošvė, kai Jėzus atvyko į jų namus?",
+    "options": {
+      "a": "Raupsais",
+      "b": "Paralyžiumi",
+      "c": "Karščiu",
+      "d": "Akmenlige"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_013",
+    "question": "Ką Jėzus darė labai anksti, dar neprašvitus, prieš išvykdamas iš Kafarnaumo?",
+    "options": {
+      "a": "Valgė pusryčius su mokiniais",
+      "b": "Išėjo į turgų",
+      "c": "Nuėjo į negyvenamą vietą ir tenai meldėsi",
+      "d": "Rašė laiškus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_014",
+    "question": "Ką Jėzus liepė raupsuotajam, kurį pagydė, prieš išsiųsdamas jį?",
+    "options": {
+      "a": "Eiti į Jeruzalę aukoti",
+      "b": "Niekam nieko nepasakoti, eiti pasirodyti kunigui ir paaukoti Mozės įsakytą atnašą",
+      "c": "Tapti jo mokiniu",
+      "d": "Paskelbti visame mieste apie pagijimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_1_015",
+    "question": "Kas nutiko po to, kai raupsuotasis nepaklausė Jėzaus įsakymo ir pradėjo plačiai skelbti apie pagijimą?",
+    "options": {
+      "a": "Jėzus jį vėl sutiko ir sudraudė",
+      "b": "Jėzus nebegalėjo viešai pasirodyti mieste",
+      "c": "Daugiau raupsuotųjų atėjo pas Jėzų",
+      "d": "Raupsuotasis vėl susirgo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_1"
+  },
+  {
+    "id": "Mk_10_001",
+    "question": "Su kokiu klausimu fariziejai kreipėsi į Jėzų, norėdami jam spęsti pinkles?",
+    "options": {
+      "a": "Ar galima atleisti žmoną?",
+      "b": "Koks yra didžiausias įsakymas?",
+      "c": "Ar galima mokėti mokesčius Cezariui?",
+      "d": "Kieno sūnus yra Mesijas?"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_002",
+    "question": "Dėl kokios priežasties, pasak Jėzaus, Mozė parašė nuostatą dėl skyrybų rašto?",
+    "options": {
+      "a": "Dėl tautos klusnumo.",
+      "b": "Dėl vyrų širdies kietumo.",
+      "c": "Dėl Dievo valios.",
+      "d": "Dėl moterų teisių apsaugos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_003",
+    "question": "Ką Jėzus pabrėžė apie santuoką, remdamasis sukūrimo pradžia?",
+    "options": {
+      "a": "Kad ji yra laikina.",
+      "b": "Kad ji yra tarpusavio susitarimas.",
+      "c": "Kad Dievas sujungė vyrą ir moterį į vieną kūną.",
+      "d": "Kad vyras turi teisę atleisti žmoną."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_004",
+    "question": "Pasak Jėzaus, kas nutinka, jei vyras atleidžia savo žmoną ir veda kitą?",
+    "options": {
+      "a": "Jis nusideda pagonims.",
+      "b": "Jis nusikalsta pirmajai svetimavimu.",
+      "c": "Jis pažeidžia tradicijas.",
+      "d": "Jis įgyja teisę į naują šeimą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_005",
+    "question": "Kaip Jėzus reagavo, kai mokiniai draudė nešti jam vaikučius?",
+    "options": {
+      "a": "Jis juos nubaudė.",
+      "b": "Jis užsirūstino ant mokinių.",
+      "c": "Jis pasitraukė į šalį.",
+      "d": "Jis ignoravo situaciją."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_006",
+    "question": "Ką Jėzus sakė apie Dievo karalystę ir mažutėlius?",
+    "options": {
+      "a": "Tokiems sunku įeiti į ją.",
+      "b": "Tokių yra Dievo karalystė.",
+      "c": "Jie yra tik ateities karalystės dalis.",
+      "d": "Jie turi būti pirmieji."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_007",
+    "question": "Ką turtingas jaunuolis paklausė Jėzaus, pribėgęs ir puolęs ant kelių?",
+    "options": {
+      "a": "Kaip tapti turtingesniu?",
+      "b": "Ką turiu daryti, kad laimėčiau amžinąjį gyvenimą?",
+      "c": "Ar aš esu geras?",
+      "d": "Kokie įsakymai svarbiausi?"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_008",
+    "question": "Koks vienas dalykas, pasak Jėzaus, trūko turtingam jaunuoliui?",
+    "options": {
+      "a": "Tikėjimo.",
+      "b": "Meilės artimui.",
+      "c": "Parduoti visa, ką turi, išdalyti vargšams ir sekti Jėzumi.",
+      "d": "Didesnės išminties."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_009",
+    "question": "Su kuo Jėzus palygino sunkumą turtuoliams įeiti į Dievo karalystę?",
+    "options": {
+      "a": "Su kupranugariu, išlįstančiu pro adatos ausį.",
+      "b": "Su kalno perkėlimu.",
+      "c": "Su smėlio smiltelės suradimu jūroje.",
+      "d": "Su akmens pakėlimu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_010",
+    "question": "Ką Jėzus atsakė mokiniams, paklaustiems, kas tada galės išsigelbėti?",
+    "options": {
+      "a": "Tai neįmanoma niekam.",
+      "b": "Tai įmanoma tik tiems, kas tiki.",
+      "c": "Tai neįmanoma žmonėms, bet ne Dievui: Dievui viskas įmanoma.",
+      "d": "Tai priklauso nuo jų pastangų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_011",
+    "question": "Ką Jėzus pažadėjo tiems, kurie dėl Jo ir Evangelijos paliks viską?",
+    "options": {
+      "a": "Didelę šlovę žmonių akyse.",
+      "b": "Šimteriopai namų, brolių, seserų ir amžinąjį gyvenimą.",
+      "c": "Lengvą ir nerūpestingą gyvenimą.",
+      "d": "Tiesioginį pakilimą į dangų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_012",
+    "question": "Kas, pagal Jėzaus pranašystę, pasmerks jį mirti?",
+    "options": {
+      "a": "Romėnų valdytojas.",
+      "b": "Jo paties mokiniai.",
+      "c": "Aukštieji kunigai ir Rašto aiškintojai.",
+      "d": "Erodas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_013",
+    "question": "Kas, pasak Jėzaus, išjuoks, apspjaudys, nuplaks ir nužudys jį po išdavystės?",
+    "options": {
+      "a": "Fariziejai.",
+      "b": "Pagonys.",
+      "c": "Samarai.",
+      "d": "Jo giminės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_014",
+    "question": "Ko Jokūbas ir Jonas prašė Jėzaus, susitikus su juo?",
+    "options": {
+      "a": "Kad Jėzus paaiškintų jiems Raštus.",
+      "b": "Kad jie galėtų sėdėti vienas Jėzaus dešinėje, kitas – kairėje jo šlovės.",
+      "c": "Kad Jėzus nubaustų tuos, kurie juos persekiojo.",
+      "d": "Kad jie galėtų tapti galingiausiais tarp mokinių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_015",
+    "question": "Kaip reagavo kiti dešimt mokinių, išgirdę Jokūbo ir Jono prašymą?",
+    "options": {
+      "a": "Jie nustebo.",
+      "b": "Jie džiaugėsi.",
+      "c": "Jie supyko.",
+      "d": "Jie pritarė."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_016",
+    "question": "Ką Jėzus nurodė, kas norėtų tapti didžiausias tarp jo mokinių?",
+    "options": {
+      "a": "Turi būti jų valdovas.",
+      "b": "Turi būti jų tarnas.",
+      "c": "Turi būti išmintingiausias.",
+      "d": "Turi būti turtingiausias."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_10_017",
+    "question": "Koks buvo aklas elgeta, sėdėjęs prie kelio, kai Jėzus su mokiniais iškeliavo iš Jericho?",
+    "options": {
+      "a": "Zebediejus.",
+      "b": "Timiejus.",
+      "c": "Bartimiejus.",
+      "d": "Simonas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_10"
+  },
+  {
+    "id": "Mk_11_001",
+    "question": "Iš kur Jėzus pasiuntė du savo mokinius ieškoti asilaičio?",
+    "options": {
+      "a": "Iš Betfagės ir Betanijos, ties Alyvų kalnu.",
+      "b": "Iš Nazareto, pro Jericho kelią.",
+      "c": "Iš Galilėjos, netoli Tiberiados ežero.",
+      "d": "Iš Jeruzalės, prie Dovydo miesto vartų."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_002",
+    "question": "Ką mokiniai turėjo surasti kaimo pakraštyje?",
+    "options": {
+      "a": "Sunkiai sužeistą žmogų, kuriam reikėjo pagalbos.",
+      "b": "Pririštą asilaitį, kuriuo dar niekas iš žmonių nebuvo jojęs.",
+      "c": "Pamestą skrynią su brangenybėmis.",
+      "d": "Avių bandą, kurią reikėjo parginti į ganyklą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_004",
+    "question": "Rytojaus dieną, keliaujant iš Betanijos, Jėzus buvo alkanas ir pamatė figmedį. Kodėl jis nerado ant jo vaisių?",
+    "options": {
+      "a": "Nes medis buvo dar jaunas ir nevaisingas.",
+      "b": "Nes figas jau buvo surinkę kiti keliautojai.",
+      "c": "Nes buvo dar ne figų metas.",
+      "d": "Nes figmedis buvo nudžiūvęs."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_005",
+    "question": "Ką Jėzus padarė įėjęs į šventyklą?",
+    "options": {
+      "a": "Meldėsi už sergančiuosius ir ligonius.",
+      "b": "Vijo laukan parduodančius ir perkančius, išvartė pinigų keitėjų stalus.",
+      "c": "Sakė pamokslą apie Mozės įstatymus.",
+      "d": "Kvietė visus susirinkusius vakarienės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_006",
+    "question": "Kaip Jėzus apibūdino šventyklą, cituodamas Raštus?",
+    "options": {
+      "a": "Mano namai vadinsis šlovės namai visoms tautoms!",
+      "b": "Mano namai vadinsis maldos namai visoms tautoms!",
+      "c": "Mano namai vadinsis Dievo buveinė visoms tautoms!",
+      "d": "Mano namai vadinsis aukos namai visoms tautoms!"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_007",
+    "question": "Kas atėjus vakarui Jėzaus ir mokinių atžvilgiu tarėsi, kaip Jėzų pražudyti?",
+    "options": {
+      "a": "Romos kareiviai ir valdytojas.",
+      "b": "Prekybininkai, kuriuos Jėzus išvijo iš šventyklos.",
+      "c": "Aukštieji kunigai ir Rašto aiškintojai.",
+      "d": "Paprasti žmonės, nepatenkinti Jėzaus mokymu."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_008",
+    "question": "Kas nutiko figmedžiui kitą rytą, kai mokiniai su Jėzumi ėjo pro šalį?",
+    "options": {
+      "a": "Jis subrandino daugybę vaisių.",
+      "b": "Jis nudžiūvo iš pat šaknų.",
+      "c": "Jis atsigavo ir sužaliavo.",
+      "d": "Ant jo buvo paukščių lizdas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_009",
+    "question": "Ką Jėzus mokė apie tikėjimą ir kalno perkėlimą į jūrą?",
+    "options": {
+      "a": "Tai įmanoma tik su angelų pagalba.",
+      "b": "Tai įmanoma tik Dievo sūnui.",
+      "c": "Tai įvyktų, jei kas tikėtų ir nesvyruotų širdyje.",
+      "d": "Tai tik palyginimas, o ne tiesioginis pažadas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_010",
+    "question": "Kokia sąlyga Jėzus paminėjo, kad Dievas atleistų nusižengimus, kai einama melstis?",
+    "options": {
+      "a": "Atsisakyti visų savo nuosavybių.",
+      "b": "Atleisti tiems, kurie turi ką nors prieš kitus.",
+      "c": "Paaukoti didelę auką šventykloje.",
+      "d": "Pasisninkauti visą dieną."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_11_011",
+    "question": "Kuo Jėzus atsikirto aukštiesiems kunigams, Rašto aiškintojams ir seniūnams, kai jie paklausė apie jo galią?",
+    "options": {
+      "a": "Paklausė, ar jie tiki į Mesiją.",
+      "b": "Paklausė apie Jono krikšto kilmę.",
+      "c": "Pasiūlė jiems prisijungti prie jo mokinių.",
+      "d": "Iškart pasakė, kad jo galia yra iš Dievo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_11"
+  },
+  {
+    "id": "Mk_12_001",
+    "question": "Ką žmogus padarė su vynuogynu, prieš išnuomodamas jį vynininkams ir iškeliaudamas?",
+    "options": {
+      "a": "Įveisė vynuogyną, sumūrijo aptvarą, įrengė spaustuvą ir pastatė bokštą.",
+      "b": "Pastatė namą, įveisė sodą ir įrengė šulinį.",
+      "c": "Apsodino jį alyvmedžiais, pastatė tvorą ir iškasė tvenkinį.",
+      "d": "Iškasė griovį, pastatė sargybos postą ir įrengė gamyklą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_002",
+    "question": "Kaip vynininkai elgėsi su pirmaisiais savininko siųstais tarnais?",
+    "options": {
+      "a": "Juos priėmė ir atidavė deramą dalį.",
+      "b": "Juos sumušė, sužeidė, iškoneveikė, o kai kuriuos ir nužudė.",
+      "c": "Juos išklausė, bet nieko nedavė.",
+      "d": "Juos išvarė, bet nepadarė žalos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_003",
+    "question": "Kaip vynininkai pasielgė su savininko mylimuoju sūnumi?",
+    "options": {
+      "a": "Jį nužudė ir išmetė laukan iš vynuogyno.",
+      "b": "Jį pasveikino ir atidavė visą derlių.",
+      "c": "Jį priėmė, bet atsisakė pripažinti įpėdiniu.",
+      "d": "Jį sumušė ir grąžino atgal pas tėvą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_004",
+    "question": "Kas, anot Jėzaus, atsitiks vynuogyno savininkui su vynininkais ir kokią citatą jis pateikė?",
+    "options": {
+      "a": "Jis atleis jiems ir atsiųs daugiau tarnų.",
+      "b": "Jis ateis, išžudys vynininkus, atiduos vynuogyną kitiems ir paminėjo akmenį, kurį statytojai atmetė.",
+      "c": "Jis atsiųs kariuomenę, kuri sunaikins vynuogyną.",
+      "d": "Jis pamirš apie vynuogyną ir nieko nedarys."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_005",
+    "question": "Kas buvo pasiųsta pas Jėzų, kad sugautų jį kalboje apie mokesčius?",
+    "options": {
+      "a": "Mokiniai ir dvasininkai.",
+      "b": "Sadukiejai ir Rašto aiškintojai.",
+      "c": "Fariziejai ir erodininkai.",
+      "d": "Romos kareiviai ir vietiniai gyventojai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_006",
+    "question": "Kokiais žodžiais siųstieji kreipėsi į Jėzų, prieš užduodami klausimą apie mokesčius?",
+    "options": {
+      "a": "„Ar mums galima tave nutraukti, Mokytojau?“",
+      "b": "„Mokytojau, žinome, jog esi tiesakalbis ir niekam nepataikauji, nepaisai žmonių padėties, bet mokai Dievo kelio.“",
+      "c": "„Ar tu esi Mesijas, kuris atėjo išgelbėti Izraelio?“",
+      "d": "„Gerbiamasis rabi, ar galėtum mums padėti išspręsti ginčą?“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_007",
+    "question": "Ką Jėzus atsakė į klausimą apie mokesčius ciesoriui?",
+    "options": {
+      "a": "„Mokėkite viską ciesoriui, nes jis yra jūsų valdovas.“",
+      "b": "„Nemokėkite nieko, nes Dievas yra vienintelis valdovas.“",
+      "c": "„Kas ciesoriaus, atiduokite ciesoriui, o kas Dievo – Dievui.“",
+      "d": "„Mokesčiai yra nereikalingi, todėl ignoruokite juos.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_008",
+    "question": "Kokia grupė, neigianti mirusiųjų prisikėlimą, atėjo pas Jėzų su klausimu?",
+    "options": {
+      "a": "Fariziejai.",
+      "b": "Erodininkai.",
+      "c": "Sadukiejai.",
+      "d": "Rašto aiškintojai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_009",
+    "question": "Apie kokią situaciją su broliais ir moterimi klausė sadukiejai?",
+    "options": {
+      "a": "Apie moterį, kuri po vyro mirties ištekėjo už kito brolio, o paskui išsiskyrė.",
+      "b": "Apie moterį, kuri septynis kartus ištekėjo už septynių brolių, kurie visi mirė bevaikiai.",
+      "c": "Apie moterį, kuri turėjo septynis sūnus ir visi jie mirė.",
+      "d": "Apie moterį, kuri buvo išgelbėta nuo akmenimis užmėtymo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_010",
+    "question": "Ką Jėzus atsakė sadukiejams apie prisikėlimą ir santuoką?",
+    "options": {
+      "a": "Kad prisikėlusieji vėl ves ir tekės, kaip danguje.",
+      "b": "Kad prisikėlusieji nei ves, nei tekės, bet bus kaip angelai danguje, ir Dievas yra gyvųjų, o ne mirusiųjų Dievas.",
+      "c": "Kad prisikėlimo nėra, todėl jų klausimas beprasmis.",
+      "d": "Kad tik tie, kurie laikėsi Mozės įstatymo, prisikels."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_011",
+    "question": "Kokie yra du didžiausi įsakymai, pasak Jėzaus?",
+    "options": {
+      "a": "Nemušk ir nevok.",
+      "b": "Gerbk tėvą ir motiną, ir nemeluok.",
+      "c": "Mylėk Viešpatį savo Dievą visa širdimi, visa siela, visu protu ir visomis jėgomis, ir mylėk savo artimą kaip save patį.",
+      "d": "Lankyk šventyklą ir aukok aukas."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_012",
+    "question": "Kokį Jėzaus perspėjimą apie Rašto aiškintojus galima rasti?",
+    "options": {
+      "a": "Saugokitės tų, kurie nesimeldžia ir negerbia Dievo.",
+      "b": "Saugokitės tų, kurie mėgsta garbę, ilgus drabužius, pirmuosius krėslus sinagogose ir suvalgo našlių namus.",
+      "c": "Saugokitės tų, kurie kalba apie pranašystes, bet patys netiki.",
+      "d": "Saugokitės tų, kurie atsisako aukoti aukas šventykloje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_013",
+    "question": "Kiek pinigėlių įmetė vargšė našlė ir kodėl Jėzus pasakė, kad ji įmetė daugiausiai?",
+    "options": {
+      "a": "Vieną denarą; nes tai buvo viskas, ką ji turėjo.",
+      "b": "Du pinigėlius (skatiką); nes ji įmetė visa, ką turėjo, iš savo neturto.",
+      "c": "Tris denarus; nes ji paaukojo daugiau nei bet kas kitas.",
+      "d": "Dešimt skatikų; nes ji turėjo daug pinigų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_12_014",
+    "question": "Iš ko aukojo dauguma turtingųjų, palyginti su našle?",
+    "options": {
+      "a": "Iš savo didelio noro prisidėti.",
+      "b": "Iš to, kas jiems atlieka.",
+      "c": "Iš to, ką gavo kaip dovaną.",
+      "d": "Iš savo gausaus derliaus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_12"
+  },
+  {
+    "id": "Mk_13_001",
+    "question": "Ką Jėzus pasakė apie didžiulius šventyklos pastatus?",
+    "options": {
+      "a": "Čia neliks akmens ant akmens, viskas bus išgriauta.",
+      "b": "Jie stovės amžinai kaip tikėjimo simbolis.",
+      "c": "Jie bus atnaujinti ir taps dar gražesni.",
+      "d": "Jie bus perkelti į kitą vietą ateityje."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_002",
+    "question": "Kas atskirai nuo kitų klausė Jėzų Alyvų kalne apie tai, kada įvyks šventyklos sunaikinimas ir koks bus to ženklas?",
+    "options": {
+      "a": "Petras, Jokūbas, Jonas ir Andriejus.",
+      "b": "Mato, Morkaus, Luko ir Jono mokiniai.",
+      "c": "Tik Petras ir Jonas.",
+      "d": "Visi mokiniai kartu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_003",
+    "question": "Kokius įvykius Jėzus nurodė kaip 'kentėjimų pradžią'?",
+    "options": {
+      "a": "Didelius džiaugsmo šventes ir gausius derlius.",
+      "b": "Tautų susivienijimą ir ilgalaikę taiką.",
+      "c": "Tautų ir karalysčių pakilimą vienai prieš kitą, žemės drebėjimus ir badmečius.",
+      "d": "Naujų miestų statybas ir pranašų atėjimą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_004",
+    "question": "Kas, Jėzaus žodžiais, turi įvykti pirmiau, prieš patį galą?",
+    "options": {
+      "a": "Turi būti pastatyta nauja šventykla.",
+      "b": "Turi būti visoms tautoms paskelbta Evangelija.",
+      "c": "Turi pasirodyti Mesijas.",
+      "d": "Visi karai turi pasibaigti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_005",
+    "question": "Kas kalbės per mokinius, kai jie bus suimti ir vedami į teismus?",
+    "options": {
+      "a": "Jie patys, apgalvoję savo gynybą.",
+      "b": "Jėzus asmeniškai pasirodys ir kalbės už juos.",
+      "c": "Angelai kalbės jų lūpomis.",
+      "d": "Šventoji Dvasia."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_006",
+    "question": "Ką Jėzus pasakė apie tuos, kurie ištvers iki galo?",
+    "options": {
+      "a": "Jie taps karaliais.",
+      "b": "Jie bus išgelbėti.",
+      "c": "Jie gaus didelius turtus.",
+      "d": "Jie taps visų garbinami."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_007",
+    "question": "Koks ženklas Judėjoje turėtų paskatinti žmones bėgti į kalnus?",
+    "options": {
+      "a": "Netikėtas saulės užtemimas.",
+      "b": "Kai pamatys sunaikinimo pabaisą stovint ten, kur jos neturi būti.",
+      "c": "Didelis žemės drebėjimas.",
+      "d": "Angelų pasirodymas danguje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_008",
+    "question": "Kodėl Viešpats sutrumpino 'tas dienas' (suspaudimo dienas)?",
+    "options": {
+      "a": "Kad niekas negalėtų sužinoti pabaigos datos.",
+      "b": "Dėl išrinktųjų, kuriuos išsirinko.",
+      "c": "Kad būtų duota daugiau laiko atgailai.",
+      "d": "Kad netikri mesijai neturėtų laiko suvedžioti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_009",
+    "question": "Kas įvyks danguje po ano suspaudimo?",
+    "options": {
+      "a": "Pasirodys nauja žvaigždė.",
+      "b": "Saulė užtems, mėnulis nebeduos šviesos, žvaigždės kris nuo dangaus.",
+      "c": "Dangus atsivers ir pasirodys angelai.",
+      "d": "Įvyks didelis perkūnija ir žaibavimas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_010",
+    "question": "Kaip žmonės pamatys Žmogaus Sūnų ateinantį?",
+    "options": {
+      "a": "Pasislėpusį minioje, kaip paprastą žmogų.",
+      "b": "Debesyse su didžia galia ir šlove.",
+      "c": "Ant balto žirgo, vedantį kariuomenę.",
+      "d": "Tyliai, be jokių išorinių ženklų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_011",
+    "question": "Ko moko palyginimas su figos medžiu?",
+    "options": {
+      "a": "Kad vasara ateina anksti pavasarį.",
+      "b": "Kai jo šaka suminkštėja ir sprogsta lapai, artinasi vasara; taip pat išvydus tam tikrus ženklus, reikia suprasti, jog jis jau arti, prie slenksčio.",
+      "c": "Kad visada reikia sodinti medžius.",
+      "d": "Kad medžiai yra gyvybiškai svarbūs planetai."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_13_012",
+    "question": "Kas vienintelis žino tikslų 'tos dienos ar tos valandos' laiką?",
+    "options": {
+      "a": "Dangaus angelai.",
+      "b": "Sūnus (Jėzus).",
+      "c": "Tik Tėvas.",
+      "d": "Didieji pranašai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_13"
+  },
+  {
+    "id": "Mk_14_001",
+    "question": "Kiek dienų iki Velykų ir Neraugintos duonos šventės tebuvo likę, kai aukštieji kunigai ir Rašto aiškintojai ieškojo būdo sugauti Jėzų?",
+    "options": {
+      "a": "Pora dienų",
+      "b": "Viena diena",
+      "c": "Savaitė",
+      "d": "Trys dienos"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_002",
+    "question": "Kokio būdo ieškojo aukštieji kunigai ir Rašto aiškintojai, norėdami sugauti Jėzų?",
+    "options": {
+      "a": "Klasta",
+      "b": "Atvirai, per šventes",
+      "c": "Pasitelkdami romėnų valdžią",
+      "d": "Per atsitiktinį susitikimą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_003",
+    "question": "Kur Jėzus buvo, kai moteris atėjo jį patepti?",
+    "options": {
+      "a": "Betanijoje, Simono Raupsuotojo namuose",
+      "b": "Jeruzalėje, šventykloje",
+      "c": "Galilėjoje, prie ežero",
+      "d": "Nazarete, jo namuose"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_004",
+    "question": "Kas buvo alebastriniame indelyje, kurį moteris išpylė Jėzui ant galvos?",
+    "options": {
+      "a": "Grynas nardo tepalas",
+      "b": "Kvepalai",
+      "c": "Alyvuogių aliejus",
+      "d": "Šventas vanduo"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_005",
+    "question": "Kiek pinigų, kai kurių ten esančių nuomone, buvo galima gauti pardavus tepalą?",
+    "options": {
+      "a": "Daugiau negu už tris šimtus denarų",
+      "b": "Apie šimtą denarų",
+      "c": "Penkiasdešimt denarų",
+      "d": "Tūkstantį denarų"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_006",
+    "question": "Ką Jėzus pasakė apie vargšus, atsiliepiant į murmėjimą prieš moterį?",
+    "options": {
+      "a": "„Vargšų jūs visuomet turite su savimi“",
+      "b": "„Vargšus sutiksite tik retkarčiais“",
+      "c": "„Vargšai visada bus su manimi“",
+      "d": "„Vargšams padėti privaloma tik per šventes“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_007",
+    "question": "Kam Jėzus paaiškino, kad moteris iš anksto patepė jo kūną?",
+    "options": {
+      "a": "Laidotuvėms",
+      "b": "Kelionei",
+      "c": "Šventei",
+      "d": "Pasveikinimui"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_008",
+    "question": "Kas, būdamas vienas iš Dvylikos, nuėjo pas aukštuosius kunigus pasiryžęs išduoti Jėzų?",
+    "options": {
+      "a": "Judas Iskarijotas",
+      "b": "Petras",
+      "c": "Jonas",
+      "d": "Jokūbas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_009",
+    "question": "Kokia buvo aukštųjų kunigų reakcija į Judo pasiūlymą išduoti Jėzų?",
+    "options": {
+      "a": "Apsidžiaugė ir pažadėjo jam pinigų",
+      "b": "Buvo nustebę ir supyko",
+      "c": "Atsisakė jo pagalbos",
+      "d": "Prašė laiko apmąstyti"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_010",
+    "question": "Kokią dieną mokiniai klausė Jėzaus, kur paruošti Velykų vakarienę?",
+    "options": {
+      "a": "Pirmąją Neraugintos duonos dieną",
+      "b": "Savaitės viduryje",
+      "c": "Prieš šventes",
+      "d": "Per šabo dieną"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_011",
+    "question": "Koks ženklas mieste turėjo padėti mokiniams rasti vietą Velykų vakarienei?",
+    "options": {
+      "a": "Žmogus, vandens ąsočiu nešinas",
+      "b": "Moteris su duonos krepšiu",
+      "c": "Šuo, vedantis juos",
+      "d": "Vaikas su knyga"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_012",
+    "question": "Koks kambarys buvo parodytas mokiniams Velykų vakarienei?",
+    "options": {
+      "a": "Didelis aukštutinis kambarys su baldais",
+      "b": "Mažas rūsys",
+      "c": "Erdvi lauko palapinė",
+      "d": "Pirmame aukšte esantis valgomasis"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_013",
+    "question": "Ką Jėzus prabilo bevalgant vakarienę, kas nuliūdino mokinius?",
+    "options": {
+      "a": "Kad vienas iš jų išduos jį",
+      "b": "Kad jiems teks daug keliauti",
+      "c": "Kad jiems trūksta tikėjimo",
+      "d": "Kad vakarienė baigiasi"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_014",
+    "question": "Koks ženklas, pasak Jėzaus, nurodė išdaviką?",
+    "options": {
+      "a": "Vienas iš Dvylikos, kuris dažo su juo viename dubenyje",
+      "b": "Tas, kuris sėdi Jėzui iš kairės",
+      "c": "Tas, kuris tylėjo per visą vakarienę",
+      "d": "Tas, kuris pirmas pakėlė taurę"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_015",
+    "question": "Ką Jėzus paėmė, laužė ir davė mokiniams, tardamas „Imkite, tai mano kūnas!“?",
+    "options": {
+      "a": "Duoną",
+      "b": "Žuvį",
+      "c": "Mėsą",
+      "d": "Vaisius"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_016",
+    "question": "Ką simbolizavo Jėzaus kraujas, išliejamas už daugelį?",
+    "options": {
+      "a": "Sandoros kraują",
+      "b": "Gyvenimo praradimą",
+      "c": "Džiaugsmo ženklą",
+      "d": "Pranašystę"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_017",
+    "question": "Kur Jėzus ir mokiniai išėjo pagiedoję himną?",
+    "options": {
+      "a": "Į Alyvų kalną",
+      "b": "Atgal į miestą",
+      "c": "Į Sinagogą",
+      "d": "Į Petro namus"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_018",
+    "question": "Kur Jėzus pažadėjo nueiti pirmiau už mokinius po prisikėlimo?",
+    "options": {
+      "a": "Į Galilėją",
+      "b": "Į Jeruzalę",
+      "c": "Į Betaniją",
+      "d": "Į Judėją"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_019",
+    "question": "Kiek kartų, pasak Jėzaus, Petras jo išsigins?",
+    "options": {
+      "a": "Tris kartus",
+      "b": "Vieną kartą",
+      "c": "Du kartus",
+      "d": "Keturis kartus"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_020",
+    "question": "Kaip vadinosi ūkis, į kurį Jėzus ir mokiniai atėjo melstis?",
+    "options": {
+      "a": "Getsemanė",
+      "b": "Betliejus",
+      "c": "Nazaretas",
+      "d": "Kaparnaumas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_021",
+    "question": "Kokius tris mokinius Jėzus pasiėmė su savimi į Getsemanės sodą, kai pradėjo nuogąstauti ir sielotis?",
+    "options": {
+      "a": "Petrą, Jokūbą ir Joną",
+      "b": "Andrių, Filipą ir Baltramiejų",
+      "c": "Tomą, Matą ir Simoną",
+      "d": "Judą, Tadą ir Jokūbą (Alfejo sūnų)"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_022",
+    "question": "Ką Jėzus sakė mokiniams apie budėjimą ir maldą?",
+    "options": {
+      "a": "„Budėkite ir melskitės, kad nepatektumėt į pagundą, nes dvasia ryžtinga, bet kūnas silpnas“",
+      "b": "„Miegokite ir ilsėkitės, nes valanda dar neatėjo“",
+      "c": "„Nebijokite, nes aš esu su jumis“",
+      "d": "„Eikite ir skelbkite gerąją naujieną“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_023",
+    "question": "Koks buvo Judo nurodytas ženklas, kad kareiviai atpažintų Jėzų?",
+    "options": {
+      "a": "Pabučiavimas",
+      "b": "Rankos paspaudimas",
+      "c": "Slaptas žodis",
+      "d": "Parodymas pirštu"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_14_024",
+    "question": "Ką Jėzus atsakė vyriausiajam kunigui, kai šis paklausė: „Ar tu esi Mesijas, Šlovingojo Sūnus?“",
+    "options": {
+      "a": "„Taip, Aš Esu.“",
+      "b": "„Aš nežinau.“",
+      "c": "„Tu pats sakai.“",
+      "d": "„Palaukite ir pamatysite.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_14"
+  },
+  {
+    "id": "Mk_15_001",
+    "question": "Kas surakintą Jėzų nuvedė ir perdavė Pilotui?",
+    "options": {
+      "a": "Aukštieji kunigai su seniūnais ir Rašto aiškintojais bei visa teismo taryba.",
+      "b": "Tik aukštieji kunigai.",
+      "c": "Tik seniūnai ir Rašto aiškintojai.",
+      "d": "Romos kareiviai."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_002",
+    "question": "Ką Pilotas pirmiausia paklausė Jėzaus?",
+    "options": {
+      "a": "Ar tu esi žydų karalius?",
+      "b": "Kodėl tu nieko neatsakai?",
+      "c": "Ką gi pikta tu esi padaręs?",
+      "d": "Ar norite, kad jums paleisčiau Barabą?"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_003",
+    "question": "Kaip Jėzus reagavo į daugybę kaltinimų, kuriuos jam pateikė aukštieji kunigai?",
+    "options": {
+      "a": "Jis neigė visus kaltinimus.",
+      "b": "Jis prašė Piloto jį apginti.",
+      "c": "Jis daugiau nebeatsakinėjo.",
+      "d": "Jis stebėjosi Piloto klausimais."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_004",
+    "question": "Ką Pilotas visuomet darydavo per šventes?",
+    "options": {
+      "a": "Paleisdavo vieną kalinį, kurio žmonės prašydavo.",
+      "b": "Nukryžiuodavo du nusikaltėlius.",
+      "c": "Liepdavo nuplakti visus kalinius.",
+      "d": "Išklausydavo visų teismo tarybos narių nuomones."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_005",
+    "question": "Kuo buvo kaltinamas Barabas, kurį norėjo, kad paleistų?",
+    "options": {
+      "a": "Jis buvo Romos imperijos priešas.",
+      "b": "Jis buvo suimtas kartu su maištininkais, kurie sąmyšio metu buvo nužudę žmogų.",
+      "c": "Jis sugriovė šventyklą ir atstatė ją per tris dienas.",
+      "d": "Jis buvo žydų karalius."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_006",
+    "question": "Kodėl aukštieji kunigai įskundė Jėzų Pilotui?",
+    "options": {
+      "a": "Iš pavydo.",
+      "b": "Nes Jėzus buvo maištininkas.",
+      "c": "Nes Jėzus bandė nuversti Romos valdžią.",
+      "d": "Nes Jėzus šaukėsi Elijo."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_007",
+    "question": "Ką minia reikalavo Pilotui padaryti Jėzui?",
+    "options": {
+      "a": "Nuplakdink jį!",
+      "b": "Paleisk jį!",
+      "c": "Ant kryžiaus jį!",
+      "d": "Tegul jis išsigelbsti pats!"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_008",
+    "question": "Ką kareiviai uždėjo Jėzui ant galvos tyčiodamiesi iš jo?",
+    "options": {
+      "a": "Erškėčių vainiką.",
+      "b": "Purpurinį apsiaustą.",
+      "c": "Auksines karūnas.",
+      "d": "Nendrinę lazdą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_009",
+    "question": "Kas buvo priverstas panėšėti Jėzaus kryžių?",
+    "options": {
+      "a": "Juozapas iš Arimatėjos.",
+      "b": "Simonas Kirėnietis.",
+      "c": "Barabas.",
+      "d": "Vienas iš kareivių."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_010",
+    "question": "Kaip vadinosi vieta, į kurią Jėzus buvo nuvestas nukryžiuoti?",
+    "options": {
+      "a": "Golgota.",
+      "b": "Jeruzalė.",
+      "c": "Pretorijus.",
+      "d": "Galilėja."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_011",
+    "question": "Kurią valandą Jėzus buvo nukryžiuotas?",
+    "options": {
+      "a": "Šešta valanda.",
+      "b": "Devinta valanda.",
+      "c": "Trečia valanda.",
+      "d": "Anksti rytą."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_012",
+    "question": "Koks Jėzaus kaltinimas buvo užrašytas virš jo ant kryžiaus?",
+    "options": {
+      "a": "Maištininkų vadas.",
+      "b": "Žydų karalius.",
+      "c": "Šventyklos griovėjas.",
+      "d": "Dievo Sūnus."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_013",
+    "question": "Kas atsitiko nuo šeštos iki devintos valandos, Jėzui esant ant kryžiaus?",
+    "options": {
+      "a": "Prasidėjo stiprus žemės drebėjimas.",
+      "b": "Visą kraštą apgaubė tamsa.",
+      "c": "Kareiviai jį nuėmė nuo kryžiaus.",
+      "d": "Elijas atėjo jo nuimti."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_014",
+    "question": "Koks įvykis įvyko šventykloje, Jėzui atidavus dvasią?",
+    "options": {
+      "a": "Šventykla sugriuvo.",
+      "b": "Šventykloje užgeso visos šviesos.",
+      "c": "Šventyklos uždanga perplyšo į dvi dalis nuo viršaus iki apačios.",
+      "d": "Visi aukštieji kunigai išsigando ir pabėgo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_15_015",
+    "question": "Kas paprašė Piloto Jėzaus kūno ir jį palaidojo?",
+    "options": {
+      "a": "Simonas Kirėnietis.",
+      "b": "Marija Magdalietė.",
+      "c": "Šimtininkas.",
+      "d": "Juozapas iš Arimatėjos."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_15"
+  },
+  {
+    "id": "Mk_16_001",
+    "question": "Kurios moterys anksti rytą ėjo prie Jėzaus kapo pirmąją savaitės dieną?",
+    "options": {
+      "a": "Marija Magdalietė, Marija, Jokūbo motina, ir Salomė",
+      "b": "Marija Magdalietė, Morta ir Salomė",
+      "c": "Marija, Jokūbo motina, ir Marija, Kleopo žmona",
+      "d": "Marija Magdalietė ir Joana"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_002",
+    "question": "Kokia buvo didžiausia moterų baimė artėjant prie kapo, kurią jos išsakė tarpusavyje?",
+    "options": {
+      "a": "Kad kapas bus tuščias.",
+      "b": "Kas joms nuritins akmenį nuo kapo angos?",
+      "c": "Kad romėnų kareiviai saugos kapą.",
+      "d": "Kad jos bus persekiojamos už Jėzaus palaikų patepimą."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_003",
+    "question": "Ką moterys pamatė įėjusios į kapo rūsį ir ką joms pasakė?",
+    "options": {
+      "a": "Jaunuolį baltais drabužiais, kuris pranešė, kad Jėzus prisikėlė ir laukia Galilėjoje.",
+      "b": "Du angelus, kurie paaiškino pranašystes apie prisikėlimą.",
+      "c": "Patį Jėzų, kuris liepė joms eiti ir pranešti mokiniams.",
+      "d": "Romėnų sargybinį, kuris miegojo prie tuščio kapo."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_004",
+    "question": "Kam pirmiausia pasirodė prisikėlęs Jėzus pagal šį tekstą?",
+    "options": {
+      "a": "Petrui.",
+      "b": "Dviem mokiniams kelyje į kaimą.",
+      "c": "Marijai Magdalietei.",
+      "d": "Visiems Vienuolikai."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_005",
+    "question": "Kokiu priekaištu Jėzus kreipėsi į Vienuolika, kai jiems pasirodė sėdint už stalo?",
+    "options": {
+      "a": "Už tai, kad pabėgo per jo suėmimą.",
+      "b": "Už netikėjimą ir širdies kietumą, kad netikėjo tais, kurie buvo matę jį prisikėlusį.",
+      "c": "Už tai, kad neįvykdė jo nurodymų.",
+      "d": "Už tai, kad ginčijosi dėl didžiausios vietos karalystėje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_16_006",
+    "question": "Kokie ženklai, pagal Jėzaus žodžius, lydės tuos, kurie įtikės?",
+    "options": {
+      "a": "Jie statys šventoves ir mokys Rašto.",
+      "b": "Jie išvarinės demonus, kalbės naujomis kalbomis, ims plikomis rankomis gyvates ir neapsinuodys.",
+      "c": "Jie skirstys duoną ir dalins vyną miniai.",
+      "d": "Jie bus gerbiami visų tautų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_16"
+  },
+  {
+    "id": "Mk_2_001",
+    "question": "Kokia buvo pirminė kliūtis keturiems vyrams, bandantiems atnešti paralyžiuotąjį pas Jėzų Kafarnaume?",
+    "options": {
+      "a": "Per daug žmonių prisirinko, jog nė prie durų nebeliko vietos.",
+      "b": "Jėzus nebuvo namuose.",
+      "c": "Paralyžiuotasis buvo per sunkus nešti.",
+      "d": "Jie nerado namo, kuriame buvo Jėzus."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_002",
+    "question": "Kaip keturi vyrai sugebėjo atnešti paralyžiuotąjį pas Jėzų?",
+    "options": {
+      "a": "Jie paprašė minios pasitraukti.",
+      "b": "Jie laukė, kol Jėzus išėjo į lauką.",
+      "c": "Jie praplėšė namo stogą ir nuleido neštuvus.",
+      "d": "Jėzus pats atėjo prie jų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_003",
+    "question": "Ką Jėzus pasakė paralyžiuotajam išvydęs nešusiųjų tikėjimą?",
+    "options": {
+      "a": "„Kelkis ir eik namo!“",
+      "b": "„Sūnau, tau atleidžiamos nuodėmės!“",
+      "c": "„Tavo liga išgydyta!“",
+      "d": "„Eik ir nusiprausk upėje!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_004",
+    "question": "Kas savo širdyje svarstė ir priekaištavo Jėzui dėl nuodėmių atleidimo?",
+    "options": {
+      "a": "Mokiniai",
+      "b": "Minia",
+      "c": "Rašto aiškintojai",
+      "d": "Paralyžiuotasis"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_005",
+    "question": "Kokio asmens vardas, sėdinčio muitinėje, minimas tekste, kurį Jėzus pašaukė?",
+    "options": {
+      "a": "Dovydas",
+      "b": "Jonas",
+      "c": "Alfiejaus",
+      "d": "Levis"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_006",
+    "question": "Kodėl, pasak Jėzaus, jis valgė su muitininkais ir nusidėjėliais?",
+    "options": {
+      "a": "Nes jis mėgo jų draugiją.",
+      "b": "Nes jis norėjo valgyti nemokamai.",
+      "c": "„Ne sveikiesiems reikia gydytojo, bet ligoniams!“",
+      "d": "Jis buvo kviečiamas visų, tad negalėjo atsisakyti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_007",
+    "question": "Pagal Jėzaus palyginimą, kodėl jo mokiniai nepasninkavo, kai Jono mokiniai ir fariziejai pasninkavo?",
+    "options": {
+      "a": "Jie dar nebuvo pasirengę dvasiniam pasninkui.",
+      "b": "Jie buvo su jaunikiumi, o vestuvių svečiai pasninkauti negali, kol su jais yra jaunikis.",
+      "c": "Jėzus jiems neleido pasninkauti.",
+      "d": "Jie pasninkavo kitomis dienomis."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_008",
+    "question": "Kas atsitinka, jei naujas vynas pilamas į senus vynmaišius, pasak Jėzaus?",
+    "options": {
+      "a": "Vynas tampa dar geresnis.",
+      "b": "Vynas suplėšytų vynmaišius, ir nueitų niekais ir vynas, ir vynmaišiai.",
+      "c": "Niekas neatsitinka, vynas išlieka geras.",
+      "d": "Vynas greičiau surūgsta."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_2_009",
+    "question": "Kokį principą Jėzus pareiškė apie Šabą, atsakydamas fariziejams dėl varpų skabymo?",
+    "options": {
+      "a": "Žmogus padarytas Šabui.",
+      "b": "Šabas skirtas tik kunigams.",
+      "c": "Šabas padarytas žmogui, ne žmogus Šabui.",
+      "d": "Šabas yra Dievo įsakymas, kurio privalo laikytis visi, be išimties."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_2"
+  },
+  {
+    "id": "Mk_3_001",
+    "question": "Kodėl fariziejai stebėjo Jėzų sinagogoje, kai ten buvo žmogus su padžiūvusia ranka?",
+    "options": {
+      "a": "Kad galėtų apkaltinti jį, jei gydytų šabo dieną.",
+      "b": "Norėdami išmokti jo gydymo metodų.",
+      "c": "Tikėdamiesi, kad jis padės jiems spręsti ginčus.",
+      "d": "Kad paprašytų jo palaiminimo.",
+      "e": "Kad Jėzus atpažintų juos ir pagydytų"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_002",
+    "question": "Kaip Jėzus reagavo į fariziejų tylėjimą, kai paklausė, ar šabo dieną leistina gera daryti, ar bloga?",
+    "options": {
+      "a": "Rūsčiai juos apžvelgė ir nuliūdo dėl jų širdies kietumo.",
+      "b": "Nekreipė į tai dėmesio ir tęsė mokymą.",
+      "c": "Paprašė juos paaiškinti savo tylėjimą.",
+      "d": "Apdovanojo tuos, kurie pritarė jo nuomonei."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_003",
+    "question": "Kas nutiko po to, kai Jėzus liepė žmogui su padžiūvusia ranka ją ištiesti?",
+    "options": {
+      "a": "Žmogus atsisakė ir išėjo.",
+      "b": "Ranka atgijo.",
+      "c": "Fariziejai suėmė Jėzų.",
+      "d": "Žmogus davė Jėzui pinigų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_004",
+    "question": "Iš kokių vietovių atvyko daugybė žmonių prie ežero, išgirdę apie Jėzaus darbus?",
+    "options": {
+      "a": "Tik iš Galilėjos ir Judėjos.",
+      "b": "Iš Idumėjos, anapus Jordano, Tyro ir Sidono šalies, be kitų.",
+      "c": "Vien tik iš Jeruzalės ir aplinkinių kaimų.",
+      "d": "Tik iš Galilėjos."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_005",
+    "question": "Ko Jėzus liepė mokiniams laikyti paruoštą, kad minia jo nesuspaustų?",
+    "options": {
+      "a": "Palapinę.",
+      "b": "Valtį.",
+      "c": "Kėdę.",
+      "d": "Šaligatvį."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_006",
+    "question": "Koks buvo vienas iš tikslų, dėl kurių Jėzus paskyrė Dvylika?",
+    "options": {
+      "a": "Kad jie kauptų turtus ir statytų šventyklas.",
+      "b": "Kad jie būtų kartu su juo ir kad galėtų siųsti juos skelbti žodžio.",
+      "c": "Kad jie jam paruoštų maistą ir pastogę.",
+      "d": "Kad jie jam padėtų administruoti mokesčius."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_007",
+    "question": "Kokiu vardu Jėzus pavadino Zebediejaus sūnus Jokūbą ir Joną?",
+    "options": {
+      "a": "Petru ir Andriejumi.",
+      "b": "Boanergės (griaustinio vaikai).",
+      "c": "Baltramiejumi ir Matu.",
+      "d": "Tomu ir Tadu."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_008",
+    "question": "Kaip Jėzaus saviškiai reagavo, sugrįžus jam namo ir susirinkus tiek žmonių, kad negalėjo net pavalgyti?",
+    "options": {
+      "a": "Jie džiaugėsi jo populiarumu.",
+      "b": "Jie ėjo sulaikyti jo sakydami, kad jis kaip galvos netekęs.",
+      "c": "Jie atnešė jam maisto ir gėrimų.",
+      "d": "Jie prisijungė prie minios, kad jo klausytų."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_009",
+    "question": "Ką Jeruzalės Rašto aiškintojai sakė apie Jėzų?",
+    "options": {
+      "a": "Kad jis yra Dievo pranašas.",
+      "b": "„Jis turi Belzebulą“ ir „Demonų kunigaikščio galia jis išvaro demonus“.",
+      "c": "Kad jis moko teisingumo ir meilės.",
+      "d": "Kad jis turėtų būti jų vadovas."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_010",
+    "question": "Kokia nuodėmė, pasak Jėzaus, amžiais nebus dovanota?",
+    "options": {
+      "a": "Melas artimui.",
+      "b": "Vagystė iš šventyklos.",
+      "c": "Piktžodžiavimas Šventajai Dvasiai.",
+      "d": "Darbas šabo dieną."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_3_011",
+    "question": "Kas, pasak Jėzaus, yra jo motina ir broliai?",
+    "options": {
+      "a": "Tik tie, kurie yra jo kraujo giminaičiai.",
+      "b": "Tie, kurie jį aplanko lauke.",
+      "c": "Kas tik vykdo Dievo valią.",
+      "d": "Dvylika apaštalų."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_3"
+  },
+  {
+    "id": "Mk_4_001",
+    "question": "Kur Jėzus mokė minios prieš įlipdamas į valtį?",
+    "options": {
+      "a": "Paežerėje",
+      "b": "Miesto aikštėje",
+      "c": "Ant kalno",
+      "d": "Sinagogoje"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_002",
+    "question": "Kas nutiko grūdams, kurie nukrito į uolėtą dirvą ir neturėjo gilesnio žemės sluoksnio?",
+    "options": {
+      "a": "Davė trisdešimteriopą derlių",
+      "b": "Atskridę paukščiai juos sulesė",
+      "c": "Greit sudygo, bet saulei užtekėjus nuvyto ir sudžiūvo",
+      "d": "Išaugo ir nusmelkė erškėčiai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_003",
+    "question": "Kokį derlių davė grūdai, kurie nukrito į gerą žemę?",
+    "options": {
+      "a": "Visi davė šimteriopą derlių",
+      "b": "Davė derlių: vieni trisdešimteriopą, kiti šešiasdešimteriopą, treti šimteriopą",
+      "c": "Davė dešimteriopą derlių",
+      "d": "Nedavė jokio derliaus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_004",
+    "question": "Kodėl Jėzus pašaliniams kalbėjo palyginimais?",
+    "options": {
+      "a": "Kad jie geriau suprastų Dievo karalystės paslaptis",
+      "b": "Kad regėtų regėtų, bet nematytų, girdėtų girdėtų, bet nesuprastų",
+      "c": "Kad jiems būtų atleista ir jie atsiverstų",
+      "d": "Kad patikrintų jų tikėjimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_005",
+    "question": "Kas, pasak Jėzaus, simbolizuoja „sėjėją“ palyginime?",
+    "options": {
+      "a": "Dievas Tėvas",
+      "b": "Sėjantis žodį",
+      "c": "Jėzus Kristus",
+      "d": "Žmogus, kuris dalija išmintį"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_006",
+    "question": "Ką simbolizuoja tie, kurie yra „pasėti uolynėje“ palyginimo išaiškinime?",
+    "options": {
+      "a": "Žmonės, kuriems šėtonas išplėšia žodį",
+      "b": "Žmonės, kurie išgirsta žodį, priima su džiaugsmu, bet neturi šaknų ir atkrinta ištikus negandai",
+      "c": "Žmonės, kurių žodį nusmelkia pasaulio rūpesčiai ir turto apgaulė",
+      "d": "Žmonės, kurie išgirsta žodį ir duoda daug vaisių"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_007",
+    "question": "Ką Jėzus sakė apie tai, kas yra slapta ar paslėpta, palyginime su žibintu?",
+    "options": {
+      "a": "Nėra nieko slapta, kas neturėtų būti atidengta, ir nieko paslėpta, kas neišeitų aikštėn",
+      "b": "Slapti dalykai turi likti paslėpti nuo pašalinių",
+      "c": "Tik Dievas žino visas paslaptis",
+      "d": "Paslaptys bus atskleistos tik po pasaulio pabaigos"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_008",
+    "question": "Kokį principą Jėzus išdėstė kalbėdamas apie saiką?",
+    "options": {
+      "a": "Kiekvienam bus duota pagal jo poreikius",
+      "b": "Ką pasėsi, tą ir pjausi",
+      "c": "Kokiu saiku seikėjate, tokiu ir jums bus atseikėta ir dar pridėta",
+      "d": "Dievas mato visų širdis ir atlygina teisingai"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_009",
+    "question": "Kaip, pasak palyginimo apie savaiminį augimą, sėkla dygsta ir auga?",
+    "options": {
+      "a": "Žmogus turi ją nuolat prižiūrėti ir laistyti",
+      "b": "Žemė savaime duoda vaisių, žmogui visiškai nežinant kaip",
+      "c": "Dievo angelas ją augina per naktį",
+      "d": "Tik dieviška intervencija gali priversti sėklą augti"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_010",
+    "question": "Su kuo Jėzus palygino Dievo karalystę, paminėdamas mažiausią sėklą?",
+    "options": {
+      "a": "Su rugio grūdu",
+      "b": "Su kviečio grūdu",
+      "c": "Su garstyčios grūdeliu",
+      "d": "Su smėlio smiltimi"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_011",
+    "question": "Kaip Jėzus skelbė žodį žmonėms ir kaip jis išaiškindavo savo mokiniams?",
+    "options": {
+      "a": "Visada atvirai visiems, bet mokiniams duodavo daugiau detalių",
+      "b": "Žmonėms palyginimais, kiek jie sugebėjo suprasti, o mokiniams skyrium viską išaiškindavo",
+      "c": "Žmonėms tiesiai šviesiai, o mokiniams – tik palyginimais",
+      "d": "Tik mokiniams skelbė žodį, o minios tik stebėjo"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_012",
+    "question": "Ką Jėzus darė valties gale, kai kilo didžiulė vėtra?",
+    "options": {
+      "a": "Meldeisi už mokinius",
+      "b": "Miegojo ant pagalvės",
+      "c": "Bandė suvaldyti valtį",
+      "d": "Mokė mokinius apie tikėjimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_4_013",
+    "question": "Koks buvo mokinių atsakymas, kai Jėzus nuramino audrą?",
+    "options": {
+      "a": "Jie džiaugėsi, kad išsigelbėjo ir dėkojo Jam",
+      "b": "Jie nustebo ir klausė: „Kas gi jis toks? Net vėjas ir marios jo klauso!“",
+      "c": "Jie išsigando ir liepė Jėzui palikti valtį",
+      "d": "Jie paklausė, kodėl Jis tiek ilgai laukė"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_4"
+  },
+  {
+    "id": "Mk_5_001",
+    "question": "Kurio krašto ežero krantą priplaukė Jėzus ir Jo mokiniai?",
+    "options": {
+      "a": "Galilėjos",
+      "b": "Geraziečių",
+      "c": "Dekapolio",
+      "d": "Nazareto"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_002",
+    "question": "Kur gyveno netyrosios dvasios apsėstas vyras, prieš kurį atbėgo Jėzus?",
+    "options": {
+      "a": "Mieste",
+      "b": "Kaime",
+      "c": "Kapų rūsiuose",
+      "d": "Kalnuose"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_003",
+    "question": "Kaip netyrosios dvasios apsėstas vyras save žalodavo, bastydamasis po kapines ir kalnus?",
+    "options": {
+      "a": "Šakomis",
+      "b": "Kojomis",
+      "c": "Rankomis",
+      "d": "Akmenimis"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_004",
+    "question": "Kuo vardu buvo apsėdusios dvasios, kurios kalbėjo per žmogų?",
+    "options": {
+      "a": "Liuciferis",
+      "b": "Legionas",
+      "c": "Šėtonas",
+      "d": "Baltazaras"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_005",
+    "question": "Kiek maždaug kiaulių buvo kaimenėje, į kurias buvo pasiųstos netyrosios dvasios?",
+    "options": {
+      "a": "Apie šimtą",
+      "b": "Apie penkis šimtus",
+      "c": "Apie tūkstantį",
+      "d": "Apie du tūkstančius"
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_006",
+    "question": "Kas nutiko kiaulėms, kai į jas suėjo netyrosios dvasios?",
+    "options": {
+      "a": "Jos sugrįžo į tvartus",
+      "b": "Jos išsilakstė po kalnus",
+      "c": "Jos metėsi nuo skardžio į ežerą ir prigėrė",
+      "d": "Jos tapo ramios ir ganėsi toliau"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_007",
+    "question": "Kaip reagavo žmonės iš miesto ir kaimų, pamatę išgydytąjį ir sužinoję apie kiaules?",
+    "options": {
+      "a": "Jie džiaugėsi ir dėkojo Jėzui",
+      "b": "Jie prašė Jėzaus pasilikti su jais",
+      "c": "Juos apėmė baimė ir prašė Jėzų išeiti iš jų krašto",
+      "d": "Jie siūlė Jėzui dovanų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_008",
+    "question": "Ką Jėzus liepė daryti buvusiam apsėstajam po išgydymo?",
+    "options": {
+      "a": "Sekti paskui Jį",
+      "b": "Eiti namo pas saviškius ir papasakoti, ką Viešpats jam padarė",
+      "c": "Tapti Jo mokiniu",
+      "d": "Tylėti ir niekam nieko nesakyti"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_009",
+    "question": "Kuo vardu buvo sinagogos vyresnysis, kuris kreipėsi į Jėzų dėl savo dukrelės?",
+    "options": {
+      "a": "Zacharijas",
+      "b": "Nikodemas",
+      "c": "Jajiras",
+      "d": "Bartimiejus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_010",
+    "question": "Kokia liga sirgo moteris, kuri prisilietė prie Jėzaus apsiausto?",
+    "options": {
+      "a": "Karščiavimu",
+      "b": "Kraujoplūdžiu",
+      "c": "Raudomis",
+      "d": "Aklumu"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_011",
+    "question": "Kiek metų moteris, serganti kraujoplūdžiu, kentėjo nuo savo ligos?",
+    "options": {
+      "a": "Penkerius metus",
+      "b": "Aštuonerius metus",
+      "c": "Dvylika metų",
+      "d": "Penkiolika metų"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_012",
+    "question": "Ką Jėzus pasakė moteriai po to, kai ji prisipažino palietusi Jo apsiaustą?",
+    "options": {
+      "a": "„Tavo drąsa išgelbėjo tave.“",
+      "b": "„Tavo nuopelnai išgelbėjo tave.“",
+      "c": "„Tavo tikėjimas išgelbėjo tave.“",
+      "d": "„Tavo pinigai išgelbėjo tave.“"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_013",
+    "question": "Kuriuos mokinius Jėzus pasiėmė kartu su savimi į sinagogos vyresniojo namus?",
+    "options": {
+      "a": "Andrių, Filipą ir Baltramiejų",
+      "b": "Petrą, Jokūbą ir Joną",
+      "c": "Matą, Simoną ir Judą",
+      "d": "Tomą, Tadą ir Jokūbą Alfiejaus"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_5_014",
+    "question": "Ką Jėzus ištarė mergaitei aramėjiškai, ją prikeldamas?",
+    "options": {
+      "a": "„Effatá“",
+      "b": "„Talitá kum“",
+      "c": "„Kefas“",
+      "d": "„Abba“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_5"
+  },
+  {
+    "id": "Mk_6_001",
+    "question": "Kur Jėzus parkeliavo išvykęs iš ten, mokinių lydimas?",
+    "options": {
+      "a": "Į Kaparnaumą",
+      "b": "Į Jeruzalę",
+      "c": "Į savo tėviškę",
+      "d": "Į Betsaidą"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_002",
+    "question": "Koks Jėzaus amatas buvo minimas, kai jis mokė sinagogoje savo tėviškėje?",
+    "options": {
+      "a": "Žvejys",
+      "b": "Dailidė",
+      "c": "Ūkininkas",
+      "d": "Audėjas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_003",
+    "question": "Kuo Jėzus stebėjosi savo tėviškėje, kur negalėjo padaryti daug stebuklų?",
+    "options": {
+      "a": "Jų turtais",
+      "b": "Jų išsilavinimu",
+      "c": "Jų netikėjimu",
+      "d": "Jų svetingumu"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_004",
+    "question": "Kaip Jėzus pasišaukė Dvylika ir ėmė siuntinėti juos?",
+    "options": {
+      "a": "Po vieną",
+      "b": "Po du",
+      "c": "Po tris",
+      "d": "Po keturis"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_005",
+    "question": "Ko Jėzus draudė mokiniams imti į kelionę, išskyrus lazdą ir kurpes?",
+    "options": {
+      "a": "Šarvų",
+      "b": "Vyno",
+      "c": "Duonos, krepšio ir pinigų",
+      "d": "Papildomų drabužių"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_006",
+    "question": "Ką turėjo daryti mokiniai, jei kurioje vietovėje jų nepriimtų ir neklausytų?",
+    "options": {
+      "a": "Pamokyti juos griežtai",
+      "b": "Pasilikti ir bandyti dar kartą",
+      "c": "Nusikratyti dulkes nuo kojų kaip liudijimą prieš juos",
+      "d": "Ieškoti pagalbos iš valdžios"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_007",
+    "question": "Kokią nuomonę karalius Erodas turėjo apie Jėzų, išgirdęs apie jį?",
+    "options": {
+      "a": "Kad tai prisikėlęs Elijas",
+      "b": "Kad tai prisikėlęs Jonas Krikštytojas",
+      "c": "Kad tai naujas pranašas",
+      "d": "Kad tai sukčius"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_008",
+    "question": "Dėl ko Erodas buvo įsakęs suimti Joną Krikštytoją ir laikyti jį kalėjime?",
+    "options": {
+      "a": "Už maišto kurstymą",
+      "b": "Dėl savo brolio Pilypo žmonos Erodiados",
+      "c": "Už melagingų pranašysčių skelbimą",
+      "d": "Už mokesčių nemokėjimą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_009",
+    "question": "Kodėl Erodas iš pradžių nenorėjo nužudyti Jono Krikštytojo, nors Erodiada to troško?",
+    "options": {
+      "a": "Erodas bijojo Jono, žinodamas jį esant teisų ir šventą vyrą",
+      "b": "Erodas manė, kad Jonas gali būti jam naudingas",
+      "c": "Erodas laukė tinkamos progos viešam teismui",
+      "d": "Jonas buvo Erodo giminaitis"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_010",
+    "question": "Ko Erodiados duktė, šokusi Erodo gimtadienio pokylyje, paprašė iš karaliaus?",
+    "options": {
+      "a": "Pusės karalystės",
+      "b": "Turtingo vyro",
+      "c": "Jono Krikštytojo galvos dubenyje",
+      "d": "Aukso ir brangenybių"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_011",
+    "question": "Kas atsitiko Jono Krikštytojo kūnui po jo nužudymo?",
+    "options": {
+      "a": "Jis buvo paliktas kalėjime",
+      "b": "Mokiniai atėjo, pasiėmė jo kūną ir palaidojo kape",
+      "c": "Jis buvo įmestas į upę",
+      "d": "Jis buvo sudegintas"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_012",
+    "question": "Kiek kepaliukų duonos ir žuvies turėjo mokiniai, kai Jėzus ruošėsi pamaitinti minią?",
+    "options": {
+      "a": "Du kepaliukus ir penkias žuvis",
+      "b": "Penkis kepaliukus ir dvi žuvis",
+      "c": "Septynis kepaliukus ir tris žuvis",
+      "d": "Dešimt kepaliukų ir vieną žuvį"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_013",
+    "question": "Kaip Jėzus įsakė susodinti žmones ant žalios vejos prieš duonos padauginimą?",
+    "options": {
+      "a": "Atsitiktinai, bet tvarkingai",
+      "b": "Būrys prie būrio, po šimtą ir po penkiasdešimt žmonių",
+      "c": "Atskirai vyrus ir moteris",
+      "d": "Po dešimt žmonių kiekviename rate"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_014",
+    "question": "Kiek pilnų pintinių duonos kąsnelių ir žuvies likučių buvo surinkta po to, kai visi pavalgė iki soties?",
+    "options": {
+      "a": "Septynios",
+      "b": "Dešimt",
+      "c": "Dvylika",
+      "d": "Penkiolika"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_015",
+    "question": "Kiek vyrų pavalgė duonos padauginimo metu, neskaičiuojant moterų ir vaikų?",
+    "options": {
+      "a": "Apie tris tūkstančius",
+      "b": "Apie penkis tūkstančius",
+      "c": "Apie septynis tūkstančius",
+      "d": "Apie dešimt tūkstančių"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_016",
+    "question": "Kur Jėzus užkopė melstis po to, kai atleido minią po duonos padauginimo?",
+    "options": {
+      "a": "Į namus",
+      "b": "Į kalną",
+      "c": "Į sinagogą",
+      "d": "Į dykumą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_017",
+    "question": "Kaip mokiniai sureagavo pamatę Jėzų einantį ežero paviršiumi?",
+    "options": {
+      "a": "Jie tuojau jį atpažino ir džiaugėsi",
+      "b": "Jie pamanė, jog tai šmėkla, ir ėmė šaukti",
+      "c": "Jie bandė patys išlipti ant vandens",
+      "d": "Jie liko ramūs ir kantriai laukė"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_6_018",
+    "question": "Ką žmonės Genezareto krašte maldaudavo Jėzaus, kad išgytų?",
+    "options": {
+      "a": "Kad jis kalbėtų jiems žodį",
+      "b": "Kad jis paliestų juos rankomis",
+      "c": "Kad leistų jiems paliesti bent savo drabužio apvadą",
+      "d": "Kad ateitų į jų namus"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_6"
+  },
+  {
+    "id": "Mk_7_001",
+    "question": "Kas susirinko pas Jėzų ir pradėjo ginčą dėl papročių?",
+    "options": {
+      "a": "Fariziejai ir Rašto aiškintojai iš Jeruzalės",
+      "b": "Erodas ir jo dvariškiai",
+      "c": "Romos valdininkai ir kariai",
+      "d": "Samariečiai ir žydai"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_002",
+    "question": "Koks Jėzaus mokinių veiksmas papiktino fariziejus?",
+    "options": {
+      "a": "Jie valgė suterštomis (nemazgotomis) rankomis.",
+      "b": "Jie nebuvo pasninkavę, kaip reikalavo įstatymas.",
+      "c": "Jie atsisakė mokėti dešimtinę šventyklai.",
+      "d": "Jie bendravo su muitininkais ir nusidėjėliais."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_003",
+    "question": "Ką Jėzus citavo iš pranašo Izaijo, priekaištaudamas fariziejams?",
+    "options": {
+      "a": "Apie tautą, kuri šlovina Dievą lūpomis, bet jos širdis toli nuo jo.",
+      "b": "Apie būsimą Mesijo atėjimą ir jo karalystę.",
+      "c": "Apie atleidimą nusidėjėliams ir ligonių išgydymą.",
+      "d": "Apie Dievo įsakymų laikymosi svarbą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_004",
+    "question": "Kokį Mozės įsakymą fariziejai apeidavo per tradiciją, vadinamą „Korban“?",
+    "options": {
+      "a": "Gerbti savo tėvą ir motiną.",
+      "b": "Nežudyti.",
+      "c": "Nevogti.",
+      "d": "Laikytis Sabato dienos."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_005",
+    "question": "Ką reiškia žodis „Korban“?",
+    "options": {
+      "a": "Auka Dievui.",
+      "b": "Šventas Raštas.",
+      "c": "Aukojimo altorius.",
+      "d": "Malda."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_006",
+    "question": "Kas, pasak Jėzaus, sutepa žmogų?",
+    "options": {
+      "a": "Tai, kas išeina iš žmogaus.",
+      "b": "Tai, kas patenka į žmogų iš lauko.",
+      "c": "Nešvarus maistas.",
+      "d": "Fizinis kontaktas su nešvariu daiktu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_007",
+    "question": "Kas, pagal Jėzų, yra tikrasis žmogaus susitepimo šaltinis, kylantis iš širdies?",
+    "options": {
+      "a": "Pikti sumanymai ir blogi darbai.",
+      "b": "Neplauti indai ir maisto likučiai.",
+      "c": "Nešvarūs drabužiai.",
+      "d": "Bendravimas su tam tikrais žmonėmis."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_008",
+    "question": "Į kokias sritis nukeliavo Jėzus, kur susidūrė su sirofenikiete moterimi?",
+    "options": {
+      "a": "Tyro sritis.",
+      "b": "Sidono sritis.",
+      "c": "Galilėjos sritis.",
+      "d": "Dekapolio kraštą."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_009",
+    "question": "Kokia buvo moters, prašiusios išgydyti dukrą, kilmė?",
+    "options": {
+      "a": "Sirofenikietė graikė.",
+      "b": "Romėnė.",
+      "c": "Samarėnė.",
+      "d": "Jeruzalės žydė."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_010",
+    "question": "Kaip sirofenikietė moteris atsakė Jėzui, kai jis palygino ją su „šunyčiais“?",
+    "options": {
+      "a": "Sutiko, kad ir šunyčiai po stalu ėda vaikų trupinius.",
+      "b": "Paprašė Jėzų atleisti už įžūlumą.",
+      "c": "Atsisakė toliau maldauti ir išėjo.",
+      "d": "Pasipiktino Jėzaus žodžiais."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_011",
+    "question": "Koks žmogus buvo atvestas Jėzui į Dekapolio kraštą?",
+    "options": {
+      "a": "Kurčias nebylis.",
+      "b": "Aklas elgeta.",
+      "c": "Paralyžiuotas vyras.",
+      "d": "Apsėstas žmogus."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_7_012",
+    "question": "Kokį žodį Jėzus ištarė gydydamas kurčią nebylį, kuris reiškia „Atsiverk!“?",
+    "options": {
+      "a": "Efatá!",
+      "b": "Šalom!",
+      "c": "Amen!",
+      "d": "Hosana!"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_7"
+  },
+  {
+    "id": "Mk_8_001",
+    "question": "Kiek dienų minia pasiliko su Jėzumi, kol Jis pasigailėjo jų ir nusprendė pamaitinti?",
+    "options": {
+      "a": "Vieną dieną",
+      "b": "Dvi dienas",
+      "c": "Tris dienas",
+      "d": "Keturias dienas"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_002",
+    "question": "Kiek duonos kepalėlių mokiniai turėjo, kai Jėzus paklausė per antrąjį duonos padauginimą?",
+    "options": {
+      "a": "Penkis",
+      "b": "Septynis",
+      "c": "Dvylika",
+      "d": "Du"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_003",
+    "question": "Kiek žmonių buvo pamaitinta per antrąjį duonos padauginimą?",
+    "options": {
+      "a": "Apie penkis tūkstančius",
+      "b": "Apie keturis tūkstančius",
+      "c": "Apie septynis tūkstančius",
+      "d": "Apie tris tūkstančius"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_004",
+    "question": "Kiek pilnų krepšių likučių buvo surinkta po antrojo duonos padauginimo?",
+    "options": {
+      "a": "Penkis",
+      "b": "Septynis",
+      "c": "Dvylika",
+      "d": "Tris"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_005",
+    "question": "Kur Jėzus su mokiniais nuplaukė po antrojo duonos padauginimo?",
+    "options": {
+      "a": "Į Kapernaumą",
+      "b": "Į Dalmanutos sritį",
+      "c": "Į Betsaidą",
+      "d": "Į Jeruzalę"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_006",
+    "question": "Ko fariziejai reikalavo iš Jėzaus ginčydamiesi su juo?",
+    "options": {
+      "a": "Dar vieno pamokymo",
+      "b": "Ženklo iš dangaus",
+      "c": "Kad išgydytų jų ligonius",
+      "d": "Kad paaiškintų savo mokymą"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_007",
+    "question": "Kiek duonos kepalėlių mokiniai turėjo su savimi valtyje, kai Jėzus juos įspėjo apie fariziejų ir Erodo raugą?",
+    "options": {
+      "a": "Vieną",
+      "b": "Septynis",
+      "c": "Dvylika",
+      "d": "Penkis"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_008",
+    "question": "Ko Jėzus įspėjo mokinius saugotis?",
+    "options": {
+      "a": "Audros ir vėjo",
+      "b": "Romos kareivių",
+      "c": "Fariziejų raugo ir Erodo raugo",
+      "d": "Alkio ir troškulio"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_009",
+    "question": "Kur Jėzus išgydė neregį?",
+    "options": {
+      "a": "Dalmanutoje",
+      "b": "Pilypo Cezarėjoje",
+      "c": "Betsoidoje",
+      "d": "Kapernaume"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_010",
+    "question": "Ką Petras išpažino Jėzų esant, kai Jėzus paklausė mokinių, kuo jie jį laiko?",
+    "options": {
+      "a": "Didžiu pranašu",
+      "b": "Mesiju",
+      "c": "Geru mokytoju",
+      "d": "Jono Krikštytojo sūnumi"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_011",
+    "question": "Ką Petras padarė, kai Jėzus ėmė atvirai kalbėti apie savo kančią ir prisikėlimą?",
+    "options": {
+      "a": "Jį pagyrė",
+      "b": "Jį paliko",
+      "c": "Jį sudraudė",
+      "d": "Jį palaikė"
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_8_012",
+    "question": "Ką turi daryti tas, kuris nori eiti paskui Jėzų?",
+    "options": {
+      "a": "Parduoti visą savo turtą",
+      "b": "Atsižadėti pats savęs, imti savo kryžių ir sekti Jėzumi",
+      "c": "Atlikti stebuklus",
+      "d": "Tapti kunigu"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_8"
+  },
+  {
+    "id": "Mk_9_001",
+    "question": "Kas iš mokinių buvo su Jėzumi, kai jis atsimainė ant aukšto kalno?",
+    "options": {
+      "a": "Petras, Jokūbas ir Jonas",
+      "b": "Petras, Andrius ir Jokūbas",
+      "c": "Andrius, Filipas ir Baltramiejus",
+      "d": "Matas, Tomas ir Simonas"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_002",
+    "question": "Ką Petras siūlė pastatyti po to, kai jam pasirodė Elijas ir Mozė?",
+    "options": {
+      "a": "Tris palapines",
+      "b": "Vieną aukurą",
+      "c": "Dvi šventyklas",
+      "d": "Auką Dievui"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_003",
+    "question": "Koks balsas nuskambėjo iš debesies Jėzaus atsimainymo metu?",
+    "options": {
+      "a": "„Šitas mano mylimasis Sūnus. Klausykite jo!“",
+      "b": "„Pas jus yra Mesijas. Tikėkite juo!“",
+      "c": "„Štai karalystė ateina. Pasiruoškite!“",
+      "d": "„Aš esu, kas esu. Sekite manimi!“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_004",
+    "question": "Ką Jėzus liepė mokiniams nepasakoti niekam, kol Žmogaus Sūnus prisikels iš numirusių?",
+    "options": {
+      "a": "Ką jie buvo matę",
+      "b": "Apie Elijo ir Mozės pasirodymą",
+      "c": "Apie Petro pasiūlymą",
+      "d": "Apie Dievo karalystės atėjimą"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_005",
+    "question": "Kaip Jėzus atsakė į klausimą apie Elijo atėjimą ir Žmogaus Sūnaus kančią?",
+    "options": {
+      "a": "Elijas ateis ir viską atitaisys, bet Žmogaus Sūnus daug iškentės ir bus paniekintas.",
+      "b": "Elijas jau buvo atėjęs, o Žmogaus Sūnus tuoj pat karaliaus.",
+      "c": "Elijas ateis po Žmogaus Sūnaus prisikėlimo, kad jį paskelbtų.",
+      "d": "Elijo atėjimas neturi nieko bendra su Žmogaus Sūnaus likimu."
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_006",
+    "question": "Kas ginčijosi su mokiniais, kai Jėzus sugrįžo su Petru, Jokūbu ir Jonu nuo kalno?",
+    "options": {
+      "a": "Romos kariai",
+      "b": "Rašto aiškintojai",
+      "c": "Erodas su savo sargybiniais",
+      "d": "Vietiniai prekybininkai"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_007",
+    "question": "Kuo pasireiškė berniuko, kurį tėvas atvedė pas Jėzų, apsėdimas?",
+    "options": {
+      "a": "Jis kliedėdavo ir matydavo vizijas.",
+      "b": "Jis tapdavo kurčias ir aklas.",
+      "c": "Jis būdavo tąsomas, jam eidavo putos iš burnos ir jis grieždavo dantimis.",
+      "d": "Jis negalėdavo kalbėti ir judėti."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_008",
+    "question": "Ką sušuko vaiko tėvas, išgirdęs Jėzaus žodžius „Tikinčiam viskas galima“?",
+    "options": {
+      "a": "„Aš tikiu tavimi, Mokytojau!“",
+      "b": "„Tikiu! Padėk mano netikėjimui!“",
+      "c": "„Parodyk man stebuklą ir aš įtikėsiu!“",
+      "d": "„Esu vertas tavo pagalbos!“"
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_009",
+    "question": "Kodėl mokiniai negalėjo išvaryti dvasios iš berniuko?",
+    "options": {
+      "a": "Jie neturėjo pakankamai tikėjimo.",
+      "b": "Ši veislė išvaroma tik malda.",
+      "c": "Jėzus dar nebuvo prisikėlęs.",
+      "d": "Jie nebuvo gavę Jėzaus leidimo."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_010",
+    "question": "Ką Jėzus pranašavo nutiksiant Žmogaus Sūnui po trijų dienų, kai jis bus nužudytas?",
+    "options": {
+      "a": "Jis vėl pasirodys mokiniams.",
+      "b": "Jis prisikels.",
+      "c": "Jis bus paimtas į dangų.",
+      "d": "Jis įkurs Dievo karalystę žemėje."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_011",
+    "question": "Apie ką mokiniai ginčijosi kelyje į Kafarnaumą?",
+    "options": {
+      "a": "Apie Elijo pranašystę.",
+      "b": "Apie tai, kodėl jiems nepavyko išvaryti dvasios.",
+      "c": "Kuris iš jų didžiausias.",
+      "d": "Apie Jėzaus kančios pranašystę."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_012",
+    "question": "Ką Jėzus paėmė ir pastatė tarp mokinių, mokydamas apie tai, kas didžiausias?",
+    "options": {
+      "a": "Duonos kepalą.",
+      "b": "Mažą avinėlį.",
+      "c": "Monetą.",
+      "d": "Mažą vaiką."
+    },
+    "correct": "d",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_013",
+    "question": "Koks buvo Jėzaus atsakymas mokiniams, kai jie bandė sutrukdyti žmogui, kuris nebuvo su jais, bet Jo vardu išvarinėjo demonus?",
+    "options": {
+      "a": "„Nedrauskite jam! Kas ne prieš mus, tas už mus!“",
+      "b": "„Tegul jis ateina ir prisijungia prie mūsų.“",
+      "c": "„Jis negali daryti tokių dalykų be mano leidimo.“",
+      "d": "„Aš susidorosiu su juo pats.“"
+    },
+    "correct": "a",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_014",
+    "question": "Kas būtų daug geriau tam, kuris papiktintų vieną iš tikinčių mažutėlių?",
+    "options": {
+      "a": "Kad jis būtų nubaustas viešai sinagogoje.",
+      "b": "Kad jam užkabintų asilo sukamų girnų akmenį ir įmestų į jūrą.",
+      "c": "Kad jis atiduotų visą savo turtą vargšams.",
+      "d": "Kad jis būtų išvarytas iš Dievo karalystės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_015",
+    "question": "Ką Jėzus patarė daryti su ranka, koja ar akimi, jei jos gundo nusidėti?",
+    "options": {
+      "a": "Paslėpti jas nuo Dievo.",
+      "b": "Sutramdyti jas malda.",
+      "c": "Nusikirpti arba išsilupti.",
+      "d": "Prašyti Dievo atleidimo."
+    },
+    "correct": "c",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  },
+  {
+    "id": "Mk_9_016",
+    "question": "Kokį paskutinį patarimą Jėzus davė mokiniams, kalbėdamas apie druską?",
+    "options": {
+      "a": "Turėkite savyje druskos ir visada būkite dosnūs.",
+      "b": "Turėkite savyje druskos ir taikiai sugyvenkite tarp savęs.",
+      "c": "Išsaugokite druskos skonį ir būkite šviesa pasauliui.",
+      "d": "Druska yra geras daiktas, todėl visada ja dalinkitės."
+    },
+    "correct": "b",
+    "model": "gemini/gemini-2.5-flash",
+    "chapter": "Mk_9"
+  }
+]
